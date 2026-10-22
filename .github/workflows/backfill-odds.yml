@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       seasons:
-        description: "Season(s), e.g. 2025 or 2018-2026 (season = year it ends)"
+        description: "Comma-separated season groups, e.g. 2013-2015,2016-2018 (season = year it ends)"
         required: true
       sample:
         description: "Games per season to probe (0 = all)"
@@ -16,14 +16,29 @@ on:
 permissions:
   contents: write
 
+# Own concurrency group so long backfills never block or cancel the daily snapshots.
 concurrency:
-  group: data-commits
+  group: backfill-${{ github.run_id }}
   cancel-in-progress: false
 
 jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      groups: ${{ steps.split.outputs.groups }}
+    steps:
+      - id: split
+        run: echo "groups=$(echo '${{ github.event.inputs.seasons }}' | jq -R -c 'split(",")')" >> "$GITHUB_OUTPUT"
+
   backfill:
+    needs: plan
     runs-on: ubuntu-latest
     timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix:
+        seasons: ${{ fromJson(needs.plan.outputs.groups) }}
     steps:
       - uses: actions/checkout@v4
 
@@ -35,7 +50,7 @@ jobs:
       - run: pip install -e .
 
       - name: Backfill
-        run: python -m cbb.fetch.espn_odds_history "${{ github.event.inputs.seasons }}" --sample "${{ github.event.inputs.sample }}"
+        run: python -m cbb.fetch.espn_odds_history "${{ matrix.seasons }}" --sample "${{ github.event.inputs.sample }}" --summary "summary_${{ matrix.seasons }}.txt"
 
       - name: Commit
         if: always()
@@ -44,9 +59,9 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add data/external/espn_odds
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
-          git commit -m "ESPN odds backfill ${{ github.event.inputs.seasons }}"
-          for i in 1 2 3; do
+          git commit -m "ESPN odds backfill ${{ matrix.seasons }}"
+          for i in 1 2 3 4 5 6; do
             git pull --rebase origin main && git push && exit 0
-            sleep 5
+            sleep $((RANDOM % 20 + 5))
           done
           exit 1

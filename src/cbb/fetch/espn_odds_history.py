@@ -109,6 +109,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("seasons")
     ap.add_argument("--sample", type=int, default=0, help="games per season (0 = all)")
     ap.add_argument("--pause", type=float, default=0.3, help="seconds between requests")
+    ap.add_argument("--summary", default="last_run_summary.txt", help="summary file name")
     args = ap.parse_args(argv)
     summary = []
     ensure(OUT)
@@ -120,7 +121,7 @@ def main(argv: list[str] | None = None) -> int:
             line = f"{season}: FAILED\n" + traceback.format_exc()
         print(line, flush=True)
         summary.append(line)
-        (OUT / "last_run_summary.txt").write_text("\n".join(summary) + "\n")
+        (OUT / args.summary).write_text("\n".join(summary) + "\n")
     return 0
 
 
