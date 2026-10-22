@@ -1,0 +1,59 @@
+name: Daily odds snapshot
+
+# Records ESPN's schedule and odds for today and the next two days, several
+# times a day, and commits the results to data/live/. Times are UTC; the
+# comments give US Eastern (standard time, from Nov 1).
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 10:00 ET  morning numbers
+    - cron: "0 20 * * *"   # 15:00 ET  afternoon
+    - cron: "30 23 * * *"  # 18:30 ET  just before the evening tips
+    - cron: "30 2 * * *"   # 21:30 ET  late tips; earlier games final
+    - cron: "0 7 * * *"    # 02:00 ET  West Coast games final
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Single date to snapshot (YYYYMMDD); blank = today + 2 days"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commits
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -e .
+
+      - name: Snapshot ESPN odds
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            python -m cbb.fetch.espn_live --date "${{ github.event.inputs.date }}"
+          else
+            python -m cbb.fetch.espn_live
+          fi
+
+      - name: Commit
+        run: |
+          git config user.name "cbb-model bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/live
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Odds snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1

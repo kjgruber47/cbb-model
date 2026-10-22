@@ -1,0 +1,62 @@
+name: Fetch reference data
+
+# One-off (manual) download of historical lines and Torvik benchmark files into
+# data/external/. Re-run with "refresh" to update the current season.
+on:
+  workflow_dispatch:
+    inputs:
+      which:
+        description: "tracker, torvik or both"
+        default: "both"
+        required: true
+      refresh:
+        description: "Re-download files already present (true/false)"
+        default: "false"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commits
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -e .
+
+      - name: ThePredictionTracker season files
+        if: github.event.inputs.which != 'torvik'
+        run: |
+          FLAG=""; [ "${{ github.event.inputs.refresh }}" = "true" ] && FLAG="--refresh"
+          python -m cbb.fetch.prediction_tracker $FLAG
+
+      - name: Torvik season files
+        if: github.event.inputs.which != 'tracker'
+        continue-on-error: true
+        run: |
+          FLAG=""; [ "${{ github.event.inputs.refresh }}" = "true" ] && FLAG="--refresh"
+          python -m cbb.fetch.torvik $FLAG
+
+      - name: Commit
+        run: |
+          git config user.name "cbb-model bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/external
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Reference data refresh $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
