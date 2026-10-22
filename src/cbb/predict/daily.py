@@ -48,6 +48,25 @@ def load_params() -> Params:
     return Params()
 
 
+def with_roster_prior(base: Prior, season: int) -> Prior:
+    """Use the roster-based preseason ratings if they were built for this season."""
+    from cbb.paths import EXTERNAL
+    path = EXTERNAL / "preseason" / f"prior_{season}.csv"
+    if not path.exists():
+        print(f"no roster prior at {path}; using last season's ratings")
+        return base
+    r = pd.read_csv(path)
+    r = r[r.roster_size >= 5]  # skip teams whose roster did not come through
+    # Keep the base prior's overall offense/defense levels (they set scoring, not margins).
+    o_shift = np.mean([base.O.get(t, 0.0) for t in r.team_id]) - r["off"].mean()
+    d_shift = np.mean([base.D.get(t, 0.0) for t in r.team_id]) - r["def"].mean()
+    O, D = dict(base.O), dict(base.D)
+    O.update(zip(r.team_id, r["off"] + o_shift))
+    D.update(zip(r.team_id, r["def"] + d_shift))
+    print(f"roster prior: {len(r)} teams from {path.name}")
+    return Prior(O=O, D=D, T=base.T, mu=base.mu, tmu=base.tmu, hca=base.hca)
+
+
 def ensure_espn(season: int) -> None:
     for s, refresh in ((season - 1, False), (season, True)):
         for table in ("schedule", "team_box"):
@@ -159,6 +178,7 @@ def run(today: dt.date, days: int = 3) -> pd.DataFrame:
     prev_teams = np.array(sorted(set(prev.home_id) | set(prev.away_id)))
     p_final = replace(p, lam_eff=p.lam_final, lam_tempo=p.lam_final, recency_floor=1.0)
     prior = Prior.from_ratings(fit(prev, prev_teams, Prior.flat(hca=p.hca_prior), p_final), p)
+    prior = with_roster_prior(prior, season)
 
     d1 = d1_teams(season, set(prev_teams))
     teams = np.array(sorted(d1))

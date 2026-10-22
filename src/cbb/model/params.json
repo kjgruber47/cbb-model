@@ -1,0 +1,13 @@
+{
+  "lam_eff": 6.0,
+  "lam_tempo": 6.0,
+  "lam_final": 1.0,
+  "lam_mu": 200.0,
+  "lam_hca": 10000000.0,
+  "hca_prior": 2.4,
+  "recency_full": 40.0,
+  "recency_floor": 0.8,
+  "regress": 0.75,
+  "new_team_net": -8.0,
+  "blowout_cap": null
+}

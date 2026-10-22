@@ -61,8 +61,14 @@ def team_seasons(games: pd.DataFrame, p: Params) -> pd.DataFrame:
     return pd.concat(rows, ignore_index=True)
 
 
-def features(players: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
-    """One row per (season, team) for every D-I team-season with a prior season."""
+def features(players: pd.DataFrame, teams: pd.DataFrame,
+             live_rosters: pd.DataFrame | None = None, live_teams=None) -> pd.DataFrame:
+    """One row per (season, team) for every D-I team-season with a prior season.
+
+    Historical seasons take roster membership from that season's box scores.
+    For a season not yet played, pass `live_rosters` (season, team_id, athlete_id)
+    and `live_teams` (the team ids to rate).
+    """
     pl = players.copy()
     league = pl.groupby("season").apply(
         lambda x: np.average(game_score_40(x), weights=x["min"]), include_groups=False)
@@ -70,20 +76,25 @@ def features(players: pd.DataFrame, teams: pd.DataFrame) -> pd.DataFrame:
     pl["contrib"] = pl.min_share * pl.val
 
     t_net = teams.set_index(["season", "team_id"]).net
+    seasons = sorted(teams.season.unique())
+    if live_rosters is not None:
+        seasons = sorted(set(live_rosters.season))
     out = []
-    for season in sorted(teams.season.unique()):
-        if season - 1 not in set(pl.season) or season not in set(pl.season):
-            continue
-        cur = pl[pl.season == season]
+    for season in seasons:
+        if live_rosters is not None:
+            roster = live_rosters[live_rosters.season == season].groupby("team_id").athlete_id.apply(set)
+            team_ids = list(live_teams)
+        else:
+            if season - 1 not in set(pl.season) or season not in set(pl.season):
+                continue
+            roster = pl[pl.season == season].groupby("team_id").athlete_id.apply(set)
+            team_ids = teams[teams.season == season].team_id
         prev = pl[pl.season == season - 1]
-        roster = cur.groupby("team_id").athlete_id.apply(set)
         prev_by_team = prev.groupby("team_id")
         # Where each returning/arriving player was last season (largest-minutes team).
         prev_main = prev.sort_values("min").drop_duplicates("athlete_id", keep="last").set_index("athlete_id")
-
-        tm = teams[teams.season == season]
         prev_t = teams[teams.season == season - 1].set_index("team_id")
-        for t in tm.team_id:
+        for t in team_ids:
             ath = roster.get(t, set())
             row = {"season": season, "team_id": t}
             if t in prev_t.index:
@@ -139,13 +150,52 @@ def build_inputs(p: Params) -> tuple[pd.DataFrame, pd.DataFrame]:
     return data, teams
 
 
+def build_live_prior(season: int, p: Params) -> pd.DataFrame:
+    """Preseason off/def for a season not yet played, from fetched ESPN rosters.
+
+    Coefficients are fit on every completed season before `season`. Writes
+    data/external/preseason/prior_{season}.csv (committed; the daily job reads it).
+    """
+    from cbb.paths import EXTERNAL
+    teams_path = PROCESSED / "team_seasons.csv.gz"
+    feats_path = PROCESSED / "preseason_features.csv.gz"
+    if not (teams_path.exists() and feats_path.exists()):
+        data, teams = build_inputs(p)
+        data.to_csv(feats_path, index=False)
+        teams.to_csv(teams_path, index=False)
+    teams = pd.read_csv(teams_path)
+    data = pd.read_csv(feats_path)
+    players = pd.read_csv(PROCESSED / "player_seasons.csv.gz")
+    rosters = pd.read_csv(EXTERNAL / "rosters" / f"rosters_{season}.csv")
+    rosters = rosters.dropna(subset=["athlete_id"]).astype({"athlete_id": int})
+    d1 = pd.read_csv(EXTERNAL / "d1_teams.csv")
+
+    coefs = fit_coefs(data[data.season < season])
+    f = features(players, teams, live_rosters=rosters, live_teams=d1.team_id)
+    pred = predict_prior(f, coefs).merge(d1, on="team_id", how="left")
+    pred["net"] = pred["off"] + pred["def"]
+    pred["net_vs_avg"] = pred["net"] - pred["net"].mean()  # points per 100 poss vs average D-I team
+    pred = pred.merge(f[["team_id", "ret_min", "tin_min", "new_d1"]], on="team_id")
+    pred["roster_size"] = pred.team_id.map(rosters.groupby("team_id").size()).fillna(0).astype(int)
+    out_dir = EXTERNAL / "preseason"
+    ensure(out_dir)
+    pred = pred.sort_values("net", ascending=False)
+    pred.to_csv(out_dir / f"prior_{season}.csv", index=False, float_format="%.3f")
+    return pred
+
+
 def main(argv: list[str] | None = None) -> int:
     from cbb.evaluate.backtest import parse_seasons
     from cbb.predict.daily import load_params
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--train", default="2011-2019")
+    ap.add_argument("--live", type=int, help="build the preseason prior for this upcoming season")
     args = ap.parse_args(argv)
     p = load_params()
+    if args.live:
+        pred = build_live_prior(args.live, p)
+        print(pred.head(25)[["team", "net_vs_avg", "ret_min", "tin_min", "roster_size"]].round(2).to_string())
+        return 0
     data, teams = build_inputs(p)
     ensure(PROCESSED)
     data.to_csv(PROCESSED / "preseason_features.csv.gz", index=False)

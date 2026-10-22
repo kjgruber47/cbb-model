@@ -54,7 +54,7 @@ class Ratings:
         return pd.DataFrame({
             "team_id": self.teams, "off": self.O, "def": self.D, "net": self.O + self.D,
             "tempo": self.tmu + self.T,  # possessions per 40 vs an average opponent
-            "games": self.games,
+            "games": self.games.astype(int),
         })
 
     def lookup(self) -> dict:
