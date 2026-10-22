@@ -1,0 +1,16 @@
+# Large or rebuildable data stays out of git
+data/raw/
+data/processed/
+data/backtests/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
