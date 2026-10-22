@@ -62,17 +62,20 @@ def backfill(season: int, sample: int, pause: float) -> str:
         s = s.sample(min(sample, len(s)), random_state=season)
     todo = [r for r in s.itertuples() if str(r.game_id) not in seen]
 
-    rows, empty = [], []
+    rows, empty, errors = [], [], []
     for i, r in enumerate(todo, 1):
         try:
             core = get_json(CORE_ODDS.format(eid=r.game_id))
         except Exception as e:  # keep going; a later run retries
-            print(f"  {r.game_id}: {type(e).__name__}", flush=True)
+            errors.append(f"{r.game_id}: request {type(e).__name__}: {e}"[:300])
             continue
         items = (core or {}).get("items", [])
         got = []
         for item in items:
-            got += rows_from_odds_item(meta(r), item, "core", "history")
+            try:
+                got += rows_from_odds_item(meta(r), item, "core", "history")
+            except Exception as e:
+                errors.append(f"{r.game_id}: {type(e).__name__}: {e} | item keys: {sorted(item)[:15]}")
         if got:
             rows += got
         else:
@@ -87,8 +90,11 @@ def backfill(season: int, sample: int, pause: float) -> str:
     with_odds = new.game_id.nunique() if len(new) else 0
     providers = ", ".join(f"{k} {v}" for k, v in new.provider.value_counts().items()) if len(new) else "-"
     phases = ", ".join(f"{k} {v}" for k, v in new.phase.value_counts().items()) if len(new) else "-"
-    return (f"{season}: {len(todo)} games requested, {with_odds} with odds, {len(empty)} without | "
-            f"providers: {providers} | phases: {phases}")
+    msg = (f"{season}: {len(todo)} games requested, {with_odds} with odds, {len(empty)} without | "
+           f"providers: {providers} | phases: {phases}")
+    if errors:
+        msg += f"\n  {len(errors)} errors, first: " + "\n  ".join(errors[:3])
+    return msg
 
 
 def _save(path, done, rows, empty):
@@ -105,12 +111,16 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--pause", type=float, default=0.3, help="seconds between requests")
     args = ap.parse_args(argv)
     summary = []
+    ensure(OUT)
     for season in parse_seasons(args.seasons):
-        line = backfill(season, args.sample, args.pause)
+        try:
+            line = backfill(season, args.sample, args.pause)
+        except Exception:
+            import traceback
+            line = f"{season}: FAILED\n" + traceback.format_exc()
         print(line, flush=True)
         summary.append(line)
-    ensure(OUT)
-    (OUT / "last_run_summary.txt").write_text("\n".join(summary) + "\n")
+        (OUT / "last_run_summary.txt").write_text("\n".join(summary) + "\n")
     return 0
 
 
