@@ -48,6 +48,7 @@ def is_complete_csv(path) -> bool:
 def fetch(season: int, table: str, refresh: bool = False) -> str:
     tag, pattern = TABLES[table]
     name = pattern.format(season=season)
+    ensure(RAW_ESPN)  # fresh checkouts (e.g. GitHub runners) have no data/raw
     dest = RAW_ESPN / name
     if dest.exists() and not refresh and is_complete_csv(dest):
         return f"have   {name}"
