@@ -1,0 +1,380 @@
+2008: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2008.part'
+
+2009: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2009.part'
+
+2010: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2010.part'
+
+2011: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2011.part'
+
+2012: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2012.part'
+
+2013: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2013.part'
+
+2014: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2014.part'
+
+2015: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2015.part'
+
+2016: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2016.part'
+
+2017: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2017.part'
+
+2018: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2018.part'
+
+2019: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2019.part'
+
+2020: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2020.part'
+
+2021: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2021.part'
+
+2022: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2022.part'
+
+2023: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2023.part'
+
+2024: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2024.part'
+
+2025: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2025.part'
+
+2026: FAILED
+Traceback (most recent call last):
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 117, in main
+    line = backfill(season, args.sample, args.pause)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 60, in backfill
+    s = schedule(season)
+        ^^^^^^^^^^^^^^^^
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_odds_history.py", line 37, in schedule
+    fetch_espn_file(season, "schedule")
+  File "/home/runner/work/cbb-model/cbb-model/src/cbb/fetch/espn_history.py", line 60, in fetch
+    tmp.write_bytes(r.content)
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1036, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/cbb-model/cbb-model/data/raw/espn/mbb_schedule_2026.part'
+
