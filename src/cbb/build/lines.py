@@ -41,9 +41,15 @@ def load_tracker() -> pd.DataFrame:
     t = t.dropna(subset=["hscore", "rscore"])
     t["hscore"] = t.hscore.astype(int)
     t["rscore"] = t.rscore.astype(int)
-    # An opening line of exactly 0 far from the closing number is a missing value.
-    bad_open = (t.line_open == 0) & ((t.line - t.line_open).abs() > 6)
-    t.loc[bad_open, "line_open"] = np.nan
+    # The source has broken values (an independent audit found them): treat as missing
+    #  - any line beyond +/-60 (e.g. a closing line of -158),
+    #  - an opening line of exactly 0 when the close is 2+ points (most such zeros are blanks),
+    #  - an opening line on the other side of 0 from the close and 6+ points away from it.
+    for c in ("line", "line_open"):
+        t.loc[t[c].abs() > 60, c] = np.nan
+    zero_open = (t.line_open == 0) & (t.line.abs() >= 2)
+    flipped_open = (np.sign(t.line_open) == -np.sign(t.line)) & ((t.line - t.line_open).abs() > 6)
+    t.loc[zero_open | flipped_open, "line_open"] = np.nan
     t["tid"] = np.arange(len(t))
     return t
 

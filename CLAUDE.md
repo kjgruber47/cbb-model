@@ -40,3 +40,14 @@ Home court is fixed (it inflates early in the season if fitted). Tuned settings 
 `src/cbb/model/params.json`; tune only on training seasons (`cbb.evaluate.tune`), report on
 held-out seasons (`cbb.evaluate.backtest`). Judge everything against the market line on the
 same games, and by month: November is where the market is weakest and the model too.
+
+## Known results and caveats (Oct 22, 2026; held-out seasons 2020-26)
+- Roster prior: 0.15 pts/game behind the market line overall, 0.25 in November.
+- No edge vs the closing line (ATS ~50-51% at any disagreement size).
+- Vs the opening line, after cleaning the tracker's broken openers: ~56% ATS when the model
+  differs by 4+ points (n ~1,800), 53.6% at 3+; seasons range 52-61%. Before cleaning it read
+  58.5% (bad openers inflated it). The closing line moves toward the model ~2/3 of the time.
+- Caveats: backtest roster membership comes from that season's box scores (worth <= ~1 pt);
+  model-refit timing vs when openers post (<= ~1 pt); the roster design and the 4-point
+  threshold were chosen with test seasons visible. The tracker's opening-line book and time
+  are unknown. Validate on our own timestamped DraftKings snapshots before staking money.
