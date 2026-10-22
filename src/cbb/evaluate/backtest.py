@@ -33,7 +33,26 @@ def d1_games(g: pd.DataFrame) -> pd.DataFrame:
     return g[g.home_d1 & g.away_d1 & g.poss_ok].copy()
 
 
-def run(games: pd.DataFrame, seasons: list[int], p: Params, verbose: bool = True) -> pd.DataFrame:
+def roster_prior(base: Prior, data: pd.DataFrame, season: int, min_train: int = 3) -> Prior:
+    """Swap last season's O/D for the roster model's, fit only on earlier seasons."""
+    from cbb.model.preseason import fit_coefs, predict_prior
+    hist = data[data.season < season]
+    cur = data[data.season == season]
+    if hist.season.nunique() < min_train or cur.empty:
+        return base
+    pred = predict_prior(cur, fit_coefs(hist))
+    # Keep the base prior's overall offense/defense levels (they set the scoring level, not margins).
+    o_shift = np.mean([base.O.get(t, 0.0) for t in pred.team_id]) - pred["off"].mean()
+    d_shift = np.mean([base.D.get(t, 0.0) for t in pred.team_id]) - pred["def"].mean()
+    return Prior(O=dict(zip(pred.team_id, pred["off"] + o_shift)),
+                 D=dict(zip(pred.team_id, pred["def"] + d_shift)),
+                 T=base.T, mu=base.mu, tmu=base.tmu, hca=base.hca)
+
+
+def run(games: pd.DataFrame, seasons: list[int], p: Params, verbose: bool = True,
+        roster: pd.DataFrame | None = None) -> pd.DataFrame:
+    """Walk-forward predictions. Pass `roster` (preseason features with targets) to use
+    the roster-based preseason prior instead of last season's ratings."""
     games = d1_games(games)
     first = min(seasons)
     prior = Prior.flat(hca=p.hca_prior)
@@ -43,11 +62,12 @@ def run(games: pd.DataFrame, seasons: list[int], p: Params, verbose: bool = True
         sg = games[games.season == season].sort_values("date")
         teams = np.array(sorted(set(sg.home_id) | set(sg.away_id)))
         t0 = time.time()
+        season_prior = roster_prior(prior, roster, season) if roster is not None else prior
         if season in seasons:
             for d in sg.date.unique():
                 train = sg[sg.date < d]
                 today = sg[sg.date == d]
-                r = fit(train, teams, prior, p, as_of=d)
+                r = fit(train, teams, season_prior, p, as_of=d)
                 out = predict(r, today)
                 out["season"] = season
                 out["date"] = d
@@ -55,7 +75,7 @@ def run(games: pd.DataFrame, seasons: list[int], p: Params, verbose: bool = True
         # Season-end fit for next year's prior: light shrinkage, no recency decay,
         # so shrinkage does not compound from one season to the next.
         p_final = replace(p, lam_eff=p.lam_final, lam_tempo=p.lam_final, recency_floor=1.0)
-        final = fit(sg, teams, prior, p_final, as_of=sg.date.max() + pd.Timedelta(days=1))
+        final = fit(sg, teams, season_prior, p_final, as_of=sg.date.max() + pd.Timedelta(days=1))
         prior = Prior.from_ratings(final, p)
         if verbose:
             print(f"  {season}: {'scored' if season in seasons else 'warm-up'} "
@@ -120,10 +140,16 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--lam-tempo", type=float)
     ap.add_argument("--regress", type=float)
     ap.add_argument("--blowout-cap", type=float)
+    ap.add_argument("--prior", choices=["last", "roster"], default="last",
+                    help="preseason prior: last season's ratings, or the roster model")
+    ap.add_argument("--params", help="JSON file of settings (default: model/params.json if present)")
     ap.add_argument("--tag", default="baseline")
     args = ap.parse_args(argv)
 
-    p = Params()
+    import json
+    from cbb.predict.daily import PARAMS_FILE
+    pfile = args.params or (PARAMS_FILE if PARAMS_FILE.exists() else None)
+    p = Params(**json.loads(open(pfile).read())) if pfile else Params()
     overrides = {k: v for k, v in {
         "recency_full": args.recency_full, "recency_floor": args.recency_floor,
         "lam_eff": args.lam_eff, "lam_final": args.lam_final, "lam_tempo": args.lam_tempo,
@@ -132,7 +158,8 @@ def main(argv: list[str] | None = None) -> int:
     print("params:", asdict(p))
 
     games = load_games()
-    preds = run(games, parse_seasons(args.seasons), p)
+    roster = pd.read_csv(PROCESSED / "preseason_features.csv.gz") if args.prior == "roster" else None
+    preds = run(games, parse_seasons(args.seasons), p, roster=roster)
     d = attach(preds, games)
     ensure(BACKTESTS)
     d.to_csv(BACKTESTS / f"{args.tag}.csv.gz", index=False)

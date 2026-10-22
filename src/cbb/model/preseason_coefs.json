@@ -1,0 +1,29 @@
+{
+  "train": "2011-2019",
+  "off": {
+    "const": -4.05161,
+    "prev_off": 0.71693,
+    "prev_def": 0.21496,
+    "ret_min": 7.90281,
+    "ret_val": 0.58732,
+    "lost_val": -1.53941,
+    "tin_min": 8.13175,
+    "tin_val": 1.3741,
+    "tin_level": 0.38682,
+    "new_d1": -3.02034,
+    "prev_net_x_ret": -0.00681
+  },
+  "def": {
+    "const": -2.57023,
+    "prev_off": 0.33124,
+    "prev_def": 0.565,
+    "ret_min": 4.85867,
+    "ret_val": -0.89227,
+    "lost_val": -1.53704,
+    "tin_min": 6.04876,
+    "tin_val": 1.31599,
+    "tin_level": 0.27352,
+    "new_d1": -5.81174,
+    "prev_net_x_ret": 0.0732
+  }
+}
