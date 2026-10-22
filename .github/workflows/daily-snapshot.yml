@@ -1,4 +1,4 @@
-name: Daily odds snapshot
+name: Daily odds snapshot and predictions
 
 # Records ESPN's schedule and odds for today and the next two days, several
 # times a day, and commits the results to data/live/. Times are UTC; the
@@ -44,6 +44,11 @@ jobs:
           else
             python -m cbb.fetch.espn_live
           fi
+
+      - name: Predict upcoming games
+        if: github.event.inputs.date == ''
+        continue-on-error: true
+        run: python -m cbb.predict.daily
 
       - name: Commit
         run: |

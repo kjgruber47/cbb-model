@@ -84,6 +84,7 @@ def build_season(season: int) -> pd.DataFrame:
     g["away_poss"] = possessions(g.away_fga, g.away_oreb, g.away_tov, g.away_fta)
     g["poss"] = (g.home_poss + g.away_poss) / 2
     g["tempo40"] = g.poss * 40 / g.minutes
+    g["poss_ok"] = g.poss.between(40, 110)
 
     counts = pd.concat([g.home_id, g.away_id]).value_counts()
     d1 = set(counts[counts >= MIN_D1_GAMES].index)
@@ -116,7 +117,6 @@ def main(argv: list[str] | None = None) -> int:
     bad = games[(games.poss < 40) | (games.poss > 110)]
     if len(bad):
         print(f"warning: {len(bad)} games with implausible possessions (kept, flagged)")
-    games["poss_ok"] = games.poss.between(40, 110)
 
     ensure(PROCESSED)
     out = PROCESSED / "games.csv.gz"
