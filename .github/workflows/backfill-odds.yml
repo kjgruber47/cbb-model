@@ -1,44 +1,32 @@
 name: Backfill ESPN odds history
 
-# Manual. Pulls ESPN's per-game odds records for past seasons into
-# data/external/espn_odds/. Resumable: re-running continues where it stopped.
+# Runs in 40-minute chunks, once an hour, until every season from 2012-13 on is
+# done, then switches its own schedule off. Each chunk resumes where the last
+# stopped and commits its progress, so no chunk can lose more than its own work.
+# Progress: data/external/espn_odds/status.csv and progress.log.
 on:
+  schedule:
+    - cron: "17 * * * *"   # hourly at :17 (avoids the daily snapshot times)
   workflow_dispatch:
     inputs:
-      seasons:
-        description: "Comma-separated season groups, e.g. 2013-2015,2016-2018 (season = year it ends)"
-        required: true
-      sample:
-        description: "Games per season to probe (0 = all)"
-        default: "0"
+      minutes:
+        description: "Time budget for this chunk (minutes)"
+        default: "40"
         required: true
 
 permissions:
   contents: write
+  actions: write   # lets the job turn its own schedule off when finished
 
-# Own concurrency group so long backfills never block or cancel the daily snapshots.
+# One chunk at a time; never interferes with the daily snapshot queue.
 concurrency:
-  group: backfill-${{ github.run_id }}
+  group: odds-backfill
   cancel-in-progress: false
 
 jobs:
-  plan:
+  chunk:
     runs-on: ubuntu-latest
-    outputs:
-      groups: ${{ steps.split.outputs.groups }}
-    steps:
-      - id: split
-        run: echo "groups=$(echo '${{ github.event.inputs.seasons }}' | jq -R -c 'split(",")')" >> "$GITHUB_OUTPUT"
-
-  backfill:
-    needs: plan
-    runs-on: ubuntu-latest
-    timeout-minutes: 350
-    strategy:
-      fail-fast: false
-      max-parallel: 2
-      matrix:
-        seasons: ${{ fromJson(needs.plan.outputs.groups) }}
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
 
@@ -49,19 +37,28 @@ jobs:
 
       - run: pip install -e .
 
-      - name: Backfill
-        run: python -m cbb.fetch.espn_odds_history "${{ matrix.seasons }}" --sample "${{ github.event.inputs.sample }}" --summary "summary_${{ matrix.seasons }}.txt"
+      - name: Backfill one chunk
+        id: run
+        run: |
+          python -m cbb.fetch.espn_odds_history --next --max-minutes "${{ github.event.inputs.minutes || '40' }}" | tee chunk.txt
+          if grep -q "^ALL_DONE" chunk.txt; then echo "all_done=true" >> "$GITHUB_OUTPUT"; fi
 
-      - name: Commit
+      - name: Commit progress
         if: always()
         run: |
           git config user.name "cbb-model bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/external/espn_odds
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
-          git commit -m "ESPN odds backfill ${{ matrix.seasons }}"
+          git commit -m "ESPN odds backfill chunk $(date -u +%Y-%m-%dT%H:%MZ)"
           for i in 1 2 3 4 5 6; do
             git pull --rebase origin main && git push && exit 0
             sleep $((RANDOM % 20 + 5))
           done
           exit 1
+
+      - name: Switch off the hourly schedule when everything is done
+        if: steps.run.outputs.all_done == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow disable backfill-odds.yml --repo "${{ github.repository }}"

@@ -19,7 +19,7 @@ Run modules with `PYTHONPATH=src python -m cbb.<module>` or after `pip install -
 | `data/processed/games.csv.gz` | `cbb.build.games`: one row per game | no |
 | `data/processed/lines.csv.gz` | `cbb.build.lines`: tracker lines matched to ESPN game ids | no |
 | `data/external/prediction_tracker/` | ThePredictionTracker season files: market line, opening line, other systems | yes |
-| `data/external/espn_odds/` | ESPN per-game odds history backfill (DraftKings and earlier providers) | yes |
+| `data/external/espn_odds/` | ESPN per-game odds history (2012-13 on, many books); hourly chunked backfill, progress in `status.csv` / `progress.log` | yes |
 | `data/live/odds/YYYY-MM.csv` | scheduled job: DraftKings open / current / close for today + 2 days | yes |
 | `data/live/raw/` | scheduled job: raw ESPN JSON, gzipped | yes |
 | `data/live/predictions/` | scheduled job: model vs market per game, plus `latest.md` | yes |
