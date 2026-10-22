@@ -1,0 +1,52 @@
+name: Backfill ESPN odds history
+
+# Manual. Pulls ESPN's per-game odds records for past seasons into
+# data/external/espn_odds/. Resumable: re-running continues where it stopped.
+on:
+  workflow_dispatch:
+    inputs:
+      seasons:
+        description: "Season(s), e.g. 2025 or 2018-2026 (season = year it ends)"
+        required: true
+      sample:
+        description: "Games per season to probe (0 = all)"
+        default: "0"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-commits
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -e .
+
+      - name: Backfill
+        run: python -m cbb.fetch.espn_odds_history "${{ github.event.inputs.seasons }}" --sample "${{ github.event.inputs.sample }}"
+
+      - name: Commit
+        if: always()
+        run: |
+          git config user.name "cbb-model bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/external/espn_odds
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "ESPN odds backfill ${{ github.event.inputs.seasons }}"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            sleep 5
+          done
+          exit 1
