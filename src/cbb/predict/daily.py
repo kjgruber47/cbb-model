@@ -93,8 +93,19 @@ def d1_teams(season: int, last_season_d1: set) -> set:
 
 
 def games_from_snapshots(start: dt.date, end: dt.date) -> pd.DataFrame:
-    """Every game on ESPN's scoreboard in our saved snapshots (the full daily slate)."""
+    """Every game on ESPN's scoreboard: the latest slate file, plus recent raw snapshots."""
     rows = []
+    slate = LIVE / "slate_latest.csv"
+    if slate.exists():
+        sl = pd.read_csv(slate)
+        for r in sl.itertuples():
+            rows.append({
+                "game_id": int(r.game_id), "date": pd.Timestamp(r.game_date), "start_utc": r.start_utc,
+                "home_id": int(r.home_id), "away_id": int(r.away_id),
+                "home": r.home_location if isinstance(r.home_location, str) else r.home,
+                "away": r.away_location if isinstance(r.away_location, str) else r.away,
+                "neutral": bool(r.neutral_site),
+            })
     for f in sorted((LIVE / "raw").glob("*/espn_*.json.gz"))[-12:]:
         with gzip.open(f, "rt") as fh:
             snap = json.load(fh)
@@ -215,6 +226,7 @@ def run(today: dt.date, days: int = 3) -> pd.DataFrame:
 
     ensure(LIVE / "predictions", LIVE / "ratings")
     out.to_csv(LIVE / "predictions" / f"{today.isoformat()}.csv", index=False, float_format="%.2f")
+    log_predictions(out)
     names = pd.concat([
         games[["home_id", "home"]].set_axis(["team_id", "team"], axis=1),
         games[["away_id", "away"]].set_axis(["team_id", "team"], axis=1),
@@ -225,6 +237,28 @@ def run(today: dt.date, days: int = 3) -> pd.DataFrame:
     table.to_csv(LIVE / "ratings" / f"{today.isoformat()}.csv", index=False, float_format="%.2f")
     write_markdown(out, table, today, len(train))
     return out
+
+
+LOG_COLS = ["run_utc", "game_id", "date", "away", "home", "neutral", "pred_margin", "pred_total",
+            "market_margin", "market_total", "open_margin", "open_total", "provider", "odds_as_of"]
+LOG_CHANGE = ["pred_margin", "pred_total", "market_margin", "market_total"]
+
+
+def log_predictions(out: pd.DataFrame) -> None:
+    """Append-only paper-trading record: a row whenever the model's or the market's number moves."""
+    run_utc = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    new = out.assign(run_utc=run_utc)[LOG_COLS].copy()
+    new[LOG_CHANGE] = new[LOG_CHANGE].round(2)
+    path = LIVE / "predictions" / f"log_{run_utc[:7]}.csv"
+    if path.exists():
+        old = pd.read_csv(path)
+        last = old.sort_values("run_utc").drop_duplicates("game_id", keep="last").set_index("game_id")[LOG_CHANGE]
+        cur = new.set_index("game_id")[LOG_CHANGE]
+        prev = last.reindex(cur.index)
+        diff = ~((cur.round(2) == prev.round(2)) | (cur.isna() & prev.isna())).all(axis=1)
+        new = new[new.game_id.isin(diff[diff].index)]
+    if len(new):
+        new.to_csv(path, mode="a", header=not path.exists(), index=False, float_format="%.2f")
 
 
 def write_markdown(out: pd.DataFrame, table: pd.DataFrame, today: dt.date, n_train: int) -> None:

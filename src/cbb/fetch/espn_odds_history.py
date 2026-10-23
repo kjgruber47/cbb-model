@@ -169,6 +169,8 @@ def main(argv: list[str] | None = None) -> int:
 
     ensure(OUT)
     start = time.time()
+    before = read_status()
+    req_before = int(before.requested.sum()) if len(before) else 0
     deadline = start + 60 * args.max_minutes if args.max_minutes else None
     all_seasons = list(range(FIRST_SEASON, current_season()))  # completed seasons only
     if args.next:
@@ -191,6 +193,7 @@ def main(argv: list[str] | None = None) -> int:
     log(lines or ["nothing to do"])
 
     st = read_status()
+    print(f"PROGRESS {int(st.requested.sum()) - req_before if len(st) else 0}")
     finished = set(st.loc[st.complete.astype(str) == "True", "season"].astype(int))
     remaining = [s for s in all_seasons if s not in finished]
     if args.next and not remaining:

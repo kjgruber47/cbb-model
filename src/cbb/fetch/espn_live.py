@@ -25,6 +25,7 @@ import time
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+import pandas as pd
 import requests
 
 from cbb.paths import LIVE, ensure
@@ -173,25 +174,76 @@ def snapshot(dates: list[dt.date]) -> tuple[list[dict], dict]:
     return rows, raw
 
 
-def append_rows(rows: list[dict]) -> Path | None:
+KEY = ["game_id", "source", "provider", "phase"]
+PRICES = ["home_spread", "total", "home_ml", "away_ml", "home_spread_price", "away_spread_price",
+          "over_price", "under_price"]
+
+
+def changed_only(rows: list[dict], path: Path) -> list[dict]:
+    """Drop rows whose numbers match the last logged row for the same game/book/phase."""
+    if not rows or not path.exists():
+        return rows
+    old = pd.read_csv(path, dtype={"game_id": str}, low_memory=False)
+    last = old.sort_values("snapshot_utc").drop_duplicates(KEY, keep="last").set_index(KEY)[PRICES]
+    keep = []
+    for r in rows:
+        k = (str(r["game_id"]), r["source"], r["provider"], r["phase"])
+        if k not in last.index:
+            keep.append(r)
+            continue
+        prev = last.loc[k]
+        if isinstance(prev, pd.DataFrame):
+            prev = prev.iloc[-1]
+        same = all((pd.isna(r[c]) and pd.isna(prev[c])) or
+                   (not pd.isna(r[c]) and not pd.isna(prev[c]) and float(r[c]) == float(prev[c]))
+                   for c in PRICES)
+        if not same:
+            keep.append(r)
+    return keep
+
+
+def append_rows(rows: list[dict]) -> tuple[Path | None, int]:
+    """Append rows to this month's file, keeping only numbers that changed."""
     if not rows:
-        return None
+        return None, 0
     month = rows[0]["snapshot_utc"][:7]
     path = LIVE / "odds" / f"{month}.csv"
     ensure(path.parent)
+    rows = changed_only(rows, path)
     new = not path.exists()
     with path.open("a", newline="") as f:
         w = csv.DictWriter(f, fieldnames=ODDS_FIELDS, extrasaction="ignore")
         if new:
             w.writeheader()
         w.writerows(rows)
+    return path, len(rows)
+
+
+def save_slate(raw: dict) -> Path:
+    """Every game on ESPN's scoreboard for the dates fetched (overwritten each run)."""
+    games = []
+    for board in raw["scoreboards"].values():
+        for ev in (board or {}).get("events", []):
+            m = game_meta(ev)
+            comp = (ev.get("competitions") or [{}])[0]
+            teams = {c.get("homeAway"): c.get("team", {}) for c in comp.get("competitors", [])}
+            games.append({**m, "home_location": teams.get("home", {}).get("location"),
+                          "away_location": teams.get("away", {}).get("location"),
+                          "snapshot_utc": raw["snapshot_utc"]})
+    path = LIVE / "slate_latest.csv"
+    ensure(path.parent)
+    pd.DataFrame(games).to_csv(path, index=False)
     return path
 
 
-def save_raw(raw: dict) -> Path:
+def save_raw(raw: dict) -> Path | None:
+    """Keep one raw snapshot per UTC day (for debugging the parser), not every run."""
+    folder = LIVE / "raw" / raw["snapshot_utc"][:10]
+    if folder.exists() and any(folder.glob("espn_*.json.gz")):
+        return None
     stamp = raw["snapshot_utc"].replace(":", "").replace("-", "")
-    path = LIVE / "raw" / raw["snapshot_utc"][:10] / f"espn_{stamp}.json.gz"
-    ensure(path.parent)
+    path = folder / f"espn_{stamp}.json.gz"
+    ensure(folder)
     with gzip.open(path, "wt", encoding="utf-8") as f:
         json.dump(raw, f, separators=(",", ":"))
     return path
@@ -211,11 +263,13 @@ def main(argv: list[str] | None = None) -> int:
 
     rows, raw = snapshot(dates)
     games = sum(len((b or {}).get("events", [])) for b in raw["scoreboards"].values())
-    csv_path = append_rows(rows)
+    csv_path, written = append_rows(rows)
+    slate_path = save_slate(raw)
     raw_path = save_raw(raw)
-    print(f"{raw['snapshot_utc']}: {games} games, {len(rows)} odds rows")
-    print(f"  rows -> {csv_path}")
-    print(f"  raw  -> {raw_path}")
+    print(f"{raw['snapshot_utc']}: {games} games, {len(rows)} odds rows, {written} changed and written")
+    print(f"  rows  -> {csv_path}")
+    print(f"  slate -> {slate_path}")
+    print(f"  raw   -> {raw_path or 'skipped (already have one today)'}")
     return 0
 
 

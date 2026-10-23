@@ -1,8 +1,10 @@
 name: Backfill ESPN odds history
 
-# Runs in 40-minute chunks, once an hour, until every season from 2012-13 on is
-# done, then switches its own schedule off. Each chunk resumes where the last
-# stopped and commits its progress, so no chunk can lose more than its own work.
+# Runs in 45-minute chunks until every season from 2012-13 on is done, then
+# switches its own schedule off. Each chunk resumes where the last stopped,
+# commits its progress, and starts the next chunk itself (GitHub's hourly
+# schedule drops most runs, so it is only a fallback). The chain stops if a
+# chunk makes no progress.
 # Progress: data/external/espn_odds/status.csv and progress.log.
 on:
   schedule:
@@ -11,7 +13,7 @@ on:
     inputs:
       minutes:
         description: "Time budget for this chunk (minutes)"
-        default: "40"
+        default: "45"
         required: true
 
 permissions:
@@ -40,8 +42,9 @@ jobs:
       - name: Backfill one chunk
         id: run
         run: |
-          python -m cbb.fetch.espn_odds_history --next --max-minutes "${{ github.event.inputs.minutes || '40' }}" | tee chunk.txt
+          python -m cbb.fetch.espn_odds_history --next --max-minutes "${{ github.event.inputs.minutes || '45' }}" | tee chunk.txt
           if grep -q "^ALL_DONE" chunk.txt; then echo "all_done=true" >> "$GITHUB_OUTPUT"; fi
+          echo "progress=$(grep '^PROGRESS' chunk.txt | awk '{print $2}')" >> "$GITHUB_OUTPUT"
 
       - name: Commit progress
         if: always()
@@ -56,6 +59,12 @@ jobs:
             sleep $((RANDOM % 20 + 5))
           done
           exit 1
+
+      - name: Start the next chunk
+        if: steps.run.outputs.all_done != 'true' && steps.run.outputs.progress != '0' && steps.run.outputs.progress != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run backfill-odds.yml --repo "${{ github.repository }}" --ref main -f minutes=45
 
       - name: Switch off the hourly schedule when everything is done
         if: steps.run.outputs.all_done == 'true'

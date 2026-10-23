@@ -1,15 +1,14 @@
 name: Daily odds snapshot and predictions
 
-# Records ESPN's schedule and odds for today and the next two days, several
-# times a day, and commits the results to data/live/. Times are UTC; the
-# comments give US Eastern (standard time, from Nov 1).
+# Records ESPN's odds for today and the next two days every hour through the
+# betting day, then refreshes predictions. Odds rows are written only when a
+# number changes, so data/live/odds/ is a compact line-movement history.
 on:
   schedule:
-    - cron: "0 15 * * *"   # 10:00 ET  morning numbers
-    - cron: "0 20 * * *"   # 15:00 ET  afternoon
-    - cron: "30 23 * * *"  # 18:30 ET  just before the evening tips
-    - cron: "30 2 * * *"   # 21:30 ET  late tips; earlier games final
-    - cron: "0 7 * * *"    # 02:00 ET  West Coast games final
+    # Hourly at :13, 14:13-05:13 UTC = 10:13 AM-1:13 AM ET (9:13 AM-12:13 AM in standard time).
+    # Off the top of the hour because GitHub delays and drops on-the-hour schedules most.
+    - cron: "13 14-23 * * *"
+    - cron: "13 0-5 * * *"
   workflow_dispatch:
     inputs:
       date:
