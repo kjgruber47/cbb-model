@@ -232,7 +232,10 @@ def save_slate(raw: dict) -> Path:
                           "snapshot_utc": raw["snapshot_utc"]})
     path = LIVE / "slate_latest.csv"
     ensure(path.parent)
-    pd.DataFrame(games).to_csv(path, index=False)
+    cols = ["game_id", "game_date", "start_utc", "status", "neutral_site", "home_id", "home",
+            "away_id", "away", "home_score", "away_score", "home_location", "away_location",
+            "snapshot_utc"]
+    pd.DataFrame(games, columns=cols).to_csv(path, index=False)  # header even on empty days
     return path
 
 

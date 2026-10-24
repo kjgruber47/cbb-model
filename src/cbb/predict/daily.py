@@ -96,8 +96,11 @@ def games_from_snapshots(start: dt.date, end: dt.date) -> pd.DataFrame:
     """Every game on ESPN's scoreboard: the latest slate file, plus recent raw snapshots."""
     rows = []
     slate = LIVE / "slate_latest.csv"
-    if slate.exists():
-        sl = pd.read_csv(slate)
+    try:
+        sl = pd.read_csv(slate) if slate.exists() else pd.DataFrame()
+    except pd.errors.EmptyDataError:  # older runs wrote a bare file on empty days
+        sl = pd.DataFrame()
+    if len(sl):
         for r in sl.itertuples():
             rows.append({
                 "game_id": int(r.game_id), "date": pd.Timestamp(r.game_date), "start_utc": r.start_utc,
@@ -122,7 +125,8 @@ def games_from_snapshots(start: dt.date, end: dt.date) -> pd.DataFrame:
                     "away": teams.get("away", {}).get("location") or m["away"],
                     "neutral": bool(m["neutral_site"]),
                 })
-    g = pd.DataFrame(rows)
+    g = pd.DataFrame(rows, columns=["game_id", "date", "start_utc", "home_id", "away_id",
+                                    "home", "away", "neutral"])
     if g.empty:
         return g
     g = g.drop_duplicates("game_id", keep="last")

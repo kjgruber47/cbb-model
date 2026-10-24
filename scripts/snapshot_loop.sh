@@ -36,7 +36,11 @@ while [ "$(date +%s)" -lt "$end" ]; do
   started=$(date +%s)
   sync
   if bash -c "$SNAP_CMD"; then
-    bash -c "$PRED_CMD" || echo "prediction step failed (snapshot kept)"
+    if bash -c "$PRED_CMD" 2> pred_err.txt; then pred="ok"; else
+      pred="FAILED: $(tail -1 pred_err.txt | cut -c1-200)"; echo "prediction step $pred"; fi
+    # Heartbeat: proves the loop is alive and surfaces failures in the repo itself.
+    printf 'last_run_utc: %s\nsnapshot: ok\nprediction: %s\nloop_snapshots_ok: %s\nloop_failures: %s\n' \
+      "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "$pred" "$((ok + 1))" "$fail" > data/live/loop_status.txt
     git add data/live
     if ! git diff --cached --quiet; then
       git commit -q -m "Odds snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
