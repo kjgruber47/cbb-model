@@ -27,7 +27,13 @@ Run modules with `PYTHONPATH=src python -m cbb.<module>` or after `pip install -
 
 ## What runs where
 - GitHub Actions has open internet; it fetches ESPN live odds, ThePredictionTracker, and the
-  odds backfill. `daily-snapshot.yml` runs 5x a day: snapshot odds, then predict.
+  odds backfill. `snapshot-loop.yml` runs `scripts/snapshot_loop.sh`: an odds snapshot plus
+  prediction refresh every 30 minutes, ~5.5 h per run, each run starting its successor (GitHub's
+  cron dropped most scheduled runs; a 3-hourly cron only restarts a broken chain). It is the only
+  writer to `data/live/`. This relies on the repo being public (free Actions minutes); a private
+  repo would need an external trigger instead. `daily-snapshot.yml` is manual-only.
+- Odds rows are appended only when a number changes; `data/live/predictions/log_YYYY-MM.csv`
+  is the append-only paper-trading record (model and market numbers with timestamps).
 - Claude's cloud workspace can only reach GitHub (sportsdataverse releases and this repo), so
   analysis and backtests run there on data the Actions jobs commit. Actions logs are not
   readable from the workspace: jobs write summaries into committed files instead.

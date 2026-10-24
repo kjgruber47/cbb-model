@@ -1,14 +1,9 @@
-name: Daily odds snapshot and predictions
+name: Odds snapshot (manual)
 
-# Records ESPN's odds for today and the next two days every hour through the
-# betting day, then refreshes predictions. Odds rows are written only when a
-# number changes, so data/live/odds/ is a compact line-movement history.
+# MANUAL ONLY. The continuous snapshots now come from snapshot-loop.yml (GitHub's
+# scheduler dropped most of this workflow's scheduled runs). Use this to
+# snapshot one specific date, or to run a snapshot + prediction by hand.
 on:
-  schedule:
-    # Hourly at :13, 14:13-05:13 UTC = 10:13 AM-1:13 AM ET (9:13 AM-12:13 AM in standard time).
-    # Off the top of the hour because GitHub delays and drops on-the-hour schedules most.
-    - cron: "13 14-23 * * *"
-    - cron: "13 0-5 * * *"
   workflow_dispatch:
     inputs:
       date:

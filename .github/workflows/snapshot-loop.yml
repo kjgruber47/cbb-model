@@ -1,0 +1,52 @@
+name: Odds snapshot loop
+
+# Takes an odds snapshot and refreshes predictions every 30 minutes, all day.
+# Each run loops for about 5.5 hours, then starts its own replacement, so
+# coverage does not depend on GitHub's scheduler (which dropped most of our
+# scheduled runs). The schedule below is only a fallback that restarts the
+# chain if it ever breaks. Free because the repo is public; a private repo
+# would use about 43,000 Actions minutes a month this way.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 */3 * * *"   # fallback restart every 3 hours (queues behind a running loop)
+
+permissions:
+  contents: write
+  actions: write   # to start the next loop
+
+# One loop at a time. A queued fallback or successor waits for the running loop.
+concurrency:
+  group: snapshot-loop
+  cancel-in-progress: false
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -e .
+
+      - name: Snapshot loop
+        id: loop
+        run: |
+          git config user.name "cbb-model bot"
+          git config user.email "actions@users.noreply.github.com"
+          LOOP_MINUTES=330 INTERVAL_MIN=30 bash scripts/snapshot_loop.sh
+
+      # Only chain if this loop actually took snapshots, so a broken setup cannot
+      # relaunch itself over and over; the 3-hour fallback covers that case.
+      - name: Start the next loop
+        if: steps.loop.outputs.ok != '' && steps.loop.outputs.ok != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run snapshot-loop.yml --repo "${{ github.repository }}" --ref main
