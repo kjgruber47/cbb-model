@@ -203,7 +203,7 @@ def run(today: dt.date, days: int = 3) -> pd.DataFrame:
     ratings = fit(train, teams, prior, p, as_of=asof)
 
     games = upcoming(season, today, days, d1)
-    pred = predict(ratings, games).drop(columns=["pred_home_pts", "pred_away_pts"])
+    pred = predict(ratings, games, p).drop(columns=["pred_home_pts", "pred_away_pts"])
     out = games.merge(pred, on="game_id")
     odds = latest_odds()
     if len(odds):

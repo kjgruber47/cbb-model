@@ -68,7 +68,7 @@ def run(games: pd.DataFrame, seasons: list[int], p: Params, verbose: bool = True
                 train = sg[sg.date < d]
                 today = sg[sg.date == d]
                 r = fit(train, teams, season_prior, p, as_of=d)
-                out = predict(r, today)
+                out = predict(r, today, p)
                 out["season"] = season
                 out["date"] = d
                 preds.append(out)

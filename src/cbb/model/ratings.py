@@ -37,6 +37,11 @@ class Params:
     regress: float = 0.70         # share of last season's rating carried forward
     new_team_net: float = -14.0   # prior net rating for teams new to D-I
     blowout_cap: float | None = None  # cap |ppp_home - ppp_away| at this value
+    # Overtime: P(OT) = ot_p0 * exp(-margin^2 / (2 * ot_scale^2)); an OT game averages
+    # ot_periods extra 5-minute periods (each ~1/8 of a game's points). Fit on 2014-19.
+    ot_p0: float = 0.086
+    ot_scale: float = 11.44
+    ot_periods: float = 1.23
 
 
 @dataclass
@@ -168,8 +173,9 @@ def fit(games: pd.DataFrame, teams: np.ndarray, prior: Prior, p: Params,
     return Ratings(teams, O, D, T, mu, hca, tmu, played)
 
 
-def predict(r: Ratings, games: pd.DataFrame) -> pd.DataFrame:
-    """Expected possessions, points, margin and total for each game."""
+def predict(r: Ratings, games: pd.DataFrame, p: Params | None = None) -> pd.DataFrame:
+    """Expected possessions, points, margin and regulation total for each game."""
+    p = p or Params()
     idx = r.lookup()
     hi = games.home_id.map(idx)
     ai = games.away_id.map(idx)
@@ -188,6 +194,13 @@ def predict(r: Ratings, games: pd.DataFrame) -> pd.DataFrame:
         "home_games": r.games[hi], "away_games": r.games[ai],
     })
     out["pred_margin"] = out.pred_home_pts - out.pred_away_pts
+    # Expected overtime adds points (not margin) in games expected to be close.
     out["pred_total"] = out.pred_home_pts + out.pred_away_pts
+    # pred_total is the regulation (typical-game) total: totals lines price the typical
+    # game, and adding expected overtime made it worse against them (2020-26 backtest).
+    # The overtime-inclusive mean is kept for reference only.
+    p_ot = p.ot_p0 * np.exp(-out.pred_margin ** 2 / (2 * p.ot_scale ** 2))
+    out["p_ot"] = p_ot
+    out["pred_total_with_ot"] = out.pred_total * (1 + p_ot * p.ot_periods / 8)
     out.loc[~ok.to_numpy(), ["pred_margin", "pred_total"]] = np.nan
     return out

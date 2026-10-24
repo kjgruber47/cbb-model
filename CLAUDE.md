@@ -18,6 +18,7 @@ Run modules with `PYTHONPATH=src python -m cbb.<module>` or after `pip install -
 | `data/raw/espn/` | sportsdataverse GitHub releases: schedules, team box scores (2006 on) | no |
 | `data/processed/games.csv.gz` | `cbb.build.games`: one row per game | no |
 | `data/processed/lines.csv.gz` | `cbb.build.lines`: tracker lines matched to ESPN game ids | no |
+| `data/processed/espn_lines.csv.gz` | `cbb.build.espn_lines`: per-game median of real sportsbooks (close/open spread, total, moneyline) from the ESPN history; projection sites and live odds excluded | no |
 | `data/external/prediction_tracker/` | ThePredictionTracker season files: market line, opening line, other systems | yes |
 | `data/external/espn_odds/` | ESPN per-game odds history (2012-13 on, many books); hourly chunked backfill, progress in `status.csv` / `progress.log` | yes |
 | `data/live/odds/YYYY-MM.csv` | scheduled job: DraftKings open / current / close for today + 2 days | yes |
@@ -53,6 +54,15 @@ same games, and by month: November is where the market is weakest and the model 
 - Vs the opening line, after cleaning the tracker's broken openers: ~56% ATS when the model
   differs by 4+ points (n ~1,800), 53.6% at 3+; seasons range 52-61%. Before cleaning it read
   58.5% (bad openers inflated it). The closing line moves toward the model ~2/3 of the time.
+- Same test on ESPN's own openers (ESPN BET / DraftKings, 2023-24 to 2025-26), after dropping
+  ~135 suspect openers (moves > 6 pts, zero openers): 53.5% at 4+ (n=807), 54.6% at 5+ (n=313);
+  by season 55.5 / 54.3 / 51.4%; November 49.9%. Thin: barely above break-even (52.4%).
+- Totals (Oct 24): no edge. Vs close ~49% at any edge size; vs open ~51% at 4+ (n~2,200).
+  Model trails closing totals by ~0.25 pts/game (0.45 in Nov). Totals lines price the typical
+  (regulation) game; closing totals run ~0.8 below average actual totals because overtime
+  (5.8% of games, ~19 extra pts) skews the mean. `pred_total` is the regulation number;
+  `pred_total_with_ot` is the mean, for reference only.
+- Suspect openers recur in every source; always filter them before testing against openers.
 - Caveats: backtest roster membership comes from that season's box scores (worth <= ~1 pt);
   model-refit timing vs when openers post (<= ~1 pt); the roster design and the 4-point
   threshold were chosen with test seasons visible. The tracker's opening-line book and time
