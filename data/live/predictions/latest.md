@@ -1,4 +1,4 @@
-# Predictions for Tuesday, October 27, 2026
+# Predictions for Wednesday, October 28, 2026
 
 Ratings fit on 0 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
