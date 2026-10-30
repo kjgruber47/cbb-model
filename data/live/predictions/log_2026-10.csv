@@ -1,3 +1,4 @@
 run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,market_total,open_margin,open_total,provider,odds_as_of
 2026-10-30T04:29:58Z,401920409,2026-11-01,Liberty,High Point,True,12.29,152.31,7.50,154.50,7.50,154.50,Draft Kings,2026-10-30T04:29:55Z
 2026-10-30T04:29:58Z,401920982,2026-11-01,Notre Dame,Villanova,True,6.86,144.41,7.50,148.50,7.50,149.50,Draft Kings,2026-10-30T04:29:55Z
+2026-10-30T16:31:50Z,401920982,2026-11-01,Notre Dame,Villanova,True,6.86,144.41,7.50,147.50,7.50,149.50,DraftKings,2026-10-30T16:31:46Z
