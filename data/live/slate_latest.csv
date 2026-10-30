@@ -1,3 +1,3 @@
 game_id,game_date,start_utc,status,neutral_site,home_id,home,away_id,away,home_score,away_score,home_location,away_location,snapshot_utc
-401920982,2026-11-01,2026-11-01T14:30Z,STATUS_SCHEDULED,True,222,Villanova Wildcats,87,Notre Dame Fighting Irish,0,0,Villanova,Notre Dame,2026-10-30T07:00:30Z
-401920409,2026-11-01,2026-11-02T04:59Z,STATUS_SCHEDULED,True,2272,High Point Panthers,2335,Liberty Flames,0,0,High Point,Liberty,2026-10-30T07:00:30Z
+401920982,2026-11-01,2026-11-01T14:30Z,STATUS_SCHEDULED,True,222,Villanova Wildcats,87,Notre Dame Fighting Irish,0,0,Villanova,Notre Dame,2026-10-30T07:30:30Z
+401920409,2026-11-01,2026-11-02T04:59Z,STATUS_SCHEDULED,True,2272,High Point Panthers,2335,Liberty Flames,0,0,High Point,Liberty,2026-10-30T07:30:30Z
