@@ -570,3 +570,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-10-31T23:09:15Z,401911707,2026-11-02,2026-11-02T16:30Z,STATUS_SCHEDULED,True,2634,Tennessee State Tigers,93,Murray State Racers,0,0,scoreboard,100,DraftKings,current,8.5,160.5,,,,,,,MUR -8.5
 2026-10-31T23:09:15Z,401911707,2026-11-02,2026-11-02T16:30Z,STATUS_SCHEDULED,True,2634,Tennessee State Tigers,93,Murray State Racers,0,0,scoreboard,100,DraftKings,close,8.5,160.5,275.0,-345.0,-115.0,-105.0,-110.0,-110.0,MUR -8.5
 2026-10-31T23:09:15Z,401911707,2026-11-02,2026-11-02T16:30Z,STATUS_SCHEDULED,True,2634,Tennessee State Tigers,93,Murray State Racers,0,0,core,100,DraftKings,current,8.5,160.5,275,-345,-115.0,-105.0,-110.0,-110.0,MUR -8.5
+2026-10-31T23:39:14Z,401911532,2026-11-02,2026-11-02T19:00Z,STATUS_SCHEDULED,True,94,Northern Kentucky Norse,2638,UTEP Miners,0,0,scoreboard,100,DraftKings,close,1.5,148.5,114.0,-135.0,-108.0,-112.0,-110.0,-110.0,UTEP -1.5
+2026-10-31T23:39:14Z,401911532,2026-11-02,2026-11-02T19:00Z,STATUS_SCHEDULED,True,94,Northern Kentucky Norse,2638,UTEP Miners,0,0,core,100,DraftKings,current,1.5,148.5,114,-135,-108.0,-112.0,-110.0,-110.0,UTEP -1.5
