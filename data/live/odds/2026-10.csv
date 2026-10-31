@@ -476,3 +476,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-10-31T12:34:36Z,401920409,2026-11-01,2026-11-02T04:59Z,STATUS_SCHEDULED,True,2272,High Point Panthers,2335,Liberty Flames,0,0,scoreboard,100,DraftKings,current,-6.5,154.5,,,,,,,HPU -6.5
 2026-10-31T12:34:36Z,401920409,2026-11-01,2026-11-02T04:59Z,STATUS_SCHEDULED,True,2272,High Point Panthers,2335,Liberty Flames,0,0,scoreboard,100,DraftKings,close,-6.5,154.5,-325.0,260.0,-110.0,-110.0,-112.0,-108.0,HPU -6.5
 2026-10-31T12:34:36Z,401920409,2026-11-01,2026-11-02T04:59Z,STATUS_SCHEDULED,True,2272,High Point Panthers,2335,Liberty Flames,0,0,core,100,DraftKings,current,-6.5,154.5,-325,260,-110.0,-110.0,-112.0,-108.0,HPU -6.5
+2026-10-31T13:06:02Z,401909771,2026-11-02,2026-11-03T00:00Z,STATUS_SCHEDULED,True,66,Iowa State Cyclones,235,Memphis Tigers,0,0,scoreboard,100,DraftKings,close,-13.5,154.5,-1000.0,650.0,-108.0,-112.0,-115.0,-105.0,ISU -13.5
+2026-10-31T13:06:02Z,401909771,2026-11-02,2026-11-03T00:00Z,STATUS_SCHEDULED,True,66,Iowa State Cyclones,235,Memphis Tigers,0,0,core,100,DraftKings,current,-13.5,154.5,-1000,650,-108.0,-112.0,-115.0,-105.0,ISU -13.5
