@@ -1,5 +1,5 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
-2026-11-01,Sun 11:59 PM,Liberty,High Point,True,12.29,7.50,7.50,4.79,4.79,152.31,154.50,154.50,-2.19,67.71,0.87,0.73,0.00,0.00,True,DraftKings,2026-10-30T06:30:29Z,401920409,2272,2335
+2026-11-01,Sun 11:59 PM,Liberty,High Point,True,12.29,6.50,7.50,5.79,4.79,152.31,154.50,154.50,-2.19,67.71,0.87,0.73,0.00,0.00,True,DraftKings,2026-10-31T12:34:36Z,401920409,2272,2335
 2026-11-01,Sun 9:30 AM,Notre Dame,Villanova,True,6.86,7.50,7.50,-0.64,-0.64,144.41,147.50,149.50,-3.09,65.65,0.73,0.72,0.00,0.00,True,DraftKings,2026-10-30T16:31:46Z,401920982,222,87
 2026-11-02,Mon 10:00 PM,Arizona,UCLA,True,-4.33,-5.50,-4.50,1.17,0.17,149.02,150.50,150.50,-1.48,68.36,0.35,0.36,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401909738,26,12
 2026-11-02,Mon 10:00 PM,Montana State,Colorado State,False,7.68,,,,,140.92,,,,64.05,0.76,,0.00,0.00,True,,,401925878,36,147

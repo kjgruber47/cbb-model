@@ -122,3 +122,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-10-31T04:04:03Z,401925947,2026-11-02,Weber State,Oregon State,False,13.49,147.31,,,,,,
 2026-10-31T04:04:03Z,401922020,2026-11-02,Idaho State,Utah State,False,25.99,147.82,,,,,,
 2026-10-31T04:04:03Z,401909750,2026-11-02,Northwestern State,Baylor,False,23.96,146.07,,,,,,
+2026-10-31T12:35:32Z,401920409,2026-11-01,Liberty,High Point,True,12.29,152.31,6.50,154.50,7.50,154.50,DraftKings,2026-10-31T12:34:36Z
