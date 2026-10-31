@@ -1,6 +1,6 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
 2026-11-01,Sun 11:59 PM,Liberty,High Point,True,12.29,6.50,7.50,5.79,4.79,152.31,154.50,154.50,-2.19,67.71,0.87,0.73,0.00,0.00,True,DraftKings,2026-10-31T12:34:36Z,401920409,2272,2335
-2026-11-01,Sun 9:30 AM,Notre Dame,Villanova,True,6.86,7.50,7.50,-0.64,-0.64,144.41,147.50,149.50,-3.09,65.65,0.73,0.72,0.00,0.00,True,DraftKings,2026-10-30T16:31:46Z,401920982,222,87
+2026-11-01,Sun 9:30 AM,Notre Dame,Villanova,True,6.86,7.50,7.50,-0.64,-0.64,144.41,147.50,149.50,-3.09,65.65,0.73,0.72,0.00,0.00,True,DraftKings,2026-10-31T13:36:03Z,401920982,222,87
 2026-11-02,Mon 10:00 PM,Arizona,UCLA,True,-4.33,-5.50,-4.50,1.17,0.17,149.02,150.50,150.50,-1.48,68.36,0.35,0.36,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401909738,26,12
 2026-11-02,Mon 10:00 PM,Montana State,Colorado State,False,7.68,,,,,140.92,,,,64.05,0.76,,0.00,0.00,True,,,401925878,36,147
 2026-11-02,Mon 10:00 PM,Montana,Oregon,False,19.47,,,,,146.80,,,,68.85,0.96,,0.00,0.00,True,,,401922029,2483,149
@@ -111,7 +111,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-02,Mon 9:00 PM,Chicago State,Texas,False,33.36,,,,,146.56,,,,66.51,1.00,,0.00,0.00,True,,,401906863,251,2130
 2026-11-02,Mon 9:00 PM,La Salle,Houston,False,27.27,,,,,137.86,,,,64.04,0.99,,0.00,0.00,True,,,401925811,248,2325
 2026-11-02,Mon 9:00 PM,Chattanooga,Louisville,False,35.68,,,,,153.42,,,,69.70,1.00,,0.00,0.00,True,,,401918947,97,236
-2026-11-02,Mon 9:00 PM,Ohio State,BYU,True,1.04,2.50,1.50,-1.46,-0.46,153.87,160.50,160.50,-6.63,69.06,0.54,0.56,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401916313,252,194
+2026-11-02,Mon 9:00 PM,Ohio State,BYU,True,1.04,2.50,1.50,-1.46,-0.46,153.87,160.50,160.50,-6.63,69.06,0.54,0.56,0.00,0.00,True,DraftKings,2026-10-31T13:36:03Z,401916313,252,194
 2026-11-02,Mon 9:00 PM,Davidson,Washington State,False,-1.14,,,,,142.75,,,,66.04,0.46,,0.00,0.00,True,,,401925771,265,2166
 2026-11-02,Mon 9:00 PM,Utah Tech,New Mexico,False,17.53,,,,,151.45,,,,69.41,0.94,,0.00,0.00,True,,,401924894,167,3101
 2026-11-02,Mon 9:00 PM,Long Beach State,Utah,False,15.31,,,,,147.75,,,,68.30,0.92,,0.00,0.00,True,,,401921697,254,299
