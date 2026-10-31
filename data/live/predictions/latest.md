@@ -15,12 +15,12 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-02 | Mon 9:00 PM | Ohio State | BYU (N) | +1.0 | +3.5 | +1.5 | -2.5 | yes |
 | 11-02 | Mon 6:00 AM | App State | Merrimack (N) | +1.2 | +3.5 | +3.5 | -2.3 | yes |
 | 11-02 | Mon 9:00 PM | Gardner-Webb | UConn | +40.7 | +38.5 | +35.5 | +2.2 | yes |
-| 11-02 | Mon 2:00 PM | UTEP | Northern Kentucky (N) | -1.3 | -2.5 | -2.5 | +1.2 | yes |
 | 11-02 | Mon 11:30 AM | Murray State | Tennessee State (N) | -9.7 | -8.5 | -8.5 | -1.2 | yes |
 | 11-02 | Mon 9:00 AM | Winthrop | Queens University (N) | +2.6 | +1.5 | +1.5 | +1.1 | yes |
 | 11-02 | Mon 7:30 PM | Gonzaga | Purdue (N) | -6.5 | -5.5 | -4.5 | -1.0 | yes |
 | 11-02 | Mon 6:00 PM | Miami | Florida (N) | +5.5 | +4.5 | +5.5 | +1.0 | yes |
 | 11-01 | Sun 9:30 AM | Notre Dame | Villanova (N) | +6.9 | +7.5 | +7.5 | -0.6 | yes |
+| 11-02 | Mon 2:00 PM | UTEP | Northern Kentucky (N) | -1.3 | -1.5 | -2.5 | +0.2 | yes |
 | 11-02 | Mon 10:00 PM | Arizona | UCLA (N) | -4.3 | -4.5 | -4.5 | +0.2 | yes |
 
 ## Top 25 by rating
