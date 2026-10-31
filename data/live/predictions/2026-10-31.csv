@@ -1,6 +1,6 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
-2026-11-01,Sun 11:59 PM,Liberty,High Point,True,12.29,7.50,7.50,4.79,4.79,152.31,154.50,154.50,-2.19,67.71,0.87,0.73,0.00,0.00,True,DraftKings,2026-10-31T16:06:03Z,401920409,2272,2335
-2026-11-01,Sun 9:30 AM,Notre Dame,Villanova,True,6.86,7.50,7.50,-0.64,-0.64,144.41,147.50,149.50,-3.09,65.65,0.73,0.72,0.00,0.00,True,DraftKings,2026-10-31T16:36:02Z,401920982,222,87
+2026-11-01,Sun 11:59 PM,Liberty,High Point,True,12.29,6.50,7.50,5.79,4.79,152.31,154.50,154.50,-2.19,67.71,0.87,0.73,0.00,0.00,True,DraftKings,2026-10-31T17:06:02Z,401920409,2272,2335
+2026-11-01,Sun 9:30 AM,Notre Dame,Villanova,True,6.86,7.50,7.50,-0.64,-0.64,144.41,147.50,149.50,-3.09,65.65,0.73,0.73,0.00,0.00,True,DraftKings,2026-10-31T17:06:02Z,401920982,222,87
 2026-11-02,Mon 10:00 PM,Arizona,UCLA,True,-4.33,-5.50,-4.50,1.17,0.17,149.02,150.50,150.50,-1.48,68.36,0.35,0.36,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401909738,26,12
 2026-11-02,Mon 10:00 PM,Montana State,Colorado State,False,7.68,,,,,140.92,,,,64.05,0.76,,0.00,0.00,True,,,401925878,36,147
 2026-11-02,Mon 10:00 PM,Montana,Oregon,False,19.47,,,,,146.80,,,,68.85,0.96,,0.00,0.00,True,,,401922029,2483,149
@@ -68,7 +68,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-02,Mon 7:00 PM,Mount St. Mary's,Xavier,False,23.26,,,,,151.45,,,,70.67,0.98,,0.00,0.00,True,,,401909541,2752,116
 2026-11-02,Mon 7:00 PM,Maine,Providence,False,30.17,,,,,148.91,,,,69.25,1.00,,0.00,0.00,True,,,401909531,2507,311
 2026-11-02,Mon 7:00 PM,Lafayette,Butler,False,19.85,,,,,148.29,,,,68.98,0.96,,0.00,0.00,True,,,401902275,2086,322
-2026-11-02,Mon 7:30 PM,Gonzaga,Purdue,True,-6.50,-5.50,-4.50,-1.00,-2.00,147.01,154.50,156.50,-7.49,67.06,0.28,0.32,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401921704,2509,2250
+2026-11-02,Mon 7:30 PM,Gonzaga,Purdue,True,-6.50,-5.50,-4.50,-1.00,-2.00,147.01,155.50,156.50,-8.49,67.06,0.28,0.32,0.00,0.00,True,DraftKings,2026-10-31T17:06:02Z,401921704,2509,2250
 2026-11-02,Mon 7:30 PM,Morehead State,Western Kentucky,False,16.25,,,,,148.44,,,,68.65,0.93,,0.00,0.00,True,,,401920959,98,2413
 2026-11-02,Mon 7:30 PM,Denver,Wisconsin,False,25.24,,,,,158.08,,,,69.74,0.99,,0.00,0.00,True,,,401920893,275,2172
 2026-11-02,Mon 7:30 PM,Saint Peter's,Seton Hall,False,22.52,,,,,136.35,,,,65.26,0.98,,0.00,0.00,True,,,401920886,2550,2612

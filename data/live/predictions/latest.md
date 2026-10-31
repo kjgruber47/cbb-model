@@ -9,7 +9,7 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-02 | Mon 7:00 PM | Memphis | Iowa State (N) | +20.2 | +13.5 | +13.5 | +6.7 | yes |
-| 11-01 | Sun 11:59 PM | Liberty | High Point (N) | +12.3 | +7.5 | +7.5 | +4.8 | yes |
+| 11-01 | Sun 11:59 PM | Liberty | High Point (N) | +12.3 | +6.5 | +7.5 | +5.8 | yes |
 | 11-02 | Mon 9:00 PM | Ohio State | BYU (N) | +1.0 | +2.5 | +1.5 | -1.5 | yes |
 | 11-02 | Mon 10:00 PM | Arizona | UCLA (N) | -4.3 | -5.5 | -4.5 | +1.2 | yes |
 | 11-02 | Mon 7:30 PM | Gonzaga | Purdue (N) | -6.5 | -5.5 | -4.5 | -1.0 | yes |
