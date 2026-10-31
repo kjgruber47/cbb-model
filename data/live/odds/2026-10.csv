@@ -498,3 +498,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-10-31T17:06:02Z,401921704,2026-11-02,2026-11-03T00:30Z,STATUS_SCHEDULED,True,2509,Purdue Boilermakers,2250,Gonzaga Bulldogs,0,0,scoreboard,100,DraftKings,current,5.5,155.5,,,,,,,GONZ -5.5
 2026-10-31T17:06:02Z,401921704,2026-11-02,2026-11-03T00:30Z,STATUS_SCHEDULED,True,2509,Purdue Boilermakers,2250,Gonzaga Bulldogs,0,0,scoreboard,100,DraftKings,close,5.5,155.5,200.0,-245.0,-110.0,-110.0,-105.0,-115.0,GONZ -5.5
 2026-10-31T17:06:02Z,401921704,2026-11-02,2026-11-03T00:30Z,STATUS_SCHEDULED,True,2509,Purdue Boilermakers,2250,Gonzaga Bulldogs,0,0,core,100,DraftKings,current,5.5,155.5,200,-245,-110.0,-110.0,-105.0,-115.0,GONZ -5.5
+2026-10-31T18:37:49Z,401920409,2026-11-01,2026-11-02T04:59Z,STATUS_SCHEDULED,True,2272,High Point Panthers,2335,Liberty Flames,0,0,scoreboard,100,DraftKings,close,-6.5,154.5,-325.0,260.0,-115.0,-105.0,-115.0,-105.0,HPU -6.5
+2026-10-31T18:37:49Z,401920409,2026-11-01,2026-11-02T04:59Z,STATUS_SCHEDULED,True,2272,High Point Panthers,2335,Liberty Flames,0,0,core,100,DraftKings,current,-6.5,154.5,-325,260,-115.0,-105.0,-115.0,-105.0,HPU -6.5
