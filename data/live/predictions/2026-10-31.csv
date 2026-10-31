@@ -1,6 +1,6 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
 2026-11-01,Sun 11:59 PM,Liberty,High Point,True,12.29,6.50,7.50,5.79,4.79,152.31,155.50,154.50,-3.19,67.71,0.87,0.72,0.00,0.00,True,DraftKings,2026-10-31T21:07:50Z,401920409,2272,2335
-2026-11-01,Sun 9:30 AM,Notre Dame,Villanova,True,6.86,7.50,7.50,-0.64,-0.64,144.41,147.50,149.50,-3.09,65.65,0.73,0.73,0.00,0.00,True,DraftKings,2026-10-31T17:06:02Z,401920982,222,87
+2026-11-01,Sun 9:30 AM,Notre Dame,Villanova,True,6.86,7.50,7.50,-0.64,-0.64,144.41,147.50,149.50,-3.09,65.65,0.73,0.72,0.00,0.00,True,DraftKings,2026-10-31T21:37:49Z,401920982,222,87
 2026-11-02,Mon 10:00 PM,Arizona,UCLA,True,-4.33,-4.50,-4.50,0.17,0.17,149.02,149.50,150.50,-0.48,68.36,0.35,0.36,0.00,0.00,True,DraftKings,2026-10-31T20:37:49Z,401909738,26,12
 2026-11-02,Mon 10:00 PM,Montana State,Colorado State,False,7.68,,,,,140.92,,,,64.05,0.76,,0.00,0.00,True,,,401925878,36,147
 2026-11-02,Mon 10:00 PM,Montana,Oregon,False,19.47,,,,,146.80,,,,68.85,0.96,,0.00,0.00,True,,,401922029,2483,149
@@ -13,14 +13,14 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-02,Mon 10:00 PM,North Alabama,UC Davis,False,15.29,,,,,143.27,,,,67.50,0.92,,0.00,0.00,True,,,401911517,302,2453
 2026-11-02,Mon 10:00 PM,Robert Morris,Nevada,False,12.69,,,,,141.93,,,,65.14,0.88,,0.00,0.00,True,,,401911452,2440,2523
 2026-11-02,Mon 10:30 PM,Milwaukee,USC,False,20.87,,,,,153.98,,,,70.90,0.97,,0.00,0.00,True,,,401926771,30,270
-2026-11-02,Mon 11:30 AM,Murray State,Tennessee State,True,-9.67,,,,,161.83,,,,73.68,0.19,,0.00,0.00,True,,,401911707,2634,93
+2026-11-02,Mon 11:30 AM,Murray State,Tennessee State,True,-9.67,-8.50,-8.50,-1.17,-1.17,161.83,161.50,161.50,0.33,73.68,0.19,0.27,0.00,0.00,True,DraftKings,2026-10-31T21:37:49Z,401911707,2634,93
 2026-11-02,Mon 11:59 PM,Seattle U,Hawai'i,False,1.80,,,,,144.37,,,,70.40,0.56,,0.00,0.00,True,,,401917506,62,2547
-2026-11-02,Mon 2:00 PM,UTEP,Northern Kentucky,True,-1.27,,,,,145.65,,,,68.61,0.45,,0.00,0.00,True,,,401911532,94,2638
-2026-11-02,Mon 3:00 AM,Grambling,Northern Illinois,True,1.84,,,,,142.09,,,,68.53,0.57,,0.00,0.00,True,,,401920912,2459,2755
+2026-11-02,Mon 2:00 PM,UTEP,Northern Kentucky,True,-1.27,-2.50,-2.50,1.23,1.23,145.65,148.50,148.50,-2.85,68.61,0.45,0.44,0.00,0.00,True,DraftKings,2026-10-31T21:37:49Z,401911532,94,2638
+2026-11-02,Mon 3:00 AM,Grambling,Northern Illinois,True,1.84,5.50,5.50,-3.66,-3.66,142.09,147.50,147.50,-5.41,68.53,0.57,0.68,0.00,0.00,True,DraftKings,2026-10-31T21:37:49Z,401920912,2459,2755
 2026-11-02,Mon 3:00 PM,UTSA,San José State,False,10.41,,,,,146.85,,,,67.40,0.83,,0.00,0.00,True,,,401911469,23,2636
 2026-11-02,Mon 4:00 PM,UMBC,George Mason,False,14.39,,,,,139.68,,,,64.63,0.90,,0.00,0.00,True,,,401920071,2244,2378
-2026-11-02,Mon 5:30 PM,UAB,McNeese,True,6.37,,,,,147.61,,,,68.73,0.72,,0.00,0.00,True,,,401919014,2377,5
-2026-11-02,Mon 6:00 AM,App State,Merrimack,True,1.17,,,,,130.09,,,,62.30,0.54,,0.00,0.00,True,,,401921422,2771,2026
+2026-11-02,Mon 5:30 PM,UAB,McNeese,True,6.37,3.50,3.50,2.87,2.87,147.61,148.50,148.50,-0.89,68.73,0.72,0.62,0.00,0.00,True,DraftKings,2026-10-31T21:37:49Z,401919014,2377,5
+2026-11-02,Mon 6:00 AM,App State,Merrimack,True,1.17,3.50,3.50,-2.33,-2.33,130.09,134.50,134.50,-4.41,62.30,0.54,0.62,0.00,0.00,True,DraftKings,2026-10-31T21:37:49Z,401921422,2771,2026
 2026-11-02,Mon 6:00 PM,Miami,Florida,True,5.49,4.50,5.50,0.99,-0.01,158.82,161.50,159.50,-2.68,70.76,0.69,0.64,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401906769,57,2390
 2026-11-02,Mon 6:00 PM,Oakland,Michigan,False,34.53,,,,,159.98,,,,72.82,1.00,,0.00,0.00,True,,,401925733,130,2473
 2026-11-02,Mon 6:00 PM,Virginia Lynchburg,VMI,False,50.30,,,,,166.05,,,,79.00,1.00,,0.00,0.00,True,,,401926200,2678,3229
@@ -106,7 +106,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-02,Mon 8:30 PM,Alcorn State,Ole Miss,False,32.31,,,,,145.04,,,,67.70,1.00,,0.00,0.00,True,,,401925683,145,2016
 2026-11-02,Mon 8:30 PM,Oral Roberts,Central Arkansas,False,10.47,,,,,147.21,,,,68.96,0.83,,0.00,0.00,True,,,401917913,2110,198
 2026-11-02,Mon 8:30 PM,Florida A&M,Florida State,True,18.71,,,,,151.75,,,,71.21,0.96,,0.00,0.00,True,,,401909694,52,50
-2026-11-02,Mon 9:00 AM,Winthrop,Queens University,True,2.62,,,,,160.83,,,,71.70,0.59,,0.00,0.00,True,,,401921423,2511,2737
+2026-11-02,Mon 9:00 AM,Winthrop,Queens University,True,2.62,1.50,1.50,1.12,1.12,160.83,165.50,165.50,-4.67,71.70,0.59,0.54,0.00,0.00,True,DraftKings,2026-10-31T21:37:49Z,401921423,2511,2737
 2026-11-02,Mon 9:00 PM,Gardner-Webb,UConn,False,40.70,38.50,35.50,2.20,5.20,145.45,147.50,147.50,-2.05,67.79,1.00,,0.00,0.00,True,DraftKings,2026-10-31T20:37:49Z,401911390,41,2241
 2026-11-02,Mon 9:00 PM,Chicago State,Texas,False,33.36,,,,,146.56,,,,66.51,1.00,,0.00,0.00,True,,,401906863,251,2130
 2026-11-02,Mon 9:00 PM,La Salle,Houston,False,27.27,,,,,137.86,,,,64.04,0.99,,0.00,0.00,True,,,401925811,248,2325

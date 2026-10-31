@@ -10,8 +10,14 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-02 | Mon 7:00 PM | Memphis | Iowa State (N) | +20.2 | +13.5 | +13.5 | +6.7 | yes |
 | 11-01 | Sun 11:59 PM | Liberty | High Point (N) | +12.3 | +6.5 | +7.5 | +5.8 | yes |
+| 11-02 | Mon 3:00 AM | Grambling | Northern Illinois (N) | +1.8 | +5.5 | +5.5 | -3.7 | yes |
+| 11-02 | Mon 5:30 PM | UAB | McNeese (N) | +6.4 | +3.5 | +3.5 | +2.9 | yes |
 | 11-02 | Mon 9:00 PM | Ohio State | BYU (N) | +1.0 | +3.5 | +1.5 | -2.5 | yes |
+| 11-02 | Mon 6:00 AM | App State | Merrimack (N) | +1.2 | +3.5 | +3.5 | -2.3 | yes |
 | 11-02 | Mon 9:00 PM | Gardner-Webb | UConn | +40.7 | +38.5 | +35.5 | +2.2 | yes |
+| 11-02 | Mon 2:00 PM | UTEP | Northern Kentucky (N) | -1.3 | -2.5 | -2.5 | +1.2 | yes |
+| 11-02 | Mon 11:30 AM | Murray State | Tennessee State (N) | -9.7 | -8.5 | -8.5 | -1.2 | yes |
+| 11-02 | Mon 9:00 AM | Winthrop | Queens University (N) | +2.6 | +1.5 | +1.5 | +1.1 | yes |
 | 11-02 | Mon 7:30 PM | Gonzaga | Purdue (N) | -6.5 | -5.5 | -4.5 | -1.0 | yes |
 | 11-02 | Mon 6:00 PM | Miami | Florida (N) | +5.5 | +4.5 | +5.5 | +1.0 | yes |
 | 11-01 | Sun 9:30 AM | Notre Dame | Villanova (N) | +6.9 | +7.5 | +7.5 | -0.6 | yes |
