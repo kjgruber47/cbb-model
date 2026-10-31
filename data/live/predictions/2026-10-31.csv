@@ -1,7 +1,7 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
 2026-11-01,Sun 11:59 PM,Liberty,High Point,True,12.29,7.50,7.50,4.79,4.79,152.31,154.50,154.50,-2.19,67.71,0.87,0.73,0.00,0.00,True,DraftKings,2026-10-30T06:30:29Z,401920409,2272,2335
 2026-11-01,Sun 9:30 AM,Notre Dame,Villanova,True,6.86,7.50,7.50,-0.64,-0.64,144.41,147.50,149.50,-3.09,65.65,0.73,0.72,0.00,0.00,True,DraftKings,2026-10-30T16:31:46Z,401920982,222,87
-2026-11-02,Mon 10:00 PM,Arizona,UCLA,True,-4.33,-5.50,-4.50,1.17,0.17,149.02,150.50,150.50,-1.48,68.36,0.35,0.36,0.00,0.00,True,Draft Kings,2026-10-31T05:32:58Z,401909738,26,12
+2026-11-02,Mon 10:00 PM,Arizona,UCLA,True,-4.33,-5.50,-4.50,1.17,0.17,149.02,150.50,150.50,-1.48,68.36,0.35,0.36,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401909738,26,12
 2026-11-02,Mon 10:00 PM,Montana State,Colorado State,False,7.68,,,,,140.92,,,,64.05,0.76,,0.00,0.00,True,,,401925878,36,147
 2026-11-02,Mon 10:00 PM,Montana,Oregon,False,19.47,,,,,146.80,,,,68.85,0.96,,0.00,0.00,True,,,401922029,2483,149
 2026-11-02,Mon 10:00 PM,East Tennessee State,Arizona State,False,16.08,,,,,148.82,,,,68.63,0.93,,0.00,0.00,True,,,401921731,9,2193
@@ -21,7 +21,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-02,Mon 4:00 PM,UMBC,George Mason,False,14.39,,,,,139.68,,,,64.63,0.90,,0.00,0.00,True,,,401920071,2244,2378
 2026-11-02,Mon 5:30 PM,UAB,McNeese,True,6.37,,,,,147.61,,,,68.73,0.72,,0.00,0.00,True,,,401919014,2377,5
 2026-11-02,Mon 6:00 AM,App State,Merrimack,True,1.17,,,,,130.09,,,,62.30,0.54,,0.00,0.00,True,,,401921422,2771,2026
-2026-11-02,Mon 6:00 PM,Miami,Florida,True,5.49,4.50,5.50,0.99,-0.01,158.82,161.50,159.50,-2.68,70.76,0.69,0.64,0.00,0.00,True,Draft Kings,2026-10-31T04:02:58Z,401906769,57,2390
+2026-11-02,Mon 6:00 PM,Miami,Florida,True,5.49,4.50,5.50,0.99,-0.01,158.82,161.50,159.50,-2.68,70.76,0.69,0.64,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401906769,57,2390
 2026-11-02,Mon 6:00 PM,Oakland,Michigan,False,34.53,,,,,159.98,,,,72.82,1.00,,0.00,0.00,True,,,401925733,130,2473
 2026-11-02,Mon 6:00 PM,Virginia Lynchburg,VMI,False,50.30,,,,,166.05,,,,79.00,1.00,,0.00,0.00,True,,,401926200,2678,3229
 2026-11-02,Mon 6:00 PM,Pepperdine,Cornell,False,5.66,,,,,159.30,,,,71.90,0.70,,0.00,0.00,True,,,401924717,172,2492
@@ -31,7 +31,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-02,Mon 6:30 PM,Central Connecticut,Temple,False,16.33,,,,,140.60,,,,64.65,0.93,,0.00,0.00,True,,,401925857,218,2115
 2026-11-02,Mon 6:30 PM,Loyola Maryland,Georgetown,False,24.04,,,,,146.53,,,,68.01,0.99,,0.00,0.00,True,,,401921264,46,2352
 2026-11-02,Mon 7:00 PM,Quinnipiac,Michigan State,False,28.95,,,,,147.61,,,,69.33,1.00,,0.00,0.00,True,,,401924856,127,2514
-2026-11-02,Mon 7:00 PM,Memphis,Iowa State,True,20.24,13.50,13.50,6.74,6.74,152.68,154.50,152.50,-1.82,70.09,0.97,0.87,0.00,0.00,True,Draft Kings,2026-10-31T04:02:58Z,401909771,66,235
+2026-11-02,Mon 7:00 PM,Memphis,Iowa State,True,20.24,13.50,13.50,6.74,6.74,152.68,154.50,152.50,-1.82,70.09,0.97,0.87,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401909771,66,235
 2026-11-02,Mon 7:00 PM,Jackson State,Texas Tech,False,40.88,,,,,152.09,,,,68.96,1.00,,0.00,0.00,True,,,401921036,2641,2296
 2026-11-02,Mon 7:00 PM,Bellarmine,Vanderbilt,False,31.04,,,,,153.33,,,,67.27,1.00,,0.00,0.00,True,,,401921104,238,91
 2026-11-02,Mon 7:00 PM,Charlotte,Indiana State,False,-1.07,,,,,142.99,,,,65.95,0.46,,0.00,0.00,True,,,401925818,282,2429
@@ -68,7 +68,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-02,Mon 7:00 PM,Mount St. Mary's,Xavier,False,23.26,,,,,151.45,,,,70.67,0.98,,0.00,0.00,True,,,401909541,2752,116
 2026-11-02,Mon 7:00 PM,Maine,Providence,False,30.17,,,,,148.91,,,,69.25,1.00,,0.00,0.00,True,,,401909531,2507,311
 2026-11-02,Mon 7:00 PM,Lafayette,Butler,False,19.85,,,,,148.29,,,,68.98,0.96,,0.00,0.00,True,,,401902275,2086,322
-2026-11-02,Mon 7:30 PM,Gonzaga,Purdue,True,-6.50,-5.50,-4.50,-1.00,-2.00,147.01,154.50,156.50,-7.49,67.06,0.28,0.32,0.00,0.00,True,Draft Kings,2026-10-31T04:02:58Z,401921704,2509,2250
+2026-11-02,Mon 7:30 PM,Gonzaga,Purdue,True,-6.50,-5.50,-4.50,-1.00,-2.00,147.01,154.50,156.50,-7.49,67.06,0.28,0.32,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401921704,2509,2250
 2026-11-02,Mon 7:30 PM,Morehead State,Western Kentucky,False,16.25,,,,,148.44,,,,68.65,0.93,,0.00,0.00,True,,,401920959,98,2413
 2026-11-02,Mon 7:30 PM,Denver,Wisconsin,False,25.24,,,,,158.08,,,,69.74,0.99,,0.00,0.00,True,,,401920893,275,2172
 2026-11-02,Mon 7:30 PM,Saint Peter's,Seton Hall,False,22.52,,,,,136.35,,,,65.26,0.98,,0.00,0.00,True,,,401920886,2550,2612
@@ -111,7 +111,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-02,Mon 9:00 PM,Chicago State,Texas,False,33.36,,,,,146.56,,,,66.51,1.00,,0.00,0.00,True,,,401906863,251,2130
 2026-11-02,Mon 9:00 PM,La Salle,Houston,False,27.27,,,,,137.86,,,,64.04,0.99,,0.00,0.00,True,,,401925811,248,2325
 2026-11-02,Mon 9:00 PM,Chattanooga,Louisville,False,35.68,,,,,153.42,,,,69.70,1.00,,0.00,0.00,True,,,401918947,97,236
-2026-11-02,Mon 9:00 PM,Ohio State,BYU,True,1.04,2.50,1.50,-1.46,-0.46,153.87,160.50,160.50,-6.63,69.06,0.54,0.56,0.00,0.00,True,Draft Kings,2026-10-31T04:02:58Z,401916313,252,194
+2026-11-02,Mon 9:00 PM,Ohio State,BYU,True,1.04,2.50,1.50,-1.46,-0.46,153.87,160.50,160.50,-6.63,69.06,0.54,0.56,0.00,0.00,True,DraftKings,2026-10-31T07:34:36Z,401916313,252,194
 2026-11-02,Mon 9:00 PM,Davidson,Washington State,False,-1.14,,,,,142.75,,,,66.04,0.46,,0.00,0.00,True,,,401925771,265,2166
 2026-11-02,Mon 9:00 PM,Utah Tech,New Mexico,False,17.53,,,,,151.45,,,,69.41,0.94,,0.00,0.00,True,,,401924894,167,3101
 2026-11-02,Mon 9:00 PM,Long Beach State,Utah,False,15.31,,,,,147.75,,,,68.30,0.92,,0.00,0.00,True,,,401921697,254,299
