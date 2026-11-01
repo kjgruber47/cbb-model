@@ -12,6 +12,7 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-02 | Mon 6:00 PM | Pepperdine | Cornell | +5.7 | -2.5 | -1.5 | +8.2 | yes |
 | 11-02 | Mon 6:00 PM | Oakland | Michigan | +34.5 | +26.5 | +28.5 | +8.0 | yes |
 | 11-02 | Mon 7:00 PM | Jackson State | Texas Tech | +40.9 | +33.5 | +33.5 | +7.4 | yes |
+| 11-02 | Mon 9:00 PM | Texas Southern | Grand Canyon | +34.9 | +27.5 | +27.5 | +7.4 | yes |
 | 11-02 | Mon 9:00 PM | Chicago State | Texas | +33.4 | +40.5 | +40.5 | -7.1 | yes |
 | 11-02 | Mon 7:00 PM | Miami (OH) | James Madison | -5.6 | +1.5 | -1.5 | -7.1 | yes |
 | 11-02 | Mon 7:00 PM | Memphis | Iowa State (N) | +20.2 | +13.5 | +13.5 | +6.7 | yes |
@@ -19,10 +20,9 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-02 | Mon 8:00 PM | Kansas City | Creighton | +32.9 | +26.5 | +26.5 | +6.4 | yes |
 | 11-02 | Mon 7:00 PM | Bucknell | Maryland | +25.2 | +31.5 | +31.5 | -6.3 | yes |
 | 11-02 | Mon 7:00 PM | Little Rock | VCU | +26.3 | +20.5 | +20.5 | +5.8 | yes |
-| 11-01 | Sun 11:59 PM | Liberty | High Point (N) | +12.3 | +6.5 | +7.5 | +5.8 | yes |
 | 11-02 | Mon 10:00 PM | North Alabama | UC Davis | +15.3 | +9.5 | +9.5 | +5.8 | yes |
+| 11-02 | Mon 8:30 PM | Florida A&M | Florida State (N) | +18.7 | +24.5 | +24.5 | -5.8 | yes |
 | 11-02 | Mon 7:30 PM | Kent State | Louisiana Tech | +0.2 | -5.5 | -5.5 | +5.7 | yes |
-| 11-02 | Mon 10:30 PM | Milwaukee | USC | +20.9 | +26.5 | +25.5 | -5.6 | yes |
 
 ## Top 25 by rating
 
