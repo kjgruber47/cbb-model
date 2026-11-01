@@ -122,3 +122,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-01T00:10:29Z,401922020,2026-11-02,Idaho State,Utah State,False,25.99,147.82,,,,,,
 2026-11-01T00:10:29Z,401909750,2026-11-02,Northwestern State,Baylor,False,23.96,146.07,,,,,,
 2026-11-01T00:40:29Z,401920409,2026-11-01,Liberty,High Point,True,12.29,152.31,7.50,154.50,7.50,154.50,DraftKings,2026-11-01T00:39:14Z
+2026-11-01T01:10:30Z,401921422,2026-11-02,App State,Merrimack,True,1.17,130.09,3.50,135.50,3.50,134.50,DraftKings,2026-11-01T01:09:15Z
+2026-11-01T01:10:30Z,401909771,2026-11-02,Memphis,Iowa State,True,20.24,152.68,12.50,155.50,13.50,152.50,DraftKings,2026-11-01T01:09:15Z
