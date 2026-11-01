@@ -10,19 +10,19 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-02 | Mon 7:00 PM | Memphis | Iowa State (N) | +20.2 | +12.5 | +13.5 | +7.7 | yes |
 | 11-02 | Mon 6:00 PM | Pepperdine | Cornell | +5.7 | -1.5 | -1.5 | +7.2 | yes |
+| 11-02 | Mon 8:00 PM | Kansas City | Creighton | +32.9 | +26.5 | +26.5 | +6.4 | yes |
+| 11-02 | Mon 9:00 PM | Chattanooga | Louisville | +35.7 | +29.5 | +29.5 | +6.2 | yes |
+| 11-02 | Mon 6:00 PM | Oakland | Michigan | +34.5 | +28.5 | +28.5 | +6.0 | yes |
+| 11-02 | Mon 9:00 PM | North Dakota | Minnesota | +20.5 | +26.5 | +26.5 | -6.0 | yes |
+| 11-02 | Mon 7:00 PM | Little Rock | VCU | +26.3 | +20.5 | +20.5 | +5.8 | yes |
+| 11-02 | Mon 7:30 PM | Kent State | Louisiana Tech | +0.2 | -5.5 | -5.5 | +5.7 | yes |
+| 11-02 | Mon 7:30 PM | Campbell | NC State | +28.8 | +23.5 | +23.5 | +5.3 | yes |
+| 11-02 | Mon 9:00 PM | Long Beach State | Utah | +15.3 | +20.5 | +20.5 | -5.2 | yes |
+| 11-02 | Mon 7:00 PM | Air Force | Wright State | +14.4 | +9.5 | +9.5 | +4.9 | yes |
 | 11-01 | Sun 11:59 PM | Liberty | High Point (N) | +12.3 | +7.5 | +7.5 | +4.8 | yes |
-| 11-02 | Mon 3:00 AM | Grambling | Northern Illinois (N) | +1.8 | +5.5 | +5.5 | -3.7 | yes |
-| 11-02 | Mon 3:00 PM | UTSA | San José State | +10.4 | +7.5 | +7.5 | +2.9 | yes |
-| 11-02 | Mon 5:30 PM | UAB | McNeese (N) | +6.4 | +3.5 | +3.5 | +2.9 | yes |
-| 11-02 | Mon 6:30 PM | Monmouth | St. John's | +24.9 | +27.5 | +27.5 | -2.6 | yes |
-| 11-02 | Mon 6:00 PM | Bowling Green | Georgia State | +1.0 | +3.5 | +3.5 | -2.5 | yes |
-| 11-02 | Mon 9:00 PM | Ohio State | BYU (N) | +1.0 | +3.5 | +1.5 | -2.5 | yes |
-| 11-02 | Mon 7:00 PM | Youngstown State | St. Bonaventure | +7.1 | +9.5 | +9.5 | -2.4 | yes |
-| 11-02 | Mon 6:00 AM | App State | Merrimack (N) | +1.2 | +3.5 | +3.5 | -2.3 | yes |
-| 11-02 | Mon 9:00 PM | Gardner-Webb | UConn | +40.7 | +38.5 | +35.5 | +2.2 | yes |
-| 11-02 | Mon 7:00 PM | Niagara | West Virginia | +26.6 | +28.5 | +28.5 | -1.9 | yes |
-| 11-02 | Mon 11:30 AM | Murray State | Tennessee State (N) | -9.7 | -8.5 | -8.5 | -1.2 | yes |
-| 11-02 | Mon 9:00 AM | Winthrop | Queens University (N) | +2.6 | +1.5 | +1.5 | +1.1 | yes |
+| 11-02 | Mon 9:00 PM | Davidson | Washington State | -1.1 | +3.5 | +3.5 | -4.6 | yes |
+| 11-02 | Mon 7:30 PM | Southern Indiana | Belmont | +20.1 | +15.5 | +15.5 | +4.6 | yes |
+| 11-02 | Mon 7:00 PM | Elon | Columbia | +7.0 | +2.5 | +2.5 | +4.5 | yes |
 
 ## Top 25 by rating
 
