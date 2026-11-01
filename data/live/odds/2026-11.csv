@@ -449,3 +449,4 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-01T02:39:15Z,401917506,2026-11-02,2026-11-03T04:59Z,STATUS_SCHEDULED,False,62,Hawai'i Rainbow Warriors,2547,Seattle U Redhawks,0,0,core,100,DraftKings,current,-1.5,146.5,-130,110,-115.0,-105.0,-108.0,-112.0,HAW -1.5
 2026-11-01T02:39:15Z,401917506,2026-11-02,2026-11-03T04:59Z,STATUS_SCHEDULED,False,62,Hawai'i Rainbow Warriors,2547,Seattle U Redhawks,0,0,core,100,DraftKings,open,-1.5,146.5,-130.0,110.0,-115.0,-105.0,,,HAW -1.5
 2026-11-01T03:09:15Z,401910995,2026-11-02,2026-11-03T00:00Z,STATUS_SCHEDULED,False,276,Marshall Thundering Herd,2084,Buffalo Bulls,0,0,scoreboard,100,DraftKings,close,-1.5,156.5,-148.0,124.0,-112.0,-108.0,-108.0,-112.0,MRSH -1.5
+2026-11-01T03:39:15Z,401910995,2026-11-02,2026-11-03T00:00Z,STATUS_SCHEDULED,False,276,Marshall Thundering Herd,2084,Buffalo Bulls,0,0,core,100,DraftKings,current,-1.5,156.5,-148,124,-112.0,-108.0,-108.0,-112.0,MRSH -1.5
