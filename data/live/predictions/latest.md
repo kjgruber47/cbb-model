@@ -15,14 +15,14 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-02 | Mon 6:00 PM | Oakland | Michigan | +34.5 | +28.5 | +28.5 | +6.0 | yes |
 | 11-02 | Mon 9:00 PM | North Dakota | Minnesota | +20.5 | +26.5 | +26.5 | -6.0 | yes |
 | 11-02 | Mon 7:00 PM | Little Rock | VCU | +26.3 | +20.5 | +20.5 | +5.8 | yes |
+| 11-01 | Sun 11:59 PM | Liberty | High Point (N) | +12.3 | +6.5 | +7.5 | +5.8 | yes |
+| 11-02 | Mon 10:00 PM | North Alabama | UC Davis | +15.3 | +9.5 | +9.5 | +5.8 | yes |
 | 11-02 | Mon 7:30 PM | Kent State | Louisiana Tech | +0.2 | -5.5 | -5.5 | +5.7 | yes |
+| 11-02 | Mon 10:30 PM | Milwaukee | USC | +20.9 | +26.5 | +25.5 | -5.6 | yes |
 | 11-02 | Mon 7:30 PM | Campbell | NC State | +28.8 | +23.5 | +23.5 | +5.3 | yes |
 | 11-02 | Mon 9:00 PM | Long Beach State | Utah | +15.3 | +20.5 | +20.5 | -5.2 | yes |
 | 11-02 | Mon 7:00 PM | Air Force | Wright State | +14.4 | +9.5 | +9.5 | +4.9 | yes |
-| 11-01 | Sun 11:59 PM | Liberty | High Point (N) | +12.3 | +7.5 | +7.5 | +4.8 | yes |
-| 11-02 | Mon 9:00 PM | Davidson | Washington State | -1.1 | +3.5 | +3.5 | -4.6 | yes |
 | 11-02 | Mon 7:30 PM | Southern Indiana | Belmont | +20.1 | +15.5 | +15.5 | +4.6 | yes |
-| 11-02 | Mon 7:00 PM | Elon | Columbia | +7.0 | +2.5 | +2.5 | +4.5 | yes |
 
 ## Top 25 by rating
 
