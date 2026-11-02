@@ -12,7 +12,6 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-02 | Mon 6:00 PM | Pepperdine | Cornell | +5.7 | -3.5 | -1.5 | +9.2 | yes |
 | 11-02 | Mon 9:30 PM | Northwestern State | Baylor | +24.0 | +32.5 | +30.5 | -8.5 | yes |
 | 11-02 | Mon 8:00 PM | Maryland Eastern Shore | Wake Forest | +24.4 | +32.5 | +31.5 | -8.1 | yes |
-| 11-02 | Mon 8:00 PM | Binghamton | Northwestern | +26.7 | +19.5 | +23.5 | +7.2 | yes |
 | 11-02 | Mon 9:00 PM | Chicago State | Texas | +33.4 | +40.5 | +40.5 | -7.1 | yes |
 | 11-02 | Mon 7:00 PM | Miami (OH) | James Madison | -5.6 | +1.5 | -1.5 | -7.1 | yes |
 | 11-02 | Mon 6:00 PM | Oakland | Michigan | +34.5 | +27.5 | +28.5 | +7.0 | yes |
@@ -23,6 +22,7 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-02 | Mon 6:30 PM | Army | Duke | +38.1 | +44.5 | +42.5 | -6.4 | yes |
 | 11-02 | Mon 7:30 PM | Campbell | NC State | +28.8 | +22.5 | +23.5 | +6.3 | yes |
 | 11-02 | Mon 7:00 PM | Bucknell | Maryland | +25.2 | +31.5 | +31.5 | -6.3 | yes |
+| 11-02 | Mon 8:00 PM | Binghamton | Northwestern | +26.7 | +20.5 | +23.5 | +6.2 | yes |
 
 ## Top 25 by rating
 
