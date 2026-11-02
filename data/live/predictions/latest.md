@@ -10,19 +10,19 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-02 | Mon 6:00 PM | Pepperdine | Cornell | +5.7 | -3.5 | -1.5 | +9.2 | yes |
 | 11-02 | Mon 7:00 PM | Little Rock | VCU | +26.3 | +18.5 | +20.5 | +7.8 | yes |
+| 11-02 | Mon 8:30 PM | Florida A&M | Florida State (N) | +18.7 | +26.5 | +24.5 | -7.8 | yes |
+| 11-02 | Mon 9:30 PM | Northwestern State | Baylor | +24.0 | +31.5 | +30.5 | -7.5 | yes |
 | 11-02 | Mon 7:00 PM | Miami (OH) | James Madison | -5.6 | +1.5 | -1.5 | -7.1 | yes |
 | 11-02 | Mon 6:00 PM | Oakland | Michigan | +34.5 | +27.5 | +28.5 | +7.0 | yes |
 | 11-02 | Mon 10:00 PM | North Alabama | UC Davis | +15.3 | +8.5 | +9.5 | +6.8 | yes |
-| 11-02 | Mon 8:30 PM | Florida A&M | Florida State (N) | +18.7 | +25.5 | +24.5 | -6.8 | yes |
 | 11-02 | Mon 3:00 AM | Northern Illinois | Grambling (N) | -1.8 | -8.5 | +5.5 | +6.7 | yes |
-| 11-02 | Mon 9:30 PM | Northwestern State | Baylor | +24.0 | +30.5 | +30.5 | -6.5 | yes |
 | 11-02 | Mon 8:00 PM | Kansas City | Creighton | +32.9 | +26.5 | +26.5 | +6.4 | yes |
 | 11-02 | Mon 9:00 PM | Texas Southern | Grand Canyon | +34.9 | +28.5 | +27.5 | +6.4 | yes |
 | 11-02 | Mon 6:30 PM | Army | Duke | +38.1 | +44.5 | +42.5 | -6.4 | yes |
 | 11-02 | Mon 7:00 PM | Bucknell | Maryland | +25.2 | +31.5 | +31.5 | -6.3 | yes |
+| 11-02 | Mon 9:00 PM | Chattanooga | Louisville | +35.7 | +29.5 | +29.5 | +6.2 | yes |
 | 11-02 | Mon 8:00 PM | Maryland Eastern Shore | Wake Forest | +24.4 | +30.5 | +31.5 | -6.1 | yes |
 | 11-02 | Mon 9:00 PM | Chicago State | Texas | +33.4 | +39.5 | +40.5 | -6.1 | yes |
-| 11-02 | Mon 7:30 PM | Mercyhurst | Marquette | +25.4 | +31.5 | +30.5 | -6.1 | yes |
 
 ## Top 25 by rating
 
