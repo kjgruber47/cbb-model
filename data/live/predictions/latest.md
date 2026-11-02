@@ -9,20 +9,20 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-02 | Mon 8:30 PM | Florida A&M | Florida State (N) | +18.7 | +28.5 | +24.5 | -9.8 | yes |
-| 11-02 | Mon 6:00 PM | Pepperdine | Cornell | +5.7 | -3.5 | -1.5 | +9.2 | yes |
 | 11-02 | Mon 9:30 PM | Northwestern State | Baylor | +24.0 | +32.5 | +30.5 | -8.5 | yes |
+| 11-02 | Mon 6:00 PM | Pepperdine | Cornell | +5.7 | -2.5 | -1.5 | +8.2 | yes |
 | 11-02 | Mon 8:00 PM | Maryland Eastern Shore | Wake Forest | +24.4 | +32.5 | +31.5 | -8.1 | yes |
 | 11-02 | Mon 6:00 PM | Oakland | Michigan | +34.5 | +26.5 | +28.5 | +8.0 | yes |
 | 11-02 | Mon 7:00 PM | Little Rock | VCU | +26.3 | +18.5 | +20.5 | +7.8 | yes |
 | 11-02 | Mon 9:00 PM | Chicago State | Texas | +33.4 | +40.5 | +40.5 | -7.1 | yes |
 | 11-02 | Mon 7:00 PM | Miami (OH) | James Madison | -5.6 | +1.5 | -1.5 | -7.1 | yes |
+| 11-03 | Tue 6:00 PM | Wofford | Tennessee | +34.6 | +27.5 | +27.5 | +7.1 | yes |
 | 11-02 | Mon 3:00 AM | Northern Illinois | Grambling (N) | -1.8 | -8.5 | +5.5 | +6.7 | yes |
 | 11-02 | Mon 8:00 PM | Kansas City | Creighton | +32.9 | +26.5 | +26.5 | +6.4 | yes |
 | 11-02 | Mon 9:00 PM | Texas Southern | Grand Canyon | +34.9 | +28.5 | +27.5 | +6.4 | yes |
 | 11-02 | Mon 6:30 PM | Army | Duke | +38.1 | +44.5 | +42.5 | -6.4 | yes |
 | 11-02 | Mon 7:30 PM | Campbell | NC State | +28.8 | +22.5 | +23.5 | +6.3 | yes |
 | 11-02 | Mon 7:00 PM | Bucknell | Maryland | +25.2 | +31.5 | +31.5 | -6.3 | yes |
-| 11-02 | Mon 8:00 PM | Binghamton | Northwestern | +26.7 | +20.5 | +23.5 | +6.2 | yes |
 
 ## Top 25 by rating
 
