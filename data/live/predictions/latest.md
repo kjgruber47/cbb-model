@@ -12,10 +12,10 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-02 | Mon 8:30 PM | Florida A&M | Florida State (N) | +18.7 | +27.5 | +24.5 | -8.8 | yes |
 | 11-02 | Mon 8:00 PM | Maryland Eastern Shore | Wake Forest | +24.4 | +32.5 | +31.5 | -8.1 | yes |
 | 11-02 | Mon 9:00 PM | Chicago State | Texas | +33.4 | +41.5 | +40.5 | -8.1 | yes |
-| 11-02 | Mon 7:00 PM | Little Rock | VCU | +26.3 | +18.5 | +20.5 | +7.8 | yes |
 | 11-02 | Mon 9:30 PM | Northwestern State | Baylor | +24.0 | +31.5 | +30.5 | -7.5 | yes |
 | 11-02 | Mon 7:00 PM | Miami (OH) | James Madison | -5.6 | +1.5 | -1.5 | -7.1 | yes |
 | 11-02 | Mon 6:00 PM | Oakland | Michigan | +34.5 | +27.5 | +28.5 | +7.0 | yes |
+| 11-02 | Mon 7:00 PM | Little Rock | VCU | +26.3 | +19.5 | +20.5 | +6.8 | yes |
 | 11-02 | Mon 3:00 AM | Northern Illinois | Grambling (N) | -1.8 | -8.5 | +5.5 | +6.7 | yes |
 | 11-02 | Mon 7:30 PM | Navy | George Washington | +13.0 | +19.5 | +15.5 | -6.5 | yes |
 | 11-02 | Mon 8:00 PM | Kansas City | Creighton | +32.9 | +26.5 | +26.5 | +6.4 | yes |
