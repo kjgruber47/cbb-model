@@ -9,6 +9,7 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-02 | Mon 8:30 PM | Florida A&M | Florida State (N) | +18.7 | +28.5 | +24.5 | -9.8 | yes |
+| 11-03 | Tue 8:00 PM | Arkansas-Pine Bluff | Arkansas | +30.8 | +40.5 | +40.5 | -9.7 | yes |
 | 11-02 | Mon 9:30 PM | Northwestern State | Baylor | +24.0 | +32.5 | +30.5 | -8.5 | yes |
 | 11-02 | Mon 8:00 PM | Binghamton | Northwestern | +26.7 | +18.5 | +23.5 | +8.2 | yes |
 | 11-02 | Mon 6:00 PM | Pepperdine | Cornell | +5.7 | -2.5 | -1.5 | +8.2 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-02 | Mon 9:00 PM | Texas Southern | Grand Canyon | +34.9 | +28.5 | +27.5 | +6.4 | yes |
 | 11-02 | Mon 6:30 PM | Army | Duke | +38.1 | +44.5 | +42.5 | -6.4 | yes |
 | 11-02 | Mon 7:00 PM | Bucknell | Maryland | +25.2 | +31.5 | +31.5 | -6.3 | yes |
-| 11-02 | Mon 7:30 PM | Mercyhurst | Marquette | +25.4 | +31.5 | +30.5 | -6.1 | yes |
 
 ## Top 25 by rating
 
