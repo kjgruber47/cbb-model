@@ -6612,3 +6612,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-03T08:31:02Z,401921808,2026-11-03,2026-11-04T01:00Z,STATUS_SCHEDULED,False,99,LSU Tigers,2443,LSU New Orleans Privateers,0,0,scoreboard,100,DraftKings,current,-23.5,159.5,,,,,,,LSU -23.5
 2026-11-03T08:31:02Z,401921808,2026-11-03,2026-11-04T01:00Z,STATUS_SCHEDULED,False,99,LSU Tigers,2443,LSU New Orleans Privateers,0,0,scoreboard,100,DraftKings,close,-23.5,159.5,-6500.0,2000.0,-115.0,-105.0,-110.0,-110.0,LSU -23.5
 2026-11-03T08:31:02Z,401921808,2026-11-03,2026-11-04T01:00Z,STATUS_SCHEDULED,False,99,LSU Tigers,2443,LSU New Orleans Privateers,0,0,core,100,DraftKings,current,-23.5,159.5,-6500,2000,-115.0,-105.0,-110.0,-110.0,LSU -23.5
+2026-11-03T09:01:01Z,401921165,2026-11-03,2026-11-04T01:00Z,STATUS_SCHEDULED,False,142,Missouri Tigers,325,Cleveland State Vikings,0,0,scoreboard,100,DraftKings,current,-26.5,160.5,,,,,,,MIZ -26.5
+2026-11-03T09:01:01Z,401921165,2026-11-03,2026-11-04T01:00Z,STATUS_SCHEDULED,False,142,Missouri Tigers,325,Cleveland State Vikings,0,0,scoreboard,100,DraftKings,close,-26.5,160.5,-10000.0,3000.0,-105.0,-115.0,-105.0,-115.0,MIZ -26.5
