@@ -1,4 +1,4 @@
-# Predictions for Monday, November 2, 2026
+# Predictions for Tuesday, November 3, 2026
 
 Ratings fit on 0 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-02 | Mon 8:30 PM | Florida A&M | Florida State (N) | +18.7 | +28.5 | +24.5 | -9.8 | yes |
 | 11-03 | Tue 8:00 PM | Arkansas-Pine Bluff | Arkansas | +30.8 | +40.5 | +40.5 | -9.7 | yes |
-| 11-02 | Mon 9:30 PM | Northwestern State | Baylor | +24.0 | +32.5 | +30.5 | -8.5 | yes |
-| 11-02 | Mon 8:00 PM | Binghamton | Northwestern | +26.7 | +18.5 | +23.5 | +8.2 | yes |
-| 11-02 | Mon 6:00 PM | Pepperdine | Cornell | +5.7 | -2.5 | -1.5 | +8.2 | yes |
-| 11-02 | Mon 8:00 PM | Maryland Eastern Shore | Wake Forest | +24.4 | +32.5 | +31.5 | -8.1 | yes |
-| 11-02 | Mon 6:00 PM | Oakland | Michigan | +34.5 | +26.5 | +28.5 | +8.0 | yes |
-| 11-02 | Mon 7:00 PM | Little Rock | VCU | +26.3 | +18.5 | +20.5 | +7.8 | yes |
-| 11-02 | Mon 9:00 PM | Chicago State | Texas | +33.4 | +40.5 | +40.5 | -7.1 | yes |
-| 11-02 | Mon 7:00 PM | Miami (OH) | James Madison | -5.6 | +1.5 | -1.5 | -7.1 | yes |
 | 11-03 | Tue 6:00 PM | Wofford | Tennessee | +34.6 | +27.5 | +27.5 | +7.1 | yes |
-| 11-02 | Mon 3:00 AM | Northern Illinois | Grambling (N) | -1.8 | -8.5 | +5.5 | +6.7 | yes |
-| 11-02 | Mon 9:00 PM | Texas Southern | Grand Canyon | +34.9 | +28.5 | +27.5 | +6.4 | yes |
-| 11-02 | Mon 6:30 PM | Army | Duke | +38.1 | +44.5 | +42.5 | -6.4 | yes |
-| 11-02 | Mon 7:00 PM | Bucknell | Maryland | +25.2 | +31.5 | +31.5 | -6.3 | yes |
+| 11-03 | Tue 10:00 PM | North Florida | California Baptist | +15.1 | +9.5 | +9.5 | +5.6 | yes |
+| 11-03 | Tue 8:00 PM | Alabama State | Texas A&M | +32.6 | +27.5 | +27.5 | +5.1 | yes |
+| 11-03 | Tue 7:00 PM | Coppin State | Virginia Tech | +36.4 | +31.5 | +31.5 | +4.9 | yes |
+| 11-03 | Tue 7:00 PM | Manhattan | Kentucky | +36.7 | +32.5 | +31.5 | +4.2 | yes |
+| 11-03 | Tue 7:30 PM | Sam Houston | Alabama | +23.4 | +27.5 | +26.5 | -4.1 | yes |
+| 11-03 | Tue 8:00 PM | LSU New Orleans | LSU | +18.5 | +22.5 | +21.5 | -4.0 | yes |
+| 11-03 | Tue 7:00 PM | Hampton | Georgia Tech | +11.6 | +15.5 | +15.5 | -3.9 | yes |
+| 11-03 | Tue 7:30 PM | Drexel | Virginia | +25.5 | +28.5 | +26.5 | -3.0 | yes |
+| 11-03 | Tue 10:00 PM | Northern Arizona | UNLV | +18.8 | +21.5 | +21.5 | -2.7 | yes |
+| 11-03 | Tue 7:00 PM | Stetson | South Carolina | +19.0 | +16.5 | +16.5 | +2.5 | yes |
+| 11-03 | Tue 7:00 PM | Purdue Fort Wayne | Duquesne | +12.4 | +10.5 | +11.5 | +1.9 | yes |
+| 11-03 | Tue 7:00 PM | Holy Cross | Rhode Island | +15.9 | +17.5 | +17.5 | -1.6 | yes |
+| 11-03 | Tue 8:00 PM | South Dakota State | Kansas State | +14.0 | +12.5 | +13.5 | +1.5 | yes |
 
 ## Top 25 by rating
 
