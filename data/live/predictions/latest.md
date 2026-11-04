@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-03 | Tue 8:00 PM | Arkansas-Pine Bluff | Arkansas | +30.8 | +41.5 | +40.5 | -10.7 | yes |
+| 11-03 | Tue 8:00 PM | Arkansas-Pine Bluff | Arkansas | +30.8 | +42.5 | +40.5 | -11.7 | yes |
 | 11-03 | Tue 6:00 PM | Wofford | Tennessee | +34.6 | +25.5 | +27.5 | +9.1 | yes |
 | 11-03 | Tue 8:00 PM | LSU New Orleans | LSU | +18.5 | +27.5 | +21.5 | -9.0 | yes |
 | 11-03 | Tue 7:30 PM | Drexel | Virginia | +25.5 | +31.5 | +26.5 | -6.0 | yes |
