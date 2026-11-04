@@ -1195,3 +1195,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-04T15:40:53Z,401919028,2026-11-04,Cal State Northridge,Wichita State,False,18.26,156.15,15.50,160.50,14.50,161.50,DraftKings,2026-11-04T15:39:45Z
 2026-11-04T15:40:53Z,401918052,2026-11-04,Radford,California,False,18.82,152.82,16.50,157.50,17.50,155.50,DraftKings,2026-11-04T15:39:45Z
 2026-11-04T16:10:57Z,401917513,2026-11-04,Milwaukee,Santa Clara,False,19.54,151.75,17.50,161.50,18.50,159.50,DraftKings,2026-11-04T16:09:45Z
+2026-11-04T16:40:52Z,401917513,2026-11-04,Milwaukee,Santa Clara,False,19.54,151.75,16.50,161.50,18.50,159.50,DraftKings,2026-11-04T16:39:45Z
