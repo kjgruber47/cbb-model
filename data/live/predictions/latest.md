@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-04 | Wed 7:00 PM | Fairleigh Dickinson | Butler | +19.8 | +28.5 | +24.5 | -8.7 | yes |
+| 11-04 | Wed 7:00 PM | Fairleigh Dickinson | Butler | +19.8 | +29.5 | +24.5 | -9.7 | yes |
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +2.2 | -5.5 | -5.5 | +7.7 | yes |
 | 11-05 | Thu 8:00 PM | Coastal Carolina | Duke | +33.0 | +40.5 | +41.5 | -7.5 | yes |
 | 11-05 | Thu 8:00 PM | VMI | SMU | +31.3 | +24.5 | +23.5 | +6.8 | yes |
