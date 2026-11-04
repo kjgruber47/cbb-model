@@ -18,7 +18,7 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-04 | Wed 8:00 PM | SE Louisiana | Auburn | +26.4 | +28.5 | +25.5 | -2.1 | yes |
 | 11-04 | Wed 10:00 PM | Milwaukee | Santa Clara | +19.5 | +17.5 | +18.5 | +2.0 | yes |
 | 11-04 | Wed 10:00 PM | North Dakota State | Saint Mary's | +15.5 | +13.5 | +12.5 | +2.0 | yes |
-| 11-04 | Wed 7:00 PM | Longwood | Saint Joseph's | +10.9 | +9.5 | +10.5 | +1.4 | yes |
+| 11-04 | Wed 7:00 PM | Longwood | Saint Joseph's | +10.9 | +10.5 | +10.5 | +0.4 | yes |
 
 ## Top 25 by rating
 
