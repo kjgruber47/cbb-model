@@ -1167,3 +1167,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-04T10:09:08Z,401917513,2026-11-04,Milwaukee,Santa Clara,False,19.54,151.75,17.50,159.50,18.50,159.50,DraftKings,2026-11-04T10:08:00Z
 2026-11-04T10:39:08Z,401928811,2026-11-04,Northern Kentucky,South Dakota,False,0.81,154.32,-2.50,161.50,-1.50,159.50,DraftKings,2026-11-04T10:38:00Z
 2026-11-04T11:09:08Z,401902276,2026-11-04,Fairleigh Dickinson,Butler,False,19.83,144.17,24.50,153.50,24.50,151.50,DraftKings,2026-11-04T11:08:01Z
+2026-11-04T11:39:07Z,401919028,2026-11-04,Cal State Northridge,Wichita State,False,18.26,156.15,14.50,160.50,14.50,161.50,DraftKings,2026-11-04T11:38:01Z
