@@ -8,9 +8,12 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-05 | Thu 8:00 PM | VMI | SMU | +31.3 | +23.5 | +23.5 | +7.8 | yes |
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +2.2 | -5.5 | -5.5 | +7.7 | yes |
 | 11-04 | Wed 7:00 PM | Fairleigh Dickinson | Butler | +19.8 | +27.5 | +24.5 | -7.7 | yes |
+| 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +19.5 | +19.5 | -6.6 | yes |
 | 11-04 | Wed 7:00 PM | Maryland Eastern Shore | High Point | +28.7 | +34.5 | +29.5 | -5.8 | yes |
+| 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +15.5 | +15.5 | +4.8 | yes |
 | 11-04 | Wed 8:00 PM | Northern Kentucky | South Dakota | +0.8 | -2.5 | -1.5 | +3.3 | yes |
 | 11-04 | Wed 8:00 PM | SE Louisiana | Auburn | +26.4 | +29.5 | +25.5 | -3.1 | yes |
 | 11-04 | Wed 7:30 PM | Cal State Northridge | Wichita State | +18.3 | +15.5 | +14.5 | +2.8 | yes |
@@ -18,7 +21,8 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-04 | Wed 9:00 PM | Radford | California | +18.8 | +16.5 | +17.5 | +2.3 | yes |
 | 11-04 | Wed 10:00 PM | Milwaukee | Santa Clara | +19.5 | +17.5 | +18.5 | +2.0 | yes |
 | 11-04 | Wed 10:00 PM | North Dakota State | Saint Mary's | +15.5 | +13.5 | +12.5 | +2.0 | yes |
-| 11-04 | Wed 7:00 PM | Longwood | Saint Joseph's | +10.9 | +10.5 | +10.5 | +0.4 | yes |
+| 11-05 | Thu 6:00 PM | Chattanooga | Penn State | +18.2 | +16.5 | +16.5 | +1.7 | yes |
+| 11-05 | Thu 6:00 PM | Wake Forest | Vanderbilt | +16.7 | +17.5 | +17.5 | -0.8 | yes |
 
 ## Top 25 by rating
 
