@@ -13,16 +13,16 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-03 | Tue 8:00 PM | LSU New Orleans | LSU | +18.5 | +27.5 | +21.5 | -9.0 | yes |
 | 11-03 | Tue 7:30 PM | Drexel | Virginia | +25.5 | +31.5 | +26.5 | -6.0 | yes |
 | 11-03 | Tue 7:00 PM | Coppin State | Virginia Tech | +36.4 | +31.5 | +31.5 | +4.9 | yes |
+| 11-04 | Wed 7:00 PM | Fairleigh Dickinson | Butler | +19.8 | +24.5 | +24.5 | -4.7 | yes |
 | 11-03 | Tue 7:00 PM | Holy Cross | Rhode Island | +15.9 | +20.5 | +17.5 | -4.6 | yes |
 | 11-03 | Tue 10:00 PM | North Florida | California Baptist | +15.1 | +10.5 | +9.5 | +4.6 | yes |
 | 11-03 | Tue 10:00 PM | Cal State Fullerton | San Diego State | +17.7 | +13.5 | +16.5 | +4.2 | yes |
 | 11-03 | Tue 7:30 PM | Sam Houston | Alabama | +23.4 | +27.5 | +26.5 | -4.1 | yes |
 | 11-04 | Wed 7:30 PM | Cal State Northridge | Wichita State | +18.3 | +14.5 | +14.5 | +3.8 | yes |
-| 11-04 | Wed 7:00 PM | Fairleigh Dickinson | Butler | +19.8 | +23.5 | +24.5 | -3.7 | yes |
-| 11-03 | Tue 8:00 PM | South Dakota State | Kansas State | +14.0 | +10.5 | +13.5 | +3.5 | yes |
 | 11-04 | Wed 9:00 PM | Radford | California | +18.8 | +15.5 | +17.5 | +3.3 | yes |
 | 11-04 | Wed 8:00 PM | Northern Kentucky | South Dakota | +0.8 | -2.5 | -1.5 | +3.3 | yes |
 | 11-03 | Tue 7:00 PM | Manhattan | Kentucky | +36.7 | +33.5 | +31.5 | +3.2 | yes |
+| 11-04 | Wed 10:00 PM | North Dakota State | Saint Mary's | +15.5 | +12.5 | +12.5 | +3.0 | yes |
 
 ## Top 25 by rating
 
