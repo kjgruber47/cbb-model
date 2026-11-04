@@ -9,14 +9,14 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +2.2 | -5.5 | -5.5 | +7.7 | yes |
-| 11-04 | Wed 7:00 PM | Fairleigh Dickinson | Butler | +19.8 | +26.5 | +24.5 | -6.7 | yes |
+| 11-04 | Wed 7:00 PM | Fairleigh Dickinson | Butler | +19.8 | +27.5 | +24.5 | -7.7 | yes |
 | 11-04 | Wed 7:00 PM | Maryland Eastern Shore | High Point | +28.7 | +33.5 | +29.5 | -4.8 | yes |
 | 11-04 | Wed 7:30 PM | Cal State Northridge | Wichita State | +18.3 | +14.5 | +14.5 | +3.8 | yes |
+| 11-04 | Wed 9:00 PM | Radford | California | +18.8 | +15.5 | +17.5 | +3.3 | yes |
 | 11-04 | Wed 8:00 PM | Northern Kentucky | South Dakota | +0.8 | -2.5 | -1.5 | +3.3 | yes |
 | 11-04 | Wed 8:00 PM | SE Louisiana | Auburn | +26.4 | +29.5 | +25.5 | -3.1 | yes |
 | 11-04 | Wed 10:00 PM | Milwaukee | Santa Clara | +19.5 | +16.5 | +18.5 | +3.0 | yes |
 | 11-04 | Wed 10:00 PM | Queens University | Loyola Marymount | +6.2 | +8.5 | +5.5 | -2.3 | yes |
-| 11-04 | Wed 9:00 PM | Radford | California | +18.8 | +16.5 | +17.5 | +2.3 | yes |
 | 11-04 | Wed 10:00 PM | North Dakota State | Saint Mary's | +15.5 | +13.5 | +12.5 | +2.0 | yes |
 | 11-04 | Wed 7:00 PM | Longwood | Saint Joseph's | +10.9 | +10.5 | +10.5 | +0.4 | yes |
 
