@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +17.5 | +19.5 | -4.6 | yes |
 | 11-05 | Thu 7:00 PM | Green Bay | Cincinnati | +29.0 | +24.5 | +24.5 | +4.5 | yes |
 | 11-05 | Thu 8:00 PM | East Texas A&M | Rice | +7.9 | +3.5 | +4.5 | +4.4 | yes |
-| 11-05 | Thu 6:00 PM | Bellarmine | Indiana | +26.5 | +30.5 | +26.5 | -4.0 | yes |
 | 11-05 | Thu 8:00 PM | Gardner-Webb | Texas | +37.6 | +41.5 | +39.5 | -3.9 | yes |
+| 11-05 | Thu 7:30 PM | Stonehill | Fordham | +16.7 | +20.5 | +16.5 | -3.8 | yes |
 
 ## Top 25 by rating
 
