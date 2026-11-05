@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-05 | Thu 10:30 PM | Cal Poly | Arizona | +27.0 | +30.5 | +29.5 | -3.5 | yes |
 | 11-04 | Wed 8:00 PM | Northern Kentucky | South Dakota | +0.8 | -2.5 | -1.5 | +3.3 | yes |
 | 11-04 | Wed 8:00 PM | SE Louisiana | Auburn | +26.4 | +29.5 | +25.5 | -3.1 | yes |
-| 11-04 | Wed 10:00 PM | North Dakota State | Saint Mary's | +15.5 | +12.5 | +12.5 | +3.0 | yes |
+| 11-04 | Wed 7:30 PM | Cal State Northridge | Wichita State | +18.3 | +15.5 | +14.5 | +2.8 | yes |
 
 ## Top 25 by rating
 
