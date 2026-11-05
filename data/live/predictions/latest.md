@@ -17,8 +17,8 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +14.5 | +15.5 | +5.8 | yes |
 | 11-05 | Thu 6:00 PM | Chattanooga | Penn State | +18.2 | +12.5 | +16.5 | +5.7 | yes |
 | 11-05 | Thu 6:30 PM | Long Island University | Seton Hall | +23.1 | +17.5 | +18.5 | +5.6 | yes |
-| 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +18.5 | +19.5 | -5.6 | yes |
 | 11-05 | Thu 9:00 PM | Bethune-Cookman | Texas Tech | +34.8 | +29.5 | +26.5 | +5.3 | yes |
+| 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +17.5 | +19.5 | -4.6 | yes |
 | 11-05 | Thu 7:00 PM | Green Bay | Cincinnati | +29.0 | +24.5 | +24.5 | +4.5 | yes |
 | 11-05 | Thu 8:00 PM | East Texas A&M | Rice | +7.9 | +3.5 | +4.5 | +4.4 | yes |
 | 11-05 | Thu 8:00 PM | Gardner-Webb | Texas | +37.6 | +41.5 | +39.5 | -3.9 | yes |
