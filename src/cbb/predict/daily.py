@@ -73,12 +73,18 @@ def ensure_espn(season: int) -> None:
             print(fetch_espn(s, table, refresh=refresh), flush=True)
 
 
-def completed_games(season: int) -> pd.DataFrame:
+def completed_games(season: int, d1: set) -> pd.DataFrame:
+    """This season's box-scored games between D-I teams.
+
+    D-I membership comes from `d1` (see d1_teams), not build_season's own flag:
+    that flag needs 10+ box-scored games this season, which no team has during
+    the first weeks, so it would drop every game.
+    """
     if not (RAW_ESPN / f"team_box_{season}.csv").exists():
         return pd.DataFrame()
     g = build_season(season)
     g["date"] = pd.to_datetime(g.game_date)
-    return g[g.home_d1 & g.away_d1 & g.poss_ok]
+    return g[g.home_id.isin(d1) & g.away_id.isin(d1) & g.poss_ok]
 
 
 def d1_teams(season: int, last_season_d1: set) -> set:
@@ -197,7 +203,7 @@ def run(today: dt.date, days: int = 3) -> pd.DataFrame:
 
     d1 = d1_teams(season, set(prev_teams))
     teams = np.array(sorted(d1))
-    played = completed_games(season)
+    played = completed_games(season, d1)
     asof = pd.Timestamp(today)
     train = played[played.date < asof] if len(played) else played
     ratings = fit(train, teams, prior, p, as_of=asof)
@@ -275,8 +281,8 @@ def write_markdown(out: pd.DataFrame, table: pd.DataFrame, today: dt.date, n_tra
         f"Ratings fit on {n_train} D-I games played this season before today. "
         "Margins are from the home team's view. Edge = model minus market.",
         "",
-        "Early-season numbers (either team under 8 games) lean on last season's ratings "
-        "and are not yet adjusted for roster changes. Treat them with caution.",
+        "Early-season numbers (either team under 8 games) lean on the preseason ratings "
+        "(last season's, adjusted for roster changes). Treat them with caution.",
         "",
         "## Largest spread disagreements",
         "",
