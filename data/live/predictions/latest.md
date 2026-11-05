@@ -12,17 +12,17 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +2.2 | -5.5 | -5.5 | +7.7 | yes |
 | 11-05 | Thu 8:00 PM | Coastal Carolina | Duke | +33.0 | +40.5 | +41.5 | -7.5 | yes |
 | 11-05 | Thu 8:00 PM | VMI | SMU | +31.3 | +24.5 | +23.5 | +6.8 | yes |
+| 11-05 | Thu 7:00 PM | Delaware State | Navy | +15.1 | +8.5 | +9.5 | +6.6 | yes |
 | 11-05 | Thu 8:00 PM | West Georgia | Loyola Chicago | +12.1 | +18.5 | +16.5 | -6.4 | yes |
 | 11-05 | Thu 8:30 PM | Pennsylvania | Illinois | +24.5 | +30.5 | +29.5 | -6.0 | yes |
 | 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +14.5 | +15.5 | +5.8 | yes |
 | 11-05 | Thu 6:00 PM | Chattanooga | Penn State | +18.2 | +12.5 | +16.5 | +5.7 | yes |
+| 11-05 | Thu 6:30 PM | Long Island University | Seton Hall | +23.1 | +17.5 | +18.5 | +5.6 | yes |
 | 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +18.5 | +19.5 | -5.6 | yes |
-| 11-05 | Thu 7:00 PM | Delaware State | Navy | +15.1 | +9.5 | +9.5 | +5.6 | yes |
-| 11-05 | Thu 7:00 PM | Bryant | Quinnipiac | +9.8 | +4.5 | +4.5 | +5.3 | yes |
 | 11-05 | Thu 8:00 PM | Le Moyne | Creighton | +31.2 | +26.5 | +26.5 | +4.7 | yes |
-| 11-05 | Thu 6:30 PM | Long Island University | Seton Hall | +23.1 | +18.5 | +18.5 | +4.6 | yes |
+| 11-05 | Thu 7:00 PM | Central Connecticut | Syracuse | +25.1 | +20.5 | +22.5 | +4.6 | yes |
 | 11-05 | Thu 7:00 PM | Green Bay | Cincinnati | +29.0 | +24.5 | +24.5 | +4.5 | yes |
-| 11-05 | Thu 8:00 PM | Jacksonville State | South Alabama | +1.8 | +5.5 | +3.5 | -3.7 | yes |
+| 11-05 | Thu 7:00 PM | Bryant | Quinnipiac | +9.8 | +5.5 | +4.5 | +4.3 | yes |
 
 ## Top 25 by rating
 
