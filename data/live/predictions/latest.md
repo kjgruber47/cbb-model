@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-05 | Thu 9:00 PM | Bethune-Cookman | Texas Tech | +34.8 | +26.5 | +26.5 | +8.3 | yes |
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +2.2 | -5.5 | -5.5 | +7.7 | yes |
+| 11-05 | Thu 7:00 PM | Delaware State | Navy | +15.1 | +7.5 | +9.5 | +7.6 | yes |
 | 11-05 | Thu 8:00 PM | Coastal Carolina | Duke | +33.0 | +40.5 | +41.5 | -7.5 | yes |
 | 11-05 | Thu 8:00 PM | VMI | SMU | +31.3 | +24.5 | +23.5 | +6.8 | yes |
-| 11-05 | Thu 7:00 PM | Delaware State | Navy | +15.1 | +8.5 | +9.5 | +6.6 | yes |
 | 11-05 | Thu 8:00 PM | West Georgia | Loyola Chicago | +12.1 | +18.5 | +16.5 | -6.4 | yes |
 | 11-05 | Thu 8:30 PM | Pennsylvania | Illinois | +24.5 | +30.5 | +29.5 | -6.0 | yes |
 | 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +14.5 | +15.5 | +5.8 | yes |
 | 11-05 | Thu 6:00 PM | Chattanooga | Penn State | +18.2 | +12.5 | +16.5 | +5.7 | yes |
 | 11-05 | Thu 6:30 PM | Long Island University | Seton Hall | +23.1 | +17.5 | +18.5 | +5.6 | yes |
 | 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +18.5 | +19.5 | -5.6 | yes |
-| 11-05 | Thu 8:00 PM | Le Moyne | Creighton | +31.2 | +26.5 | +26.5 | +4.7 | yes |
-| 11-05 | Thu 7:00 PM | Central Connecticut | Syracuse | +25.1 | +20.5 | +22.5 | +4.6 | yes |
+| 11-05 | Thu 9:00 PM | Bethune-Cookman | Texas Tech | +34.8 | +29.5 | +26.5 | +5.3 | yes |
 | 11-05 | Thu 7:00 PM | Green Bay | Cincinnati | +29.0 | +24.5 | +24.5 | +4.5 | yes |
 | 11-05 | Thu 7:00 PM | Bryant | Quinnipiac | +9.8 | +5.5 | +4.5 | +4.3 | yes |
+| 11-05 | Thu 8:00 PM | Gardner-Webb | Texas | +37.6 | +41.5 | +39.5 | -3.9 | yes |
+| 11-05 | Thu 5:00 PM | McNeese | North Texas | +0.3 | -3.5 | -1.5 | +3.8 | yes |
 
 ## Top 25 by rating
 
