@@ -33,6 +33,7 @@ from scipy.stats import norm
 from cbb.build.games import MIN_D1_GAMES, build_season
 from cbb.fetch.espn_history import current_season, fetch as fetch_espn
 from cbb.fetch.espn_live import game_meta
+from cbb.model.drift import days_in, season_start
 from cbb.model.ratings import Params, Prior, fit, predict
 from cbb.paths import LIVE, RAW_ESPN, ROOT, ensure
 
@@ -161,11 +162,15 @@ def latest_odds() -> pd.DataFrame:
     if not files:
         return pd.DataFrame()
     o = pd.concat([pd.read_csv(f) for f in files[-2:]], ignore_index=True)
-    o = o[o.source == "core"].sort_values("snapshot_utc")
-    o = o.drop_duplicates(["game_id", "provider", "phase"], keep="last")
-    # One provider per game: the one with the most coverage overall.
-    top = o.provider.value_counts().index
-    o["rank"] = o.provider.map({p: i for i, p in enumerate(top)})
+    o = o[o.source == "core"].copy()
+    # ESPN alternates between "DraftKings" and "Draft Kings" from one snapshot to the
+    # next, and lists in-game odds as "... - Live Odds": merge the spellings, drop live.
+    o["book"] = o.provider.astype(str).str.lower().str.replace(" ", "")
+    o = o[~o.book.str.contains("live")]
+    o = o.sort_values("snapshot_utc").drop_duplicates(["game_id", "book", "phase"], keep="last")
+    # One book per game: the one with the most coverage overall.
+    top = o.book.value_counts().index
+    o["rank"] = o.book.map({p: i for i, p in enumerate(top)})
     o = o.sort_values("rank").drop_duplicates(["game_id", "phase"])
     cur = o[o.phase == "current"].set_index("game_id")
     opn = o[o.phase == "open"].set_index("game_id")
@@ -195,7 +200,8 @@ def run(today: dt.date, days: int = 3) -> pd.DataFrame:
 
     prev = build_season(season - 1)
     prev["date"] = pd.to_datetime(prev.game_date)
-    prev = prev[prev.home_d1 & prev.away_d1 & prev.poss_ok]
+    prev = prev[prev.home_d1 & prev.away_d1 & prev.poss_ok].copy()
+    prev["dos"] = days_in(prev.date, season_start(prev.date))
     prev_teams = np.array(sorted(set(prev.home_id) | set(prev.away_id)))
     p_final = replace(p, lam_eff=p.lam_final, lam_tempo=p.lam_final, recency_floor=1.0)
     prior = Prior.from_ratings(fit(prev, prev_teams, Prior.flat(hca=p.hca_prior), p_final), p)
@@ -203,12 +209,18 @@ def run(today: dt.date, days: int = 3) -> pd.DataFrame:
 
     d1 = d1_teams(season, set(prev_teams))
     teams = np.array(sorted(d1))
+    # Days since this season's opener, for the day-of-season drift (cbb.model.drift).
+    sched = pd.read_csv(RAW_ESPN / f"mbb_schedule_{season}.csv", usecols=["game_date", "home_id", "away_id"])
+    start = season_start(sched[sched.home_id.isin(d1) & sched.away_id.isin(d1)].game_date)
     played = completed_games(season, d1)
     asof = pd.Timestamp(today)
-    train = played[played.date < asof] if len(played) else played
+    train = played[played.date < asof].copy() if len(played) else played
+    if len(train):
+        train["dos"] = days_in(train.date, start)
     ratings = fit(train, teams, prior, p, as_of=asof)
 
     games = upcoming(season, today, days, d1)
+    games["dos"] = days_in(games.date, start)
     pred = predict(ratings, games, p).drop(columns=["pred_home_pts", "pred_away_pts"])
     out = games.merge(pred, on="game_id")
     odds = latest_odds()

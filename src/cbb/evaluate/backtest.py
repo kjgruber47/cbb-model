@@ -54,6 +54,9 @@ def run(games: pd.DataFrame, seasons: list[int], p: Params, verbose: bool = True
     """Walk-forward predictions. Pass `roster` (preseason features with targets) to use
     the roster-based preseason prior instead of last season's ratings."""
     games = d1_games(games)
+    from cbb.model.drift import season_start
+    starts = games.groupby("season").date.apply(season_start)
+    games["dos"] = (games.date - games.season.map(starts)).dt.days.clip(lower=0)
     first = min(seasons)
     prior = Prior.flat(hca=p.hca_prior)
     preds = []
@@ -143,6 +146,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--prior", choices=["last", "roster"], default="last",
                     help="preseason prior: last season's ratings, or the roster model")
     ap.add_argument("--params", help="JSON file of settings (default: model/params.json if present)")
+    ap.add_argument("--season-drift", choices=["on", "off"],
+                    help="day-of-season pace/efficiency drift (default: from params)")
     ap.add_argument("--tag", default="baseline")
     args = ap.parse_args(argv)
 
@@ -153,7 +158,9 @@ def main(argv: list[str] | None = None) -> int:
     overrides = {k: v for k, v in {
         "recency_full": args.recency_full, "recency_floor": args.recency_floor,
         "lam_eff": args.lam_eff, "lam_final": args.lam_final, "lam_tempo": args.lam_tempo,
-        "regress": args.regress, "blowout_cap": args.blowout_cap}.items() if v is not None}
+        "regress": args.regress, "blowout_cap": args.blowout_cap,
+        "season_drift": None if args.season_drift is None else args.season_drift == "on",
+    }.items() if v is not None}
     p = replace(p, **overrides)
     print("params:", asdict(p))
 

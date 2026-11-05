@@ -42,6 +42,21 @@ class Params:
     ot_p0: float = 0.086
     ot_scale: float = 11.44
     ot_periods: float = 1.23
+    # Day-of-season drift in pace and efficiency (cbb.model.drift). Needs a 'dos'
+    # column (days since the season opener) on the games passed to fit/predict.
+    season_drift: bool = False
+    # Added to the regulation total so it targets the typical (median) game, which
+    # overtime pushes a little above regulation. Median of actual minus regulation
+    # prediction on training seasons 2012-19 (with season_drift on).
+    total_offset: float = 0.0
+
+
+def drift_terms(games: pd.DataFrame, p: Params) -> tuple[np.ndarray, np.ndarray]:
+    """Expected pace (poss/40) and efficiency (pts/100) offsets for each game's date."""
+    if not p.season_drift or "dos" not in games or len(games) == 0:
+        return np.zeros(len(games)), np.zeros(len(games))
+    from cbb.model.drift import terms
+    return terms(games.dos.to_numpy())
 
 
 @dataclass
@@ -118,8 +133,9 @@ def fit(games: pd.DataFrame, teams: np.ndarray, prior: Prior, p: Params,
     ai = games.away_id.map(idx).to_numpy()
     at_home = (~games.neutral.to_numpy()).astype(float)
     poss = games.poss.to_numpy()
-    ppp_h = 100 * games.home_pts.to_numpy() / poss
-    ppp_a = 100 * games.away_pts.to_numpy() / poss
+    t_adj, e_adj = drift_terms(games, p)
+    ppp_h = 100 * games.home_pts.to_numpy() / poss - e_adj
+    ppp_a = 100 * games.away_pts.to_numpy() / poss - e_adj
     if p.blowout_cap:
         mid = (ppp_h + ppp_a) / 2
         gap = np.clip(ppp_h - ppp_a, -p.blowout_cap, p.blowout_cap)
@@ -155,7 +171,7 @@ def fit(games: pd.DataFrame, teams: np.ndarray, prior: Prior, p: Params,
     mu, hca, O, D = beta[0], beta[1], beta[2:2 + n], beta[2 + n:]
 
     # ---- tempo: params = [tmu, T_0..T_n-1]
-    tempo = 40 * poss / games.minutes.to_numpy()
+    tempo = 40 * poss / games.minutes.to_numpy() - t_adj
     Xt = sparse.csr_matrix(
         (np.concatenate([np.ones(m), np.ones(m), np.ones(m)]),
          (np.concatenate([np.arange(m)] * 3), np.concatenate([np.zeros(m, int), 1 + hi, 1 + ai]))),
@@ -183,9 +199,10 @@ def predict(r: Ratings, games: pd.DataFrame, p: Params | None = None) -> pd.Data
     hi = hi.fillna(0).astype(int).to_numpy()
     ai = ai.fillna(0).astype(int).to_numpy()
     at_home = (~games.neutral.to_numpy()).astype(float)
-    poss = r.tmu + r.T[hi] + r.T[ai]
-    home_ppp = r.mu + r.O[hi] - r.D[ai] + r.hca * at_home
-    away_ppp = r.mu + r.O[ai] - r.D[hi] - r.hca * at_home
+    t_adj, e_adj = drift_terms(games, p)
+    poss = r.tmu + r.T[hi] + r.T[ai] + t_adj
+    home_ppp = r.mu + r.O[hi] - r.D[ai] + r.hca * at_home + e_adj
+    away_ppp = r.mu + r.O[ai] - r.D[hi] - r.hca * at_home + e_adj
     out = pd.DataFrame({
         "game_id": games.game_id.to_numpy(),
         "pred_poss": poss,
@@ -195,12 +212,14 @@ def predict(r: Ratings, games: pd.DataFrame, p: Params | None = None) -> pd.Data
     })
     out["pred_margin"] = out.pred_home_pts - out.pred_away_pts
     # Expected overtime adds points (not margin) in games expected to be close.
-    out["pred_total"] = out.pred_home_pts + out.pred_away_pts
-    # pred_total is the regulation (typical-game) total: totals lines price the typical
-    # game, and adding expected overtime made it worse against them (2020-26 backtest).
-    # The overtime-inclusive mean is kept for reference only.
+    regulation = out.pred_home_pts + out.pred_away_pts
+    # pred_total targets the typical game, which is what totals lines price: the
+    # regulation total plus a small fixed offset (Params.total_offset). Adding the full
+    # expected overtime (the mean) made it worse against lines (2020-26 backtest);
+    # that mean is kept for reference only.
+    out["pred_total"] = regulation + p.total_offset
     p_ot = p.ot_p0 * np.exp(-out.pred_margin ** 2 / (2 * p.ot_scale ** 2))
     out["p_ot"] = p_ot
-    out["pred_total_with_ot"] = out.pred_total * (1 + p_ot * p.ot_periods / 8)
+    out["pred_total_with_ot"] = regulation * (1 + p_ot * p.ot_periods / 8)
     out.loc[~ok.to_numpy(), ["pred_margin", "pred_total"]] = np.nan
     return out
