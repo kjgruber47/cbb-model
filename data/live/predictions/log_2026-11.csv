@@ -1337,3 +1337,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-05T05:15:53Z,401917518,2026-11-07,Pacific,Bradley,False,0.60,141.14,,,,,,
 2026-11-05T05:15:53Z,401911345,2026-11-07,Bethune-Cookman,Grand Canyon,False,29.17,151.73,,,,,,
 2026-11-05T05:15:53Z,401920435,2026-11-07,Utah Valley,Weber State,False,-5.55,150.61,,,,,,
+2026-11-05T05:45:52Z,401921747,2026-11-05,Green Bay,Cincinnati,False,28.97,142.84,24.50,153.50,24.50,151.50,DraftKings,2026-11-05T05:44:55Z
