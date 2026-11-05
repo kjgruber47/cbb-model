@@ -16,13 +16,13 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +14.5 | +15.5 | +5.8 | yes |
 | 11-05 | Thu 6:00 PM | Chattanooga | Penn State | +18.2 | +12.5 | +16.5 | +5.7 | yes |
 | 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +18.5 | +19.5 | -5.6 | yes |
+| 11-05 | Thu 7:00 PM | Delaware State | Navy | +15.1 | +9.5 | +9.5 | +5.6 | yes |
+| 11-05 | Thu 6:30 PM | Long Island University | Seton Hall | +23.1 | +18.5 | +18.5 | +4.6 | yes |
 | 11-05 | Thu 7:00 PM | Green Bay | Cincinnati | +29.0 | +24.5 | +24.5 | +4.5 | yes |
 | 11-05 | Thu 8:00 PM | Jacksonville State | South Alabama | +1.8 | +5.5 | +3.5 | -3.7 | yes |
 | 11-05 | Thu 10:30 PM | Cal Poly | Arizona | +27.0 | +30.5 | +29.5 | -3.5 | yes |
+| 11-05 | Thu 7:00 PM | UMass Lowell | Merrimack | +11.2 | +8.5 | +8.5 | +2.7 | yes |
 | 11-05 | Thu 7:00 PM | Mercer | Virginia Tech | +24.2 | +21.5 | +21.5 | +2.7 | yes |
-| 11-05 | Thu 8:00 PM | Toledo | Michigan State | +23.9 | +26.5 | +26.5 | -2.6 | yes |
-| 11-05 | Thu 7:00 PM | Georgia State | Charlotte | +9.3 | +11.5 | +11.5 | -2.2 | yes |
-| 11-05 | Thu 8:30 PM | South Florida | DePaul | +4.3 | +6.5 | +6.5 | -2.2 | yes |
 
 ## Top 25 by rating
 
