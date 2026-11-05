@@ -9,7 +9,9 @@ Run modules with `PYTHONPATH=src python -m cbb.<module>` or after `pip install -
   A sportsbook spread of -4.5 on the home team is a market home margin of +4.5
   (`market_margin = -home_spread`). ThePredictionTracker's `line` is already a home margin.
 - At neutral sites ESPN still names a "home" team; `neutral=True` turns off home court.
-- Division I is inferred: a team with 10+ box-scored games in a season.
+- Division I is inferred: a team with 10+ box-scored games in a season. Live, that count is
+  zero for weeks, so `predict.daily` uses last season's D-I teams plus teams with 10+
+  *scheduled* games (until Nov 5, 2026 it used the box-score flag and dropped every game).
 - Possessions = FGA - OREB + TOV + 0.475 x FTA, averaged over both teams.
 
 ## Data
@@ -25,6 +27,7 @@ Run modules with `PYTHONPATH=src python -m cbb.<module>` or after `pip install -
 | `data/live/raw/` | scheduled job: raw ESPN JSON, gzipped | yes |
 | `data/live/predictions/` | scheduled job: model vs market per game, plus `latest.md` | yes |
 | `data/live/ratings/` | scheduled job: team ratings as of each day | yes |
+| `data/live/grades.md` | scheduled job: paper-trading grades vs DraftKings (`cbb.evaluate.paper`) | yes |
 
 ## What runs where
 - GitHub Actions has open internet; it fetches ESPN live odds, ThePredictionTracker, and the
@@ -47,8 +50,17 @@ Home court is fixed (it inflates early in the season if fitted). Tuned settings 
 `src/cbb/model/params.json`; tune only on training seasons (`cbb.evaluate.tune`), report on
 held-out seasons (`cbb.evaluate.backtest`). Judge everything against the market line on the
 same games, and by month: November is where the market is weakest and the model too.
+- Day-of-season drift (`cbb.model.drift`, `drift.json`, `season_drift`): opening-week games run
+  ~3.8 poss/40 faster and ~2.9 pts/100 less efficient than full-season levels (team-adjusted,
+  fit on 2012-19), fading by mid-season and reversing slightly in conference play. Fit removes
+  it, predict adds it back; games need a `dos` column (days since the opener).
+- `total_offset` (0.82): pred_total = regulation + offset, the training-season median gap, so
+  totals target the typical game.
+- Non-conference home calibration (`nc_home_*`, backtest `--nc-home`): built and tested, OFF.
+- ESPN lists DraftKings as both "DraftKings" and "Draft Kings" (alternating by snapshot) and adds
+  in-game "... - Live Odds" entries: merge the spellings and drop live rows when reading odds.
 
-## Known results and caveats (Oct 22, 2026; held-out seasons 2020-26)
+## Known results and caveats (updated Nov 5, 2026; held-out seasons 2020-26)
 - Roster prior: 0.15 pts/game behind the market line overall, 0.25 in November.
 - No edge vs the closing line (ATS ~50-51% at any disagreement size).
 - Vs the opening line, after cleaning the tracker's broken openers: ~56% ATS when the model
@@ -63,6 +75,16 @@ same games, and by month: November is where the market is weakest and the model 
   (5.8% of games, ~19 extra pts) skews the mean. `pred_total` is the regulation number;
   `pred_total_with_ot` is the mean, for reference only.
 - Suspect openers recur in every source; always filter them before testing against openers.
+- Nov 5, 2026 (held-out 2020-26, roster prior): drift on vs off, spread MAE gap to the line
+  0.153 -> 0.147 (Nov 0.246 -> 0.243); vs ESPN openers 4+ 53.3% -> 54.0% (n=787), tracker
+  openers 4+ 56.4% -> 56.8%; totals gap to close 0.249 -> 0.242, bias vs close +0.57 -> -0.06.
+- With last season's ratings as the prior (no roster model), November non-conference home
+  games run ~1.10x the model's margin (buy-game favorites win bigger; 20+ pt lines: model
+  5.4 pts less extreme than the line, line unbiased). The roster prior removes the slope
+  (~0.99); a leftover ~+0.5 home intercept did not help held-out MAE.
+- Live 2026-27, Nov 1-4 (150 games, preseason ratings only because of the D-I bug): spread
+  MAE 10.69 vs DraftKings close 9.67; 4+ disagreement 22-29 vs close, 19-22 vs open; totals
+  ran ~5 pts under the market before the drift fix (~+0.3 after).
 - Caveats: backtest roster membership comes from that season's box scores (worth <= ~1 pt);
   model-refit timing vs when openers post (<= ~1 pt); the roster design and the 4-point
   threshold were chosen with test seasons visible. The tracker's opening-line book and time

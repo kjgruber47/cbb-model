@@ -146,7 +146,11 @@ def main(argv: list[str] | None = None) -> int:
     text = report(g)
     print(text)
     if args.write:
-        (LIVE / "grades.md").write_text("# Paper-trading grades (DraftKings)\n\n" + text)
+        (LIVE / "grades.md").write_text(
+            "# Paper-trading grades (DraftKings)\n\n"
+            "Model number = last logged before tip-off (opener test: first logged). Before Nov 5, "
+            "2026 the live ratings ignored this season's games (bug), so Nov 1-5 games were priced "
+            "on preseason ratings alone. Break-even at -110 is 52.4%.\n\n" + text)
     return 0
 
 

@@ -332,6 +332,11 @@ def main(argv: list[str] | None = None) -> int:
     out = run(today, args.days)
     priced = out.market_margin.notna().sum()
     print(f"{today}: {len(out)} games predicted, {priced} with a market line")
+    try:  # keep the paper-trading grades current (data/live/grades.md); never fail the run
+        from cbb.evaluate.paper import main as grade
+        grade(["--seasons", str(current_season(today)), "--write"])
+    except Exception as e:  # noqa: BLE001
+        print(f"grading skipped: {e}")
     return 0
 
 
