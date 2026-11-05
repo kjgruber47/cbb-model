@@ -49,6 +49,13 @@ class Params:
     # overtime pushes a little above regulation. Median of actual minus regulation
     # prediction on training seasons 2012-19 (with season_drift on).
     total_offset: float = 0.0
+    # Non-conference home games (buy games, mostly): actual margins run larger than the
+    # ratings predict, more so in mismatches. Calibrated as margin = int + slope * model
+    # on training seasons; applied to non-neutral games flagged conference_game == False
+    # within nc_home_days of the opener (needs 'conference_game' and 'dos' columns).
+    nc_home_slope: float = 1.0
+    nc_home_int: float = 0.0
+    nc_home_days: float = 90.0
 
 
 def drift_terms(games: pd.DataFrame, p: Params) -> tuple[np.ndarray, np.ndarray]:
@@ -211,6 +218,14 @@ def predict(r: Ratings, games: pd.DataFrame, p: Params | None = None) -> pd.Data
         "home_games": r.games[hi], "away_games": r.games[ai],
     })
     out["pred_margin"] = out.pred_home_pts - out.pred_away_pts
+    if (p.nc_home_slope != 1.0 or p.nc_home_int != 0.0) and {"conference_game", "dos"} <= set(games):
+        nc = ((games.conference_game == False).to_numpy() & (at_home == 1)  # noqa: E712
+              & (games.dos.to_numpy() < p.nc_home_days))
+        m = out.pred_margin.to_numpy()
+        delta = np.where(nc, p.nc_home_int + (p.nc_home_slope - 1.0) * m, 0.0)
+        out["pred_home_pts"] += delta / 2   # margin moves; total unchanged
+        out["pred_away_pts"] -= delta / 2
+        out["pred_margin"] = m + delta
     # Expected overtime adds points (not margin) in games expected to be close.
     regulation = out.pred_home_pts + out.pred_away_pts
     # pred_total targets the typical game, which is what totals lines price: the

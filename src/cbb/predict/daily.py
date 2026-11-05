@@ -131,9 +131,10 @@ def games_from_snapshots(start: dt.date, end: dt.date) -> pd.DataFrame:
                     "home": teams.get("home", {}).get("location") or m["home"],
                     "away": teams.get("away", {}).get("location") or m["away"],
                     "neutral": bool(m["neutral_site"]),
+                    "conference_game": comp.get("conferenceCompetition"),
                 })
     g = pd.DataFrame(rows, columns=["game_id", "date", "start_utc", "home_id", "away_id",
-                                    "home", "away", "neutral"])
+                                    "home", "away", "neutral", "conference_game"])
     if g.empty:
         return g
     g = g.drop_duplicates("game_id", keep="last")
@@ -151,9 +152,14 @@ def upcoming(season: int, start: dt.date, days: int, d1: set) -> pd.DataFrame:
         "home_id": s.home_id, "away_id": s.away_id,
         "home": s.home_location, "away": s.away_location,
         "neutral": s.neutral_site.fillna(False).astype(bool),
+        "conference_game": s.conference_competition,
     })
     g = pd.concat([sched, games_from_snapshots(start, end)], ignore_index=True)
+    # Conference flag: the latest snapshot's, else the schedule file's; unknown stays
+    # missing (the non-conference home calibration then leaves the game alone).
+    conf = g.dropna(subset=["conference_game"]).drop_duplicates("game_id", keep="last")
     g = g.drop_duplicates("game_id", keep="last")
+    g["conference_game"] = g.game_id.map(conf.set_index("game_id").conference_game)
     return g[g.home_id.isin(d1) & g.away_id.isin(d1)].reset_index(drop=True)
 
 

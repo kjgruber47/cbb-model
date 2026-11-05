@@ -148,6 +148,7 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--params", help="JSON file of settings (default: model/params.json if present)")
     ap.add_argument("--season-drift", choices=["on", "off"],
                     help="day-of-season pace/efficiency drift (default: from params)")
+    ap.add_argument("--nc-home", help="non-conference home calibration 'slope,int' (1,0 = off)")
     ap.add_argument("--tag", default="baseline")
     args = ap.parse_args(argv)
 
@@ -161,6 +162,9 @@ def main(argv: list[str] | None = None) -> int:
         "regress": args.regress, "blowout_cap": args.blowout_cap,
         "season_drift": None if args.season_drift is None else args.season_drift == "on",
     }.items() if v is not None}
+    if args.nc_home:
+        slope, intercept = (float(v) for v in args.nc_home.split(","))
+        overrides.update(nc_home_slope=slope, nc_home_int=intercept)
     p = replace(p, **overrides)
     print("params:", asdict(p))
 
