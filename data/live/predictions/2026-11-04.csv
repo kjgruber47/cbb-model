@@ -1,5 +1,5 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
-2026-11-04,Wed 10:00 PM,Queens University,Loyola Marymount,False,6.15,5.50,5.50,0.65,0.65,154.15,161.50,157.50,-7.35,69.74,0.71,0.70,0.00,0.00,True,DraftKings,2026-11-05T00:43:13Z,401917514,2351,2511
+2026-11-04,Wed 10:00 PM,Queens University,Loyola Marymount,False,6.15,5.50,5.50,0.65,0.65,154.15,161.50,157.50,-7.35,69.74,0.71,0.68,0.00,0.00,True,DraftKings,2026-11-05T01:13:12Z,401917514,2351,2511
 2026-11-04,Wed 10:00 PM,Milwaukee,Santa Clara,False,19.54,15.50,18.50,4.04,1.04,151.75,162.50,159.50,-10.75,69.73,0.96,0.91,0.00,0.00,True,DraftKings,2026-11-05T00:43:13Z,401917513,2541,270
 2026-11-04,Wed 10:00 PM,North Dakota State,Saint Mary's,False,15.53,12.50,12.50,3.03,3.03,140.86,148.50,149.50,-7.64,65.95,0.92,0.88,0.00,0.00,True,DraftKings,2026-11-04T22:13:13Z,401917512,2608,2449
 2026-11-04,Wed 7:00 PM,Maryland Eastern Shore,High Point,False,28.71,34.50,29.50,-5.79,-0.79,145.18,146.50,148.50,-1.32,67.25,1.00,0.98,0.00,0.00,True,DraftKings,2026-11-05T00:13:12Z,401920410,2272,2379
@@ -18,9 +18,9 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-05,Thu 6:00 PM,Chattanooga,Penn State,False,18.17,15.50,16.50,2.67,1.67,150.54,159.50,159.50,-8.96,68.12,0.95,0.91,0.00,0.00,True,DraftKings,2026-11-04T23:13:12Z,401917177,213,236
 2026-11-05,Thu 6:00 PM,Bellarmine,Indiana,False,26.55,,,,,147.77,,,,65.47,0.99,,0.00,0.00,True,,,401916287,84,91
 2026-11-05,Thu 6:30 PM,Long Island University,Seton Hall,False,23.13,,,,,140.55,,,,67.02,0.98,,0.00,0.00,True,,,401919804,2550,112358
-2026-11-05,Thu 7:00 PM,Georgia State,Charlotte,False,9.32,11.50,11.50,-2.18,-2.18,142.11,152.50,152.50,-10.39,65.77,0.80,0.87,0.00,0.00,True,DraftKings,2026-11-05T00:43:13Z,401925819,2429,2247
+2026-11-05,Thu 7:00 PM,Georgia State,Charlotte,False,9.32,11.50,11.50,-2.18,-2.18,142.11,151.50,152.50,-9.39,65.77,0.80,0.85,0.00,0.00,True,DraftKings,2026-11-05T01:13:12Z,401925819,2429,2247
 2026-11-05,Thu 7:00 PM,Howard,Alcorn State,False,-9.05,,,,,147.45,,,,69.68,0.21,,0.00,0.00,True,,,401925684,2016,47
-2026-11-05,Thu 7:00 PM,Hofstra,Princeton,False,0.44,1.50,1.50,-1.06,-1.06,135.41,140.50,141.50,-5.09,63.79,0.52,0.54,0.00,0.00,True,DraftKings,2026-11-05T00:13:12Z,401924733,163,2275
+2026-11-05,Thu 7:00 PM,Hofstra,Princeton,False,0.44,1.50,1.50,-1.06,-1.06,135.41,140.50,141.50,-5.09,63.79,0.52,0.54,0.00,0.00,True,DraftKings,2026-11-05T01:13:12Z,401924733,163,2275
 2026-11-05,Thu 7:00 PM,Cornell,Lehigh,False,-0.81,,,,,155.17,,,,70.66,0.47,,0.00,0.00,True,,,401924718,2329,172
 2026-11-05,Thu 7:00 PM,Green Bay,Cincinnati,False,28.97,24.50,24.50,4.47,4.47,142.84,150.50,151.50,-7.66,65.31,1.00,0.97,0.00,0.00,True,DraftKings,2026-11-05T00:13:12Z,401921747,2132,2739
 2026-11-05,Thu 7:00 PM,Maine,Sacred Heart,False,6.28,,,,,140.39,,,,67.09,0.72,,0.00,0.00,True,,,401921682,2529,311
@@ -44,10 +44,10 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-05,Thu 8:00 PM,Coastal Carolina,Duke,False,33.03,40.50,41.50,-7.47,-8.47,141.57,148.50,148.50,-6.93,66.96,1.00,,0.00,0.00,True,DraftKings,2026-11-04T22:43:13Z,401909563,150,324
 2026-11-05,Thu 8:00 PM,Toledo,Michigan State,False,23.86,26.50,26.50,-2.64,-2.64,148.00,152.50,152.50,-4.50,67.77,0.98,0.97,0.00,0.00,True,DraftKings,2026-11-04T22:13:13Z,401925754,127,2649
 2026-11-05,Thu 8:00 PM,Gardner-Webb,Texas,False,37.58,,,,,152.52,,,,69.33,1.00,,0.00,0.00,True,,,401906864,251,2241
-2026-11-05,Thu 8:00 PM,Jacksonville State,South Alabama,False,1.82,3.50,3.50,-1.68,-1.68,137.07,143.50,144.50,-6.43,64.63,0.57,0.57,0.00,0.00,True,DraftKings,2026-11-05T00:43:13Z,401926780,6,55
+2026-11-05,Thu 8:00 PM,Jacksonville State,South Alabama,False,1.82,3.50,3.50,-1.68,-1.68,137.07,142.50,144.50,-5.43,64.63,0.57,0.57,0.00,0.00,True,DraftKings,2026-11-05T01:13:12Z,401926780,6,55
 2026-11-05,Thu 8:00 PM,East Texas A&M,Rice,False,7.90,,,,,142.88,,,,67.75,0.76,,0.00,0.00,True,,,401921094,242,2837
 2026-11-05,Thu 8:00 PM,Northern Illinois,Tulsa,False,20.33,15.50,15.50,4.83,4.83,149.95,152.50,152.50,-2.55,68.85,0.97,0.89,0.00,0.00,True,DraftKings,2026-11-04T22:13:13Z,401920913,202,2459
-2026-11-05,Thu 8:00 PM,VMI,SMU,False,31.26,24.50,23.50,6.76,7.76,152.11,159.50,157.50,-7.39,68.88,1.00,0.96,0.00,0.00,True,DraftKings,2026-11-04T22:13:13Z,401918968,2567,2678
+2026-11-05,Thu 8:00 PM,VMI,SMU,False,31.26,24.50,23.50,6.76,7.76,152.11,159.50,157.50,-7.39,68.88,1.00,0.96,0.00,0.00,True,DraftKings,2026-11-05T01:13:12Z,401918968,2567,2678
 2026-11-05,Thu 8:00 PM,West Georgia,Loyola Chicago,False,12.08,16.50,16.50,-4.42,-4.42,145.69,144.50,143.50,1.19,68.32,0.86,0.92,0.00,0.00,True,DraftKings,2026-11-04T22:43:13Z,401911229,2350,2698
 2026-11-05,Thu 8:00 PM,Le Moyne,Creighton,False,31.17,,,,,151.70,,,,69.98,1.00,,0.00,0.00,True,,,401909491,156,2330
 2026-11-05,Thu 8:30 PM,Pennsylvania,Illinois,False,24.46,29.50,29.50,-5.04,-5.04,148.94,165.50,165.50,-16.56,67.99,0.99,,0.00,0.00,True,DraftKings,2026-11-04T22:43:13Z,401913526,356,219
