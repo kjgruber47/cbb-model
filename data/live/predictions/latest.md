@@ -10,11 +10,11 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-05 | Thu 8:00 PM | Coastal Carolina | Duke | +33.0 | +41.5 | +41.5 | -8.5 | yes |
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +2.2 | -5.5 | -5.5 | +7.7 | yes |
-| 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +13.5 | +15.5 | +6.8 | yes |
 | 11-05 | Thu 8:00 PM | VMI | SMU | +31.3 | +24.5 | +23.5 | +6.8 | yes |
 | 11-05 | Thu 7:00 PM | Delaware State | Navy | +15.1 | +8.5 | +9.5 | +6.6 | yes |
 | 11-05 | Thu 8:00 PM | West Georgia | Loyola Chicago | +12.1 | +18.5 | +16.5 | -6.4 | yes |
 | 11-05 | Thu 8:30 PM | Pennsylvania | Illinois | +24.5 | +30.5 | +29.5 | -6.0 | yes |
+| 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +14.5 | +15.5 | +5.8 | yes |
 | 11-05 | Thu 6:00 PM | Chattanooga | Penn State | +18.2 | +12.5 | +16.5 | +5.7 | yes |
 | 11-05 | Thu 6:30 PM | Long Island University | Seton Hall | +23.1 | +17.5 | +18.5 | +5.6 | yes |
 | 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +18.5 | +19.5 | -5.6 | yes |
