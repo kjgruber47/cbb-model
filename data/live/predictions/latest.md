@@ -1,4 +1,4 @@
-# Predictions for Wednesday, November 4, 2026
+# Predictions for Thursday, November 5, 2026
 
 Ratings fit on 0 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on last season's ratings a
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-04 | Wed 7:00 PM | Fairleigh Dickinson | Butler | +19.8 | +29.5 | +24.5 | -9.7 | yes |
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +2.2 | -5.5 | -5.5 | +7.7 | yes |
 | 11-05 | Thu 8:00 PM | Coastal Carolina | Duke | +33.0 | +40.5 | +41.5 | -7.5 | yes |
 | 11-05 | Thu 8:00 PM | VMI | SMU | +31.3 | +24.5 | +23.5 | +6.8 | yes |
 | 11-05 | Thu 8:00 PM | West Georgia | Loyola Chicago | +12.1 | +18.5 | +16.5 | -6.4 | yes |
 | 11-05 | Thu 8:30 PM | Pennsylvania | Illinois | +24.5 | +30.5 | +29.5 | -6.0 | yes |
-| 11-04 | Wed 7:00 PM | Maryland Eastern Shore | High Point | +28.7 | +34.5 | +29.5 | -5.8 | yes |
+| 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +14.5 | +15.5 | +5.8 | yes |
 | 11-05 | Thu 6:00 PM | Chattanooga | Penn State | +18.2 | +12.5 | +16.5 | +5.7 | yes |
 | 11-05 | Thu 7:00 PM | Buffalo | Pittsburgh | +12.9 | +18.5 | +19.5 | -5.6 | yes |
 | 11-05 | Thu 7:00 PM | Green Bay | Cincinnati | +29.0 | +24.5 | +24.5 | +4.5 | yes |
-| 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +20.3 | +16.5 | +15.5 | +3.8 | yes |
+| 11-05 | Thu 8:00 PM | Jacksonville State | South Alabama | +1.8 | +5.5 | +3.5 | -3.7 | yes |
 | 11-05 | Thu 10:30 PM | Cal Poly | Arizona | +27.0 | +30.5 | +29.5 | -3.5 | yes |
-| 11-04 | Wed 8:00 PM | Northern Kentucky | South Dakota | +0.8 | -2.5 | -1.5 | +3.3 | yes |
-| 11-04 | Wed 8:00 PM | SE Louisiana | Auburn | +26.4 | +29.5 | +25.5 | -3.1 | yes |
-| 11-04 | Wed 10:00 PM | Milwaukee | Santa Clara | +19.5 | +16.5 | +18.5 | +3.0 | yes |
+| 11-05 | Thu 7:00 PM | Mercer | Virginia Tech | +24.2 | +21.5 | +21.5 | +2.7 | yes |
+| 11-05 | Thu 8:00 PM | Toledo | Michigan State | +23.9 | +26.5 | +26.5 | -2.6 | yes |
+| 11-05 | Thu 7:00 PM | Georgia State | Charlotte | +9.3 | +11.5 | +11.5 | -2.2 | yes |
+| 11-05 | Thu 8:30 PM | South Florida | DePaul | +4.3 | +6.5 | +6.5 | -2.2 | yes |
 
 ## Top 25 by rating
 
