@@ -15,6 +15,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-05 | Thu 6:30 PM | Long Island University | Seton Hall | +24.2 | +17.5 | +18.5 | +6.7 | yes |
 | 11-06 | Fri 8:00 PM | Detroit Mercy | Marquette | +24.6 | +30.5 | +30.5 | -5.9 | yes |
 | 11-05 | Thu 6:00 PM | Chattanooga | Penn State | +18.1 | +12.5 | +16.5 | +5.6 | yes |
+| 11-06 | Fri 7:00 PM | Troy | Florida State | +17.1 | +22.5 | +20.5 | -5.4 | yes |
 | 11-06 | Fri 7:00 PM | East Tennessee State | NC State | +21.8 | +16.5 | +16.5 | +5.3 | yes |
 | 11-05 | Thu 7:00 PM | Green Bay | Cincinnati | +29.4 | +24.5 | +24.5 | +4.9 | yes |
 | 11-06 | Fri 9:30 PM | California Baptist | Oregon State | +13.7 | +18.5 | +16.5 | -4.8 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-05 | Thu 9:00 PM | Bethune-Cookman | Texas Tech | +35.2 | +30.5 | +26.5 | +4.7 | yes |
 | 11-06 | Fri 8:30 PM | Eastern Illinois | Iowa | +30.9 | +35.5 | +35.5 | -4.6 | yes |
 | 11-05 | Thu 10:30 PM | Cal Poly | Arizona | +26.0 | +30.5 | +29.5 | -4.5 | yes |
-| 11-05 | Thu 8:00 PM | Jacksonville State | South Alabama | +1.0 | +5.5 | +3.5 | -4.5 | yes |
 
 ## Top 25 by rating
 
