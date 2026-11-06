@@ -10946,3 +10946,6 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-06T09:26:24Z,401922219,2026-11-06,2026-11-07T03:30Z,STATUS_SCHEDULED,False,26,UCLA Bruins,2454,North Florida Ospreys,0,0,scoreboard,100,Draft Kings,close,-31.5,155.5,,,-110.0,-110.0,-112.0,-108.0,UCLA -31.5
 2026-11-06T09:26:24Z,401922219,2026-11-06,2026-11-07T03:30Z,STATUS_SCHEDULED,False,26,UCLA Bruins,2454,North Florida Ospreys,0,0,core,100,Draft Kings,current,-31.5,155.5,,,-110.0,-110.0,-112.0,-108.0,UCLA -31.5
 2026-11-06T09:26:24Z,401922219,2026-11-06,2026-11-07T03:30Z,STATUS_SCHEDULED,False,26,UCLA Bruins,2454,North Florida Ospreys,0,0,core,100,Draft Kings,open,-31.5,155.5,,,-110.0,-110.0,,,UCLA -31.5
+2026-11-06T10:56:23Z,401920807,2026-11-06,2026-11-07T01:00Z,STATUS_SCHEDULED,False,245,Texas A&M Aggies,94,Northern Kentucky Norse,0,0,scoreboard,100,Draft Kings,current,-26.5,171.5,,,,,,,TA&M -26.5
+2026-11-06T10:56:23Z,401920807,2026-11-06,2026-11-07T01:00Z,STATUS_SCHEDULED,False,245,Texas A&M Aggies,94,Northern Kentucky Norse,0,0,scoreboard,100,Draft Kings,close,-26.5,171.5,-20000.0,3500.0,-112.0,-108.0,-108.0,-112.0,TA&M -26.5
+2026-11-06T10:56:23Z,401920807,2026-11-06,2026-11-07T01:00Z,STATUS_SCHEDULED,False,245,Texas A&M Aggies,94,Northern Kentucky Norse,0,0,core,100,Draft Kings,current,-26.5,171.5,-20000,3500,-112.0,-108.0,-108.0,-112.0,TA&M -26.5
