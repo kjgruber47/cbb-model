@@ -8,10 +8,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +0.3 | -7.5 | -5.5 | +7.8 | yes |
 | 11-05 | Thu 8:00 PM | VMI | SMU | +31.7 | +24.5 | +23.5 | +7.2 | yes |
 | 11-05 | Thu 8:00 PM | Coastal Carolina | Duke | +33.4 | +40.5 | +41.5 | -7.1 | yes |
 | 11-05 | Thu 8:00 PM | Northern Illinois | Tulsa | +21.4 | +14.5 | +15.5 | +6.9 | yes |
-| 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +0.3 | -6.5 | -5.5 | +6.8 | yes |
 | 11-05 | Thu 6:30 PM | Long Island University | Seton Hall | +24.2 | +17.5 | +18.5 | +6.7 | yes |
 | 11-06 | Fri 8:00 PM | Detroit Mercy | Marquette | +24.6 | +30.5 | +30.5 | -5.9 | yes |
 | 11-05 | Thu 9:00 PM | Bethune-Cookman | Texas Tech | +35.2 | +29.5 | +26.5 | +5.7 | yes |
@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-05 | Thu 8:00 PM | West Georgia | Loyola Chicago | +12.8 | +17.5 | +16.5 | -4.7 | yes |
 | 11-06 | Fri 8:30 PM | Eastern Illinois | Iowa | +30.9 | +35.5 | +35.5 | -4.6 | yes |
 | 11-05 | Thu 10:30 PM | Cal Poly | Arizona | +26.0 | +30.5 | +29.5 | -4.5 | yes |
-| 11-05 | Thu 8:30 PM | South Florida | DePaul | +2.8 | +6.5 | +6.5 | -3.7 | yes |
-| 11-05 | Thu 8:00 PM | Jacksonville State | South Alabama | +1.0 | +4.5 | +3.5 | -3.5 | yes |
+| 11-05 | Thu 8:00 PM | Jacksonville State | South Alabama | +1.0 | +5.5 | +3.5 | -4.5 | yes |
+| 11-06 | Fri 8:30 PM | Southern Illinois | Kansas City | -6.5 | -2.5 | -3.5 | -4.0 | yes |
 
 ## Top 25 by rating
 
