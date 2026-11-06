@@ -2141,3 +2141,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-06T11:57:20Z,401929352,2026-11-08,Incarnate Word,UTEP,False,8.89,140.50,,,,,,
 2026-11-06T11:57:20Z,401909707,2026-11-08,Pittsburgh,Penn State,True,-1.81,154.82,,,,,,
 2026-11-06T11:57:20Z,401918053,2026-11-08,Houston,California,True,-17.10,145.72,,,,,,
+2026-11-06T12:27:18Z,401911305,2026-11-06,Boston University,Brown,False,3.27,140.55,4.50,157.50,5.50,160.50,Draft Kings,2026-11-06T12:26:22Z
