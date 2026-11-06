@@ -72,7 +72,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-07,Sat 2:00 PM,Lamar,Abilene Christian,False,0.58,,,,,143.12,,,,68.95,0.52,,1,0,True,,,401917962,2000,2320
 2026-11-07,Sat 3:00 PM,Long Beach State,Montana State,False,11.11,,,,,147.55,,,,70.19,0.84,,1,1,True,,,401924264,147,299
 2026-11-07,Sat 3:00 PM,North Carolina Central,Longwood,False,11.52,,,,,147.03,,,,70.69,0.85,,1,1,True,,,401922044,2344,2428
-2026-11-07,Sat 3:00 PM,VCU,Memphis,False,1.92,,,,,158.99,,,,72.95,0.57,,1,1,True,,,401918986,235,2670
+2026-11-07,Sat 3:00 PM,VCU,Memphis,False,1.92,1.50,1.50,0.42,0.42,158.99,158.50,158.50,0.49,72.95,0.57,0.54,1,1,True,Draft Kings,2026-11-06T19:29:52Z,401918986,235,2670
 2026-11-07,Sat 3:30 PM,Long Island University,La Salle,False,6.02,,,,,143.46,,,,70.90,0.71,,1,2,True,,,401919805,2325,112358
 2026-11-07,Sat 3:30 PM,San Diego State,Colorado,True,1.73,,,,,157.85,,,,72.45,0.56,,1,1,True,,,401909760,38,21
 2026-11-07,Sat 4:00 PM,Omaha,Utah State,False,28.65,,,,,153.51,,,,70.68,1.00,,1,0,True,,,401929293,328,2437
