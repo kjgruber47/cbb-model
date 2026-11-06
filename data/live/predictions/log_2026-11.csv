@@ -2142,3 +2142,6 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-06T11:57:20Z,401909707,2026-11-08,Pittsburgh,Penn State,True,-1.81,154.82,,,,,,
 2026-11-06T11:57:20Z,401918053,2026-11-08,Houston,California,True,-17.10,145.72,,,,,,
 2026-11-06T12:27:18Z,401911305,2026-11-06,Boston University,Brown,False,3.27,140.55,4.50,157.50,5.50,160.50,Draft Kings,2026-11-06T12:26:22Z
+2026-11-06T12:57:20Z,401909552,2026-11-06,Massachusetts,Boston College,True,8.66,145.62,5.50,145.50,5.50,144.50,Draft Kings,2026-11-06T12:56:23Z
+2026-11-06T12:57:20Z,401926131,2026-11-06,Valparaiso,Purdue,False,16.64,143.08,19.50,147.50,19.50,146.50,Draft Kings,2026-11-06T12:56:23Z
+2026-11-06T12:57:20Z,401909785,2026-11-06,Middle Tennessee,Kansas,False,24.48,149.78,29.50,154.50,27.50,150.50,Draft Kings,2026-11-06T12:56:23Z
