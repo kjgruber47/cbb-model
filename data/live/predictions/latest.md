@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-06 | Fri 8:00 PM | Texas A&M-Corpus Christi | Louisiana | -1.7 | +3.5 | +2.5 | -5.2 | yes |
 | 11-06 | Fri 8:00 PM | Stony Brook | Northwestern | +17.4 | +12.5 | +14.5 | +4.9 | yes |
 | 11-06 | Fri 8:00 PM | Southern | TCU | +29.2 | +24.5 | +23.5 | +4.7 | yes |
-| 11-06 | Fri 5:00 PM | Arkansas-Pine Bluff | Baylor | +33.9 | +38.5 | +36.5 | -4.6 | yes |
 | 11-06 | Fri 8:30 PM | Eastern Illinois | Iowa | +31.0 | +35.5 | +35.5 | -4.5 | yes |
+| 11-06 | Fri 7:00 PM | East Tennessee State | NC State | +21.8 | +17.5 | +16.5 | +4.3 | yes |
 
 ## Top 25 by rating
 
