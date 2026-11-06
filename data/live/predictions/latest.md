@@ -12,17 +12,17 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-06 | Fri 8:00 PM | Detroit Mercy | Marquette | +24.5 | +32.5 | +30.5 | -8.0 | yes |
 | 11-06 | Fri 8:30 PM | Southern Illinois | Kansas City | -6.5 | +1.5 | -3.5 | -8.0 | yes |
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +0.4 | -7.5 | -5.5 | +7.9 | yes |
-| 11-06 | Fri 7:30 PM | Nicholls | UAB | +8.0 | +14.5 | +13.5 | -6.5 | yes |
+| 11-06 | Fri 7:30 PM | Nicholls | UAB | +8.0 | +15.5 | +13.5 | -7.5 | yes |
+| 11-06 | Fri 9:30 PM | California Baptist | Oregon State | +13.7 | +20.5 | +16.5 | -6.8 | yes |
 | 11-06 | Fri 7:00 PM | Troy | Florida State | +17.1 | +23.5 | +20.5 | -6.4 | yes |
 | 11-06 | Fri 9:00 PM | Middle Tennessee | Kansas | +24.5 | +30.5 | +27.5 | -6.0 | yes |
-| 11-06 | Fri 9:30 PM | California Baptist | Oregon State | +13.7 | +19.5 | +16.5 | -5.8 | yes |
 | 11-06 | Fri 8:00 PM | Southern | TCU | +29.2 | +23.5 | +23.5 | +5.7 | yes |
 | 11-06 | Fri 8:00 PM | Texas Southern | LSU | +27.6 | +32.5 | +30.5 | -4.9 | yes |
 | 11-06 | Fri 8:00 PM | Stony Brook | Northwestern | +17.4 | +12.5 | +14.5 | +4.9 | yes |
 | 11-06 | Fri 7:00 PM | New Haven | Rutgers | +19.9 | +24.5 | +24.5 | -4.6 | yes |
-| 11-06 | Fri 5:00 PM | Arkansas-Pine Bluff | Baylor | +33.9 | +38.5 | +36.5 | -4.6 | yes |
 | 11-06 | Fri 8:30 PM | Eastern Illinois | Iowa | +31.0 | +35.5 | +35.5 | -4.5 | yes |
 | 11-06 | Fri 7:00 PM | East Tennessee State | NC State | +21.8 | +17.5 | +16.5 | +4.3 | yes |
+| 11-06 | Fri 7:00 PM | Georgia Southern | Georgia Tech | +14.2 | +18.5 | +16.5 | -4.3 | yes |
 
 ## Top 25 by rating
 
