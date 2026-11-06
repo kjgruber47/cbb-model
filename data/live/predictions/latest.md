@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-06 | Fri 9:30 PM | California Baptist | Oregon State | +13.7 | +18.5 | +16.5 | -4.8 | yes |
 | 11-06 | Fri 8:30 PM | Eastern Illinois | Iowa | +30.9 | +35.5 | +35.5 | -4.6 | yes |
 | 11-06 | Fri 7:00 PM | Georgia Southern | Georgia Tech | +14.2 | +18.5 | +16.5 | -4.3 | yes |
+| 11-06 | Fri 7:00 PM | New Haven | Rutgers | +20.3 | +24.5 | +24.5 | -4.2 | yes |
 | 11-06 | Fri 9:00 PM | Wagner | Miami | +35.7 | +31.5 | +31.5 | +4.2 | yes |
+| 11-06 | Fri 8:00 PM | Texas A&M-Corpus Christi | Louisiana | -1.7 | +2.5 | +2.5 | -4.2 | yes |
 | 11-06 | Fri 8:30 PM | Southern Illinois | Kansas City | -6.5 | -2.5 | -3.5 | -4.0 | yes |
-| 11-06 | Fri 8:00 PM | Robert Morris | UIC | +14.3 | +10.5 | +11.5 | +3.8 | yes |
-| 11-06 | Fri 8:00 PM | Stony Brook | Northwestern | +17.2 | +13.5 | +14.5 | +3.7 | yes |
 
 ## Top 25 by rating
 
