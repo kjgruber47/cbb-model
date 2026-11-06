@@ -9,6 +9,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-06 | Fri 5:00 PM | West Florida | Florida International | +1.4 | +16.5 | +13.5 | -15.1 | yes |
+| 11-07 | Sat 5:00 PM | Northern Iowa | Furman | -3.5 | +4.5 | +4.5 | -8.0 | yes |
 | 11-06 | Fri 8:00 PM | Detroit Mercy | Marquette | +24.5 | +32.5 | +30.5 | -8.0 | yes |
 | 11-06 | Fri 8:30 PM | Southern Illinois | Kansas City | -6.5 | +1.5 | -3.5 | -8.0 | yes |
 | 11-06 | Fri 8:00 PM | Texas Southern | LSU | +27.6 | +35.5 | +30.5 | -7.9 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-06 | Fri 7:00 PM | New Haven | Rutgers | +19.9 | +24.5 | +24.5 | -4.6 | yes |
 | 11-06 | Fri 5:00 PM | Arkansas-Pine Bluff | Baylor | +33.9 | +38.5 | +36.5 | -4.6 | yes |
 | 11-06 | Fri 7:00 PM | East Tennessee State | NC State | +21.8 | +17.5 | +16.5 | +4.3 | yes |
-| 11-07 | Sat 3:30 PM | San Diego State | Colorado (N) | +1.7 | -2.5 | -2.5 | +4.2 | yes |
 
 ## Top 25 by rating
 
