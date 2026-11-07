@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-07 | Sat 5:00 PM | VMI | UTSA | +8.5 | +4.5 | +5.5 | +4.0 | yes |
 | 11-07 | Sat 10:00 PM | San José State | UC Irvine | +4.6 | +8.5 | +7.5 | -3.9 | yes |
 | 11-07 | Sat 5:00 PM | Bellarmine | Miami (OH) | +17.3 | +20.5 | +20.5 | -3.2 | yes |
+| 11-07 | Sat 4:00 PM | Samford | UNLV | +13.6 | +10.5 | +11.5 | +3.1 | yes |
 | 11-07 | Sat 5:00 PM | SIU Edwardsville | Lipscomb | +8.1 | +5.5 | +5.5 | +2.6 | yes |
-| 11-07 | Sat 9:00 PM | Utah Valley | Weber State | -9.1 | -6.5 | -7.5 | -2.6 | yes |
 
 ## Top 25 by rating
 
