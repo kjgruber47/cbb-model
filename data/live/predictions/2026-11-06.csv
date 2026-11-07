@@ -1,5 +1,5 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
-2026-11-06,Fri 10:00 PM,Oakland,Stanford,False,13.76,15.50,14.50,-1.74,-0.74,154.30,146.50,150.50,7.80,71.00,0.89,0.90,1,1,True,DraftKings,2026-11-07T02:31:18Z,401921727,24,2473
+2026-11-06,Fri 10:00 PM,Oakland,Stanford,False,13.76,14.50,14.50,-0.74,-0.74,154.30,146.50,150.50,7.80,71.00,0.89,0.90,1,1,True,DraftKings,2026-11-07T03:01:17Z,401921727,24,2473
 2026-11-06,Fri 10:00 PM,North Dakota State,San Francisco,False,8.18,8.50,7.50,-0.32,0.68,147.99,145.50,146.50,2.49,68.42,0.77,0.77,1,1,True,DraftKings,2026-11-07T01:01:17Z,401921061,2539,2449
 2026-11-06,Fri 10:30 PM,North Florida,UCLA,False,31.13,31.50,31.50,-0.37,-0.37,154.16,156.50,155.50,-2.34,71.95,1.00,,1,1,True,DraftKings,2026-11-07T02:31:18Z,401922219,26,2454
 2026-11-06,Fri 4:00 PM,Massachusetts,Boston College,True,8.66,5.50,5.50,3.16,3.16,145.62,143.50,144.50,2.12,70.81,0.78,0.68,1,1,True,DraftKings,2026-11-07T00:31:17Z,401909552,103,113
@@ -58,10 +58,10 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-06,Fri 9:30 PM,UT Arlington,Portland,True,0.10,2.50,1.50,-2.40,-1.40,143.76,150.50,150.50,-6.74,69.96,0.50,0.54,0,0,True,DraftKings,2026-11-07T02:31:18Z,401929356,2501,250
 2026-11-06,Fri 9:30 PM,California Baptist,Oregon State,False,13.73,20.50,16.50,-6.77,-2.77,142.12,157.50,153.50,-15.38,69.71,0.89,0.94,1,1,True,DraftKings,2026-11-07T02:31:18Z,401920344,204,2856
 2026-11-06,Fri 9:30 PM,Tarleton State,San Diego,False,3.31,7.50,4.50,-4.19,-1.19,154.92,147.50,150.50,7.42,72.83,0.62,0.73,0,0,True,DraftKings,2026-11-07T02:31:18Z,401917515,301,2627
-2026-11-07,Sat 10:00 PM,Fresno State,UC San Diego,False,9.68,9.50,9.50,0.18,0.18,148.15,150.50,148.50,-2.35,71.15,0.81,0.79,0,0,True,DraftKings,2026-11-07T02:01:18Z,401920371,28,278
-2026-11-07,Sat 10:00 PM,Sacramento State,Santa Clara,False,19.89,18.50,18.50,1.39,1.39,165.75,165.50,165.50,0.25,76.09,0.96,0.94,2,0,True,DraftKings,2026-11-07T02:01:18Z,401917519,2541,16
+2026-11-07,Sat 10:00 PM,Fresno State,UC San Diego,False,9.68,9.50,9.50,0.18,0.18,148.15,151.50,148.50,-3.35,71.15,0.81,0.79,0,0,True,DraftKings,2026-11-07T03:01:17Z,401920371,28,278
+2026-11-07,Sat 10:00 PM,Sacramento State,Santa Clara,False,19.89,19.50,18.50,0.39,1.39,165.75,167.50,165.50,-1.75,76.09,0.96,0.95,2,0,True,DraftKings,2026-11-07T03:01:17Z,401917519,2541,16
 2026-11-07,Sat 10:00 PM,Portland State,Seattle U,False,10.06,10.50,10.50,-0.44,-0.44,143.43,144.50,144.50,-1.07,71.38,0.82,0.84,1,0,True,DraftKings,2026-11-07T01:31:18Z,401917517,2547,2502
-2026-11-07,Sat 10:00 PM,San José State,UC Irvine,False,4.56,6.50,7.50,-1.94,-2.94,148.23,146.50,146.50,1.73,69.96,0.66,0.70,0,1,True,DraftKings,2026-11-07T02:31:18Z,401911470,300,23
+2026-11-07,Sat 10:00 PM,San José State,UC Irvine,False,4.56,8.50,7.50,-3.94,-2.94,148.23,146.50,146.50,1.73,69.96,0.66,0.71,0,1,True,DraftKings,2026-11-07T03:01:17Z,401911470,300,23
 2026-11-07,Sat 12:00 PM,Morehead State,Louisville,False,33.35,38.50,36.50,-5.15,-3.15,151.95,151.50,150.50,0.45,69.63,1.00,,1,2,True,DraftKings,2026-11-07T02:31:18Z,401918948,97,2413
 2026-11-07,Sat 12:00 PM,North Dakota,Winthrop,False,10.96,9.50,9.50,1.46,1.46,157.88,159.50,159.50,-1.62,72.94,0.84,0.79,1,1,True,DraftKings,2026-11-07T00:31:17Z,401925707,2737,155
 2026-11-07,Sat 1:00 PM,North Carolina A&T,Ohio,False,14.37,12.50,12.50,1.87,1.87,159.18,161.50,161.50,-2.32,72.58,0.90,0.85,1,0,True,DraftKings,2026-11-07T01:01:17Z,401921154,195,2448
@@ -95,9 +95,9 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-07,Sat 6:30 PM,Morgan State,Niagara,False,5.89,,,,,143.41,,,,69.99,0.70,,1,1,True,,,401924843,315,2415
 2026-11-07,Sat 7:00 PM,Mercer,Davidson,False,13.53,11.50,10.50,2.03,3.03,147.76,147.50,147.50,0.26,68.96,0.89,0.83,1,1,True,DraftKings,2026-11-07T02:31:18Z,401925772,2166,2382
 2026-11-07,Sat 7:00 PM,Houston Christian,Western Illinois,False,-4.88,-9.50,-9.50,4.62,4.62,140.64,139.50,139.50,1.14,67.50,0.33,0.23,1,0,True,DraftKings,2026-11-07T02:01:18Z,401924951,2710,2277
-2026-11-07,Sat 7:00 PM,St. Bonaventure,Canisius,False,-6.61,-9.50,-9.50,2.89,2.89,144.22,146.50,146.50,-2.28,68.40,0.27,0.28,1,1,True,DraftKings,2026-11-07T01:31:18Z,401911262,2099,179
+2026-11-07,Sat 7:00 PM,St. Bonaventure,Canisius,False,-6.61,-8.50,-9.50,1.89,2.89,144.22,147.50,146.50,-3.28,68.40,0.27,0.26,1,1,True,DraftKings,2026-11-07T03:01:17Z,401911262,2099,179
 2026-11-07,Sat 7:00 PM,Northern Illinois,Dayton,False,20.31,19.50,19.50,0.81,0.81,152.07,145.50,147.50,6.57,69.13,0.97,0.95,1,2,True,DraftKings,2026-11-07T02:31:18Z,401911186,2168,2459
-2026-11-07,Sat 7:00 PM,Providence,Nebraska,True,9.66,2.50,4.50,7.16,5.16,161.62,156.50,155.50,5.12,72.52,0.81,0.58,1,1,True,DraftKings,2026-11-07T02:31:18Z,401909532,158,2507
+2026-11-07,Sat 7:00 PM,Providence,Nebraska,True,9.66,2.50,4.50,7.16,5.16,161.62,156.50,155.50,5.12,72.52,0.81,0.58,1,1,True,DraftKings,2026-11-07T03:01:17Z,401909532,158,2507
 2026-11-07,Sat 7:30 PM,Denver,UC Riverside,False,-0.34,,,,,154.37,,,,71.50,0.49,,0,1,True,,,401926227,27,2172
 2026-11-07,Sat 7:30 PM,Maryland,Georgetown,False,1.62,-2.50,1.50,4.12,0.12,148.77,146.50,147.50,2.27,68.61,0.56,0.46,1,1,True,DraftKings,2026-11-07T00:31:17Z,401909513,46,120
 2026-11-07,Sat 8:00 PM,Northwestern State,Murray State,False,20.14,,,,,150.46,,,,72.54,0.97,,1,2,True,,,401925077,93,2466
@@ -105,7 +105,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-07,Sat 8:00 PM,SE Louisiana,Little Rock,False,4.51,,,,,144.20,,,,68.63,0.66,,1,1,True,,,401920816,2031,2545
 2026-11-07,Sat 8:00 PM,Pacific,Bradley,False,0.60,1.50,1.50,-0.90,-0.90,144.37,143.50,142.50,0.87,68.29,0.52,0.53,0,0,True,DraftKings,2026-11-07T01:01:17Z,401917518,71,279
 2026-11-07,Sat 8:00 PM,Bethune-Cookman,Grand Canyon,False,26.58,21.50,21.50,5.08,5.08,156.71,152.50,152.50,4.21,72.48,0.99,0.95,1,2,True,DraftKings,2026-11-07T02:01:18Z,401911345,2253,2065
-2026-11-07,Sat 9:00 PM,Utah Valley,Weber State,False,-9.12,-7.50,-7.50,-1.62,-1.62,155.52,154.50,154.50,1.02,73.50,0.20,0.23,1,0,True,DraftKings,2026-11-07T02:31:18Z,401920435,2692,3084
+2026-11-07,Sat 9:00 PM,Utah Valley,Weber State,False,-9.12,-6.50,-7.50,-2.62,-1.62,155.52,156.50,154.50,-0.98,73.50,0.20,0.23,1,0,True,DraftKings,2026-11-07T03:01:17Z,401920435,2692,3084
 2026-11-08,Sun 11:00 PM,USC,Wichita State,True,-2.75,,,,,153.70,,,,72.38,0.40,,1,1,True,,,401919029,2724,30
 2026-11-08,Sun 11:00 PM,UT Arlington,Hawai'i,False,8.33,,,,,143.12,,,,70.30,0.78,,1,0,True,,,401929002,62,250
 2026-11-08,Sun 12:00 PM,Iona,St. John's,False,25.87,,,,,145.53,,,,71.64,0.99,,1,2,True,,,401924646,2599,314
