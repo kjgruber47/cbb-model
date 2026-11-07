@@ -2550,3 +2550,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-07T07:34:06Z,401926825,2026-11-07,Hampton,George Washington,False,21.87,146.46,18.50,147.50,19.50,147.50,Draft Kings,2026-11-07T07:32:58Z
 2026-11-07T07:34:06Z,401926227,2026-11-07,Denver,UC Riverside,False,-0.34,154.37,1.50,154.50,1.50,154.50,Draft Kings,2026-11-07T07:32:58Z
 2026-11-07T08:34:01Z,401921174,2026-11-07,UT Martin,IU Indianapolis,False,-2.75,153.71,-2.50,160.50,-1.50,158.50,Draft Kings,2026-11-07T08:32:57Z
+2026-11-07T11:35:35Z,401921174,2026-11-07,UT Martin,IU Indianapolis,False,-2.75,153.71,-2.50,161.50,-1.50,158.50,Draft Kings,2026-11-07T11:34:32Z
