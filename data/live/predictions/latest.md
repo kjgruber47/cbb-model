@@ -9,9 +9,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-06 | Fri 5:00 PM | West Florida | Florida International | +1.4 | +16.5 | +13.5 | -15.1 | yes |
+| 11-06 | Fri 8:00 PM | Texas Southern | LSU | +27.6 | +36.5 | +30.5 | -8.9 | yes |
 | 11-07 | Sat 5:00 PM | Northern Iowa | Furman | -3.5 | +4.5 | +4.5 | -8.0 | yes |
 | 11-06 | Fri 8:00 PM | Detroit Mercy | Marquette | +24.5 | +32.5 | +30.5 | -8.0 | yes |
-| 11-06 | Fri 8:00 PM | Texas Southern | LSU | +27.6 | +35.5 | +30.5 | -7.9 | yes |
 | 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +0.4 | -7.5 | -5.5 | +7.9 | yes |
 | 11-06 | Fri 7:30 PM | Nicholls | UAB | +8.0 | +15.5 | +13.5 | -7.5 | yes |
 | 11-06 | Fri 9:30 PM | California Baptist | Oregon State | +13.7 | +20.5 | +16.5 | -6.8 | yes |
