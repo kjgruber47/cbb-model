@@ -20,8 +20,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-07 | Sat 7:30 PM | Maryland | Georgetown | +1.6 | -2.5 | +1.5 | +4.1 | yes |
 | 11-07 | Sat 5:00 PM | VMI | UTSA | +8.5 | +4.5 | +5.5 | +4.0 | yes |
 | 11-07 | Sat 10:00 PM | San José State | UC Irvine | +4.6 | +8.5 | +7.5 | -3.9 | yes |
+| 11-07 | Sat 6:00 PM | Hampton | George Washington | +21.9 | +18.5 | +19.5 | +3.4 | yes |
 | 11-07 | Sat 5:00 PM | Bellarmine | Miami (OH) | +17.3 | +20.5 | +20.5 | -3.2 | yes |
-| 11-07 | Sat 7:30 PM | Denver | UC Riverside | -0.3 | +2.5 | +1.5 | -2.8 | yes |
 | 11-07 | Sat 5:00 PM | SIU Edwardsville | Lipscomb | +8.1 | +5.5 | +5.5 | +2.6 | yes |
 
 ## Top 25 by rating
