@@ -14,13 +14,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-07 | Sat 8:00 PM | Bethune-Cookman | Grand Canyon | +26.6 | +21.5 | +21.5 | +5.1 | yes |
 | 11-07 | Sat 5:00 PM | Washington State | High Point | +16.1 | +11.5 | +11.5 | +4.6 | yes |
 | 11-07 | Sat 7:00 PM | Houston Christian | Western Illinois | -4.9 | -9.5 | -9.5 | +4.6 | yes |
+| 11-07 | Sat 3:00 PM | VCU | Memphis | +1.9 | -2.5 | +1.5 | +4.4 | yes |
 | 11-07 | Sat 3:30 PM | San Diego State | Colorado (N) | +1.7 | -2.5 | -2.5 | +4.2 | yes |
+| 11-07 | Sat 12:00 PM | Morehead State | Louisville | +33.4 | +37.5 | +36.5 | -4.1 | yes |
 | 11-07 | Sat 7:30 PM | Maryland | Georgetown | +1.6 | -2.5 | +1.5 | +4.1 | yes |
 | 11-07 | Sat 5:00 PM | VMI | UTSA | +8.5 | +4.5 | +5.5 | +4.0 | yes |
 | 11-07 | Sat 10:00 PM | San José State | UC Irvine | +4.6 | +8.5 | +7.5 | -3.9 | yes |
-| 11-07 | Sat 3:00 PM | VCU | Memphis | +1.9 | -1.5 | +1.5 | +3.4 | yes |
 | 11-07 | Sat 5:00 PM | Bellarmine | Miami (OH) | +17.3 | +20.5 | +20.5 | -3.2 | yes |
-| 11-07 | Sat 12:00 PM | Morehead State | Louisville | +33.4 | +36.5 | +36.5 | -3.1 | yes |
 | 11-07 | Sat 5:00 PM | SIU Edwardsville | Lipscomb | +8.1 | +5.5 | +5.5 | +2.6 | yes |
 | 11-07 | Sat 9:00 PM | Utah Valley | Weber State | -9.1 | -6.5 | -7.5 | -2.6 | yes |
 
