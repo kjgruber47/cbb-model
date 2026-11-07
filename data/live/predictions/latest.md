@@ -11,9 +11,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-07 | Sat 5:00 PM | Northern Iowa | Furman | -3.5 | +5.5 | +4.5 | -9.0 | yes |
 | 11-07 | Sat 7:00 PM | Providence | Nebraska (N) | +9.7 | +2.5 | +4.5 | +7.2 | yes |
 | 11-07 | Sat 5:30 PM | Prairie View A&M | UT Rio Grande Valley | +14.6 | +8.5 | +8.5 | +6.1 | yes |
+| 11-07 | Sat 8:00 PM | SE Louisiana | Little Rock | +4.5 | +10.5 | +5.5 | -6.0 | yes |
 | 11-07 | Sat 3:30 PM | San Diego State | Colorado (N) | +1.7 | -3.5 | -2.5 | +5.2 | yes |
 | 11-07 | Sat 7:30 PM | Maryland | Georgetown | +1.5 | -3.5 | +1.5 | +5.0 | yes |
-| 11-07 | Sat 8:00 PM | SE Louisiana | Little Rock | +4.5 | +9.5 | +5.5 | -5.0 | yes |
 | 11-07 | Sat 7:00 PM | Houston Christian | Western Illinois | -4.5 | -9.5 | -9.5 | +5.0 | yes |
 | 11-07 | Sat 8:00 PM | Bethune-Cookman | Grand Canyon | +26.3 | +21.5 | +21.5 | +4.8 | yes |
 | 11-07 | Sat 8:00 PM | Northwestern State | Murray State | +19.8 | +24.5 | +20.5 | -4.7 | yes |
@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-07 | Sat 12:00 PM | Morehead State | Louisville | +33.4 | +37.5 | +36.5 | -4.1 | yes |
 | 11-07 | Sat 5:00 PM | VMI | UTSA | +8.6 | +4.5 | +5.5 | +4.1 | yes |
 | 11-07 | Sat 10:00 PM | San José State | UC Irvine | +4.6 | +8.5 | +7.5 | -3.9 | yes |
-| 11-07 | Sat 7:00 PM | St. Bonaventure | Canisius | -6.6 | -9.5 | -9.5 | +2.9 | yes |
+| 11-08 | Sun 1:00 PM | Arkansas | Virginia (N) | +6.4 | +2.5 | +2.5 | +3.9 | yes |
 
 ## Top 25 by rating
 
