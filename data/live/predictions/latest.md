@@ -9,7 +9,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-07 | Sat 5:00 PM | Northern Iowa | Furman | -3.5 | +4.5 | +4.5 | -8.0 | yes |
-| 11-07 | Sat 7:00 PM | Providence | Nebraska (N) | +9.7 | +2.5 | +4.5 | +7.2 | yes |
+| 11-07 | Sat 7:00 PM | Providence | Nebraska (N) | +9.7 | +3.5 | +4.5 | +6.2 | yes |
 | 11-07 | Sat 5:30 PM | Prairie View A&M | UT Rio Grande Valley | +14.6 | +8.5 | +8.5 | +6.1 | yes |
 | 11-07 | Sat 3:30 PM | San Diego State | Colorado (N) | +1.7 | -3.5 | -2.5 | +5.2 | yes |
 | 11-07 | Sat 7:00 PM | Houston Christian | Western Illinois | -4.5 | -9.5 | -9.5 | +5.0 | yes |
@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-07 | Sat 7:30 PM | Maryland | Georgetown | +1.5 | -2.5 | +1.5 | +4.0 | yes |
 | 11-07 | Sat 10:00 PM | San José State | UC Irvine | +4.6 | +8.5 | +7.5 | -3.9 | yes |
 | 11-07 | Sat 6:00 PM | Hampton | George Washington | +21.9 | +18.5 | +19.5 | +3.4 | yes |
-| 11-07 | Sat 5:00 PM | Bellarmine | Miami (OH) | +17.6 | +20.5 | +20.5 | -2.9 | yes |
+| 11-07 | Sat 7:00 PM | St. Bonaventure | Canisius | -6.6 | -9.5 | -9.5 | +2.9 | yes |
 
 ## Top 25 by rating
 
