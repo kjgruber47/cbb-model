@@ -2662,3 +2662,8 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-07T12:05:34Z,401909502,2026-11-09,Alabama A&M,DePaul,False,22.44,142.11,,,,,,
 2026-11-07T12:05:34Z,401920887,2026-11-09,Seton Hall,Charlotte,True,-9.28,135.32,,,,,,
 2026-11-07T12:05:34Z,401920718,2026-11-09,Eastern Washington,Oregon State,False,15.09,155.15,,,,,,
+2026-11-07T12:35:34Z,401920770,2026-11-07,Colgate,Drexel,False,2.07,145.21,1.50,144.50,1.50,146.50,Draft Kings,2026-11-07T12:34:31Z
+2026-11-07T12:35:34Z,401920156,2026-11-07,Cal State Fullerton,South Dakota,False,0.00,169.61,1.50,174.50,1.50,167.50,Draft Kings,2026-11-07T12:34:31Z
+2026-11-07T12:35:34Z,401919805,2026-11-07,Long Island University,La Salle,False,6.37,143.42,4.50,145.50,4.50,144.50,Draft Kings,2026-11-07T12:34:31Z
+2026-11-07T12:35:34Z,401920411,2026-11-07,Washington State,High Point,False,16.13,152.97,10.50,153.50,11.50,153.50,Draft Kings,2026-11-07T12:34:31Z
+2026-11-07T12:35:34Z,401924951,2026-11-07,Houston Christian,Western Illinois,False,-4.53,141.06,-9.50,138.50,-9.50,139.50,Draft Kings,2026-11-07T12:34:31Z
