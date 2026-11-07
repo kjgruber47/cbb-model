@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-07 | Sat 5:00 PM | Northern Iowa | Furman | -3.5 | +5.5 | +4.5 | -9.0 | yes |
+| 11-07 | Sat 5:00 PM | Northern Iowa | Furman | -3.5 | +4.5 | +4.5 | -8.0 | yes |
 | 11-07 | Sat 7:00 PM | Providence | Nebraska (N) | +9.7 | +2.5 | +4.5 | +7.2 | yes |
 | 11-07 | Sat 5:30 PM | Prairie View A&M | UT Rio Grande Valley | +14.6 | +8.5 | +8.5 | +6.1 | yes |
 | 11-07 | Sat 8:00 PM | SE Louisiana | Little Rock | +4.5 | +10.5 | +5.5 | -6.0 | yes |
@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-07 | Sat 3:00 PM | VCU | Memphis | +1.8 | -2.5 | +1.5 | +4.3 | yes |
 | 11-07 | Sat 5:00 PM | New Mexico State | Gonzaga | +25.3 | +29.5 | +27.5 | -4.2 | yes |
 | 11-07 | Sat 12:00 PM | Morehead State | Louisville | +33.4 | +37.5 | +36.5 | -4.1 | yes |
-| 11-07 | Sat 5:00 PM | VMI | UTSA | +8.6 | +4.5 | +5.5 | +4.1 | yes |
 | 11-07 | Sat 10:00 PM | San José State | UC Irvine | +4.6 | +8.5 | +7.5 | -3.9 | yes |
 | 11-07 | Sat 8:00 PM | Bethune-Cookman | Grand Canyon | +26.3 | +22.5 | +21.5 | +3.8 | yes |
+| 11-07 | Sat 2:00 PM | Colgate | Drexel | +2.1 | -1.5 | +1.5 | +3.6 | yes |
 
 ## Top 25 by rating
 
