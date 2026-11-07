@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-06 | Fri 8:00 PM | Stony Brook | Northwestern | +17.4 | +11.5 | +14.5 | +5.9 | yes |
 | 11-06 | Fri 7:00 PM | Troy | Florida State | +17.1 | +22.5 | +20.5 | -5.4 | yes |
 | 11-06 | Fri 8:00 PM | Texas A&M-Corpus Christi | Louisiana | -1.7 | +3.5 | +2.5 | -5.2 | yes |
-| 11-07 | Sat 12:00 PM | Morehead State | Louisville | +33.4 | +38.5 | +36.5 | -5.1 | yes |
 | 11-07 | Sat 8:00 PM | Bethune-Cookman | Grand Canyon | +26.6 | +21.5 | +21.5 | +5.1 | yes |
 | 11-06 | Fri 8:30 PM | Southern Illinois | Kansas City | -6.5 | -1.5 | -3.5 | -5.0 | yes |
 | 11-07 | Sat 5:00 PM | Washington State | High Point | +16.1 | +11.5 | +11.5 | +4.6 | yes |
+| 11-06 | Fri 7:00 PM | New Haven | Rutgers | +19.9 | +24.5 | +24.5 | -4.6 | yes |
 
 ## Top 25 by rating
 
