@@ -1,4 +1,4 @@
-# Predictions for Friday, November 6, 2026
+# Predictions for Saturday, November 7, 2026
 
 Ratings fit on 196 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-06 | Fri 5:00 PM | West Florida | Florida International | +1.4 | +16.5 | +13.5 | -15.1 | yes |
-| 11-06 | Fri 8:00 PM | Texas Southern | LSU | +27.6 | +36.5 | +30.5 | -8.9 | yes |
 | 11-07 | Sat 5:00 PM | Northern Iowa | Furman | -3.5 | +4.5 | +4.5 | -8.0 | yes |
-| 11-06 | Fri 8:00 PM | Detroit Mercy | Marquette | +24.5 | +32.5 | +30.5 | -8.0 | yes |
-| 11-06 | Fri 8:00 PM | UConn | Michigan (N) | +0.4 | -7.5 | -5.5 | +7.9 | yes |
-| 11-06 | Fri 7:30 PM | Nicholls | UAB | +8.0 | +15.5 | +13.5 | -7.5 | yes |
 | 11-07 | Sat 7:00 PM | Providence | Nebraska (N) | +9.7 | +2.5 | +4.5 | +7.2 | yes |
-| 11-06 | Fri 9:30 PM | California Baptist | Oregon State | +13.7 | +20.5 | +16.5 | -6.8 | yes |
-| 11-06 | Fri 8:00 PM | Stony Brook | Northwestern | +17.4 | +11.5 | +14.5 | +5.9 | yes |
-| 11-06 | Fri 7:00 PM | Troy | Florida State | +17.1 | +22.5 | +20.5 | -5.4 | yes |
-| 11-06 | Fri 8:00 PM | Texas A&M-Corpus Christi | Louisiana | -1.7 | +3.5 | +2.5 | -5.2 | yes |
+| 11-07 | Sat 5:30 PM | Prairie View A&M | UT Rio Grande Valley | +14.6 | +8.5 | +8.5 | +6.1 | yes |
 | 11-07 | Sat 8:00 PM | Bethune-Cookman | Grand Canyon | +26.6 | +21.5 | +21.5 | +5.1 | yes |
-| 11-06 | Fri 8:30 PM | Southern Illinois | Kansas City | -6.5 | -1.5 | -3.5 | -5.0 | yes |
 | 11-07 | Sat 5:00 PM | Washington State | High Point | +16.1 | +11.5 | +11.5 | +4.6 | yes |
-| 11-06 | Fri 7:00 PM | New Haven | Rutgers | +19.9 | +24.5 | +24.5 | -4.6 | yes |
+| 11-07 | Sat 7:00 PM | Houston Christian | Western Illinois | -4.9 | -9.5 | -9.5 | +4.6 | yes |
+| 11-07 | Sat 3:30 PM | San Diego State | Colorado (N) | +1.7 | -2.5 | -2.5 | +4.2 | yes |
+| 11-07 | Sat 7:30 PM | Maryland | Georgetown | +1.6 | -2.5 | +1.5 | +4.1 | yes |
+| 11-07 | Sat 5:00 PM | VMI | UTSA | +8.5 | +4.5 | +5.5 | +4.0 | yes |
+| 11-07 | Sat 10:00 PM | San José State | UC Irvine | +4.6 | +8.5 | +7.5 | -3.9 | yes |
+| 11-07 | Sat 3:00 PM | VCU | Memphis | +1.9 | -1.5 | +1.5 | +3.4 | yes |
+| 11-07 | Sat 5:00 PM | Bellarmine | Miami (OH) | +17.3 | +20.5 | +20.5 | -3.2 | yes |
+| 11-07 | Sat 12:00 PM | Morehead State | Louisville | +33.4 | +36.5 | +36.5 | -3.1 | yes |
+| 11-07 | Sat 5:00 PM | SIU Edwardsville | Lipscomb | +8.1 | +5.5 | +5.5 | +2.6 | yes |
+| 11-07 | Sat 9:00 PM | Utah Valley | Weber State | -9.1 | -6.5 | -7.5 | -2.6 | yes |
 
 ## Top 25 by rating
 
