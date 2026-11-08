@@ -8,6 +8,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-08 | Sun 8:30 PM | Houston | California (N) | -17.1 | +19.5 | +17.5 | -36.6 | yes |
+| 11-08 | Sun 11:00 PM | USC | Wichita State (N) | -2.8 | +6.5 | +5.5 | -9.3 | yes |
 | 11-09 | Mon 7:00 PM | Minnesota | Cincinnati | +14.6 | +6.5 | +6.5 | +8.1 | yes |
 | 11-09 | Mon 8:30 PM | Illinois State | Purdue | +7.9 | +15.5 | +15.5 | -7.6 | yes |
 | 11-09 | Mon 8:00 PM | Louisiana Tech | LSU | +21.2 | +28.5 | +28.5 | -7.3 | yes |
@@ -17,12 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 9:30 PM | Seton Hall | Charlotte (N) | -9.3 | -4.5 | -4.5 | -4.8 | yes |
 | 11-08 | Sun 7:00 PM | Incarnate Word | UTEP | +8.3 | +12.5 | +10.5 | -4.2 | yes |
 | 11-09 | Mon 7:00 PM | North Dakota | Clemson | +25.4 | +21.5 | +21.5 | +3.9 | yes |
-| 11-08 | Sun 11:00 PM | USC | Wichita State (N) | -2.8 | -6.5 | -5.5 | +3.7 | yes |
+| 11-09 | Mon 7:00 PM | Cleveland State | Bowling Green | +16.3 | +12.5 | +12.5 | +3.8 | yes |
 | 11-09 | Mon 7:00 PM | UNC Greensboro | UIC | +22.1 | +18.5 | +17.5 | +3.6 | yes |
+| 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +28.5 | +28.5 | -3.5 | yes |
 | 11-08 | Sun 2:00 PM | Green Bay | St. Thomas | +4.2 | +7.5 | +7.5 | -3.3 | yes |
-| 11-08 | Sun 2:00 PM | Central Connecticut | Dartmouth | +11.7 | +8.5 | +5.5 | +3.2 | yes |
-| 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
-| 11-08 | Sun 2:00 PM | Merrimack | UAlbany | +0.5 | -2.5 | -2.5 | +3.0 | yes |
 
 ## Top 25 by rating
 
