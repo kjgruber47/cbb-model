@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-08 | Sun 1:00 PM | Sacred Heart | New Hampshire | +4.4 | +1.5 | +2.5 | +2.9 | yes |
 | 11-08 | Sun 8:30 PM | Houston | California (N) | -17.1 | -19.5 | -17.5 | +2.4 | yes |
 | 11-08 | Sun 1:00 PM | Manhattan | Maine | +4.8 | +2.5 | +2.5 | +2.3 | yes |
-| 11-08 | Sun 2:00 PM | Butler | Boise State | +4.4 | +2.5 | +1.5 | +1.9 | yes |
 | 11-08 | Sun 3:00 PM | Southern | Drake | +16.4 | +14.5 | +12.5 | +1.9 | yes |
 | 11-08 | Sun 1:00 PM | Arkansas | Virginia (N) | +6.4 | +4.5 | +2.5 | +1.9 | yes |
 | 11-08 | Sun 5:00 PM | Richmond | Temple (N) | -3.2 | -1.5 | -1.5 | -1.7 | yes |
+| 11-08 | Sun 1:00 PM | Marist | UMass Lowell | +0.1 | +1.5 | +1.5 | -1.4 | yes |
 
 ## Top 25 by rating
 
