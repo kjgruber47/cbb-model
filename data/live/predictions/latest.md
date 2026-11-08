@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-08 | Sun 8:30 PM | Houston | California (N) | -17.1 | -19.5 | -17.5 | +2.4 | yes |
 | 11-08 | Sun 2:00 PM | Merrimack | UAlbany | +0.5 | -1.5 | -2.5 | +2.0 | yes |
 | 11-08 | Sun 2:00 PM | Butler | Boise State | +4.4 | +2.5 | +1.5 | +1.9 | yes |
-| 11-08 | Sun 6:00 PM | Norfolk State | William & Mary | +11.3 | +9.5 | +9.5 | +1.8 | yes |
 | 11-08 | Sun 5:00 PM | Richmond | Temple (N) | -3.2 | -1.5 | -1.5 | -1.7 | yes |
+| 11-08 | Sun 1:00 PM | Marist | UMass Lowell | +0.1 | +1.5 | +1.5 | -1.4 | yes |
 
 ## Top 25 by rating
 
