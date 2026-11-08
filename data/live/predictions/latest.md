@@ -11,11 +11,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-08 | Sun 3:00 PM | Idaho State | Air Force | +0.2 | +5.5 | +6.5 | -5.3 | yes |
 | 11-08 | Sun 3:00 PM | Western Kentucky | Tennessee Tech | -8.6 | -3.5 | -3.5 | -5.1 | yes |
 | 11-08 | Sun 2:00 PM | Green Bay | St. Thomas | +4.2 | +8.5 | +7.5 | -4.3 | yes |
-| 11-08 | Sun 1:00 PM | Arkansas | Virginia (N) | +6.4 | +2.5 | +2.5 | +3.9 | yes |
 | 11-08 | Sun 11:00 PM | USC | Wichita State (N) | -2.8 | -6.5 | -5.5 | +3.7 | yes |
 | 11-08 | Sun 12:00 PM | Iona | St. John's | +25.9 | +29.5 | +24.5 | -3.6 | yes |
 | 11-08 | Sun 1:00 PM | Princeton | Siena | -1.8 | +1.5 | -1.5 | -3.3 | yes |
 | 11-08 | Sun 4:30 PM | Saint Mary's | Nevada (N) | -1.5 | +1.5 | -1.5 | -3.0 | yes |
+| 11-08 | Sun 1:00 PM | Arkansas | Virginia (N) | +6.4 | +3.5 | +2.5 | +2.9 | yes |
 | 11-08 | Sun 11:00 PM | UT Arlington | Hawai'i | +8.0 | +10.5 | +9.5 | -2.5 | yes |
 | 11-08 | Sun 8:30 PM | Houston | California (N) | -17.1 | -19.5 | -17.5 | +2.4 | yes |
 | 11-08 | Sun 2:00 PM | Butler | Boise State | +4.6 | +2.5 | +1.5 | +2.1 | yes |
