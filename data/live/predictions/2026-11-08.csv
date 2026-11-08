@@ -1,5 +1,5 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
-2026-11-08,Sun 11:00 PM,USC,Wichita State,True,-2.77,-6.50,-5.50,3.73,2.73,153.92,155.50,156.50,-1.58,72.36,0.40,0.31,1,1,True,DraftKings,2026-11-08T17:13:00Z,401919029,2724,30
+2026-11-08,Sun 11:00 PM,USC,Wichita State,True,-2.77,-6.50,-5.50,3.73,2.73,153.92,155.50,156.50,-1.58,72.36,0.40,0.30,1,1,True,DraftKings,2026-11-08T22:14:37Z,401919029,2724,30
 2026-11-08,Sun 11:00 PM,UT Arlington,Hawai'i,False,8.14,8.50,9.50,-0.36,-1.36,147.43,146.50,148.50,0.93,71.67,0.77,0.78,1,1,True,DraftKings,2026-11-08T19:13:00Z,401929002,62,250
 2026-11-08,Sun 12:00 PM,Iona,St. John's,False,25.70,26.50,24.50,-0.80,1.20,145.76,150.50,150.50,-4.74,71.62,0.99,0.97,1,2,True,DraftKings,2026-11-08T16:41:34Z,401924646,2599,314
 2026-11-08,Sun 1:00 PM,Arkansas,Virginia,True,6.39,4.50,2.50,1.89,3.89,162.11,162.50,158.50,-0.39,73.55,0.72,0.62,2,1,True,DraftKings,2026-11-08T18:13:01Z,401920424,258,8
@@ -27,7 +27,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-08,Sun 6:00 PM,North Dakota State,Cal State Bakersfield,False,-2.28,-2.50,1.50,0.22,-3.78,155.90,152.50,155.50,3.40,71.53,0.42,0.44,0,2,True,DraftKings,2026-11-08T20:13:00Z,401920134,2934,2449
 2026-11-08,Sun 7:00 PM,Incarnate Word,UTEP,False,8.27,12.50,10.50,-4.23,-2.23,140.68,141.50,143.50,-0.82,68.27,0.77,0.86,1,2,True,DraftKings,2026-11-08T17:13:00Z,401929352,2638,2916
 2026-11-08,Sun 8:00 PM,Pittsburgh,Penn State,True,-2.26,-2.50,-2.50,0.24,0.24,155.25,153.50,154.50,1.75,69.74,0.42,0.44,2,2,True,DraftKings,2026-11-08T19:13:00Z,401909707,213,221
-2026-11-08,Sun 8:30 PM,Houston,California,True,-17.11,-19.50,-17.50,2.39,0.39,145.66,143.50,145.50,2.16,68.58,0.06,0.06,1,1,True,DraftKings,2026-11-08T16:41:34Z,401918053,25,248
+2026-11-08,Sun 8:30 PM,Houston,California,True,-17.11,-19.50,-17.50,2.39,0.39,145.66,142.50,145.50,3.16,68.58,0.06,0.06,1,1,True,DraftKings,2026-11-08T22:14:37Z,401918053,25,248
 2026-11-09,Mon 10:00 PM,Mississippi Valley State,Washington,False,34.26,,,,,148.12,,,,69.73,1.00,,1,1,True,,,401925737,264,2400
 2026-11-09,Mon 10:00 PM,Rice,Stanford,False,16.25,,,,,143.87,,,,67.23,0.93,,2,1,True,,,401921095,24,242
 2026-11-09,Mon 11:59 PM,Portland,Hawai'i,False,9.38,,,,,156.53,,,,74.05,0.80,,1,1,True,,,401929003,62,2501
