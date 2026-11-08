@@ -16,13 +16,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-08 | Sun 1:00 PM | Arkansas | Virginia (N) | +6.4 | +3.5 | +2.5 | +2.9 | yes |
 | 11-08 | Sun 12:00 PM | Iona | St. John's | +25.7 | +28.5 | +24.5 | -2.8 | yes |
 | 11-08 | Sun 8:30 PM | Houston | California (N) | -17.1 | -19.5 | -17.5 | +2.4 | yes |
-| 11-08 | Sun 11:00 PM | UT Arlington | Hawai'i | +8.1 | +10.5 | +9.5 | -2.4 | yes |
 | 11-08 | Sun 2:00 PM | Butler | Boise State | +4.4 | +2.5 | +1.5 | +1.9 | yes |
 | 11-08 | Sun 5:00 PM | Richmond | Temple (N) | -3.2 | -1.5 | -1.5 | -1.7 | yes |
-| 11-08 | Sun 1:00 PM | Southeast Missouri State | South Carolina | +16.5 | +17.5 | +17.5 | -1.0 | yes |
+| 11-08 | Sun 11:00 PM | UT Arlington | Hawai'i | +8.1 | +9.5 | +9.5 | -1.4 | yes |
 | 11-10 | Tue 9:30 PM | Kansas | Kentucky (N) | -4.6 | -5.5 | -5.5 | +0.9 | yes |
 | 11-08 | Sun 2:00 PM | Campbell | Western Michigan | +4.6 | +5.5 | +5.5 | -0.9 | yes |
 | 11-10 | Tue 7:00 PM | Michigan State | Duke (N) | +6.0 | +6.5 | +6.5 | -0.5 | yes |
+| 11-08 | Sun 1:00 PM | Princeton | Siena | -1.8 | -1.5 | -1.5 | -0.3 | yes |
 
 ## Top 25 by rating
 
