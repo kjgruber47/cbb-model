@@ -63,7 +63,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-08,Sun 2:00 PM,Quinnipiac,Vermont,False,7.12,,,,,142.63,,,,68.41,0.74,,2,2,True,,,401920692,261,2514
 2026-11-08,Sun 2:00 PM,Central Connecticut,Dartmouth,False,11.71,,,,,143.76,,,,69.22,0.86,,1,2,True,,,401920233,159,2115
 2026-11-08,Sun 2:00 PM,Brown,Lehigh,False,6.30,,,,,136.64,,,,68.01,0.72,,2,2,True,,,401911306,2329,225
-2026-11-08,Sun 2:00 PM,Butler,Boise State,False,4.58,1.50,1.50,3.08,3.08,153.98,157.50,154.50,-3.52,70.64,0.66,0.52,0,2,True,DraftKings,2026-11-08T02:38:57Z,401902277,68,2086
+2026-11-08,Sun 2:00 PM,Butler,Boise State,False,4.58,1.50,1.50,3.08,3.08,153.98,156.50,154.50,-2.52,70.64,0.66,0.52,0,2,True,DraftKings,2026-11-08T03:08:58Z,401902277,68,2086
 2026-11-08,Sun 3:00 PM,Southern,Drake,False,16.44,,,,,154.87,,,,71.96,0.93,,0,2,True,,,401927362,2181,2582
 2026-11-08,Sun 3:00 PM,Western Kentucky,Tennessee Tech,False,-8.62,-2.50,-3.50,-6.12,-5.12,158.55,162.50,159.50,-3.95,72.29,0.22,0.42,1,1,True,DraftKings,2026-11-08T02:38:57Z,401926215,2635,98
 2026-11-08,Sun 3:00 PM,Idaho State,Air Force,False,0.20,5.50,6.50,-5.30,-6.30,146.00,160.50,157.50,-14.50,68.77,0.51,0.69,1,2,True,DraftKings,2026-11-08T02:08:58Z,401911335,2005,304
@@ -72,7 +72,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-08,Sun 4:30 PM,Saint Mary's,Nevada,True,-1.47,1.50,-1.50,-2.97,0.03,147.65,146.50,143.50,1.15,66.95,0.45,0.53,1,2,True,DraftKings,2026-11-08T01:37:22Z,401911453,2440,2608
 2026-11-08,Sun 5:00 PM,Richmond,Temple,True,-3.27,-1.50,-1.50,-1.77,-1.77,151.69,151.50,151.50,0.19,69.53,0.38,0.48,1,1,True,DraftKings,2026-11-07T22:37:22Z,401911238,218,257
 2026-11-08,Sun 6:00 PM,Norfolk State,William & Mary,False,11.26,,,,,158.79,,,,74.73,0.85,,0,0,True,,,401925894,2729,2450
-2026-11-08,Sun 6:00 PM,North Dakota State,Cal State Bakersfield,False,-2.28,-2.50,1.50,0.22,-3.78,155.70,157.50,155.50,-1.80,71.52,0.42,0.44,0,2,True,DraftKings,2026-11-08T02:08:58Z,401920134,2934,2449
+2026-11-08,Sun 6:00 PM,North Dakota State,Cal State Bakersfield,False,-2.28,-2.50,1.50,0.22,-3.78,155.70,157.50,155.50,-1.80,71.52,0.42,0.44,0,2,True,DraftKings,2026-11-08T03:08:58Z,401920134,2934,2449
 2026-11-08,Sun 7:00 PM,Incarnate Word,UTEP,False,8.26,,,,,140.53,,,,68.25,0.77,,1,2,True,,,401929352,2638,2916
 2026-11-08,Sun 8:00 PM,Pittsburgh,Penn State,True,-1.81,-2.50,-2.50,0.69,0.69,154.97,154.50,154.50,0.47,69.69,0.43,0.45,2,2,True,DraftKings,2026-11-08T00:07:21Z,401909707,213,221
 2026-11-08,Sun 8:30 PM,Houston,California,True,-17.10,-17.50,-17.50,0.40,0.40,145.92,145.50,145.50,0.42,68.62,0.06,0.07,1,1,True,DraftKings,2026-11-08T02:08:58Z,401918053,25,248
