@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-08 | Sun 11:00 PM | USC | Wichita State (N) | -2.8 | -6.5 | -5.5 | +3.7 | yes |
 | 11-09 | Mon 7:00 PM | UNC Greensboro | UIC | +22.1 | +18.5 | +17.5 | +3.6 | yes |
 | 11-08 | Sun 2:00 PM | Green Bay | St. Thomas | +4.2 | +7.5 | +7.5 | -3.3 | yes |
-| 11-09 | Mon 10:00 PM | Rice | Stanford | +16.2 | +19.5 | +19.5 | -3.3 | yes |
 | 11-08 | Sun 2:00 PM | Central Connecticut | Dartmouth | +11.7 | +8.5 | +5.5 | +3.2 | yes |
 | 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
+| 11-08 | Sun 2:00 PM | Merrimack | UAlbany | +0.5 | -2.5 | -2.5 | +3.0 | yes |
 
 ## Top 25 by rating
 
