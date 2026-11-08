@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-08 | Sun 3:00 PM | Idaho State | Air Force | +0.1 | +5.5 | +6.5 | -5.4 | yes |
+| 11-08 | Sun 3:00 PM | Idaho State | Air Force | +0.1 | +6.5 | +6.5 | -6.4 | yes |
 | 11-08 | Sun 3:00 PM | Western Kentucky | Tennessee Tech | -8.4 | -3.5 | -3.5 | -4.9 | yes |
 | 11-08 | Sun 2:00 PM | Green Bay | St. Thomas | +4.2 | +8.5 | +7.5 | -4.3 | yes |
 | 11-08 | Sun 12:00 PM | Iona | St. John's | +25.7 | +29.5 | +24.5 | -3.8 | yes |
