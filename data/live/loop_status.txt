@@ -1,5 +1,5 @@
-last_run_utc: 2026-11-08T10:41:49Z
+last_run_utc: 2026-11-08T11:13:21Z
 snapshot: ok
-prediction: ok
-loop_snapshots_ok: 9
+prediction: FAILED: requests.exceptions.HTTPError: 504 Server Error: Gateway Timeout for url: https://github.com/sportsdataverse/sportsdataverse-data/releases/download/espn_mens_college_basketball_team_boxscores/team_box
+loop_snapshots_ok: 10
 loop_failures: 0
