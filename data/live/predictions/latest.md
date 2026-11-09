@@ -17,10 +17,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +29.5 | +28.5 | -4.5 | yes |
 | 11-09 | Mon 7:30 PM | Florida A&M | UAB | +14.0 | +18.5 | +15.5 | -4.5 | yes |
 | 11-09 | Mon 7:00 PM | Radford | Tennessee | +34.6 | +30.5 | +28.5 | +4.1 | yes |
-| 11-09 | Mon 7:00 PM | North Dakota | Clemson | +25.4 | +21.5 | +21.5 | +3.9 | yes |
 | 11-09 | Mon 7:00 PM | Cleveland State | Bowling Green | +16.3 | +12.5 | +12.5 | +3.8 | yes |
 | 11-09 | Mon 8:00 PM | Boston University | Northwestern | +18.1 | +14.5 | +17.5 | +3.6 | yes |
 | 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
+| 11-09 | Mon 7:00 PM | North Dakota | Clemson | +25.4 | +22.5 | +21.5 | +2.9 | yes |
 | 11-09 | Mon 7:00 PM | South Carolina State | Chicago State | +4.3 | +1.5 | +5.5 | +2.8 | yes |
 | 11-09 | Mon 7:00 PM | Grambling | Texas | +34.7 | +37.5 | +37.5 | -2.8 | yes |
 
