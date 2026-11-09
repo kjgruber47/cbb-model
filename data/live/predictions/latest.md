@@ -12,7 +12,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 8:00 PM | Louisiana Tech | LSU | +21.2 | +29.5 | +28.5 | -8.3 | yes |
 | 11-09 | Mon 8:30 PM | Illinois State | Purdue | +7.9 | +15.5 | +15.5 | -7.6 | yes |
 | 11-09 | Mon 7:30 PM | Oakland | Alabama | +25.6 | +32.5 | +31.5 | -6.9 | yes |
-| 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +39.5 | +38.5 | -5.2 | yes |
+| 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +40.5 | +38.5 | -6.2 | yes |
 | 11-09 | Mon 9:30 PM | Seton Hall | Charlotte (N) | -9.2 | -4.5 | -4.5 | -4.7 | yes |
 | 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +29.5 | +28.5 | -4.5 | yes |
 | 11-10 | Tue 6:00 PM | Florida | Florida State | -14.0 | -9.5 | -9.5 | -4.5 | yes |
