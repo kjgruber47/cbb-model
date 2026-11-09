@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-10 | Tue 7:00 PM | Wyoming | North Carolina | +11.9 | +15.5 | +15.5 | -3.6 | yes |
 | 11-09 | Mon 8:00 PM | Boston University | Northwestern | +18.1 | +14.5 | +17.5 | +3.6 | yes |
 | 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
-| 11-09 | Mon 7:00 PM | North Dakota | Clemson | +25.4 | +22.5 | +21.5 | +2.9 | yes |
 | 11-09 | Mon 7:00 PM | Cleveland State | Bowling Green | +16.3 | +13.5 | +12.5 | +2.8 | yes |
+| 11-09 | Mon 7:00 PM | Grambling | Texas | +34.7 | +37.5 | +37.5 | -2.8 | yes |
 
 ## Top 25 by rating
 
