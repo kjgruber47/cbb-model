@@ -12,17 +12,17 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 8:00 PM | Louisiana Tech | LSU | +21.2 | +29.5 | +28.5 | -8.3 | yes |
 | 11-09 | Mon 7:00 PM | Minnesota | Cincinnati | +14.6 | +7.5 | +6.5 | +7.1 | yes |
 | 11-09 | Mon 7:30 PM | Oakland | Alabama | +25.6 | +32.5 | +31.5 | -6.9 | yes |
+| 11-09 | Mon 7:00 PM | Radford | Tennessee | +34.6 | +28.5 | +28.5 | +6.1 | yes |
 | 11-08 | Sun 3:00 PM | Idaho State | Air Force | +0.1 | +5.5 | +6.5 | -5.4 | yes |
 | 11-08 | Sun 7:00 PM | Incarnate Word | UTEP | +8.3 | +13.5 | +10.5 | -5.2 | yes |
 | 11-08 | Sun 3:00 PM | Western Kentucky | Tennessee Tech | -8.4 | -3.5 | -3.5 | -4.9 | yes |
 | 11-09 | Mon 9:30 PM | Seton Hall | Charlotte (N) | -9.3 | -4.5 | -4.5 | -4.8 | yes |
+| 11-09 | Mon 7:30 PM | Jackson State | Mississippi State | +25.5 | +21.5 | +21.5 | +4.0 | yes |
 | 11-09 | Mon 7:00 PM | North Dakota | Clemson | +25.4 | +21.5 | +21.5 | +3.9 | yes |
 | 11-09 | Mon 7:00 PM | Cleveland State | Bowling Green | +16.3 | +12.5 | +12.5 | +3.8 | yes |
 | 11-08 | Sun 11:00 PM | Wichita State | USC (N) | +2.8 | +6.5 | +5.5 | -3.7 | yes |
 | 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +28.5 | +28.5 | -3.5 | yes |
 | 11-08 | Sun 2:00 PM | Green Bay | St. Thomas | +4.2 | +7.5 | +7.5 | -3.3 | yes |
-| 11-08 | Sun 2:00 PM | Central Connecticut | Dartmouth | +11.7 | +8.5 | +5.5 | +3.2 | yes |
-| 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
 
 ## Top 25 by rating
 
