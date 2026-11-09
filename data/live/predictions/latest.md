@@ -11,18 +11,18 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 8:00 PM | Louisiana Tech | LSU | +21.2 | +30.5 | +28.5 | -9.3 | yes |
 | 11-09 | Mon 8:30 PM | Illinois State | Purdue | +7.9 | +15.5 | +15.5 | -7.6 | yes |
 | 11-09 | Mon 7:00 PM | Minnesota | Cincinnati | +15.0 | +7.5 | +6.5 | +7.5 | yes |
-| 11-09 | Mon 7:30 PM | Oakland | Alabama | +25.6 | +32.5 | +31.5 | -6.9 | yes |
-| 11-09 | Mon 7:00 PM | Radford | Tennessee | +34.6 | +28.5 | +28.5 | +6.1 | yes |
-| 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +39.5 | +38.5 | -5.2 | yes |
+| 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +40.5 | +38.5 | -6.2 | yes |
+| 11-09 | Mon 7:30 PM | Oakland | Alabama | +25.6 | +31.5 | +31.5 | -5.9 | yes |
+| 11-09 | Mon 7:00 PM | Radford | Tennessee | +34.6 | +29.5 | +28.5 | +5.1 | yes |
 | 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +29.5 | +28.5 | -4.5 | yes |
+| 11-09 | Mon 7:30 PM | Florida A&M | UAB | +14.0 | +18.5 | +15.5 | -4.5 | yes |
 | 11-09 | Mon 7:00 PM | North Dakota | Clemson | +25.4 | +21.5 | +21.5 | +3.9 | yes |
 | 11-09 | Mon 7:00 PM | Cleveland State | Bowling Green | +16.3 | +12.5 | +12.5 | +3.8 | yes |
 | 11-09 | Mon 9:30 PM | Seton Hall | Charlotte (N) | -9.2 | -5.5 | -4.5 | -3.7 | yes |
 | 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
-| 11-09 | Mon 7:30 PM | Florida A&M | UAB | +14.0 | +16.5 | +15.5 | -2.5 | yes |
+| 11-09 | Mon 7:00 PM | Grambling | Texas | +34.7 | +37.5 | +37.5 | -2.8 | yes |
 | 11-09 | Mon 6:30 PM | Syracuse | Indiana (N) | +3.1 | +5.5 | +4.5 | -2.4 | yes |
-| 11-09 | Mon 7:30 PM | Jackson State | Mississippi State | +25.6 | +23.5 | +21.5 | +2.1 | yes |
-| 11-09 | Mon 11:59 PM | Portland | Hawai'i | +9.5 | +7.5 | +6.5 | +2.0 | yes |
+| 11-09 | Mon 8:00 PM | UL Monroe | Texas A&M | +36.1 | +38.5 | +35.5 | -2.4 | yes |
 
 ## Top 25 by rating
 
