@@ -14,15 +14,15 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 7:30 PM | Oakland | Alabama | +25.6 | +32.5 | +31.5 | -6.9 | yes |
 | 11-09 | Mon 7:00 PM | Radford | Tennessee | +34.6 | +28.5 | +28.5 | +6.1 | yes |
 | 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +29.5 | +28.5 | -4.5 | yes |
+| 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +38.5 | +38.5 | -4.2 | yes |
 | 11-09 | Mon 7:00 PM | North Dakota | Clemson | +25.4 | +21.5 | +21.5 | +3.9 | yes |
 | 11-09 | Mon 7:00 PM | Cleveland State | Bowling Green | +16.3 | +12.5 | +12.5 | +3.8 | yes |
 | 11-09 | Mon 9:30 PM | Seton Hall | Charlotte (N) | -9.3 | -5.5 | -4.5 | -3.8 | yes |
-| 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +37.5 | +38.5 | -3.2 | yes |
 | 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
 | 11-09 | Mon 7:00 PM | Long Island University | Towson | +7.1 | +4.5 | +4.5 | +2.6 | yes |
 | 11-09 | Mon 7:30 PM | Florida A&M | UAB | +14.0 | +16.5 | +15.5 | -2.5 | yes |
-| 11-09 | Mon 7:00 PM | South Carolina Upstate | Coastal Carolina | +8.2 | +10.5 | +9.5 | -2.3 | yes |
 | 11-09 | Mon 6:30 PM | Syracuse | Indiana (N) | +3.3 | +5.5 | +4.5 | -2.2 | yes |
+| 11-09 | Mon 7:00 PM | North Florida | Miami | +36.7 | +34.5 | +30.5 | +2.2 | yes |
 
 ## Top 25 by rating
 
