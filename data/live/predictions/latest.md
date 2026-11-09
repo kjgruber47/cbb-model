@@ -15,6 +15,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +39.5 | +38.5 | -5.2 | yes |
 | 11-09 | Mon 9:30 PM | Seton Hall | Charlotte (N) | -9.2 | -4.5 | -4.5 | -4.7 | yes |
 | 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +29.5 | +28.5 | -4.5 | yes |
+| 11-10 | Tue 6:00 PM | Florida | Florida State | -14.0 | -9.5 | -9.5 | -4.5 | yes |
 | 11-09 | Mon 7:30 PM | Florida A&M | UAB | +14.0 | +18.5 | +15.5 | -4.5 | yes |
 | 11-09 | Mon 7:00 PM | Radford | Tennessee | +34.6 | +30.5 | +28.5 | +4.1 | yes |
 | 11-09 | Mon 7:00 PM | Cleveland State | Bowling Green | +16.3 | +12.5 | +12.5 | +3.8 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
 | 11-09 | Mon 7:00 PM | North Dakota | Clemson | +25.4 | +22.5 | +21.5 | +2.9 | yes |
 | 11-09 | Mon 7:00 PM | South Carolina State | Chicago State | +4.3 | +1.5 | +5.5 | +2.8 | yes |
-| 11-09 | Mon 7:00 PM | Grambling | Texas | +34.7 | +37.5 | +37.5 | -2.8 | yes |
 
 ## Top 25 by rating
 
