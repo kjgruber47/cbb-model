@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 9:30 PM | Seton Hall | Charlotte (N) | -9.2 | -5.5 | -4.5 | -3.7 | yes |
 | 11-09 | Mon 6:00 PM | Marshall | Ohio State | +22.3 | +25.5 | +25.5 | -3.2 | yes |
 | 11-09 | Mon 7:00 PM | South Carolina State | Chicago State | +4.3 | +1.5 | +5.5 | +2.8 | yes |
+| 11-09 | Mon 7:00 PM | Grambling | Texas | +34.7 | +37.5 | +37.5 | -2.8 | yes |
 | 11-09 | Mon 7:00 PM | UNC Greensboro | UIC | +22.2 | +19.5 | +17.5 | +2.7 | yes |
-| 11-09 | Mon 6:30 PM | Syracuse | Indiana (N) | +3.1 | +5.5 | +4.5 | -2.4 | yes |
 
 ## Top 25 by rating
 
