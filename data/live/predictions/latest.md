@@ -8,8 +8,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-10 | Tue 7:30 PM | Texas State | UT Rio Grande Valley | -0.4 | -7.5 | -7.5 | +7.1 | yes |
 | 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +21.5 | +22.5 | -6.4 | yes |
+| 11-10 | Tue 7:30 PM | Texas State | UT Rio Grande Valley | -0.4 | -6.5 | -7.5 | +6.1 | yes |
 | 11-10 | Tue 7:00 PM | Presbyterian | NC State | +24.8 | +19.5 | +18.5 | +5.3 | yes |
 | 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +36.5 | +36.5 | -5.2 | yes |
 | 11-10 | Tue 7:30 PM | Nicholls | Tulane | +4.8 | +9.5 | +9.5 | -4.7 | yes |
