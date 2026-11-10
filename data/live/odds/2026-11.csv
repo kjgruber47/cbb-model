@@ -19990,3 +19990,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-10T23:13:25Z,401911454,2026-11-11,2026-11-12T02:00Z,STATUS_SCHEDULED,False,2540,UC Santa Barbara Gauchos,2440,Nevada Wolf Pack,0,0,core,100,DraftKings,current,1.5,145.5,102,-122,-110.0,-110.0,-105.0,-115.0,NEV -1.5
 2026-11-10T23:13:25Z,401918054,2026-11-11,2026-11-12T04:00Z,STATUS_SCHEDULED,False,25,California Golden Bears,30,USC Trojans,0,0,scoreboard,100,DraftKings,close,7.5,160.5,245.0,-305.0,-112.0,-108.0,-110.0,-110.0,USC -7.5
 2026-11-10T23:13:25Z,401918054,2026-11-11,2026-11-12T04:00Z,STATUS_SCHEDULED,False,25,California Golden Bears,30,USC Trojans,0,0,core,100,DraftKings,current,7.5,160.5,245,-305,-112.0,-108.0,-110.0,-110.0,USC -7.5
+2026-11-10T23:14:53Z,401918969,2026-11-10,2026-11-11T01:00Z,STATUS_SCHEDULED,False,2567,SMU Mustangs,2504,Prairie View A&M Panthers,0,0,scoreboard,100,DraftKings,current,-27.5,161.5,,,,,,,SMU -27.5
+2026-11-10T23:14:53Z,401918969,2026-11-10,2026-11-11T01:00Z,STATUS_SCHEDULED,False,2567,SMU Mustangs,2504,Prairie View A&M Panthers,0,0,scoreboard,100,DraftKings,close,-27.5,161.5,-20000.0,3500.0,-108.0,-112.0,-108.0,-112.0,SMU -27.5
