@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-10 | Tue 7:30 PM | Texas State | UT Rio Grande Valley | -0.4 | -4.5 | -7.5 | +4.1 | yes |
 | 11-10 | Tue 7:00 PM | Army | New Haven | +2.4 | -1.5 | -1.5 | +3.9 | yes |
 | 11-10 | Tue 7:00 PM | Youngstown State | Central Michigan | -0.3 | +3.5 | +2.5 | -3.8 | yes |
+| 11-10 | Tue 7:15 PM | Memphis | Vanderbilt | +17.1 | +13.5 | +16.5 | +3.6 | yes |
+| 11-10 | Tue 8:00 PM | Alcorn State | Murray State | +26.9 | +30.5 | +25.5 | -3.6 | yes |
 | 11-10 | Tue 9:00 PM | Hofstra | Arizona State | +15.0 | +18.5 | +16.5 | -3.5 | yes |
-| 11-10 | Tue 8:00 PM | Southern | Iowa State | +38.9 | +35.5 | +34.5 | +3.4 | yes |
-| 11-10 | Tue 7:00 PM | South Alabama | UCF | +16.9 | +13.5 | +17.5 | +3.4 | yes |
 
 ## Top 25 by rating
 
