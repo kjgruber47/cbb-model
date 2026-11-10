@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-11 | Wed 8:00 PM | Robert Morris | Arkansas | +19.0 | +29.5 | +29.5 | -10.5 | yes |
 | 11-10 | Tue 7:00 PM | Presbyterian | NC State | +24.9 | +18.5 | +18.5 | +6.4 | yes |
 | 11-10 | Tue 7:00 PM | Detroit Mercy | Xavier | +29.1 | +35.5 | +32.5 | -6.4 | yes |
 | 11-10 | Tue 6:00 PM | Florida | Florida State | -14.4 | -8.5 | -9.5 | -5.9 | yes |
+| 11-11 | Wed 3:00 PM | Saint Joseph's | South Florida (N) | +11.9 | +6.5 | +6.5 | +5.4 | yes |
+| 11-11 | Wed 11:00 PM | USC | California | -2.1 | -7.5 | -7.5 | +5.4 | yes |
 | 11-10 | Tue 7:30 PM | Nicholls | Tulane | +4.4 | +9.5 | +9.5 | -5.1 | yes |
 | 11-10 | Tue 7:30 PM | Texas State | UT Rio Grande Valley | -0.4 | -5.5 | -7.5 | +5.1 | yes |
+| 11-11 | Wed 10:00 PM | UTSA | Seattle U | +18.6 | +13.5 | +13.5 | +5.1 | yes |
 | 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +19.5 | +22.5 | -4.4 | yes |
 | 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +35.5 | +36.5 | -4.2 | yes |
 | 11-10 | Tue 7:00 PM | Maryland Eastern Shore | Boston College | +22.3 | +26.5 | +24.5 | -4.2 | yes |
 | 11-10 | Tue 10:00 PM | Montana | San Francisco | +7.4 | +11.5 | +10.5 | -4.1 | yes |
 | 11-10 | Tue 7:00 PM | Army | New Haven | +2.4 | -1.5 | -1.5 | +3.9 | yes |
 | 11-10 | Tue 7:00 PM | Youngstown State | Central Michigan | -0.3 | +3.5 | +2.5 | -3.8 | yes |
-| 11-10 | Tue 7:15 PM | Memphis | Vanderbilt | +17.1 | +13.5 | +16.5 | +3.6 | yes |
-| 11-10 | Tue 8:00 PM | Alcorn State | Murray State | +26.9 | +30.5 | +25.5 | -3.6 | yes |
-| 11-10 | Tue 9:00 PM | UL Monroe | TCU | +37.1 | +33.5 | +33.5 | +3.6 | yes |
-| 11-10 | Tue 9:00 PM | Hofstra | Arizona State | +15.0 | +18.5 | +16.5 | -3.5 | yes |
 
 ## Top 25 by rating
 
