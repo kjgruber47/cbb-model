@@ -8,11 +8,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-10 | Tue 10:00 PM | Montana | San Francisco | +7.4 | +13.5 | +10.5 | -6.1 | yes |
 | 11-10 | Tue 7:00 PM | Presbyterian | NC State | +24.9 | +19.5 | +18.5 | +5.4 | yes |
 | 11-10 | Tue 7:00 PM | Detroit Mercy | Xavier | +29.1 | +34.5 | +32.5 | -5.4 | yes |
 | 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +36.5 | +36.5 | -5.2 | yes |
 | 11-10 | Tue 7:00 PM | Maryland Eastern Shore | Boston College | +22.3 | +27.5 | +24.5 | -5.2 | yes |
-| 11-10 | Tue 10:00 PM | Montana | San Francisco | +7.4 | +12.5 | +10.5 | -5.1 | yes |
 | 11-10 | Tue 7:30 PM | Nicholls | Tulane | +4.4 | +9.5 | +9.5 | -5.1 | yes |
 | 11-10 | Tue 6:00 PM | Florida | Florida State | -14.4 | -9.5 | -9.5 | -4.9 | yes |
 | 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +19.5 | +22.5 | -4.4 | yes |
