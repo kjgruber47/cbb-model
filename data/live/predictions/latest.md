@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +19.5 | +22.5 | -4.4 | yes |
 | 11-11 | Wed 9:00 PM | Lindenwood | Nebraska | +38.8 | +34.5 | +34.5 | +4.3 | yes |
 | 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +35.5 | +36.5 | -4.2 | yes |
-| 11-10 | Tue 7:00 PM | Maryland Eastern Shore | Boston College | +22.3 | +26.5 | +24.5 | -4.2 | yes |
+| 11-11 | Wed 7:00 PM | Kent State | UNC Wilmington | +9.7 | +5.5 | +6.5 | +4.2 | yes |
 
 ## Top 25 by rating
 
