@@ -13,10 +13,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-09 | Mon 7:00 PM | Minnesota | Cincinnati | +15.0 | +7.5 | +6.5 | +7.5 | yes |
 | 11-09 | Mon 7:30 PM | Oakland | Alabama | +25.6 | +32.5 | +31.5 | -6.9 | yes |
 | 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +21.5 | +22.5 | -6.4 | yes |
+| 11-09 | Mon 9:00 PM | Seton Hall | Charlotte (N) | -9.2 | -3.5 | -4.5 | -5.7 | yes |
 | 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +36.5 | +36.5 | -5.2 | yes |
 | 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +39.5 | +38.5 | -5.2 | yes |
 | 11-09 | Mon 7:00 PM | Radford | Tennessee | +34.6 | +29.5 | +28.5 | +5.1 | yes |
-| 11-09 | Mon 9:00 PM | Seton Hall | Charlotte (N) | -9.2 | -4.5 | -4.5 | -4.7 | yes |
 | 11-09 | Mon 8:00 PM | Boston University | Northwestern | +18.1 | +13.5 | +17.5 | +4.6 | yes |
 | 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +29.5 | +28.5 | -4.5 | yes |
 | 11-10 | Tue 6:00 PM | Florida | Florida State | -14.0 | -9.5 | -9.5 | -4.5 | yes |

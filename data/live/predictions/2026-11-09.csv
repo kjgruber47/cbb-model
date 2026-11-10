@@ -1,6 +1,6 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
 2026-11-09,Mon 10:00 PM,Mississippi Valley State,Washington,False,34.27,31.50,32.50,2.77,1.77,148.25,153.50,151.50,-5.25,69.75,1.00,,1,1,True,Draft Kings,2026-11-09T23:36:35Z,401925737,264,2400
-2026-11-09,Mon 10:00 PM,Rice,Stanford,False,16.25,18.50,19.50,-2.25,-3.25,143.98,145.50,145.50,-1.52,67.24,0.93,0.94,2,1,True,Draft Kings,2026-11-09T22:06:35Z,401921095,24,242
+2026-11-09,Mon 10:00 PM,Rice,Stanford,False,16.25,18.50,19.50,-2.25,-3.25,143.98,146.50,145.50,-2.52,67.24,0.93,0.94,2,1,True,Draft Kings,2026-11-10T02:06:35Z,401921095,24,242
 2026-11-09,Mon 11:59 PM,Portland,Hawai'i,False,9.49,8.50,6.50,0.99,2.99,155.28,156.50,155.50,-1.22,74.19,0.81,0.75,2,1,True,Draft Kings,2026-11-09T22:06:35Z,401929003,62,2501
 2026-11-09,Mon 6:00 PM,Marshall,Ohio State,False,22.30,25.50,25.50,-3.20,-3.20,158.61,162.50,158.50,-3.89,71.20,0.98,0.95,2,2,True,Draft Kings,2026-11-09T22:06:35Z,401916315,194,276
 2026-11-09,Mon 6:30 PM,Howard,Pennsylvania,False,7.37,6.50,5.50,0.87,1.87,158.04,155.50,158.50,2.54,73.78,0.75,0.69,1,2,True,Draft Kings,2026-11-10T00:06:34Z,401921180,219,47
@@ -29,10 +29,10 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-09,Mon 8:00 PM,UL Monroe,Texas A&M,False,36.09,36.50,35.50,-0.41,0.59,164.09,169.50,168.50,-5.41,75.72,1.00,,2,1,True,Draft Kings,2026-11-09T22:06:35Z,401917978,245,2433
 2026-11-09,Mon 8:00 PM,North Alabama,Oklahoma,False,27.07,27.50,26.50,-0.43,0.57,146.42,147.50,147.50,-1.08,67.45,0.99,0.97,2,1,True,Draft Kings,2026-11-10T01:06:34Z,401906803,201,2453
 2026-11-09,Mon 8:30 PM,Illinois State,Purdue,False,7.91,15.50,15.50,-7.59,-7.59,144.91,143.50,144.50,1.41,66.28,0.76,0.91,2,1,True,Draft Kings,2026-11-09T22:36:34Z,401926132,2509,2287
-2026-11-09,Mon 9:00 PM,Seton Hall,Charlotte,True,-9.24,-4.50,-4.50,-4.74,-4.74,135.59,130.50,135.50,5.09,64.22,0.20,0.36,2,2,True,Draft Kings,2026-11-09T23:36:35Z,401920887,2429,2550
+2026-11-09,Mon 9:00 PM,Seton Hall,Charlotte,True,-9.24,-3.50,-4.50,-5.74,-4.74,135.59,130.50,135.50,5.09,64.22,0.20,0.36,2,2,True,Draft Kings,2026-11-10T02:06:35Z,401920887,2429,2550
 2026-11-09,Mon 9:00 PM,App State,Auburn,False,22.26,23.50,25.50,-1.24,-3.24,142.52,143.50,146.50,-0.98,66.22,0.98,0.95,1,1,True,Draft Kings,2026-11-09T22:06:35Z,401920799,2,2026
-2026-11-09,Mon 9:00 PM,Alabama A&M,DePaul,False,22.45,23.50,21.50,-1.05,0.95,142.44,139.50,142.50,2.94,67.22,0.98,0.96,2,0,True,Draft Kings,2026-11-10T00:06:34Z,401909502,305,2010
-2026-11-09,Mon 9:30 PM,Eastern Washington,Oregon State,False,15.12,17.50,15.50,-2.38,-0.38,154.80,162.50,160.50,-7.70,69.08,0.92,0.93,2,2,True,Draft Kings,2026-11-09T23:06:34Z,401920718,204,331
+2026-11-09,Mon 9:00 PM,Alabama A&M,DePaul,False,22.45,24.50,21.50,-2.05,0.95,142.44,139.50,142.50,2.94,67.22,0.98,0.96,2,0,True,Draft Kings,2026-11-10T02:06:35Z,401909502,305,2010
+2026-11-09,Mon 9:30 PM,Eastern Washington,Oregon State,False,15.12,17.50,15.50,-2.38,-0.38,154.80,162.50,160.50,-7.70,69.08,0.92,0.93,2,2,True,Draft Kings,2026-11-10T02:06:35Z,401920718,204,331
 2026-11-10,Tue 10:00 PM,Montana,San Francisco,False,7.23,11.50,10.50,-4.27,-3.27,148.26,147.50,147.50,0.76,69.26,0.74,,2,1,True,Draft Kings,2026-11-10T00:36:34Z,401921062,2539,149
 2026-11-10,Tue 6:00 PM,Florida,Florida State,False,-13.98,-9.50,-9.50,-4.48,-4.48,164.43,164.50,164.50,-0.07,73.91,0.10,0.19,2,2,True,Draft Kings,2026-11-10T00:06:34Z,401906771,52,57
 2026-11-10,Tue 6:30 PM,NJIT,Rutgers,False,26.76,,,,,141.99,,,,67.93,0.99,,1,3,True,,,401920866,164,2885
@@ -66,7 +66,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-10,Tue 7:30 PM,Evansville,Middle Tennessee,False,6.81,7.50,8.50,-0.69,-1.69,143.14,143.50,143.50,-0.36,67.84,0.73,0.72,1,1,True,Draft Kings,2026-11-09T22:36:34Z,401927369,2393,339
 2026-11-10,Tue 7:30 PM,Texas State,UT Rio Grande Valley,False,-0.43,,,,,141.19,,,,66.41,0.48,,1,1,True,,,401925107,292,326
 2026-11-10,Tue 7:30 PM,Nicholls,Tulane,False,4.81,,,,,152.24,,,,70.71,0.67,,2,1,True,,,401919003,2655,2447
-2026-11-10,Tue 8:00 PM,Illinois,Texas Tech,False,-2.11,-1.50,-1.50,-0.61,-0.61,150.58,160.50,161.50,-9.92,69.72,0.42,0.45,2,2,True,Draft Kings,2026-11-09T22:06:35Z,401913527,2641,356
+2026-11-10,Tue 8:00 PM,Illinois,Texas Tech,False,-2.11,-1.50,-1.50,-0.61,-0.61,150.58,161.50,161.50,-10.92,69.72,0.42,0.45,2,2,True,Draft Kings,2026-11-10T02:06:35Z,401913527,2641,356
 2026-11-10,Tue 8:00 PM,Green Bay,Northern Iowa,False,5.68,3.50,3.50,2.18,2.18,139.88,151.50,151.50,-11.62,64.10,0.70,0.61,1,2,True,Draft Kings,2026-11-10T01:06:34Z,401927386,2460,2739
 2026-11-10,Tue 8:00 PM,UT Martin,Arkansas State,False,8.49,7.50,7.50,0.99,0.99,149.09,151.50,151.50,-2.41,71.22,0.78,0.73,2,2,True,Draft Kings,2026-11-09T22:36:34Z,401926731,2032,2630
 2026-11-10,Tue 8:00 PM,Alcorn State,Murray State,False,26.81,,,,,163.62,,,,74.74,0.99,,2,2,True,,,401925685,93,2016
