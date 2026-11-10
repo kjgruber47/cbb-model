@@ -10,10 +10,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +21.5 | +22.5 | -6.4 | yes |
 | 11-10 | Tue 7:30 PM | Texas State | UT Rio Grande Valley | -0.4 | -6.5 | -7.5 | +6.1 | yes |
+| 11-10 | Tue 8:00 PM | Southern | Iowa State | +38.9 | +33.5 | +34.5 | +5.4 | yes |
 | 11-10 | Tue 7:00 PM | Presbyterian | NC State | +24.8 | +19.5 | +18.5 | +5.3 | yes |
 | 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +36.5 | +36.5 | -5.2 | yes |
 | 11-10 | Tue 6:00 PM | Florida | Florida State | -14.0 | -9.5 | -9.5 | -4.5 | yes |
-| 11-10 | Tue 8:00 PM | Southern | Iowa State | +38.9 | +34.5 | +34.5 | +4.4 | yes |
 | 11-10 | Tue 10:00 PM | Montana | San Francisco | +7.2 | +11.5 | +10.5 | -4.3 | yes |
 | 11-10 | Tue 7:00 PM | Maine | Rhode Island | +22.5 | +18.5 | +18.5 | +4.0 | yes |
 | 11-10 | Tue 7:00 PM | Youngstown State | Central Michigan | -0.5 | +3.5 | +2.5 | -4.0 | yes |
