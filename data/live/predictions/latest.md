@@ -1,4 +1,4 @@
-# Predictions for Monday, November 9, 2026
+# Predictions for Tuesday, November 10, 2026
 
 Ratings fit on 332 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-09 | Mon 8:00 PM | Louisiana Tech | LSU | +21.2 | +29.5 | +28.5 | -8.3 | yes |
-| 11-09 | Mon 8:30 PM | Illinois State | Purdue | +7.9 | +15.5 | +15.5 | -7.6 | yes |
-| 11-09 | Mon 7:00 PM | Minnesota | Cincinnati | +15.0 | +7.5 | +6.5 | +7.5 | yes |
-| 11-09 | Mon 7:30 PM | Oakland | Alabama | +25.6 | +32.5 | +31.5 | -6.9 | yes |
+| 11-10 | Tue 7:30 PM | Texas State | UT Rio Grande Valley | -0.4 | -7.5 | -7.5 | +7.1 | yes |
 | 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +21.5 | +22.5 | -6.4 | yes |
-| 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +37.5 | +36.5 | -6.2 | yes |
-| 11-09 | Mon 7:00 PM | Wagner | UConn | +34.3 | +39.5 | +38.5 | -5.2 | yes |
-| 11-09 | Mon 7:00 PM | Radford | Tennessee | +34.6 | +29.5 | +28.5 | +5.1 | yes |
-| 11-09 | Mon 9:00 PM | Seton Hall | Charlotte (N) | -9.2 | -4.5 | -4.5 | -4.7 | yes |
-| 11-09 | Mon 8:00 PM | Boston University | Northwestern | +18.1 | +13.5 | +17.5 | +4.6 | yes |
-| 11-09 | Mon 8:00 PM | SIU Edwardsville | Missouri | +25.0 | +29.5 | +28.5 | -4.5 | yes |
+| 11-10 | Tue 7:00 PM | Presbyterian | NC State | +24.8 | +19.5 | +18.5 | +5.3 | yes |
+| 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +36.5 | +36.5 | -5.2 | yes |
+| 11-10 | Tue 7:30 PM | Nicholls | Tulane | +4.8 | +9.5 | +9.5 | -4.7 | yes |
 | 11-10 | Tue 6:00 PM | Florida | Florida State | -14.0 | -9.5 | -9.5 | -4.5 | yes |
-| 11-09 | Mon 7:30 PM | Florida A&M | UAB | +14.0 | +18.5 | +15.5 | -4.5 | yes |
+| 11-10 | Tue 8:00 PM | Southern | Iowa State | +38.9 | +34.5 | +34.5 | +4.4 | yes |
 | 11-10 | Tue 10:00 PM | Montana | San Francisco | +7.2 | +11.5 | +10.5 | -4.3 | yes |
+| 11-10 | Tue 7:00 PM | Maine | Rhode Island | +22.5 | +18.5 | +18.5 | +4.0 | yes |
 | 11-10 | Tue 7:00 PM | Youngstown State | Central Michigan | -0.5 | +3.5 | +2.5 | -4.0 | yes |
+| 11-10 | Tue 7:00 PM | Army | New Haven | +2.4 | -1.5 | -1.5 | +3.9 | yes |
+| 11-10 | Tue 7:00 PM | Detroit Mercy | Xavier | +29.1 | +32.5 | +32.5 | -3.4 | yes |
+| 11-10 | Tue 7:00 PM | Maryland Eastern Shore | Boston College | +22.4 | +25.5 | +24.5 | -3.1 | yes |
+| 11-10 | Tue 9:00 PM | Little Rock | New Mexico | +25.4 | +22.5 | +21.5 | +2.9 | yes |
+| 11-10 | Tue 7:00 PM | Virginia Tech | Iowa (N) | +2.7 | +5.5 | +3.5 | -2.8 | yes |
 
 ## Top 25 by rating
 
