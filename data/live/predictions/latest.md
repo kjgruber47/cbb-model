@@ -17,12 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-10 | Tue 6:00 PM | Florida | Florida State | -14.4 | -8.5 | -9.5 | -5.9 | yes |
 | 11-10 | Tue 7:30 PM | Texas State | UT Rio Grande Valley | -0.4 | -5.5 | -7.5 | +5.1 | yes |
 | 11-11 | Wed 10:00 PM | Mississippi Valley State | Oregon | +32.6 | +37.5 | +37.5 | -4.9 | yes |
+| 11-11 | Wed 9:00 PM | Oakland | Boise State | +20.2 | +15.5 | +17.5 | +4.7 | yes |
 | 11-11 | Wed 6:30 PM | Southern Indiana | IU Indianapolis | +2.8 | +7.5 | +5.5 | -4.7 | yes |
+| 11-11 | Wed 6:00 PM | North Carolina Central | VMI | +2.9 | +7.5 | +6.5 | -4.6 | yes |
 | 11-10 | Tue 8:00 PM | Alcorn State | Murray State | +26.9 | +31.5 | +25.5 | -4.6 | yes |
 | 11-11 | Wed 7:00 PM | Campbell | East Tennessee State | +9.1 | +4.5 | +5.5 | +4.6 | yes |
 | 11-11 | Wed 3:00 PM | Saint Joseph's | South Florida (N) | +11.9 | +7.5 | +6.5 | +4.4 | yes |
-| 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +19.5 | +22.5 | -4.4 | yes |
-| 11-11 | Wed 11:30 AM | Fairleigh Dickinson | East Texas A&M | +14.9 | +10.5 | +10.5 | +4.4 | yes |
 
 ## Top 25 by rating
 
