@@ -4617,3 +4617,6 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-11T11:49:14Z,401906794,2026-11-13,Xavier,Mississippi State,True,-2.68,160.18,,,,,,
 2026-11-11T11:49:14Z,401925739,2026-11-13,Mississippi Valley State,Oregon State,False,28.18,148.81,,,,,,
 2026-11-11T11:49:14Z,401917526,2026-11-13,Chicago State,San Diego,False,15.83,150.01,,,,,,
+2026-11-11T12:19:14Z,401925738,2026-11-11,Mississippi Valley State,Oregon,False,32.70,146.39,37.50,147.50,37.50,147.50,Draft Kings,2026-11-11T12:18:04Z
+2026-11-11T12:19:14Z,401919734,2026-11-11,Chicago State,California Baptist,False,12.65,140.41,11.50,141.50,10.50,142.50,Draft Kings,2026-11-11T12:18:04Z
+2026-11-11T12:19:14Z,401920202,2026-11-11,NJIT,VCU,False,31.53,149.11,33.50,149.50,31.50,147.50,Draft Kings,2026-11-11T12:18:04Z
