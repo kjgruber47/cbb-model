@@ -4675,3 +4675,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-11T14:19:14Z,401925702,2026-11-11,Jacksonville State,Houston,False,30.79,139.47,36.50,136.50,34.50,137.50,Draft Kings,2026-11-11T14:18:04Z
 2026-11-11T14:19:14Z,401917522,2026-11-11,Santa Clara,North Texas,False,-1.52,149.74,-2.50,150.50,-1.50,150.50,Draft Kings,2026-11-11T14:18:04Z
 2026-11-11T14:19:14Z,401925915,2026-11-11,Portland State,Colorado State,False,15.76,144.08,14.50,150.50,14.50,147.50,Draft Kings,2026-11-11T14:18:04Z
+2026-11-11T14:21:03Z,401921005,2026-11-11,Kansas City,Florida A&M,True,-3.70,155.55,-8.50,146.50,-6.50,151.50,Draft Kings,2026-11-11T14:19:54Z
