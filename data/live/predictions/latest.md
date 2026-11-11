@@ -16,13 +16,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-11 | Wed 11:00 PM | USC | California | -2.1 | -7.5 | -7.5 | +5.4 | yes |
 | 11-10 | Tue 7:30 PM | Nicholls | Tulane | +4.4 | +9.5 | +9.5 | -5.1 | yes |
 | 11-10 | Tue 7:30 PM | Texas State | UT Rio Grande Valley | -0.4 | -5.5 | -7.5 | +5.1 | yes |
-| 11-11 | Wed 8:00 PM | Jacksonville State | Houston | +30.8 | +35.5 | +34.5 | -4.7 | yes |
 | 11-10 | Tue 8:00 PM | Alcorn State | Murray State | +26.9 | +31.5 | +25.5 | -4.6 | yes |
 | 11-11 | Wed 3:00 PM | Saint Joseph's | South Florida (N) | +11.9 | +7.5 | +6.5 | +4.4 | yes |
 | 11-10 | Tue 8:00 PM | Yale | Baylor | +15.1 | +19.5 | +22.5 | -4.4 | yes |
-| 11-11 | Wed 9:00 PM | Lindenwood | Nebraska | +38.8 | +34.5 | +34.5 | +4.3 | yes |
 | 11-10 | Tue 9:00 PM | Northern Arizona | Arizona | +31.3 | +35.5 | +36.5 | -4.2 | yes |
 | 11-11 | Wed 7:00 PM | Kent State | UNC Wilmington | +9.7 | +5.5 | +6.5 | +4.2 | yes |
+| 11-10 | Tue 10:00 PM | Montana | San Francisco | +7.4 | +11.5 | +10.5 | -4.1 | yes |
+| 11-10 | Tue 7:00 PM | Army | New Haven | +2.4 | -1.5 | -1.5 | +3.9 | yes |
 
 ## Top 25 by rating
 
