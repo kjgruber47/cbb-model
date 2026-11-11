@@ -13,7 +13,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-11 | Wed 11:00 PM | USC | California | -2.1 | -8.5 | -7.5 | +6.4 | yes |
 | 11-11 | Wed 8:00 PM | Jacksonville State | Houston | +30.8 | +36.5 | +34.5 | -5.7 | yes |
 | 11-11 | Wed 10:00 PM | Mississippi Valley State | Oregon | +32.6 | +37.5 | +37.5 | -4.9 | yes |
-| 11-11 | Wed 9:00 PM | Oakland | Boise State | +20.2 | +15.5 | +17.5 | +4.7 | yes |
 | 11-11 | Wed 6:30 PM | Southern Indiana | IU Indianapolis | +2.8 | +7.5 | +5.5 | -4.7 | yes |
 | 11-11 | Wed 6:00 PM | North Carolina Central | VMI | +2.9 | +7.5 | +6.5 | -4.6 | yes |
 | 11-11 | Wed 7:00 PM | Campbell | East Tennessee State | +9.1 | +4.5 | +5.5 | +4.6 | yes |
@@ -21,6 +20,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-11 | Wed 11:30 AM | Fairleigh Dickinson | East Texas A&M | +14.9 | +10.5 | +10.5 | +4.4 | yes |
 | 11-11 | Wed 9:00 PM | Lindenwood | Nebraska | +38.8 | +34.5 | +34.5 | +4.3 | yes |
 | 11-11 | Wed 7:00 PM | Old Dominion | Norfolk State | -8.4 | -4.5 | -5.5 | -3.9 | yes |
+| 11-11 | Wed 9:00 PM | Oakland | Boise State | +20.2 | +16.5 | +17.5 | +3.7 | yes |
 | 11-11 | Wed 7:00 PM | James Madison | Delaware | -0.1 | -3.5 | -3.5 | +3.4 | yes |
 | 11-11 | Wed 7:00 PM | Saint Peter's | South Carolina | +19.6 | +22.5 | +21.5 | -2.9 | yes |
 
