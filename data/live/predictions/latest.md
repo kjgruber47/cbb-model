@@ -9,7 +9,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-11 | Wed 8:00 PM | Robert Morris | Arkansas | +19.0 | +31.5 | +29.5 | -12.5 | yes |
-| 11-11 | Wed 7:30 PM | Pepperdine | Sam Houston | +7.4 | -2.5 | +1.5 | +9.9 | yes |
+| 11-11 | Wed 7:30 PM | Pepperdine | Sam Houston | +7.4 | -3.5 | +1.5 | +10.9 | yes |
 | 11-11 | Wed 11:00 PM | USC | California | -2.1 | -8.5 | -7.5 | +6.4 | yes |
 | 11-11 | Wed 6:00 PM | North Carolina Central | VMI | +2.5 | +8.5 | +6.5 | -6.0 | yes |
 | 11-11 | Wed 8:00 PM | Jacksonville State | Houston | +30.8 | +36.5 | +34.5 | -5.7 | yes |
