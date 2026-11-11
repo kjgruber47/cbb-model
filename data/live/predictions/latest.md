@@ -12,7 +12,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-11 | Wed 7:30 PM | Pepperdine | Sam Houston | +7.4 | -3.5 | +1.5 | +10.9 | yes |
 | 11-11 | Wed 8:00 PM | Robert Morris | Arkansas | +19.0 | +29.5 | +29.5 | -10.5 | yes |
 | 11-11 | Wed 11:00 PM | USC | California | -2.1 | -8.5 | -7.5 | +6.4 | yes |
-| 11-11 | Wed 6:00 PM | North Carolina Central | VMI | +2.5 | +8.5 | +6.5 | -6.0 | yes |
+| 11-11 | Wed 6:00 PM | North Carolina Central | VMI | +2.5 | +7.5 | +6.5 | -5.0 | yes |
 | 11-11 | Wed 6:30 PM | Southern Indiana | IU Indianapolis | +3.5 | +8.5 | +5.5 | -5.0 | yes |
 | 11-11 | Wed 9:00 PM | Nevada | UC Santa Barbara | -3.3 | +1.5 | -1.5 | -4.8 | yes |
 | 11-11 | Wed 9:00 PM | Lindenwood | Nebraska | +39.3 | +34.5 | +34.5 | +4.8 | yes |
@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-11 | Wed 9:00 PM | Oakland | Boise State | +20.2 | +16.5 | +17.5 | +3.7 | yes |
 | 11-11 | Wed 7:00 PM | Campbell | East Tennessee State | +9.2 | +5.5 | +5.5 | +3.7 | yes |
 | 11-11 | Wed 11:30 AM | Fairleigh Dickinson | East Texas A&M | +15.0 | +11.5 | +10.5 | +3.5 | yes |
+| 11-11 | Wed 7:00 PM | NJIT | VCU | +31.5 | +34.5 | +31.5 | -3.0 | yes |
 | 11-11 | Wed 7:00 PM | UMass Lowell | Massachusetts | +10.4 | +7.5 | +11.5 | +2.9 | yes |
-| 11-11 | Wed 7:00 PM | James Madison | Delaware | +0.4 | -2.5 | -3.5 | +2.9 | yes |
 
 ## Top 25 by rating
 
