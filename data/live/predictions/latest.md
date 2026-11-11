@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-11 | Wed 8:00 PM | Robert Morris | Arkansas | +19.0 | +29.5 | +29.5 | -10.5 | yes |
+| 11-11 | Wed 8:00 PM | Robert Morris | Arkansas | +19.0 | +30.5 | +29.5 | -11.5 | yes |
 | 11-10 | Tue 7:00 PM | Presbyterian | NC State | +24.9 | +18.5 | +18.5 | +6.4 | yes |
 | 11-10 | Tue 7:00 PM | Detroit Mercy | Xavier | +29.1 | +35.5 | +32.5 | -6.4 | yes |
 | 11-11 | Wed 7:30 PM | Pepperdine | Sam Houston | +7.5 | +1.5 | +1.5 | +6.0 | yes |
