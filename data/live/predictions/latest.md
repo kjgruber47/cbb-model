@@ -17,11 +17,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-11 | Wed 9:00 PM | Nevada | UC Santa Barbara | -3.3 | +1.5 | -1.5 | -4.8 | yes |
 | 11-11 | Wed 9:00 PM | Lindenwood | Nebraska | +39.3 | +34.5 | +34.5 | +4.8 | yes |
 | 11-11 | Wed 12:00 PM | Kansas City | Florida A&M (N) | -3.7 | -8.5 | -6.5 | +4.8 | yes |
+| 11-11 | Wed 7:00 PM | Campbell | East Tennessee State | +9.2 | +4.5 | +5.5 | +4.7 | yes |
 | 11-11 | Wed 9:00 PM | Arkansas-Pine Bluff | UCLA | +42.9 | +47.5 | +43.5 | -4.6 | yes |
+| 11-11 | Wed 7:00 PM | James Madison | Delaware | +0.4 | -3.5 | -3.5 | +3.9 | yes |
 | 11-11 | Wed 9:00 PM | Oakland | Boise State | +20.2 | +16.5 | +17.5 | +3.7 | yes |
-| 11-11 | Wed 7:00 PM | Campbell | East Tennessee State | +9.2 | +5.5 | +5.5 | +3.7 | yes |
 | 11-11 | Wed 11:30 AM | Fairleigh Dickinson | East Texas A&M | +15.0 | +11.5 | +10.5 | +3.5 | yes |
-| 11-11 | Wed 7:00 PM | NJIT | VCU | +31.5 | +34.5 | +31.5 | -3.0 | yes |
 | 11-11 | Wed 7:00 PM | UMass Lowell | Massachusetts | +10.4 | +7.5 | +11.5 | +2.9 | yes |
 
 ## Top 25 by rating
