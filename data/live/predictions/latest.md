@@ -13,15 +13,15 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-11 | Wed 11:00 PM | USC | California | -2.1 | -8.5 | -7.5 | +6.4 | yes |
 | 11-11 | Wed 6:00 PM | North Carolina Central | VMI | +2.5 | +8.5 | +6.5 | -6.0 | yes |
 | 11-11 | Wed 8:00 PM | Jacksonville State | Houston | +30.8 | +36.5 | +34.5 | -5.7 | yes |
+| 11-11 | Wed 6:30 PM | Southern Indiana | IU Indianapolis | +3.5 | +8.5 | +5.5 | -5.0 | yes |
 | 11-11 | Wed 9:00 PM | Lindenwood | Nebraska | +39.3 | +34.5 | +34.5 | +4.8 | yes |
 | 11-11 | Wed 10:00 PM | Mississippi Valley State | Oregon | +32.7 | +37.5 | +37.5 | -4.8 | yes |
-| 11-11 | Wed 12:00 PM | Kansas City | Florida A&M (N) | -3.7 | -8.5 | -6.5 | +4.8 | yes |
 | 11-11 | Wed 7:00 PM | Campbell | East Tennessee State | +9.2 | +4.5 | +5.5 | +4.7 | yes |
 | 11-11 | Wed 3:00 PM | Saint Joseph's | South Florida (N) | +11.9 | +7.5 | +6.5 | +4.4 | yes |
-| 11-11 | Wed 6:30 PM | Southern Indiana | IU Indianapolis | +3.5 | +7.5 | +5.5 | -4.0 | yes |
 | 11-11 | Wed 7:00 PM | James Madison | Delaware | +0.4 | -3.5 | -3.5 | +3.9 | yes |
+| 11-11 | Wed 12:00 PM | Kansas City | Florida A&M (N) | -3.7 | -7.5 | -6.5 | +3.8 | yes |
 | 11-11 | Wed 9:00 PM | Oakland | Boise State | +20.2 | +16.5 | +17.5 | +3.7 | yes |
-| 11-11 | Wed 8:00 PM | Oral Roberts | Tulsa | +21.2 | +17.5 | +19.5 | +3.7 | yes |
+| 11-11 | Wed 4:00 PM | North Carolina A&T | East Carolina | +9.0 | +12.5 | +10.5 | -3.5 | yes |
 | 11-11 | Wed 11:30 AM | Fairleigh Dickinson | East Texas A&M | +15.0 | +11.5 | +10.5 | +3.5 | yes |
 
 ## Top 25 by rating
