@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-11 | Wed 10:00 PM | Mississippi Valley State | Oregon | +32.7 | +36.5 | +37.5 | -3.8 | yes |
 | 11-11 | Wed 12:00 PM | Kansas City | Florida A&M (N) | -3.7 | -7.5 | -6.5 | +3.8 | yes |
 | 11-11 | Wed 9:00 PM | Oakland | Boise State | +20.2 | +16.5 | +17.5 | +3.7 | yes |
-| 11-11 | Wed 4:00 PM | North Carolina A&T | East Carolina | +9.0 | +12.5 | +10.5 | -3.5 | yes |
 | 11-11 | Wed 11:30 AM | Fairleigh Dickinson | East Texas A&M | +15.0 | +11.5 | +10.5 | +3.5 | yes |
+| 11-11 | Wed 7:00 PM | Colgate | St. John's | +27.1 | +30.5 | +27.5 | -3.4 | yes |
 
 ## Top 25 by rating
 
