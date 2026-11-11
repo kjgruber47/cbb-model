@@ -8,11 +8,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-11 | Wed 3:00 PM | Saint Joseph's | South Florida (N) | +11.9 | -6.5 | -6.5 | +18.4 | yes |
 | 11-11 | Wed 8:00 PM | Robert Morris | Arkansas | +19.0 | +30.5 | +29.5 | -11.5 | yes |
 | 11-11 | Wed 7:30 PM | Pepperdine | Sam Houston | +7.4 | -3.5 | +1.5 | +10.9 | yes |
 | 11-11 | Wed 11:00 PM | USC | California | -2.1 | -8.5 | -7.5 | +6.4 | yes |
 | 11-11 | Wed 6:00 PM | North Carolina Central | VMI | +2.5 | +8.5 | +6.5 | -6.0 | yes |
-| 11-11 | Wed 3:00 PM | Saint Joseph's | South Florida (N) | +11.9 | +6.5 | +6.5 | +5.4 | yes |
 | 11-11 | Wed 6:30 PM | Southern Indiana | IU Indianapolis | +3.5 | +8.5 | +5.5 | -5.0 | yes |
 | 11-11 | Wed 9:00 PM | Lindenwood | Nebraska | +39.3 | +34.5 | +34.5 | +4.8 | yes |
 | 11-11 | Wed 12:00 PM | Kansas City | Florida A&M (N) | -3.7 | -8.5 | -6.5 | +4.8 | yes |
