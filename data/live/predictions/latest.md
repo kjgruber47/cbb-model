@@ -12,17 +12,17 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-12 | Thu 8:00 PM | Oklahoma State | Texas A&M | +2.1 | +8.5 | +7.5 | -6.4 | yes |
 | 11-12 | Thu 8:00 PM | Loyola Marymount | South Alabama (N) | -4.8 | +1.5 | -1.5 | -6.3 | yes |
 | 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +5.5 | +3.5 | -5.3 | yes |
+| 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +15.5 | +15.5 | -5.1 | yes |
 | 11-12 | Thu 7:00 PM | Cal State Bakersfield | Western Illinois | -4.8 | -9.5 | -6.5 | +4.7 | yes |
 | 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -6.8 | -2.5 | -3.5 | -4.3 | yes |
-| 11-12 | Thu 6:00 PM | Morgan State | UMBC | +10.4 | +6.5 | +6.5 | +3.9 | yes |
+| 11-13 | Fri 6:00 PM | Georgetown | Clemson | +7.4 | +3.5 | +3.5 | +3.9 | yes |
+| 11-13 | Fri 9:00 PM | Arizona | Auburn | +0.9 | -2.5 | -2.5 | +3.4 | yes |
 | 11-12 | Thu 7:00 PM | Maryland Eastern Shore | Rhode Island | +20.4 | +23.5 | +23.5 | -3.1 | yes |
 | 11-12 | Thu 9:00 PM | Montana State | BYU | +18.7 | +21.5 | +24.5 | -2.8 | yes |
-| 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +23.5 | +20.5 | -2.7 | yes |
+| 11-13 | Fri 7:30 PM | Ohio State | UConn | +12.8 | +10.5 | +10.5 | +2.3 | yes |
+| 11-12 | Thu 6:00 PM | Morgan State | UMBC | +10.4 | +8.5 | +6.5 | +1.9 | yes |
+| 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +22.5 | +20.5 | -1.7 | yes |
 | 11-12 | Thu 7:00 PM | Monmouth | Quinnipiac | -0.2 | +1.5 | +1.5 | -1.7 | yes |
-| 11-12 | Thu 6:30 PM | Mercyhurst | Penn State | +18.9 | +20.5 | +20.5 | -1.6 | yes |
-| 11-12 | Thu 7:00 PM | Canisius | Brown | +13.9 | +12.5 | +13.5 | +1.4 | yes |
-| 11-12 | Thu 7:00 PM | Loyola Maryland | Towson | +14.6 | +13.5 | +14.5 | +1.1 | yes |
-| 11-12 | Thu 7:00 PM | Western Michigan | Purdue Fort Wayne | -1.6 | -2.5 | +1.5 | +0.9 | yes |
 
 ## Top 25 by rating
 
