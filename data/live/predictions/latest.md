@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-12 | Thu 8:00 PM | West Florida | Alabama A&M | -6.5 | +6.5 | +8.5 | -13.0 | yes |
+| 11-12 | Thu 8:00 PM | West Florida | Alabama A&M | -6.5 | +5.5 | +8.5 | -12.0 | yes |
 | 11-12 | Thu 8:00 PM | Oklahoma State | Texas A&M | +2.1 | +8.5 | +7.5 | -6.4 | yes |
 | 11-12 | Thu 8:00 PM | Loyola Marymount | South Alabama (N) | -4.8 | +1.5 | -1.5 | -6.3 | yes |
 | 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +5.5 | +3.5 | -5.3 | yes |
@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-12 | Thu 7:00 PM | Monmouth | Quinnipiac | -0.2 | +1.5 | +1.5 | -1.7 | yes |
 | 11-12 | Thu 6:30 PM | Mercyhurst | Penn State | +18.9 | +20.5 | +20.5 | -1.6 | yes |
 | 11-12 | Thu 7:00 PM | Canisius | Brown | +13.9 | +12.5 | +13.5 | +1.4 | yes |
-| 11-12 | Thu 10:00 PM | UC Riverside | San José State | +8.1 | +9.5 | +8.5 | -1.4 | yes |
+| 11-12 | Thu 7:00 PM | Loyola Maryland | Towson | +14.6 | +13.5 | +14.5 | +1.1 | yes |
 
 ## Top 25 by rating
 
