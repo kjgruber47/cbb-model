@@ -5146,3 +5146,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-12T11:27:41Z,401911520,2026-11-14,UC Davis,Sacramento State,False,5.29,158.32,,,,,,
 2026-11-12T11:27:41Z,401911347,2026-11-14,UL Monroe,Grand Canyon,False,32.66,163.51,,,,,,
 2026-11-12T11:27:41Z,401920760,2026-11-14,Furman,Belmont,False,4.51,152.51,,,,,,
+2026-11-12T12:27:42Z,401920073,2026-11-12,Kansas City,George Mason,True,14.98,144.11,15.50,141.50,15.50,140.50,DraftKings,2026-11-12T12:26:34Z
+2026-11-12T12:27:42Z,401916306,2026-11-12,Southern,Minnesota,False,26.41,138.13,24.50,140.50,24.50,140.50,DraftKings,2026-11-12T12:26:34Z
