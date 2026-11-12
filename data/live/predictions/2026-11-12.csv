@@ -1,7 +1,7 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
 2026-11-12,Thu 10:00 PM,UC Riverside,San José State,False,8.14,8.50,8.50,-0.36,-0.36,149.14,152.50,153.50,-3.36,69.57,0.77,0.74,2,1,True,DraftKings,2026-11-12T10:26:34Z,401911471,23,27
-2026-11-12,Thu 3:00 PM,Kansas City,George Mason,True,14.98,15.50,15.50,-0.52,-0.52,144.11,140.50,140.50,3.61,68.13,0.91,0.90,2,4,True,DraftKings,2026-11-12T11:26:33Z,401920073,2244,140
-2026-11-12,Thu 6:00 PM,Bradley,Coppin State,True,-12.00,-10.50,-8.50,-1.50,-3.50,135.65,134.50,135.50,1.15,69.31,0.14,0.21,2,2,True,DraftKings,2026-11-12T10:26:34Z,401925631,2154,71
+2026-11-12,Thu 3:00 PM,Kansas City,George Mason,True,14.98,15.50,15.50,-0.52,-0.52,144.11,140.50,140.50,3.61,68.13,0.91,0.91,2,4,True,DraftKings,2026-11-12T11:56:34Z,401920073,2244,140
+2026-11-12,Thu 6:00 PM,Bradley,Coppin State,True,-12.00,-10.50,-8.50,-1.50,-3.50,135.65,134.50,135.50,1.15,69.31,0.14,0.20,2,2,True,DraftKings,2026-11-12T11:56:34Z,401925631,2154,71
 2026-11-12,Thu 6:00 PM,Morgan State,UMBC,False,10.36,6.50,6.50,3.86,3.86,150.84,161.50,161.50,-10.66,73.48,0.83,0.71,2,2,True,DraftKings,2026-11-12T10:26:34Z,401921086,2378,2415
 2026-11-12,Thu 6:30 PM,Mercyhurst,Penn State,False,18.91,20.50,20.50,-1.59,-1.59,148.54,147.50,147.50,1.04,67.45,0.96,0.95,3,2,True,DraftKings,2026-11-12T10:26:34Z,401917176,213,2385
 2026-11-12,Thu 6:30 PM,Tennessee Tech,Indiana,False,26.11,25.50,25.50,0.61,0.61,161.36,169.50,166.50,-8.14,70.83,0.99,0.96,3,2,True,DraftKings,2026-11-12T10:26:34Z,401916288,84,2635
