@@ -18,11 +18,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -7.2 | -3.5 | -3.5 | -3.7 | yes |
 | 11-12 | Thu 8:00 PM | Loyola Marymount | South Alabama (N) | -4.6 | -1.5 | -1.5 | -3.1 | yes |
 | 11-12 | Thu 7:00 PM | Mercer | West Virginia | +24.3 | +26.5 | +26.5 | -2.2 | yes |
-| 11-12 | Thu 3:00 PM | Kansas City | George Mason (N) | +16.7 | +14.5 | +15.5 | +2.2 | yes |
 | 11-12 | Thu 7:00 PM | Western Michigan | Purdue Fort Wayne | -1.7 | -3.5 | +1.5 | +1.8 | yes |
 | 11-12 | Thu 7:00 PM | Central Connecticut | Sacred Heart | +6.3 | +4.5 | +5.5 | +1.8 | yes |
 | 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +22.5 | +20.5 | -1.7 | yes |
 | 11-12 | Thu 7:00 PM | Canisius | Brown | +14.2 | +12.5 | +13.5 | +1.7 | yes |
+| 11-12 | Thu 7:00 PM | Monmouth | Quinnipiac | -0.1 | +1.5 | +1.5 | -1.6 | yes |
 
 ## Top 25 by rating
 
