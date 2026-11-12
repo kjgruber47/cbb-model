@@ -18,11 +18,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-12 | Thu 7:00 PM | Maryland Eastern Shore | Rhode Island | +20.4 | +23.5 | +23.5 | -3.1 | yes |
 | 11-12 | Thu 9:00 PM | Montana State | BYU | +18.7 | +21.5 | +24.5 | -2.8 | yes |
 | 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +23.5 | +20.5 | -2.7 | yes |
-| 11-12 | Thu 6:30 PM | Mercyhurst | Penn State | +18.9 | +21.5 | +20.5 | -2.6 | yes |
 | 11-12 | Thu 7:00 PM | Monmouth | Quinnipiac | -0.2 | +1.5 | +1.5 | -1.7 | yes |
+| 11-12 | Thu 6:30 PM | Mercyhurst | Penn State | +18.9 | +20.5 | +20.5 | -1.6 | yes |
 | 11-12 | Thu 7:00 PM | Canisius | Brown | +13.9 | +12.5 | +13.5 | +1.4 | yes |
 | 11-12 | Thu 7:00 PM | Loyola Maryland | Towson | +14.6 | +13.5 | +14.5 | +1.1 | yes |
-| 11-12 | Thu 8:00 PM | Southern | Minnesota | +26.4 | +25.5 | +24.5 | +0.9 | yes |
+| 11-12 | Thu 7:00 PM | Western Michigan | Purdue Fort Wayne | -1.6 | -2.5 | +1.5 | +0.9 | yes |
 
 ## Top 25 by rating
 
