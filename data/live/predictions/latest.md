@@ -15,10 +15,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-12 | Thu 7:00 PM | Cal State Bakersfield | Western Illinois | -4.8 | -9.5 | -6.5 | +4.7 | yes |
 | 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -6.8 | -2.5 | -3.5 | -4.3 | yes |
 | 11-12 | Thu 6:00 PM | Morgan State | UMBC | +10.4 | +6.5 | +6.5 | +3.9 | yes |
+| 11-12 | Thu 7:00 PM | Maryland Eastern Shore | Rhode Island | +20.4 | +23.5 | +23.5 | -3.1 | yes |
 | 11-12 | Thu 9:00 PM | Montana State | BYU | +18.7 | +21.5 | +24.5 | -2.8 | yes |
+| 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +23.5 | +20.5 | -2.7 | yes |
 | 11-12 | Thu 6:30 PM | Mercyhurst | Penn State | +18.9 | +21.5 | +20.5 | -2.6 | yes |
-| 11-12 | Thu 7:00 PM | Maryland Eastern Shore | Rhode Island | +20.4 | +22.5 | +23.5 | -2.1 | yes |
-| 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +22.5 | +20.5 | -1.7 | yes |
 | 11-12 | Thu 7:00 PM | Monmouth | Quinnipiac | -0.2 | +1.5 | +1.5 | -1.7 | yes |
 | 11-12 | Thu 7:00 PM | Canisius | Brown | +13.9 | +12.5 | +13.5 | +1.4 | yes |
 | 11-12 | Thu 7:00 PM | Loyola Maryland | Towson | +14.6 | +13.5 | +14.5 | +1.1 | yes |
