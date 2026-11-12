@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-12 | Thu 8:00 PM | West Florida | Alabama A&M | -6.5 | +5.5 | +8.5 | -12.0 | yes |
+| 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +26.5 | +26.5 | -12.6 | yes |
+| 11-12 | Thu 8:00 PM | West Florida | Alabama A&M | -6.5 | +4.5 | +8.5 | -11.0 | yes |
+| 11-13 | Fri 7:00 PM | Northern Iowa | Michigan State | +20.7 | +29.5 | +29.5 | -8.8 | yes |
+| 11-13 | Fri 7:00 PM | Northern Arizona | Kentucky | +26.8 | +34.5 | +34.5 | -7.7 | yes |
+| 11-13 | Fri 8:00 PM | SIU Edwardsville | Duke | +36.0 | +43.5 | +43.5 | -7.5 | yes |
 | 11-12 | Thu 8:00 PM | Oklahoma State | Texas A&M | +2.1 | +8.5 | +7.5 | -6.4 | yes |
 | 11-12 | Thu 8:00 PM | Loyola Marymount | South Alabama (N) | -4.8 | +1.5 | -1.5 | -6.3 | yes |
+| 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +23.5 | +23.5 | -5.8 | yes |
+| 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.1 | -3.5 | -3.5 | -5.6 | yes |
 | 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +5.5 | +3.5 | -5.3 | yes |
 | 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +15.5 | +15.5 | -5.1 | yes |
 | 11-12 | Thu 7:00 PM | Cal State Bakersfield | Western Illinois | -4.8 | -9.5 | -6.5 | +4.7 | yes |
+| 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +29.5 | +29.5 | +4.3 | yes |
+| 11-13 | Fri 10:00 PM | UIC | Saint Mary's | +8.8 | +4.5 | +4.5 | +4.3 | yes |
 | 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -6.8 | -2.5 | -3.5 | -4.3 | yes |
-| 11-13 | Fri 6:00 PM | Georgetown | Clemson | +7.4 | +3.5 | +3.5 | +3.9 | yes |
-| 11-13 | Fri 9:00 PM | Arizona | Auburn | +0.9 | -2.5 | -2.5 | +3.4 | yes |
-| 11-12 | Thu 7:00 PM | Maryland Eastern Shore | Rhode Island | +20.4 | +23.5 | +23.5 | -3.1 | yes |
-| 11-12 | Thu 9:00 PM | Montana State | BYU | +18.7 | +21.5 | +24.5 | -2.8 | yes |
-| 11-13 | Fri 7:30 PM | Ohio State | UConn | +12.8 | +10.5 | +10.5 | +2.3 | yes |
-| 11-12 | Thu 6:00 PM | Morgan State | UMBC | +10.4 | +8.5 | +6.5 | +1.9 | yes |
-| 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +22.5 | +20.5 | -1.7 | yes |
-| 11-12 | Thu 7:00 PM | Monmouth | Quinnipiac | -0.2 | +1.5 | +1.5 | -1.7 | yes |
 
 ## Top 25 by rating
 
