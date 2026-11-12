@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-12 | Thu 7:00 PM | Central Connecticut | Sacred Heart | +6.3 | +4.5 | +5.5 | +1.8 | yes |
 | 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +22.5 | +20.5 | -1.7 | yes |
 | 11-12 | Thu 7:00 PM | Monmouth | Quinnipiac | -0.2 | +1.5 | +1.5 | -1.7 | yes |
-| 11-12 | Thu 6:30 PM | Mercyhurst | Penn State | +18.9 | +20.5 | +20.5 | -1.6 | yes |
+| 11-12 | Thu 6:30 PM | Tennessee Tech | Indiana | +26.1 | +24.5 | +25.5 | +1.6 | yes |
 
 ## Top 25 by rating
 
