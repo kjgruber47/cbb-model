@@ -22924,3 +22924,6 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-12T07:54:54Z,401919041,2026-11-12,2026-11-13T01:00Z,STATUS_SCHEDULED,False,245,Texas A&M Aggies,197,Oklahoma State Cowboys,0,0,scoreboard,100,Draft Kings,current,-7.5,178.5,,,,,,,TA&M -7.5
 2026-11-12T07:54:54Z,401919041,2026-11-12,2026-11-13T01:00Z,STATUS_SCHEDULED,False,245,Texas A&M Aggies,197,Oklahoma State Cowboys,0,0,scoreboard,100,Draft Kings,close,-7.5,178.5,-345.0,275.0,-112.0,-108.0,-112.0,-108.0,TA&M -7.5
 2026-11-12T07:54:54Z,401919041,2026-11-12,2026-11-13T01:00Z,STATUS_SCHEDULED,False,245,Texas A&M Aggies,197,Oklahoma State Cowboys,0,0,core,100,Draft Kings,current,-7.5,178.5,-345,275,-112.0,-108.0,-112.0,-108.0,TA&M -7.5
+2026-11-12T08:24:53Z,401925631,2026-11-12,2026-11-12T23:00Z,STATUS_SCHEDULED,True,2154,Coppin State Eagles,71,Bradley Braves,0,0,scoreboard,100,Draft Kings,current,10.5,134.5,,,,,,,BRAD -10.5
+2026-11-12T08:24:53Z,401925631,2026-11-12,2026-11-12T23:00Z,STATUS_SCHEDULED,True,2154,Coppin State Eagles,71,Bradley Braves,0,0,scoreboard,100,Draft Kings,close,10.5,134.5,350.0,-455.0,-115.0,-105.0,-115.0,-105.0,BRAD -10.5
+2026-11-12T08:24:53Z,401925631,2026-11-12,2026-11-12T23:00Z,STATUS_SCHEDULED,True,2154,Coppin State Eagles,71,Bradley Braves,0,0,core,100,Draft Kings,current,10.5,134.5,350,-455,-115.0,-105.0,-115.0,-105.0,BRAD -10.5
