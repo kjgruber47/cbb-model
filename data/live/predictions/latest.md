@@ -9,13 +9,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-12 | Thu 8:00 PM | West Florida | Alabama A&M | -6.5 | +5.5 | +8.5 | -12.0 | yes |
-| 11-12 | Thu 8:00 PM | Oklahoma State | Texas A&M | +2.1 | +8.5 | +7.5 | -6.4 | yes |
 | 11-12 | Thu 8:00 PM | Loyola Marymount | South Alabama (N) | -4.8 | +1.5 | -1.5 | -6.3 | yes |
+| 11-12 | Thu 8:00 PM | Oklahoma State | Texas A&M | +2.1 | +7.5 | +7.5 | -5.4 | yes |
 | 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +5.5 | +3.5 | -5.3 | yes |
 | 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -6.8 | -2.5 | -3.5 | -4.3 | yes |
 | 11-12 | Thu 6:00 PM | Morgan State | UMBC | +10.4 | +6.5 | +6.5 | +3.9 | yes |
-| 11-12 | Thu 9:00 PM | Montana State | BYU | +18.7 | +22.5 | +24.5 | -3.8 | yes |
 | 11-12 | Thu 7:00 PM | Cal State Bakersfield | Western Illinois | -4.8 | -8.5 | -6.5 | +3.7 | yes |
+| 11-12 | Thu 9:00 PM | Montana State | BYU | +18.7 | +21.5 | +24.5 | -2.8 | yes |
 | 11-12 | Thu 7:00 PM | Southern Utah | High Point | +20.8 | +23.5 | +20.5 | -2.7 | yes |
 | 11-12 | Thu 7:00 PM | Maryland Eastern Shore | Rhode Island | +20.4 | +22.5 | +23.5 | -2.1 | yes |
 | 11-12 | Thu 7:00 PM | Western Michigan | Purdue Fort Wayne | -1.6 | -3.5 | +1.5 | +1.9 | yes |
