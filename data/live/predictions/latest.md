@@ -10,11 +10,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-13 | Fri 3:00 PM | West Florida | Cleveland State (N) | -12.2 | +1.5 | +3.5 | -13.7 | yes |
 | 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +23.5 | +26.5 | -9.6 | yes |
-| 11-13 | Fri 8:00 PM | SIU Edwardsville | Duke | +36.1 | +43.5 | +43.5 | -7.4 | yes |
 | 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +17.5 | +15.5 | -7.1 | yes |
 | 11-13 | Fri 5:00 PM | Texas A&M-Corpus Christi | Florida State | +17.7 | +24.5 | +21.5 | -6.8 | yes |
 | 11-13 | Fri 7:00 PM | Northern Iowa | Michigan State | +20.7 | +27.5 | +29.5 | -6.8 | yes |
 | 11-13 | Fri 9:30 PM | Mississippi Valley State | Oregon State | +28.0 | +34.5 | +33.5 | -6.5 | yes |
+| 11-13 | Fri 8:00 PM | SIU Edwardsville | Duke | +36.1 | +42.5 | +43.5 | -6.4 | yes |
 | 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +27.5 | +29.5 | +6.3 | yes |
 | 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.0 | -3.5 | -3.5 | -5.5 | yes |
 | 11-13 | Fri 8:00 PM | Texas Southern | Murray State | +24.6 | +29.5 | +27.5 | -4.9 | yes |
