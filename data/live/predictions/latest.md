@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-13 | Fri 5:00 PM | Texas A&M-Corpus Christi | Florida State | +17.7 | +22.5 | +21.5 | -4.8 | yes |
 | 11-13 | Fri 9:00 PM | Arizona | Auburn | +0.9 | -3.5 | -2.5 | +4.4 | yes |
 | 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +29.5 | +29.5 | +4.3 | yes |
+| 11-13 | Fri 8:00 PM | Fairleigh Dickinson | Oklahoma | +28.2 | +32.5 | +33.5 | -4.3 | yes |
 | 11-13 | Fri 8:00 PM | Wright State | Samford | -5.6 | -1.5 | -1.5 | -4.1 | yes |
 | 11-13 | Fri 9:00 PM | UL Monroe | Arizona State | +28.6 | +32.5 | +30.5 | -3.9 | yes |
-| 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +4.5 | +4.5 | +3.9 | yes |
 
 ## Top 25 by rating
 
