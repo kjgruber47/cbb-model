@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-13 | Fri 8:00 PM | Texas Southern | Murray State | +24.6 | +29.5 | +27.5 | -4.9 | yes |
 | 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +22.5 | +23.5 | -4.8 | yes |
 | 11-13 | Fri 8:00 PM | Wright State | Samford | -5.6 | -1.5 | -1.5 | -4.1 | yes |
-| 11-13 | Fri 7:30 PM | Southeast Missouri State | Middle Tennessee | +2.6 | +6.5 | +5.5 | -3.9 | yes |
 | 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +4.5 | +4.5 | +3.9 | yes |
 | 11-13 | Fri 7:00 PM | Northern Arizona | Kentucky | +26.8 | +30.5 | +34.5 | -3.7 | yes |
+| 11-13 | Fri 9:30 PM | Chicago State | San Diego | +12.9 | +16.5 | +14.5 | -3.6 | yes |
 
 ## Top 25 by rating
 
