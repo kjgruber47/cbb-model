@@ -5515,3 +5515,6 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-13T08:34:15Z,401906804,2026-11-13,Fairleigh Dickinson,Oklahoma,False,28.24,145.88,31.50,147.50,33.50,149.50,DraftKings,2026-11-13T08:33:03Z
 2026-11-13T09:04:17Z,401922211,2026-11-13,Florida International,Florida Gulf Coast,False,1.76,157.07,3.50,157.50,3.50,153.50,DraftKings,2026-11-13T09:03:03Z
 2026-11-13T09:04:17Z,401921191,2026-11-13,Iona,Hofstra,False,7.84,139.39,7.50,133.50,7.50,138.50,DraftKings,2026-11-13T09:03:03Z
+2026-11-13T10:04:15Z,401920345,2026-11-13,Arkansas-Pine Bluff,California Baptist,False,15.91,146.40,17.50,148.50,16.50,148.50,DraftKings,2026-11-13T10:03:03Z
+2026-11-13T10:04:15Z,401924704,2026-11-13,Columbia,Bucknell,False,-7.65,146.94,-5.50,145.50,-4.50,146.50,DraftKings,2026-11-13T10:03:03Z
+2026-11-13T10:04:15Z,401922211,2026-11-13,Florida International,Florida Gulf Coast,False,1.76,157.07,2.50,157.50,3.50,153.50,DraftKings,2026-11-13T10:03:03Z
