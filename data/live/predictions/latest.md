@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +23.5 | +23.5 | -5.8 | yes |
 | 11-13 | Fri 9:30 PM | Mississippi Valley State | Oregon State | +28.0 | +33.5 | +33.5 | -5.5 | yes |
 | 11-12 | Thu 8:00 PM | Oklahoma State | Texas A&M | +2.1 | +7.5 | +7.5 | -5.4 | yes |
+| 11-13 | Fri 8:00 PM | Fairleigh Dickinson | Oklahoma | +28.2 | +33.5 | +33.5 | -5.3 | yes |
 | 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +29.5 | +29.5 | +4.3 | yes |
 | 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -6.8 | -2.5 | -3.5 | -4.3 | yes |
 | 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +4.5 | +3.5 | -4.3 | yes |
-| 11-13 | Fri 8:00 PM | Wright State | Samford | -5.6 | -1.5 | -1.5 | -4.1 | yes |
 
 ## Top 25 by rating
 
