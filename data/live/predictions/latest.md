@@ -8,20 +8,20 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +26.5 | +26.5 | -12.6 | yes |
+| 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +25.5 | +26.5 | -11.6 | yes |
 | 11-12 | Thu 8:00 PM | West Florida | Alabama A&M | -6.5 | +4.5 | +8.5 | -11.0 | yes |
 | 11-13 | Fri 7:00 PM | Northern Iowa | Michigan State | +20.7 | +29.5 | +29.5 | -8.8 | yes |
+| 11-13 | Fri 8:00 PM | SIU Edwardsville | Duke | +36.0 | +44.5 | +43.5 | -8.5 | yes |
 | 11-13 | Fri 7:00 PM | Northern Arizona | Kentucky | +26.8 | +34.5 | +34.5 | -7.7 | yes |
-| 11-13 | Fri 8:00 PM | SIU Edwardsville | Duke | +36.0 | +43.5 | +43.5 | -7.5 | yes |
+| 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.1 | -2.5 | -3.5 | -6.6 | yes |
 | 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +16.5 | +15.5 | -6.1 | yes |
 | 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +23.5 | +23.5 | -5.8 | yes |
-| 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.1 | -3.5 | -3.5 | -5.6 | yes |
 | 11-12 | Thu 8:00 PM | Oklahoma State | Texas A&M | +2.1 | +7.5 | +7.5 | -5.4 | yes |
 | 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +29.5 | +29.5 | +4.3 | yes |
 | 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -6.8 | -2.5 | -3.5 | -4.3 | yes |
 | 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +4.5 | +3.5 | -4.3 | yes |
+| 11-13 | Fri 8:00 PM | Wright State | Samford | -5.6 | -1.5 | -1.5 | -4.1 | yes |
 | 11-13 | Fri 7:00 PM | Ohio | Purdue | +16.4 | +20.5 | +20.5 | -4.1 | yes |
-| 11-13 | Fri 6:00 PM | Georgetown | Clemson | +7.4 | +3.5 | +3.5 | +3.9 | yes |
 | 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +4.5 | +4.5 | +3.9 | yes |
 
 ## Top 25 by rating
