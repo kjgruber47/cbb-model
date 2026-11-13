@@ -14,15 +14,15 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +17.5 | +15.5 | -7.1 | yes |
 | 11-13 | Fri 5:00 PM | Texas A&M-Corpus Christi | Florida State | +17.7 | +24.5 | +21.5 | -6.8 | yes |
 | 11-13 | Fri 7:00 PM | Northern Iowa | Michigan State | +20.7 | +27.5 | +29.5 | -6.8 | yes |
-| 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.0 | -2.5 | -3.5 | -6.5 | yes |
 | 11-13 | Fri 9:30 PM | Mississippi Valley State | Oregon State | +28.0 | +34.5 | +33.5 | -6.5 | yes |
-| 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +23.5 | +23.5 | -5.8 | yes |
-| 11-13 | Fri 7:00 PM | Northern Arizona | Kentucky | +26.8 | +32.5 | +34.5 | -5.7 | yes |
+| 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.0 | -3.5 | -3.5 | -5.5 | yes |
 | 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +28.5 | +29.5 | +5.3 | yes |
 | 11-13 | Fri 8:00 PM | Texas Southern | Murray State | +24.6 | +29.5 | +27.5 | -4.9 | yes |
+| 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +3.5 | +4.5 | +4.9 | yes |
+| 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +22.5 | +23.5 | -4.8 | yes |
 | 11-13 | Fri 8:00 PM | Wright State | Samford | -5.6 | -1.5 | -1.5 | -4.1 | yes |
 | 11-13 | Fri 7:30 PM | Southeast Missouri State | Middle Tennessee | +2.6 | +6.5 | +5.5 | -3.9 | yes |
-| 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +4.5 | +4.5 | +3.9 | yes |
+| 11-13 | Fri 7:00 PM | Northern Arizona | Kentucky | +26.8 | +30.5 | +34.5 | -3.7 | yes |
 
 ## Top 25 by rating
 
