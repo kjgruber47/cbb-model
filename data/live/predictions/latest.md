@@ -1,4 +1,4 @@
-# Predictions for Thursday, November 12, 2026
+# Predictions for Friday, November 13, 2026
 
 Ratings fit on 472 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -10,7 +10,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-13 | Fri 3:00 PM | West Florida | Cleveland State (N) | -13.2 | +3.5 | +3.5 | -16.7 | yes |
 | 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +25.5 | +26.5 | -11.6 | yes |
-| 11-12 | Thu 8:00 PM | West Florida | Alabama A&M | -6.5 | +4.5 | +8.5 | -11.0 | yes |
 | 11-13 | Fri 7:00 PM | Northern Iowa | Michigan State | +20.7 | +29.5 | +29.5 | -8.8 | yes |
 | 11-13 | Fri 7:00 PM | Northern Arizona | Kentucky | +26.8 | +35.5 | +34.5 | -8.7 | yes |
 | 11-13 | Fri 8:00 PM | SIU Edwardsville | Duke | +36.0 | +44.5 | +43.5 | -8.5 | yes |
@@ -18,11 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.1 | -2.5 | -3.5 | -6.6 | yes |
 | 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +23.5 | +23.5 | -5.8 | yes |
 | 11-13 | Fri 9:30 PM | Mississippi Valley State | Oregon State | +28.0 | +33.5 | +33.5 | -5.5 | yes |
-| 11-12 | Thu 8:00 PM | Oklahoma State | Texas A&M | +2.1 | +7.5 | +7.5 | -5.4 | yes |
 | 11-13 | Fri 8:00 PM | Fairleigh Dickinson | Oklahoma | +28.2 | +33.5 | +33.5 | -5.3 | yes |
 | 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +29.5 | +29.5 | +4.3 | yes |
-| 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -6.8 | -2.5 | -3.5 | -4.3 | yes |
-| 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +4.5 | +3.5 | -4.3 | yes |
+| 11-13 | Fri 8:00 PM | Wright State | Samford | -5.6 | -1.5 | -1.5 | -4.1 | yes |
+| 11-13 | Fri 9:00 PM | UL Monroe | Arizona State | +28.6 | +32.5 | +30.5 | -3.9 | yes |
+| 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +4.5 | +4.5 | +3.9 | yes |
+| 11-13 | Fri 5:00 PM | Texas A&M-Corpus Christi | Florida State | +17.7 | +21.5 | +21.5 | -3.8 | yes |
 
 ## Top 25 by rating
 
