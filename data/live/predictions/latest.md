@@ -17,12 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-12 | Thu 8:00 PM | Loyola Marymount | South Alabama (N) | -4.8 | +1.5 | -1.5 | -6.3 | yes |
 | 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +23.5 | +23.5 | -5.8 | yes |
 | 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.1 | -3.5 | -3.5 | -5.6 | yes |
-| 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +5.5 | +3.5 | -5.3 | yes |
 | 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +15.5 | +15.5 | -5.1 | yes |
-| 11-12 | Thu 7:00 PM | Cal State Bakersfield | Western Illinois | -4.8 | -9.5 | -6.5 | +4.7 | yes |
 | 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +29.5 | +29.5 | +4.3 | yes |
 | 11-13 | Fri 10:00 PM | UIC | Saint Mary's | +8.8 | +4.5 | +4.5 | +4.3 | yes |
 | 11-12 | Thu 8:00 PM | Richmond | Southern Illinois | -6.8 | -2.5 | -3.5 | -4.3 | yes |
+| 11-12 | Thu 9:00 PM | New Mexico State | UTEP | +0.2 | +4.5 | +3.5 | -4.3 | yes |
+| 11-13 | Fri 7:00 PM | Ohio | Purdue | +16.4 | +20.5 | +20.5 | -4.1 | yes |
 
 ## Top 25 by rating
 
