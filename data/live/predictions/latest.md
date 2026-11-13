@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-13 | Fri 3:00 PM | West Florida | Cleveland State (N) | -12.2 | +3.5 | +3.5 | -15.7 | yes |
+| 11-13 | Fri 3:00 PM | West Florida | Cleveland State (N) | -12.2 | +4.5 | +3.5 | -16.7 | yes |
 | 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +25.5 | +26.5 | -11.6 | yes |
 | 11-13 | Fri 7:00 PM | Northern Arizona | Kentucky | +26.8 | +35.5 | +34.5 | -8.7 | yes |
 | 11-13 | Fri 8:00 PM | SIU Edwardsville | Duke | +36.1 | +44.5 | +43.5 | -8.4 | yes |
@@ -18,11 +18,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +23.5 | +23.5 | -5.8 | yes |
 | 11-13 | Fri 9:30 PM | Mississippi Valley State | Oregon State | +28.0 | +33.5 | +33.5 | -5.5 | yes |
 | 11-13 | Fri 5:00 PM | Texas A&M-Corpus Christi | Florida State | +17.7 | +22.5 | +21.5 | -4.8 | yes |
-| 11-13 | Fri 9:00 PM | Arizona | Auburn | +0.9 | -3.5 | -2.5 | +4.4 | yes |
 | 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +29.5 | +29.5 | +4.3 | yes |
 | 11-13 | Fri 8:00 PM | Wright State | Samford | -5.6 | -1.5 | -1.5 | -4.1 | yes |
 | 11-13 | Fri 9:00 PM | UL Monroe | Arizona State | +28.4 | +32.5 | +30.5 | -4.1 | yes |
 | 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +4.5 | +4.5 | +3.9 | yes |
+| 11-13 | Fri 9:00 PM | DePaul | Northwestern | +2.1 | -1.5 | -1.5 | +3.6 | yes |
 
 ## Top 25 by rating
 
