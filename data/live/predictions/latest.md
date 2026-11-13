@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-13 | Fri 3:00 PM | West Florida | Cleveland State (N) | -12.2 | +1.5 | +3.5 | -13.7 | yes |
+| 11-13 | Fri 3:00 PM | West Florida | Cleveland State (N) | -12.2 | -1.5 | +3.5 | -10.7 | yes |
 | 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +23.5 | +26.5 | -9.6 | yes |
 | 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +17.5 | +15.5 | -7.1 | yes |
 | 11-13 | Fri 5:00 PM | Texas A&M-Corpus Christi | Florida State | +17.7 | +24.5 | +21.5 | -6.8 | yes |
