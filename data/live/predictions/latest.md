@@ -18,11 +18,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-14 | Sat 10:00 PM | Idaho State | Seattle U | +12.2 | +16.5 | +15.5 | -4.3 | yes |
 | 11-14 | Sat 6:00 PM | Colorado | Providence | +8.4 | +12.5 | +9.5 | -4.1 | yes |
 | 11-14 | Sat 4:00 PM | Toledo | Detroit Mercy | -7.4 | -11.5 | -9.5 | +4.1 | yes |
-| 11-14 | Sat 1:00 PM | Bradley | George Mason (N) | +9.6 | +13.5 | +11.5 | -3.9 | yes |
 | 11-14 | Sat 1:00 PM | Montana | North Dakota | -2.4 | +1.5 | +1.5 | -3.9 | yes |
 | 11-14 | Sat 7:00 PM | Howard | Davidson | +12.5 | +9.5 | +9.5 | +3.0 | yes |
+| 11-14 | Sat 8:00 PM | UC Davis | Sacramento State | +5.5 | +2.5 | +3.5 | +3.0 | yes |
 | 11-14 | Sat 4:00 PM | UNC Asheville | Georgia Tech | +13.6 | +16.5 | +16.5 | -2.9 | yes |
-| 11-14 | Sat 5:00 PM | Morgan State | Loyola Maryland (N) | +1.3 | -1.5 | -1.5 | +2.8 | yes |
+| 11-14 | Sat 1:00 PM | Bradley | George Mason (N) | +9.6 | +12.5 | +11.5 | -2.9 | yes |
 
 ## Top 25 by rating
 
