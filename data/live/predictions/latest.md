@@ -10,6 +10,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-13 | Fri 3:00 PM | West Florida | Cleveland State (N) | -12.2 | -1.5 | +3.5 | -10.7 | yes |
 | 11-14 | Sat 7:30 PM | Cincinnati | Dayton | -16.3 | -6.5 | -6.5 | -9.8 | yes |
+| 11-14 | Sat 5:00 PM | Northern Iowa | Oakland | -7.3 | +1.5 | +1.5 | -8.8 | yes |
 | 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +22.5 | +26.5 | -8.6 | yes |
 | 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +18.5 | +15.5 | -8.1 | yes |
 | 11-13 | Fri 7:00 PM | Northern Iowa | Michigan State | +20.7 | +27.5 | +29.5 | -6.8 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +3.5 | +4.5 | +4.9 | yes |
 | 11-13 | Fri 8:00 PM | Georgia Southern | UCF | +17.7 | +22.5 | +23.5 | -4.8 | yes |
 | 11-13 | Fri 8:00 PM | Wright State | Samford | -5.6 | -1.5 | -1.5 | -4.1 | yes |
-| 11-14 | Sat 10:00 PM | Idaho State | Seattle U | +12.4 | +16.5 | +15.5 | -4.1 | yes |
 
 ## Top 25 by rating
 
