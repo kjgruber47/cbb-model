@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-14 | Sat 7:30 PM | Cincinnati | Dayton | -16.2 | -6.5 | -6.5 | -9.7 | yes |
+| 11-14 | Sat 7:30 PM | Cincinnati | Dayton | -16.2 | -5.5 | -6.5 | -10.7 | yes |
 | 11-14 | Sat 5:00 PM | Northern Iowa | Oakland | -6.4 | +1.5 | +1.5 | -7.9 | yes |
 | 11-14 | Sat 3:30 PM | LSU | Gonzaga | +11.4 | +5.5 | +6.5 | +5.9 | yes |
 | 11-14 | Sat 8:00 PM | Northwestern State | Little Rock | +4.3 | +9.5 | +9.5 | -5.2 | yes |
@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-14 | Sat 6:00 PM | Colorado | Providence | +8.4 | +12.5 | +9.5 | -4.1 | yes |
 | 11-14 | Sat 4:00 PM | UNC Asheville | Georgia Tech | +13.6 | +17.5 | +16.5 | -3.9 | yes |
 | 11-14 | Sat 4:00 PM | Delaware State | East Carolina | +11.7 | +15.5 | +16.5 | -3.8 | yes |
+| 11-14 | Sat 8:00 PM | Louisiana Tech | Nicholls | +2.0 | -1.5 | +2.5 | +3.5 | yes |
 | 11-14 | Sat 4:00 PM | Toledo | Detroit Mercy | -7.4 | -10.5 | -9.5 | +3.1 | yes |
-| 11-14 | Sat 7:00 PM | Howard | Davidson | +12.5 | +9.5 | +9.5 | +3.0 | yes |
 
 ## Top 25 by rating
 
