@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-14 | Sat 6:00 PM | Colorado | Providence | +8.4 | +12.5 | +9.5 | -4.1 | yes |
 | 11-14 | Sat 4:00 PM | Toledo | Detroit Mercy | -7.4 | -11.5 | -9.5 | +4.1 | yes |
 | 11-14 | Sat 4:00 PM | UNC Asheville | Georgia Tech | +13.6 | +17.5 | +16.5 | -3.9 | yes |
+| 11-14 | Sat 1:00 PM | Bradley | George Mason (N) | +9.6 | +13.5 | +11.5 | -3.9 | yes |
 | 11-14 | Sat 1:00 PM | Montana | North Dakota | -2.4 | +1.5 | +1.5 | -3.9 | yes |
-| 11-14 | Sat 8:00 PM | Louisiana Tech | Nicholls | +2.0 | -1.5 | +2.5 | +3.5 | yes |
-| 11-14 | Sat 2:00 PM | Wofford | Queens University | +9.7 | +6.5 | +7.5 | +3.2 | yes |
+| 11-14 | Sat 1:30 PM | Loyola Chicago | Colorado State | +12.0 | +8.5 | +8.5 | +3.5 | yes |
 
 ## Top 25 by rating
 
