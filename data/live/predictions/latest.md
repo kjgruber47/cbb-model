@@ -10,9 +10,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-14 | Sat 7:30 PM | Cincinnati | Dayton | -16.3 | -6.5 | -6.5 | -9.8 | yes |
 | 11-14 | Sat 5:00 PM | Northern Iowa | Oakland | -7.3 | +1.5 | +1.5 | -8.8 | yes |
+| 11-14 | Sat 3:30 PM | LSU | Gonzaga | +11.5 | +5.5 | +6.5 | +6.0 | yes |
 | 11-14 | Sat 8:00 PM | Northwestern State | Little Rock | +4.2 | +9.5 | +9.5 | -5.3 | yes |
 | 11-14 | Sat 7:30 PM | IU Indianapolis | Morehead State | +2.6 | -2.5 | -2.5 | +5.1 | yes |
-| 11-14 | Sat 3:30 PM | LSU | Gonzaga | +11.5 | +6.5 | +6.5 | +5.0 | yes |
 | 11-14 | Sat 4:00 PM | Delaware State | East Carolina | +11.9 | +16.5 | +16.5 | -4.6 | yes |
 | 11-14 | Sat 7:00 PM | Washington | Utah | -0.9 | +3.5 | +2.5 | -4.4 | yes |
 | 11-14 | Sat 4:00 PM | Toledo | Detroit Mercy | -7.4 | -11.5 | -9.5 | +4.1 | yes |
