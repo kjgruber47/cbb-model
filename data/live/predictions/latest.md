@@ -1,4 +1,4 @@
-# Predictions for Friday, November 13, 2026
+# Predictions for Saturday, November 14, 2026
 
 Ratings fit on 497 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-13 | Fri 3:00 PM | West Florida | Cleveland State (N) | -12.2 | -1.5 | +3.5 | -10.7 | yes |
 | 11-14 | Sat 7:30 PM | Cincinnati | Dayton | -16.3 | -6.5 | -6.5 | -9.8 | yes |
 | 11-14 | Sat 5:00 PM | Northern Iowa | Oakland | -7.3 | +1.5 | +1.5 | -8.8 | yes |
-| 11-13 | Fri 8:00 PM | Central Arkansas | Arkansas | +13.9 | +22.5 | +26.5 | -8.6 | yes |
-| 11-13 | Fri 9:00 PM | Seton Hall | Alabama | +10.4 | +18.5 | +15.5 | -8.1 | yes |
-| 11-13 | Fri 7:00 PM | Northern Iowa | Michigan State | +20.7 | +27.5 | +29.5 | -6.8 | yes |
-| 11-13 | Fri 9:30 PM | Mississippi Valley State | Oregon State | +28.0 | +34.5 | +33.5 | -6.5 | yes |
-| 11-13 | Fri 8:00 PM | SIU Edwardsville | Duke | +36.1 | +42.5 | +43.5 | -6.4 | yes |
-| 11-13 | Fri 7:00 PM | Tennessee State | Tennessee | +33.8 | +27.5 | +29.5 | +6.3 | yes |
-| 11-13 | Fri 5:00 PM | Texas A&M-Corpus Christi | Florida State | +17.7 | +23.5 | +21.5 | -5.8 | yes |
-| 11-13 | Fri 8:00 PM | Illinois State | North Dakota State | -9.0 | -3.5 | -3.5 | -5.5 | yes |
 | 11-14 | Sat 8:00 PM | Northwestern State | Little Rock | +4.2 | +9.5 | +9.5 | -5.3 | yes |
 | 11-14 | Sat 7:30 PM | IU Indianapolis | Morehead State | +2.6 | -2.5 | -2.5 | +5.1 | yes |
 | 11-14 | Sat 3:30 PM | LSU | Gonzaga | +11.5 | +6.5 | +6.5 | +5.0 | yes |
-| 11-13 | Fri 7:00 PM | Georgia | North Carolina | +8.4 | +3.5 | +4.5 | +4.9 | yes |
+| 11-14 | Sat 4:00 PM | Delaware State | East Carolina | +11.9 | +16.5 | +16.5 | -4.6 | yes |
+| 11-14 | Sat 7:00 PM | Washington | Utah | -0.9 | +3.5 | +2.5 | -4.4 | yes |
+| 11-14 | Sat 10:00 PM | Idaho State | Seattle U | +12.4 | +16.5 | +15.5 | -4.1 | yes |
+| 11-14 | Sat 1:00 PM | Bradley | George Mason (N) | +9.6 | +13.5 | +11.5 | -3.9 | yes |
+| 11-14 | Sat 1:00 PM | Montana | North Dakota | -2.2 | +1.5 | +1.5 | -3.7 | yes |
+| 11-14 | Sat 2:00 PM | Gardner-Webb | South Carolina | +28.5 | +25.5 | +25.5 | +3.0 | yes |
+| 11-14 | Sat 6:00 PM | Colorado | Providence | +8.5 | +11.5 | +9.5 | -3.0 | yes |
+| 11-14 | Sat 7:00 PM | Howard | Davidson | +12.5 | +9.5 | +9.5 | +3.0 | yes |
+| 11-14 | Sat 4:00 PM | UNC Asheville | Georgia Tech | +13.5 | +16.5 | +16.5 | -3.0 | yes |
+| 11-14 | Sat 7:00 PM | West Georgia | Charleston Southern | +6.3 | +3.5 | +3.5 | +2.8 | yes |
 
 ## Top 25 by rating
 
