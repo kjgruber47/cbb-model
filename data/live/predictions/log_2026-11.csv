@@ -6619,3 +6619,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-15T05:17:56Z,401920426,2026-11-17,Old Dominion,Virginia,False,23.74,146.93,,,,,,
 2026-11-15T05:17:56Z,401911521,2026-11-17,Alabama State,UC Davis,False,11.72,153.11,,,,,,
 2026-11-15T05:17:56Z,401909787,2026-11-17,UNLV,Kansas,True,17.74,156.01,,,,,,
+2026-11-15T05:47:54Z,401925896,2026-11-15,Norfolk State,Georgia State,False,11.42,150.37,10.50,146.50,11.50,149.50,DraftKings,2026-11-15T05:47:09Z
+2026-11-15T05:47:54Z,401911472,2026-11-15,Alabama State,San José State,False,13.03,155.29,12.50,157.50,11.50,159.50,DraftKings,2026-11-15T05:47:09Z
