@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-15 | Sun 3:00 PM | Purdue Fort Wayne | Eastern Illinois | -0.8 | -3.5 | -3.5 | +2.7 | yes |
 | 11-15 | Sun 7:00 PM | Syracuse | St. John's | +9.8 | +12.5 | +12.5 | -2.7 | yes |
 | 11-15 | Sun 8:00 PM | Coastal Carolina | Wisconsin | +26.0 | +28.5 | +29.5 | -2.5 | yes |
-| 11-15 | Sun 2:00 PM | Cal State Bakersfield | North Dakota State | +6.3 | +4.5 | +3.5 | +1.8 | yes |
+| 11-15 | Sun 4:00 PM | New Mexico State | San Diego State (N) | +11.4 | +13.5 | +11.5 | -2.1 | yes |
 
 ## Top 25 by rating
 
