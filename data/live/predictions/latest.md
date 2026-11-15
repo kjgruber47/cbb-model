@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-15 | Sun 5:00 PM | Pepperdine | Oregon | +21.1 | +12.5 | +16.5 | +8.6 | yes |
+| 11-15 | Sun 5:00 PM | Pepperdine | Oregon | +21.1 | +13.5 | +16.5 | +7.6 | yes |
 | 11-15 | Sun 4:30 PM | New Haven | Penn State | +18.1 | +24.5 | +25.5 | -6.4 | yes |
 | 11-15 | Sun 4:00 PM | Mercyhurst | James Madison | +10.3 | +15.5 | +15.5 | -5.2 | yes |
 | 11-15 | Sun 3:00 PM | High Point | Saint Louis | +12.5 | +7.5 | +5.5 | +5.0 | yes |
