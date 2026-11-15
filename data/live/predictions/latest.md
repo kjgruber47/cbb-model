@@ -18,11 +18,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-15 | Sun 7:00 PM | Arkansas-Pine Bluff | USC | +40.4 | +44.5 | +41.5 | -4.1 | yes |
 | 11-15 | Sun 8:00 PM | Coastal Carolina | Wisconsin | +26.3 | +29.5 | +29.5 | -3.2 | yes |
 | 11-15 | Sun 2:00 PM | Princeton | Rhode Island | +10.6 | +7.5 | +9.5 | +3.1 | yes |
+| 11-15 | Sun 1:00 PM | Harvard | American University | +4.5 | +1.5 | +1.5 | +3.0 | yes |
 | 11-15 | Sun 3:00 PM | Purdue Fort Wayne | Eastern Illinois | -0.8 | -3.5 | -3.5 | +2.7 | yes |
 | 11-15 | Sun 7:00 PM | Syracuse | St. John's | +9.8 | +12.5 | +12.5 | -2.7 | yes |
 | 11-15 | Sun 2:00 PM | Cal State Bakersfield | North Dakota State | +6.5 | +4.5 | +3.5 | +2.0 | yes |
 | 11-15 | Sun 2:00 PM | South Carolina State | Charleston | +19.2 | +17.5 | +18.5 | +1.7 | yes |
-| 11-15 | Sun 1:00 PM | Louisville | Memphis | -10.2 | -8.5 | -9.5 | -1.7 | yes |
 
 ## Top 25 by rating
 
