@@ -1,145 +1,145 @@
 game_id,game_date,start_utc,status,neutral_site,home_id,home,away_id,away,home_score,away_score,home_location,away_location,snapshot_utc
-401929458,2026-11-15,2026-11-15T17:00Z,STATUS_SCHEDULED,False,526,Florida Gulf Coast Eagles,134875,Abraham Baldwin Agricultural Stallions,0,0,Florida Gulf Coast,Abraham Baldwin Agricultural,2026-11-15T10:18:22Z
-401924858,2026-11-15,2026-11-15T17:00Z,STATUS_SCHEDULED,False,2115,Central Connecticut Blue Devils,2514,Quinnipiac Bobcats,0,0,Central Connecticut,Quinnipiac,2026-11-15T10:18:22Z
-401918949,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,235,Memphis Tigers,97,Louisville Cardinals,0,0,Memphis,Louisville,2026-11-15T10:18:22Z
-401926063,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,True,158,Nebraska Cornhuskers,68,Boise State Broncos,0,0,Nebraska,Boise State,2026-11-15T10:18:22Z
-401925896,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,2247,Georgia State Panthers,2450,Norfolk State Spartans,0,0,Georgia State,Norfolk State,2026-11-15T10:18:22Z
-401920771,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,48,Delaware Blue Hens,2142,Colgate Raiders,0,0,Delaware,Colgate,2026-11-15T10:18:22Z
-401920235,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,104,Boston University Terriers,159,Dartmouth Big Green,0,0,Boston University,Dartmouth,2026-11-15T10:18:22Z
-401912210,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,44,American University Eagles,108,Harvard Crimson,0,0,American University,Harvard,2026-11-15T10:18:22Z
-401909774,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,66,Iowa State Cyclones,315,Niagara Purple Eagles,0,0,Iowa State,Niagara,2026-11-15T10:18:22Z
-401909554,2026-11-15,2026-11-15T18:30Z,STATUS_SCHEDULED,False,103,Boston College Eagles,160,New Hampshire Wildcats,0,0,Boston College,New Hampshire,2026-11-15T10:18:22Z
-401918453,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,130,Michigan Wolverines,2729,William & Mary Tribe,0,0,Michigan,William & Mary,2026-11-15T10:18:22Z
-401928825,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,2523,Robert Morris Colonials,424,Capital Crusaders,0,0,Robert Morris,Capital,2026-11-15T10:18:22Z
-401925926,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,232,Charleston Cougars,2569,South Carolina State Bulldogs,0,0,Charleston,South Carolina State,2026-11-15T10:18:22Z
-401925812,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,2325,La Salle Explorers,218,Temple Owls,0,0,La Salle,Temple,2026-11-15T10:18:22Z
-401924744,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,43,Yale Bulldogs,2211,Emmanuel (MA) Lions,0,0,Yale,Emmanuel (MA),2026-11-15T10:18:22Z
-401921287,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,107,Holy Cross Crusaders,399,UAlbany Great Danes,0,0,Holy Cross,UAlbany,2026-11-15T10:18:22Z
-401920136,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,2449,North Dakota State Bison,2934,Cal State Bakersfield Roadrunners,0,0,North Dakota State,Cal State Bakersfield,2026-11-15T10:18:22Z
-401920065,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,227,Rhode Island Rams,163,Princeton Tigers,0,0,Rhode Island,Princeton,2026-11-15T10:18:22Z
-401909525,2026-11-15,2026-11-15T19:30Z,STATUS_SCHEDULED,True,269,Marquette Golden Eagles,142,Missouri Tigers,0,0,Marquette,Missouri,2026-11-15T10:18:22Z
-401906866,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,True,251,Texas Longhorns,239,Baylor Bears,0,0,Texas,Baylor,2026-11-15T10:18:22Z
-401926216,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,False,2635,Tennessee Tech Golden Eagles,134850,Wright State-Lake Lakers,0,0,Tennessee Tech,Wright State-Lake,2026-11-15T10:18:22Z
-401926068,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,False,2197,Eastern Illinois Panthers,2870,Purdue Fort Wayne Mastodons,0,0,Eastern Illinois,Purdue Fort Wayne,2026-11-15T10:18:22Z
-401921168,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,False,2010,Alabama A&M Bulldogs,325,Cleveland State Vikings,0,0,Alabama A&M,Cleveland State,2026-11-15T10:18:22Z
-401911251,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,False,139,Saint Louis Billikens,2272,High Point Panthers,0,0,Saint Louis,High Point,2026-11-15T10:18:22Z
-401909493,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,True,2294,Iowa Hawkeyes,156,Creighton Bluejays,0,0,Iowa,Creighton,2026-11-15T10:18:22Z
-401934396,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,279,Pacific Tigers,2005,Air Force Falcons,0,0,Pacific,Air Force,2026-11-15T10:18:22Z
-401928789,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,True,21,San Diego State Aztecs,166,New Mexico State Aggies,0,0,San Diego State,New Mexico State,2026-11-15T10:18:22Z
-401928353,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,2540,UC Santa Barbara Gauchos,3185,UC Merced Bobcats,0,0,UC Santa Barbara,UC Merced,2026-11-15T10:18:22Z
-401919825,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,256,James Madison Dukes,2385,Mercyhurst Lakers,0,0,James Madison,Mercyhurst,2026-11-15T10:18:22Z
-401917531,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,2351,Loyola Marymount Lions,2130,Chicago State Cougars,0,0,Loyola Marymount,Chicago State,2026-11-15T10:18:22Z
-401917528,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,2547,Seattle U Redhawks,304,Idaho State Bengals,0,0,Seattle U,Idaho State,2026-11-15T10:18:22Z
-401929405,2026-11-15,2026-11-15T21:30Z,STATUS_SCHEDULED,False,233,South Dakota Coyotes,2178,Doane Tigers,0,0,South Dakota,Doane,2026-11-15T10:18:22Z
-401923393,2026-11-15,2026-11-15T21:30Z,STATUS_SCHEDULED,False,88,Southern Indiana Screaming Eagles,2711,Western Michigan Broncos,0,0,Southern Indiana,Western Michigan,2026-11-15T10:18:22Z
-401917175,2026-11-15,2026-11-15T21:30Z,STATUS_SCHEDULED,False,213,Penn State Nittany Lions,2441,New Haven Chargers,0,0,Penn State,New Haven,2026-11-15T10:18:22Z
-401926073,2026-11-15,2026-11-15T22:00Z,STATUS_SCHEDULED,False,2483,Oregon Ducks,2492,Pepperdine Waves,0,0,Oregon,Pepperdine,2026-11-15T10:18:22Z
-401911017,2026-11-15,2026-11-15T22:30Z,STATUS_SCHEDULED,False,2084,Buffalo Bulls,2099,Canisius Golden Griffins,0,0,Buffalo,Canisius,2026-11-15T10:18:22Z
-401926733,2026-11-15,2026-11-15T23:00Z,STATUS_SCHEDULED,False,2630,UT Martin Skyhawks,3120,Ecclesia Royals,0,0,UT Martin,Ecclesia,2026-11-15T10:18:22Z
-401920124,2026-11-15,2026-11-15T23:00Z,STATUS_SCHEDULED,False,147,Montana State Bobcats,13,Cal Poly Mustangs,0,0,Montana State,Cal Poly,2026-11-15T10:18:22Z
-401920681,2026-11-15,2026-11-16T00:00Z,STATUS_SCHEDULED,False,2599,St. John's Red Storm,183,Syracuse Orange,0,0,St. John's,Syracuse,2026-11-15T10:18:22Z
-401926772,2026-11-15,2026-11-16T00:00Z,STATUS_SCHEDULED,False,30,USC Trojans,2029,Arkansas-Pine Bluff Golden Lions,0,0,USC,Arkansas-Pine Bluff,2026-11-15T10:18:22Z
-401929200,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,2636,UTSA Roadrunners,326,Texas State Bobcats,0,0,UTSA,Texas State,2026-11-15T10:18:22Z
-401925718,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,2065,Bethune-Cookman Wildcats,2488,Paine Lions,0,0,Bethune-Cookman,Paine,2026-11-15T10:18:22Z
-401920896,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,275,Wisconsin Badgers,324,Coastal Carolina Chanticleers,0,0,Wisconsin,Coastal Carolina,2026-11-15T10:18:22Z
-401911472,2026-11-15,2026-11-16T02:00Z,STATUS_SCHEDULED,False,23,San José State Spartans,2011,Alabama State Hornets,0,0,San José State,Alabama State,2026-11-15T10:18:22Z
-401920962,2026-11-16,2026-11-16T16:00Z,STATUS_SCHEDULED,False,2413,Morehead State Eagles,124809,Miami (OH) Hamilton Harriers,0,0,Morehead State,Miami (OH) Hamilton,2026-11-15T10:18:22Z
-401929371,2026-11-16,2026-11-16T17:00Z,STATUS_SCHEDULED,False,2453,North Alabama Lions,2225,Fisk Bulldogs,0,0,North Alabama,Fisk,2026-11-15T10:18:22Z
-401911211,2026-11-16,2026-11-16T17:00Z,STATUS_SCHEDULED,False,45,George Washington Revolutionaries,366,Ferrum Panthers,0,0,George Washington,Ferrum,2026-11-15T10:18:22Z
-401929419,2026-11-16,2026-11-16T18:00Z,STATUS_SCHEDULED,False,2638,UTEP Miners,50,Florida A&M Rattlers,0,0,UTEP,Florida A&M,2026-11-15T10:18:22Z
-401921087,2026-11-16,2026-11-16T23:00Z,STATUS_SCHEDULED,False,2378,UMBC Retrievers,314,Iona Gaels,0,0,UMBC,Iona,2026-11-15T10:18:22Z
-401916298,2026-11-16,2026-11-16T23:00Z,STATUS_SCHEDULED,False,120,Maryland Terrapins,2016,Alcorn State Braves,0,0,Maryland,Alcorn State,2026-11-15T10:18:22Z
-401916317,2026-11-16,2026-11-16T23:30Z,STATUS_SCHEDULED,False,194,Ohio State Buckeyes,2504,Prairie View A&M Panthers,0,0,Ohio State,Prairie View A&M,2026-11-15T10:18:22Z
-401921804,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,96,Kentucky Wildcats,2755,Grambling Tigers,0,0,Kentucky,Grambling,2026-11-15T10:18:22Z
-401928841,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,2309,Kent State Golden Flashes,2198,Eastern Kentucky Colonels,0,0,Kent State,Eastern Kentucky,2026-11-15T10:18:22Z
-401927352,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,2428,North Carolina Central Eagles,3229,Virginia Lynchburg Dragons,0,0,North Carolina Central,Virginia Lynchburg,2026-11-15T10:18:22Z
-401925864,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,202,Tulsa Golden Hurricane,98,Western Kentucky Hilltoppers,0,0,Tulsa,Western Kentucky,2026-11-15T10:18:22Z
-401922240,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,56,Stetson Hatters,2227,Florida Memorial Lions,0,0,Stetson,Florida Memorial,2026-11-15T10:18:22Z
-401921182,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,219,Pennsylvania Quakers,111949,DeSales Bulldogs,0,0,Pennsylvania,DeSales,2026-11-15T10:18:22Z
-401919807,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,112358,Long Island University Sharks,2900,St. Thomas Tommies,0,0,Long Island University,St. Thomas,2026-11-15T10:18:22Z
-401918075,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,228,Clemson Tigers,2643,The Citadel Bulldogs,0,0,Clemson,The Citadel,2026-11-15T10:18:22Z
-401911240,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,259,Virginia Tech Hokies,257,Richmond Spiders,0,0,Virginia Tech,Richmond,2026-11-15T10:18:22Z
-401906783,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,61,Georgia Bulldogs,294,Jacksonville Dolphins,0,0,Georgia,Jacksonville,2026-11-15T10:18:22Z
-401927364,2026-11-16,2026-11-17T00:30Z,STATUS_SCHEDULED,False,2181,Drake Bulldogs,2627,Tarleton State Texans,0,0,Drake,Tarleton State,2026-11-15T10:18:22Z
-401926153,2026-11-16,2026-11-17T00:30Z,STATUS_SCHEDULED,False,2546,Southeast Missouri State Redhawks,111166,Midway Eagles,0,0,Southeast Missouri State,Midway,2026-11-15T10:18:22Z
-401929411,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,2571,South Dakota State Jackrabbits,561,Mayville State Comets,0,0,South Dakota State,Mayville State,2026-11-15T10:18:22Z
-401928997,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,2674,Valparaiso Beacons,502,Calumet St. Joseph Crimson Wave,0,0,Valparaiso,Calumet St. Joseph,2026-11-15T10:18:22Z
-401926143,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,155,North Dakota Fighting Hawks,2565,SIU Edwardsville Cougars,0,0,North Dakota,SIU Edwardsville,2026-11-15T10:18:22Z
-401920735,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,77,Northwestern Wildcats,171,Columbia Lions,0,0,Northwestern,Columbia,2026-11-15T10:18:22Z
-401917964,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,2623,Missouri State Bears,2000,Abilene Christian Wildcats,0,0,Missouri State,Abilene Christian,2026-11-15T10:18:22Z
-401917917,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,197,Oklahoma State Cowboys,2110,Central Arkansas Bears,0,0,Oklahoma State,Central Arkansas,2026-11-15T10:18:22Z
-401916307,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,135,Minnesota Golden Gophers,2710,Western Illinois Leathernecks,0,0,Minnesota,Western Illinois,2026-11-15T10:18:22Z
-401909798,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,2306,Kansas State Wildcats,149,Montana Grizzlies,0,0,Kansas State,Montana,2026-11-15T10:18:22Z
-401920808,2026-11-16,2026-11-17T01:30Z,STATUS_SCHEDULED,False,245,Texas A&M Aggies,2545,SE Louisiana Lions,0,0,Texas A&M,SE Louisiana,2026-11-15T10:18:22Z
-401917981,2026-11-16,2026-11-17T01:30Z,STATUS_SCHEDULED,False,2433,UL Monroe Warhawks,2937,Dallas Christian Crusaders,0,0,UL Monroe,Dallas Christian,2026-11-15T10:18:22Z
-401929192,2026-11-16,2026-11-17T02:30Z,STATUS_SCHEDULED,False,204,Oregon State Beavers,2837,East Texas A&M Lions,0,0,Oregon State,East Texas A&M,2026-11-15T10:18:22Z
-401924265,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,26,UCLA Bruins,299,Long Beach State Beach,0,0,UCLA,Long Beach State,2026-11-15T10:18:22Z
-401926228,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,2172,Denver Pioneers,2145,Colorado Colorado Springs Mountain Lions,0,0,Denver,Colorado Colorado Springs,2026-11-15T10:18:22Z
-401920373,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,28,UC San Diego Tritons,2640,Texas Southern Tigers,0,0,UC San Diego,Texas Southern,2026-11-15T10:18:22Z
-401917532,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,2608,Saint Mary's Gaels,2502,Portland State Vikings,0,0,Saint Mary's,Portland State,2026-11-15T10:18:22Z
-401920904,2026-11-17,2026-11-17T16:00Z,STATUS_SCHEDULED,False,48,Delaware Blue Hens,111914,Wilson WILSON,0,0,Delaware,Wilson,2026-11-15T10:18:22Z
-401928360,2026-11-17,2026-11-17T17:00Z,STATUS_SCHEDULED,False,2582,Southern Jaguars,2347,Louisiana Christian Wildcats,0,0,Southern,Louisiana Christian,2026-11-15T10:18:22Z
-401927381,2026-11-17,2026-11-17T17:00Z,STATUS_SCHEDULED,True,93,Murray State Racers,2275,Hofstra Pride,0,0,Murray State,Hofstra,2026-11-15T10:18:22Z
-401920511,2026-11-17,2026-11-17T19:00Z,STATUS_SCHEDULED,True,248,Houston Cougars,164,Rutgers Scarlet Knights,0,0,Houston,Rutgers,2026-11-15T10:18:22Z
-401906773,2026-11-17,2026-11-17T21:30Z,STATUS_SCHEDULED,True,57,Florida Gators,87,Notre Dame Fighting Irish,0,0,Florida,Notre Dame,2026-11-15T10:18:22Z
-401923325,2026-11-17,2026-11-17T23:00Z,STATUS_SCHEDULED,False,2349,UMass Lowell River Hawks,2612,Saint Peter's Peacocks,0,0,UMass Lowell,Saint Peter's,2026-11-15T10:18:22Z
-401920953,2026-11-17,2026-11-17T23:00Z,STATUS_SCHEDULED,True,79,Southern Illinois Salukis,2335,Liberty Flames,0,0,Southern Illinois,Liberty,2026-11-15T10:18:22Z
-401912230,2026-11-17,2026-11-17T23:00Z,STATUS_SCHEDULED,False,349,Army Black Knights,2368,Marist Red Foxes,0,0,Army,Marist,2026-11-15T10:18:22Z
-401926834,2026-11-17,2026-11-17T23:30Z,STATUS_SCHEDULED,False,2619,Stony Brook Seawolves,182,SUNY Potsdam SUNY-POTSDAM,0,0,Stony Brook,SUNY Potsdam,2026-11-15T10:18:22Z
-401920706,2026-11-17,2026-11-17T23:30Z,STATUS_SCHEDULED,False,2509,Purdue Boilermakers,288,Lipscomb Bisons,0,0,Purdue,Lipscomb,2026-11-15T10:18:22Z
-401920236,2026-11-17,2026-11-17T23:30Z,STATUS_SCHEDULED,False,159,Dartmouth Big Green,126890,Maine Augusta Moose,0,0,Dartmouth,Maine Augusta,2026-11-15T10:18:22Z
-401909566,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,150,Duke Blue Devils,356,Illinois Fighting Illini,0,0,Duke,Illinois,2026-11-15T10:18:22Z
-401921722,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2390,Miami Hurricanes,2520,Rider Broncs,0,0,Miami,Rider,2026-11-15T10:18:22Z
-401930568,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,6,South Alabama Jaguars,2590,Spring Hill Badgers,0,0,South Alabama,Spring Hill,2026-11-15T10:18:22Z
-401927342,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2169,Delaware State Hornets,2129,Cheyney (PA) Wolves,0,0,Delaware State,Cheyney (PA),2026-11-15T10:18:22Z
-401925775,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2166,Davidson Wildcats,2429,Charlotte 49ers,0,0,Davidson,Charlotte,2026-11-15T10:18:22Z
-401925751,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2115,Central Connecticut Blue Devils,551,Vermont State Lyndon Hornets,0,0,Central Connecticut,Vermont State Lyndon,2026-11-15T10:18:22Z
-401924941,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2083,Bucknell Bison,2006,Akron Zips,0,0,Bucknell,Akron,2026-11-15T10:18:22Z
-401922251,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2697,West Florida Argonauts,2739,Green Bay Phoenix,0,0,West Florida,Green Bay,2026-11-15T10:18:22Z
-401921756,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2116,UCF Knights,344,Mississippi State Bulldogs,0,0,UCF,Mississippi State,2026-11-15T10:18:22Z
-401920921,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,116,Mount St. Mary's Mountaineers,2329,Lehigh Mountain Hawks,0,0,Mount St. Mary's,Lehigh,2026-11-15T10:18:22Z
-401920857,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,276,Marshall Thundering Herd,2193,East Tennessee State Buccaneers,0,0,Marshall,East Tennessee State,2026-11-15T10:18:22Z
-401920308,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,59,Georgia Tech Yellow Jackets,2450,Norfolk State Spartans,0,0,Georgia Tech,Norfolk State,2026-11-15T10:18:22Z
-401920297,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2653,Troy Trojans,2463,Cal State Northridge Matadors,0,0,Troy,Cal State Northridge,2026-11-15T10:18:22Z
-401920194,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2603,Saint Joseph's Hawks,2681,Wagner Seahawks,0,0,Saint Joseph's,Wagner,2026-11-15T10:18:22Z
-401918994,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,58,South Florida Bulls,2634,Tennessee State Tigers,0,0,South Florida,Tennessee State,2026-11-15T10:18:22Z
-401917534,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,279,Pacific Tigers,594,Pacific Union PACIFIC UNION,0,0,Pacific,Pacific Union,2026-11-15T10:18:22Z
-401911198,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2363,Manhattan Jaspers,2230,Fordham Rams,0,0,Manhattan,Fordham,2026-11-15T10:18:22Z
-401911019,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2168,Dayton Flyers,2117,Central Michigan Chippewas,0,0,Dayton,Central Michigan,2026-11-15T10:18:22Z
-401911018,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2729,William & Mary Tribe,189,Bowling Green Falcons,0,0,William & Mary,Bowling Green,2026-11-15T10:18:22Z
-401909729,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,154,Wake Forest Demon Deacons,2405,Monmouth Hawks,0,0,Wake Forest,Monmouth,2026-11-15T10:18:22Z
-401909708,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,221,Pittsburgh Panthers,222,Villanova Wildcats,0,0,Pittsburgh,Villanova,2026-11-15T10:18:22Z
-401909697,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,52,Florida State Seminoles,2050,Ball State Cardinals,0,0,Florida State,Ball State,2026-11-15T10:18:22Z
-401909544,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2752,Xavier Musketeers,325,Cleveland State Vikings,0,0,Xavier,Cleveland State,2026-11-15T10:18:22Z
-401909535,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2507,Providence Friars,2529,Sacred Heart Pioneers,0,0,Providence,Sacred Heart,2026-11-15T10:18:22Z
-401902279,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2086,Butler Bulldogs,2717,Western Carolina Catamounts,0,0,Butler,Western Carolina,2026-11-15T10:18:22Z
-401906761,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,False,333,Alabama Crimson Tide,338,Kennesaw State Owls,0,0,Alabama,Kennesaw State,2026-11-15T10:18:22Z
-401916289,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,True,84,Indiana Hoosiers,8,Arkansas Razorbacks,0,0,Indiana,Arkansas,2026-11-15T10:18:22Z
-401926781,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,False,2348,Louisiana Tech Bulldogs,55,Jacksonville State Gamecocks,0,0,Louisiana Tech,Jacksonville State,2026-11-15T10:18:22Z
-401919018,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,False,5,UAB Blazers,2229,Florida International Panthers,0,0,UAB,Florida International,2026-11-15T10:18:22Z
-401911020,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,False,113,Massachusetts Minutemen,2803,Bryant Bulldogs,0,0,Massachusetts,Bryant,2026-11-15T10:18:22Z
-401921826,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,238,Vanderbilt Commodores,2197,Eastern Illinois Panthers,0,0,Vanderbilt,Eastern Illinois,2026-11-15T10:18:22Z
-401929358,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2572,Southern Miss Golden Eagles,250,UT Arlington Mavericks,0,0,Southern Miss,UT Arlington,2026-11-15T10:18:22Z
-401927867,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2464,Northern Arizona Lumberjacks,111226,Embry Riddle (AZ) Eagles,0,0,Northern Arizona,Embry Riddle (AZ),2026-11-15T10:18:22Z
-401927388,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2460,Northern Iowa Panthers,2815,Lindenwood Lions,0,0,Northern Iowa,Lindenwood,2026-11-15T10:18:22Z
-401925012,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2437,Omaha Mavericks,2320,Lamar Cardinals,0,0,Omaha,Lamar,2026-11-15T10:18:22Z
-401922221,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2454,North Florida Ospreys,123362,Fort Lauderdale Eagles,0,0,North Florida,Fort Lauderdale,2026-11-15T10:18:22Z
-401921106,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2287,Illinois State Redbirds,91,Bellarmine Knights,0,0,Illinois State,Bellarmine,2026-11-15T10:18:22Z
-401921097,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,242,Rice Owls,357,Texas A&M-Corpus Christi Islanders,0,0,Rice,Texas A&M-Corpus Christi,2026-11-15T10:18:22Z
-401921027,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,290,Georgia Southern Eagles,2393,Middle Tennessee Blue Raiders,0,0,Georgia Southern,Middle Tennessee,2026-11-15T10:18:22Z
-401921006,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,140,Kansas City Roos,580,Newman Jets,0,0,Kansas City,Newman,2026-11-15T10:18:22Z
-401919783,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,339,Evansville Purple Aces,2330,Le Moyne Dolphins,0,0,Evansville,Le Moyne,2026-11-15T10:18:22Z
-401918970,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2567,SMU Mustangs,198,Oral Roberts Golden Eagles,0,0,SMU,Oral Roberts,2026-11-15T10:18:22Z
-401917952,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2046,Austin Peay Governors,124721,Life University Running Eagles,0,0,Austin Peay,Life University,2026-11-15T10:18:22Z
-401909504,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,305,DePaul Blue Demons,2379,Maryland Eastern Shore Hawks,0,0,DePaul,Maryland Eastern Shore,2026-11-15T10:18:22Z
-401925064,2026-11-17,2026-11-18T01:30Z,STATUS_SCHEDULED,False,145,Ole Miss Rebels,2447,Nicholls Colonels,0,0,Ole Miss,Nicholls,2026-11-15T10:18:22Z
-401924922,2026-11-17,2026-11-18T01:30Z,STATUS_SCHEDULED,False,2751,Wyoming Cowboys,2534,Sam Houston Bearkats,0,0,Wyoming,Sam Houston,2026-11-15T10:18:22Z
-401920720,2026-11-17,2026-11-18T01:30Z,STATUS_SCHEDULED,False,254,Utah Utes,331,Eastern Washington Eagles,0,0,Utah,Eastern Washington,2026-11-15T10:18:22Z
-401906851,2026-11-17,2026-11-18T02:00Z,STATUS_SCHEDULED,False,2633,Tennessee Volunteers,127,Michigan State Spartans,0,0,Tennessee,Michigan State,2026-11-15T10:18:22Z
-401920426,2026-11-17,2026-11-18T02:00Z,STATUS_SCHEDULED,False,258,Virginia Cavaliers,295,Old Dominion Monarchs,0,0,Virginia,Old Dominion,2026-11-15T10:18:22Z
-401911521,2026-11-17,2026-11-18T02:00Z,STATUS_SCHEDULED,False,302,UC Davis Aggies,2011,Alabama State Hornets,0,0,UC Davis,Alabama State,2026-11-15T10:18:22Z
-401909787,2026-11-17,2026-11-18T02:30Z,STATUS_SCHEDULED,True,2305,Kansas Jayhawks,2439,UNLV Rebels,0,0,Kansas,UNLV,2026-11-15T10:18:22Z
-401921729,2026-11-17,2026-11-18T03:00Z,STATUS_SCHEDULED,False,24,Stanford Cardinal,300,UC Irvine Anteaters,0,0,Stanford,UC Irvine,2026-11-15T10:18:22Z
-401917533,2026-11-17,2026-11-18T03:00Z,STATUS_SCHEDULED,False,2856,California Baptist Lancers,2547,Seattle U Redhawks,0,0,California Baptist,Seattle U,2026-11-15T10:18:22Z
-401925879,2026-11-17,2026-11-18T04:00Z,STATUS_SCHEDULED,False,2250,Gonzaga Bulldogs,147,Montana State Bobcats,0,0,Gonzaga,Montana State,2026-11-15T10:18:22Z
-401920512,2026-11-17,2026-11-18T04:59Z,STATUS_SCHEDULED,True,2,Auburn Tigers,277,West Virginia Mountaineers,0,0,Auburn,West Virginia,2026-11-15T10:18:22Z
+401929458,2026-11-15,2026-11-15T17:00Z,STATUS_SCHEDULED,False,526,Florida Gulf Coast Eagles,134875,Abraham Baldwin Agricultural Stallions,0,0,Florida Gulf Coast,Abraham Baldwin Agricultural,2026-11-15T10:48:21Z
+401924858,2026-11-15,2026-11-15T17:00Z,STATUS_SCHEDULED,False,2115,Central Connecticut Blue Devils,2514,Quinnipiac Bobcats,0,0,Central Connecticut,Quinnipiac,2026-11-15T10:48:21Z
+401918949,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,235,Memphis Tigers,97,Louisville Cardinals,0,0,Memphis,Louisville,2026-11-15T10:48:21Z
+401926063,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,True,158,Nebraska Cornhuskers,68,Boise State Broncos,0,0,Nebraska,Boise State,2026-11-15T10:48:21Z
+401925896,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,2247,Georgia State Panthers,2450,Norfolk State Spartans,0,0,Georgia State,Norfolk State,2026-11-15T10:48:21Z
+401920771,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,48,Delaware Blue Hens,2142,Colgate Raiders,0,0,Delaware,Colgate,2026-11-15T10:48:21Z
+401920235,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,104,Boston University Terriers,159,Dartmouth Big Green,0,0,Boston University,Dartmouth,2026-11-15T10:48:21Z
+401912210,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,44,American University Eagles,108,Harvard Crimson,0,0,American University,Harvard,2026-11-15T10:48:21Z
+401909774,2026-11-15,2026-11-15T18:00Z,STATUS_SCHEDULED,False,66,Iowa State Cyclones,315,Niagara Purple Eagles,0,0,Iowa State,Niagara,2026-11-15T10:48:21Z
+401909554,2026-11-15,2026-11-15T18:30Z,STATUS_SCHEDULED,False,103,Boston College Eagles,160,New Hampshire Wildcats,0,0,Boston College,New Hampshire,2026-11-15T10:48:21Z
+401918453,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,130,Michigan Wolverines,2729,William & Mary Tribe,0,0,Michigan,William & Mary,2026-11-15T10:48:21Z
+401928825,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,2523,Robert Morris Colonials,424,Capital Crusaders,0,0,Robert Morris,Capital,2026-11-15T10:48:21Z
+401925926,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,232,Charleston Cougars,2569,South Carolina State Bulldogs,0,0,Charleston,South Carolina State,2026-11-15T10:48:21Z
+401925812,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,2325,La Salle Explorers,218,Temple Owls,0,0,La Salle,Temple,2026-11-15T10:48:21Z
+401924744,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,43,Yale Bulldogs,2211,Emmanuel (MA) Lions,0,0,Yale,Emmanuel (MA),2026-11-15T10:48:21Z
+401921287,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,107,Holy Cross Crusaders,399,UAlbany Great Danes,0,0,Holy Cross,UAlbany,2026-11-15T10:48:21Z
+401920136,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,2449,North Dakota State Bison,2934,Cal State Bakersfield Roadrunners,0,0,North Dakota State,Cal State Bakersfield,2026-11-15T10:48:21Z
+401920065,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,227,Rhode Island Rams,163,Princeton Tigers,0,0,Rhode Island,Princeton,2026-11-15T10:48:21Z
+401909525,2026-11-15,2026-11-15T19:30Z,STATUS_SCHEDULED,True,269,Marquette Golden Eagles,142,Missouri Tigers,0,0,Marquette,Missouri,2026-11-15T10:48:21Z
+401906866,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,True,251,Texas Longhorns,239,Baylor Bears,0,0,Texas,Baylor,2026-11-15T10:48:21Z
+401926216,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,False,2635,Tennessee Tech Golden Eagles,134850,Wright State-Lake Lakers,0,0,Tennessee Tech,Wright State-Lake,2026-11-15T10:48:21Z
+401926068,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,False,2197,Eastern Illinois Panthers,2870,Purdue Fort Wayne Mastodons,0,0,Eastern Illinois,Purdue Fort Wayne,2026-11-15T10:48:21Z
+401921168,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,False,2010,Alabama A&M Bulldogs,325,Cleveland State Vikings,0,0,Alabama A&M,Cleveland State,2026-11-15T10:48:21Z
+401911251,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,False,139,Saint Louis Billikens,2272,High Point Panthers,0,0,Saint Louis,High Point,2026-11-15T10:48:21Z
+401909493,2026-11-15,2026-11-15T20:00Z,STATUS_SCHEDULED,True,2294,Iowa Hawkeyes,156,Creighton Bluejays,0,0,Iowa,Creighton,2026-11-15T10:48:21Z
+401934396,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,279,Pacific Tigers,2005,Air Force Falcons,0,0,Pacific,Air Force,2026-11-15T10:48:21Z
+401928789,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,True,21,San Diego State Aztecs,166,New Mexico State Aggies,0,0,San Diego State,New Mexico State,2026-11-15T10:48:21Z
+401928353,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,2540,UC Santa Barbara Gauchos,3185,UC Merced Bobcats,0,0,UC Santa Barbara,UC Merced,2026-11-15T10:48:21Z
+401919825,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,256,James Madison Dukes,2385,Mercyhurst Lakers,0,0,James Madison,Mercyhurst,2026-11-15T10:48:21Z
+401917531,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,2351,Loyola Marymount Lions,2130,Chicago State Cougars,0,0,Loyola Marymount,Chicago State,2026-11-15T10:48:21Z
+401917528,2026-11-15,2026-11-15T21:00Z,STATUS_SCHEDULED,False,2547,Seattle U Redhawks,304,Idaho State Bengals,0,0,Seattle U,Idaho State,2026-11-15T10:48:21Z
+401929405,2026-11-15,2026-11-15T21:30Z,STATUS_SCHEDULED,False,233,South Dakota Coyotes,2178,Doane Tigers,0,0,South Dakota,Doane,2026-11-15T10:48:21Z
+401923393,2026-11-15,2026-11-15T21:30Z,STATUS_SCHEDULED,False,88,Southern Indiana Screaming Eagles,2711,Western Michigan Broncos,0,0,Southern Indiana,Western Michigan,2026-11-15T10:48:21Z
+401917175,2026-11-15,2026-11-15T21:30Z,STATUS_SCHEDULED,False,213,Penn State Nittany Lions,2441,New Haven Chargers,0,0,Penn State,New Haven,2026-11-15T10:48:21Z
+401926073,2026-11-15,2026-11-15T22:00Z,STATUS_SCHEDULED,False,2483,Oregon Ducks,2492,Pepperdine Waves,0,0,Oregon,Pepperdine,2026-11-15T10:48:21Z
+401911017,2026-11-15,2026-11-15T22:30Z,STATUS_SCHEDULED,False,2084,Buffalo Bulls,2099,Canisius Golden Griffins,0,0,Buffalo,Canisius,2026-11-15T10:48:21Z
+401926733,2026-11-15,2026-11-15T23:00Z,STATUS_SCHEDULED,False,2630,UT Martin Skyhawks,3120,Ecclesia Royals,0,0,UT Martin,Ecclesia,2026-11-15T10:48:21Z
+401920124,2026-11-15,2026-11-15T23:00Z,STATUS_SCHEDULED,False,147,Montana State Bobcats,13,Cal Poly Mustangs,0,0,Montana State,Cal Poly,2026-11-15T10:48:21Z
+401920681,2026-11-15,2026-11-16T00:00Z,STATUS_SCHEDULED,False,2599,St. John's Red Storm,183,Syracuse Orange,0,0,St. John's,Syracuse,2026-11-15T10:48:21Z
+401926772,2026-11-15,2026-11-16T00:00Z,STATUS_SCHEDULED,False,30,USC Trojans,2029,Arkansas-Pine Bluff Golden Lions,0,0,USC,Arkansas-Pine Bluff,2026-11-15T10:48:21Z
+401929200,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,2636,UTSA Roadrunners,326,Texas State Bobcats,0,0,UTSA,Texas State,2026-11-15T10:48:21Z
+401925718,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,2065,Bethune-Cookman Wildcats,2488,Paine Lions,0,0,Bethune-Cookman,Paine,2026-11-15T10:48:21Z
+401920896,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,275,Wisconsin Badgers,324,Coastal Carolina Chanticleers,0,0,Wisconsin,Coastal Carolina,2026-11-15T10:48:21Z
+401911472,2026-11-15,2026-11-16T02:00Z,STATUS_SCHEDULED,False,23,San José State Spartans,2011,Alabama State Hornets,0,0,San José State,Alabama State,2026-11-15T10:48:21Z
+401920962,2026-11-16,2026-11-16T16:00Z,STATUS_SCHEDULED,False,2413,Morehead State Eagles,124809,Miami (OH) Hamilton Harriers,0,0,Morehead State,Miami (OH) Hamilton,2026-11-15T10:48:21Z
+401929371,2026-11-16,2026-11-16T17:00Z,STATUS_SCHEDULED,False,2453,North Alabama Lions,2225,Fisk Bulldogs,0,0,North Alabama,Fisk,2026-11-15T10:48:21Z
+401911211,2026-11-16,2026-11-16T17:00Z,STATUS_SCHEDULED,False,45,George Washington Revolutionaries,366,Ferrum Panthers,0,0,George Washington,Ferrum,2026-11-15T10:48:21Z
+401929419,2026-11-16,2026-11-16T18:00Z,STATUS_SCHEDULED,False,2638,UTEP Miners,50,Florida A&M Rattlers,0,0,UTEP,Florida A&M,2026-11-15T10:48:21Z
+401921087,2026-11-16,2026-11-16T23:00Z,STATUS_SCHEDULED,False,2378,UMBC Retrievers,314,Iona Gaels,0,0,UMBC,Iona,2026-11-15T10:48:21Z
+401916298,2026-11-16,2026-11-16T23:00Z,STATUS_SCHEDULED,False,120,Maryland Terrapins,2016,Alcorn State Braves,0,0,Maryland,Alcorn State,2026-11-15T10:48:21Z
+401916317,2026-11-16,2026-11-16T23:30Z,STATUS_SCHEDULED,False,194,Ohio State Buckeyes,2504,Prairie View A&M Panthers,0,0,Ohio State,Prairie View A&M,2026-11-15T10:48:21Z
+401921804,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,96,Kentucky Wildcats,2755,Grambling Tigers,0,0,Kentucky,Grambling,2026-11-15T10:48:21Z
+401928841,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,2309,Kent State Golden Flashes,2198,Eastern Kentucky Colonels,0,0,Kent State,Eastern Kentucky,2026-11-15T10:48:21Z
+401927352,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,2428,North Carolina Central Eagles,3229,Virginia Lynchburg Dragons,0,0,North Carolina Central,Virginia Lynchburg,2026-11-15T10:48:21Z
+401925864,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,202,Tulsa Golden Hurricane,98,Western Kentucky Hilltoppers,0,0,Tulsa,Western Kentucky,2026-11-15T10:48:21Z
+401922240,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,56,Stetson Hatters,2227,Florida Memorial Lions,0,0,Stetson,Florida Memorial,2026-11-15T10:48:21Z
+401921182,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,219,Pennsylvania Quakers,111949,DeSales Bulldogs,0,0,Pennsylvania,DeSales,2026-11-15T10:48:21Z
+401919807,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,112358,Long Island University Sharks,2900,St. Thomas Tommies,0,0,Long Island University,St. Thomas,2026-11-15T10:48:21Z
+401918075,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,228,Clemson Tigers,2643,The Citadel Bulldogs,0,0,Clemson,The Citadel,2026-11-15T10:48:21Z
+401911240,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,259,Virginia Tech Hokies,257,Richmond Spiders,0,0,Virginia Tech,Richmond,2026-11-15T10:48:21Z
+401906783,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,61,Georgia Bulldogs,294,Jacksonville Dolphins,0,0,Georgia,Jacksonville,2026-11-15T10:48:21Z
+401927364,2026-11-16,2026-11-17T00:30Z,STATUS_SCHEDULED,False,2181,Drake Bulldogs,2627,Tarleton State Texans,0,0,Drake,Tarleton State,2026-11-15T10:48:21Z
+401926153,2026-11-16,2026-11-17T00:30Z,STATUS_SCHEDULED,False,2546,Southeast Missouri State Redhawks,111166,Midway Eagles,0,0,Southeast Missouri State,Midway,2026-11-15T10:48:21Z
+401929411,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,2571,South Dakota State Jackrabbits,561,Mayville State Comets,0,0,South Dakota State,Mayville State,2026-11-15T10:48:21Z
+401928997,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,2674,Valparaiso Beacons,502,Calumet St. Joseph Crimson Wave,0,0,Valparaiso,Calumet St. Joseph,2026-11-15T10:48:21Z
+401926143,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,155,North Dakota Fighting Hawks,2565,SIU Edwardsville Cougars,0,0,North Dakota,SIU Edwardsville,2026-11-15T10:48:21Z
+401920735,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,77,Northwestern Wildcats,171,Columbia Lions,0,0,Northwestern,Columbia,2026-11-15T10:48:21Z
+401917964,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,2623,Missouri State Bears,2000,Abilene Christian Wildcats,0,0,Missouri State,Abilene Christian,2026-11-15T10:48:21Z
+401917917,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,197,Oklahoma State Cowboys,2110,Central Arkansas Bears,0,0,Oklahoma State,Central Arkansas,2026-11-15T10:48:21Z
+401916307,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,135,Minnesota Golden Gophers,2710,Western Illinois Leathernecks,0,0,Minnesota,Western Illinois,2026-11-15T10:48:21Z
+401909798,2026-11-16,2026-11-17T01:00Z,STATUS_SCHEDULED,False,2306,Kansas State Wildcats,149,Montana Grizzlies,0,0,Kansas State,Montana,2026-11-15T10:48:21Z
+401920808,2026-11-16,2026-11-17T01:30Z,STATUS_SCHEDULED,False,245,Texas A&M Aggies,2545,SE Louisiana Lions,0,0,Texas A&M,SE Louisiana,2026-11-15T10:48:21Z
+401917981,2026-11-16,2026-11-17T01:30Z,STATUS_SCHEDULED,False,2433,UL Monroe Warhawks,2937,Dallas Christian Crusaders,0,0,UL Monroe,Dallas Christian,2026-11-15T10:48:21Z
+401929192,2026-11-16,2026-11-17T02:30Z,STATUS_SCHEDULED,False,204,Oregon State Beavers,2837,East Texas A&M Lions,0,0,Oregon State,East Texas A&M,2026-11-15T10:48:21Z
+401924265,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,26,UCLA Bruins,299,Long Beach State Beach,0,0,UCLA,Long Beach State,2026-11-15T10:48:21Z
+401926228,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,2172,Denver Pioneers,2145,Colorado Colorado Springs Mountain Lions,0,0,Denver,Colorado Colorado Springs,2026-11-15T10:48:21Z
+401920373,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,28,UC San Diego Tritons,2640,Texas Southern Tigers,0,0,UC San Diego,Texas Southern,2026-11-15T10:48:21Z
+401917532,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,2608,Saint Mary's Gaels,2502,Portland State Vikings,0,0,Saint Mary's,Portland State,2026-11-15T10:48:21Z
+401920904,2026-11-17,2026-11-17T16:00Z,STATUS_SCHEDULED,False,48,Delaware Blue Hens,111914,Wilson WILSON,0,0,Delaware,Wilson,2026-11-15T10:48:21Z
+401928360,2026-11-17,2026-11-17T17:00Z,STATUS_SCHEDULED,False,2582,Southern Jaguars,2347,Louisiana Christian Wildcats,0,0,Southern,Louisiana Christian,2026-11-15T10:48:21Z
+401927381,2026-11-17,2026-11-17T17:00Z,STATUS_SCHEDULED,True,93,Murray State Racers,2275,Hofstra Pride,0,0,Murray State,Hofstra,2026-11-15T10:48:21Z
+401920511,2026-11-17,2026-11-17T19:00Z,STATUS_SCHEDULED,True,248,Houston Cougars,164,Rutgers Scarlet Knights,0,0,Houston,Rutgers,2026-11-15T10:48:21Z
+401906773,2026-11-17,2026-11-17T21:30Z,STATUS_SCHEDULED,True,57,Florida Gators,87,Notre Dame Fighting Irish,0,0,Florida,Notre Dame,2026-11-15T10:48:21Z
+401923325,2026-11-17,2026-11-17T23:00Z,STATUS_SCHEDULED,False,2349,UMass Lowell River Hawks,2612,Saint Peter's Peacocks,0,0,UMass Lowell,Saint Peter's,2026-11-15T10:48:21Z
+401920953,2026-11-17,2026-11-17T23:00Z,STATUS_SCHEDULED,True,79,Southern Illinois Salukis,2335,Liberty Flames,0,0,Southern Illinois,Liberty,2026-11-15T10:48:21Z
+401912230,2026-11-17,2026-11-17T23:00Z,STATUS_SCHEDULED,False,349,Army Black Knights,2368,Marist Red Foxes,0,0,Army,Marist,2026-11-15T10:48:21Z
+401926834,2026-11-17,2026-11-17T23:30Z,STATUS_SCHEDULED,False,2619,Stony Brook Seawolves,182,SUNY Potsdam SUNY-POTSDAM,0,0,Stony Brook,SUNY Potsdam,2026-11-15T10:48:21Z
+401920706,2026-11-17,2026-11-17T23:30Z,STATUS_SCHEDULED,False,2509,Purdue Boilermakers,288,Lipscomb Bisons,0,0,Purdue,Lipscomb,2026-11-15T10:48:21Z
+401920236,2026-11-17,2026-11-17T23:30Z,STATUS_SCHEDULED,False,159,Dartmouth Big Green,126890,Maine Augusta Moose,0,0,Dartmouth,Maine Augusta,2026-11-15T10:48:21Z
+401909566,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,150,Duke Blue Devils,356,Illinois Fighting Illini,0,0,Duke,Illinois,2026-11-15T10:48:21Z
+401921722,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2390,Miami Hurricanes,2520,Rider Broncs,0,0,Miami,Rider,2026-11-15T10:48:21Z
+401930568,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,6,South Alabama Jaguars,2590,Spring Hill Badgers,0,0,South Alabama,Spring Hill,2026-11-15T10:48:21Z
+401927342,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2169,Delaware State Hornets,2129,Cheyney (PA) Wolves,0,0,Delaware State,Cheyney (PA),2026-11-15T10:48:21Z
+401925775,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2166,Davidson Wildcats,2429,Charlotte 49ers,0,0,Davidson,Charlotte,2026-11-15T10:48:21Z
+401925751,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2115,Central Connecticut Blue Devils,551,Vermont State Lyndon Hornets,0,0,Central Connecticut,Vermont State Lyndon,2026-11-15T10:48:21Z
+401924941,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2083,Bucknell Bison,2006,Akron Zips,0,0,Bucknell,Akron,2026-11-15T10:48:21Z
+401922251,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2697,West Florida Argonauts,2739,Green Bay Phoenix,0,0,West Florida,Green Bay,2026-11-15T10:48:21Z
+401921756,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2116,UCF Knights,344,Mississippi State Bulldogs,0,0,UCF,Mississippi State,2026-11-15T10:48:21Z
+401920921,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,116,Mount St. Mary's Mountaineers,2329,Lehigh Mountain Hawks,0,0,Mount St. Mary's,Lehigh,2026-11-15T10:48:21Z
+401920857,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,276,Marshall Thundering Herd,2193,East Tennessee State Buccaneers,0,0,Marshall,East Tennessee State,2026-11-15T10:48:21Z
+401920308,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,59,Georgia Tech Yellow Jackets,2450,Norfolk State Spartans,0,0,Georgia Tech,Norfolk State,2026-11-15T10:48:21Z
+401920297,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2653,Troy Trojans,2463,Cal State Northridge Matadors,0,0,Troy,Cal State Northridge,2026-11-15T10:48:21Z
+401920194,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2603,Saint Joseph's Hawks,2681,Wagner Seahawks,0,0,Saint Joseph's,Wagner,2026-11-15T10:48:21Z
+401918994,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,58,South Florida Bulls,2634,Tennessee State Tigers,0,0,South Florida,Tennessee State,2026-11-15T10:48:21Z
+401917534,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,279,Pacific Tigers,594,Pacific Union PACIFIC UNION,0,0,Pacific,Pacific Union,2026-11-15T10:48:21Z
+401911198,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2363,Manhattan Jaspers,2230,Fordham Rams,0,0,Manhattan,Fordham,2026-11-15T10:48:21Z
+401911019,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2168,Dayton Flyers,2117,Central Michigan Chippewas,0,0,Dayton,Central Michigan,2026-11-15T10:48:21Z
+401911018,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2729,William & Mary Tribe,189,Bowling Green Falcons,0,0,William & Mary,Bowling Green,2026-11-15T10:48:21Z
+401909729,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,154,Wake Forest Demon Deacons,2405,Monmouth Hawks,0,0,Wake Forest,Monmouth,2026-11-15T10:48:21Z
+401909708,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,221,Pittsburgh Panthers,222,Villanova Wildcats,0,0,Pittsburgh,Villanova,2026-11-15T10:48:21Z
+401909697,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,52,Florida State Seminoles,2050,Ball State Cardinals,0,0,Florida State,Ball State,2026-11-15T10:48:21Z
+401909544,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2752,Xavier Musketeers,325,Cleveland State Vikings,0,0,Xavier,Cleveland State,2026-11-15T10:48:21Z
+401909535,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2507,Providence Friars,2529,Sacred Heart Pioneers,0,0,Providence,Sacred Heart,2026-11-15T10:48:21Z
+401902279,2026-11-17,2026-11-18T00:00Z,STATUS_SCHEDULED,False,2086,Butler Bulldogs,2717,Western Carolina Catamounts,0,0,Butler,Western Carolina,2026-11-15T10:48:21Z
+401906761,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,False,333,Alabama Crimson Tide,338,Kennesaw State Owls,0,0,Alabama,Kennesaw State,2026-11-15T10:48:21Z
+401916289,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,True,84,Indiana Hoosiers,8,Arkansas Razorbacks,0,0,Indiana,Arkansas,2026-11-15T10:48:21Z
+401926781,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,False,2348,Louisiana Tech Bulldogs,55,Jacksonville State Gamecocks,0,0,Louisiana Tech,Jacksonville State,2026-11-15T10:48:21Z
+401919018,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,False,5,UAB Blazers,2229,Florida International Panthers,0,0,UAB,Florida International,2026-11-15T10:48:21Z
+401911020,2026-11-17,2026-11-18T00:30Z,STATUS_SCHEDULED,False,113,Massachusetts Minutemen,2803,Bryant Bulldogs,0,0,Massachusetts,Bryant,2026-11-15T10:48:21Z
+401921826,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,238,Vanderbilt Commodores,2197,Eastern Illinois Panthers,0,0,Vanderbilt,Eastern Illinois,2026-11-15T10:48:21Z
+401929358,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2572,Southern Miss Golden Eagles,250,UT Arlington Mavericks,0,0,Southern Miss,UT Arlington,2026-11-15T10:48:21Z
+401927867,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2464,Northern Arizona Lumberjacks,111226,Embry Riddle (AZ) Eagles,0,0,Northern Arizona,Embry Riddle (AZ),2026-11-15T10:48:21Z
+401927388,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2460,Northern Iowa Panthers,2815,Lindenwood Lions,0,0,Northern Iowa,Lindenwood,2026-11-15T10:48:21Z
+401925012,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2437,Omaha Mavericks,2320,Lamar Cardinals,0,0,Omaha,Lamar,2026-11-15T10:48:21Z
+401922221,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2454,North Florida Ospreys,123362,Fort Lauderdale Eagles,0,0,North Florida,Fort Lauderdale,2026-11-15T10:48:21Z
+401921106,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2287,Illinois State Redbirds,91,Bellarmine Knights,0,0,Illinois State,Bellarmine,2026-11-15T10:48:21Z
+401921097,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,242,Rice Owls,357,Texas A&M-Corpus Christi Islanders,0,0,Rice,Texas A&M-Corpus Christi,2026-11-15T10:48:21Z
+401921027,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,290,Georgia Southern Eagles,2393,Middle Tennessee Blue Raiders,0,0,Georgia Southern,Middle Tennessee,2026-11-15T10:48:21Z
+401921006,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,140,Kansas City Roos,580,Newman Jets,0,0,Kansas City,Newman,2026-11-15T10:48:21Z
+401919783,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,339,Evansville Purple Aces,2330,Le Moyne Dolphins,0,0,Evansville,Le Moyne,2026-11-15T10:48:21Z
+401918970,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2567,SMU Mustangs,198,Oral Roberts Golden Eagles,0,0,SMU,Oral Roberts,2026-11-15T10:48:21Z
+401917952,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,2046,Austin Peay Governors,124721,Life University Running Eagles,0,0,Austin Peay,Life University,2026-11-15T10:48:21Z
+401909504,2026-11-17,2026-11-18T01:00Z,STATUS_SCHEDULED,False,305,DePaul Blue Demons,2379,Maryland Eastern Shore Hawks,0,0,DePaul,Maryland Eastern Shore,2026-11-15T10:48:21Z
+401925064,2026-11-17,2026-11-18T01:30Z,STATUS_SCHEDULED,False,145,Ole Miss Rebels,2447,Nicholls Colonels,0,0,Ole Miss,Nicholls,2026-11-15T10:48:21Z
+401924922,2026-11-17,2026-11-18T01:30Z,STATUS_SCHEDULED,False,2751,Wyoming Cowboys,2534,Sam Houston Bearkats,0,0,Wyoming,Sam Houston,2026-11-15T10:48:21Z
+401920720,2026-11-17,2026-11-18T01:30Z,STATUS_SCHEDULED,False,254,Utah Utes,331,Eastern Washington Eagles,0,0,Utah,Eastern Washington,2026-11-15T10:48:21Z
+401906851,2026-11-17,2026-11-18T02:00Z,STATUS_SCHEDULED,False,2633,Tennessee Volunteers,127,Michigan State Spartans,0,0,Tennessee,Michigan State,2026-11-15T10:48:21Z
+401920426,2026-11-17,2026-11-18T02:00Z,STATUS_SCHEDULED,False,258,Virginia Cavaliers,295,Old Dominion Monarchs,0,0,Virginia,Old Dominion,2026-11-15T10:48:21Z
+401911521,2026-11-17,2026-11-18T02:00Z,STATUS_SCHEDULED,False,302,UC Davis Aggies,2011,Alabama State Hornets,0,0,UC Davis,Alabama State,2026-11-15T10:48:21Z
+401909787,2026-11-17,2026-11-18T02:30Z,STATUS_SCHEDULED,True,2305,Kansas Jayhawks,2439,UNLV Rebels,0,0,Kansas,UNLV,2026-11-15T10:48:21Z
+401921729,2026-11-17,2026-11-18T03:00Z,STATUS_SCHEDULED,False,24,Stanford Cardinal,300,UC Irvine Anteaters,0,0,Stanford,UC Irvine,2026-11-15T10:48:21Z
+401917533,2026-11-17,2026-11-18T03:00Z,STATUS_SCHEDULED,False,2856,California Baptist Lancers,2547,Seattle U Redhawks,0,0,California Baptist,Seattle U,2026-11-15T10:48:21Z
+401925879,2026-11-17,2026-11-18T04:00Z,STATUS_SCHEDULED,False,2250,Gonzaga Bulldogs,147,Montana State Bobcats,0,0,Gonzaga,Montana State,2026-11-15T10:48:21Z
+401920512,2026-11-17,2026-11-18T04:59Z,STATUS_SCHEDULED,True,2,Auburn Tigers,277,West Virginia Mountaineers,0,0,Auburn,West Virginia,2026-11-15T10:48:21Z
