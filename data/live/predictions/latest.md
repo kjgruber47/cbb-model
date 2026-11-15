@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-15 | Sun 4:00 PM | Mercyhurst | James Madison | +10.3 | +13.5 | +15.5 | -3.2 | yes |
 | 11-15 | Sun 2:00 PM | Princeton | Rhode Island | +10.7 | +7.5 | +9.5 | +3.2 | yes |
 | 11-15 | Sun 1:00 PM | Harvard | American University | +4.5 | +1.5 | +1.5 | +3.0 | yes |
+| 11-15 | Sun 2:30 PM | Missouri | Marquette (N) | +0.3 | -2.5 | +1.5 | +2.8 | yes |
 | 11-15 | Sun 2:00 PM | Cal State Bakersfield | North Dakota State | +6.3 | +3.5 | +3.5 | +2.8 | yes |
 | 11-15 | Sun 3:00 PM | Purdue Fort Wayne | Eastern Illinois | -0.8 | -3.5 | -3.5 | +2.7 | yes |
-| 11-15 | Sun 7:00 PM | Syracuse | St. John's | +9.8 | +12.5 | +12.5 | -2.7 | yes |
 
 ## Top 25 by rating
 
