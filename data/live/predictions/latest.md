@@ -10,19 +10,19 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-15 | Sun 5:00 PM | Pepperdine | Oregon | +21.1 | +13.5 | +16.5 | +7.6 | yes |
 | 11-15 | Sun 4:30 PM | New Haven | Penn State | +18.1 | +24.5 | +25.5 | -6.4 | yes |
+| 11-15 | Sun 3:00 PM | High Point | Saint Louis | +12.5 | +6.5 | +5.5 | +6.0 | yes |
 | 11-15 | Sun 4:00 PM | Mercyhurst | James Madison | +10.3 | +15.5 | +15.5 | -5.2 | yes |
-| 11-15 | Sun 3:00 PM | High Point | Saint Louis | +12.5 | +7.5 | +5.5 | +5.0 | yes |
+| 11-15 | Sun 7:00 PM | Arkansas-Pine Bluff | USC | +40.3 | +45.5 | +41.5 | -5.2 | yes |
 | 11-15 | Sun 2:00 PM | UAlbany | Holy Cross | +2.2 | -2.5 | -3.5 | +4.7 | yes |
 | 11-15 | Sun 4:00 PM | Chicago State | Loyola Marymount | +13.1 | +17.5 | +16.5 | -4.4 | yes |
 | 11-15 | Sun 4:00 PM | Idaho State | Seattle U | +12.1 | +16.5 | +15.5 | -4.4 | yes |
 | 11-15 | Sun 3:00 PM | Cleveland State | Alabama A&M | +6.1 | +2.5 | +3.5 | +3.6 | yes |
 | 11-15 | Sun 2:00 PM | Princeton | Rhode Island | +10.7 | +7.5 | +9.5 | +3.2 | yes |
-| 11-15 | Sun 7:00 PM | Arkansas-Pine Bluff | USC | +40.3 | +43.5 | +41.5 | -3.2 | yes |
 | 11-15 | Sun 1:00 PM | Harvard | American University | +4.5 | +1.5 | +1.5 | +3.0 | yes |
 | 11-15 | Sun 3:00 PM | Purdue Fort Wayne | Eastern Illinois | -0.8 | -3.5 | -3.5 | +2.7 | yes |
 | 11-15 | Sun 7:00 PM | Syracuse | St. John's | +9.8 | +12.5 | +12.5 | -2.7 | yes |
 | 11-15 | Sun 8:00 PM | Coastal Carolina | Wisconsin | +26.0 | +28.5 | +29.5 | -2.5 | yes |
-| 11-15 | Sun 4:00 PM | New Mexico State | San Diego State (N) | +11.4 | +13.5 | +11.5 | -2.1 | yes |
+| 11-15 | Sun 2:00 PM | William & Mary | Michigan | +29.8 | +27.5 | +29.5 | +2.3 | yes |
 
 ## Top 25 by rating
 
