@@ -30330,3 +30330,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-15T18:49:51Z,401929200,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,2636,UTSA Roadrunners,326,Texas State Bobcats,0,0,scoreboard,100,DraftKings,current,3.5,147.5,,,,,,,TXST -3.5
 2026-11-15T18:49:51Z,401929200,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,2636,UTSA Roadrunners,326,Texas State Bobcats,0,0,scoreboard,100,DraftKings,close,3.5,147.5,136.0,-162.0,-110.0,-110.0,-115.0,-105.0,TXST -3.5
 2026-11-15T18:49:51Z,401929200,2026-11-15,2026-11-16T01:00Z,STATUS_SCHEDULED,False,2636,UTSA Roadrunners,326,Texas State Bobcats,0,0,core,100,DraftKings,current,3.5,147.5,136,-162,-110.0,-110.0,-115.0,-105.0,TXST -3.5
+2026-11-15T18:51:18Z,401920065,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,227,Rhode Island Rams,163,Princeton Tigers,0,0,scoreboard,100,DraftKings,current,-7.5,138.5,,,,,,,URI -7.5
+2026-11-15T18:51:18Z,401920065,2026-11-15,2026-11-15T19:00Z,STATUS_SCHEDULED,False,227,Rhode Island Rams,163,Princeton Tigers,0,0,scoreboard,100,DraftKings,close,-7.5,138.5,-345.0,275.0,-105.0,-115.0,-110.0,-110.0,URI -7.5
