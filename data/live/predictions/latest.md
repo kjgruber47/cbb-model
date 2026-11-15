@@ -10,19 +10,19 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-15 | Sun 5:00 PM | Pepperdine | Oregon | +21.1 | +13.5 | +16.5 | +7.6 | yes |
 | 11-15 | Sun 7:00 PM | Arkansas-Pine Bluff | USC | +40.3 | +46.5 | +41.5 | -6.2 | yes |
+| 11-16 | Mon 8:00 PM | Western Illinois | Minnesota | +30.8 | +36.5 | +36.5 | -5.7 | yes |
+| 11-16 | Mon 7:30 PM | Tarleton State | Drake | +6.1 | +11.5 | +10.5 | -5.4 | yes |
 | 11-15 | Sun 4:30 PM | New Haven | Penn State | +18.1 | +23.5 | +25.5 | -5.4 | yes |
 | 11-15 | Sun 3:00 PM | High Point | Saint Louis | +12.5 | +7.5 | +5.5 | +5.0 | yes |
 | 11-15 | Sun 2:00 PM | UAlbany | Holy Cross | +2.2 | -2.5 | -3.5 | +4.7 | yes |
 | 11-15 | Sun 4:00 PM | Chicago State | Loyola Marymount | +13.1 | +17.5 | +16.5 | -4.4 | yes |
+| 11-16 | Mon 7:00 PM | The Citadel | Clemson | +20.8 | +24.5 | +24.5 | -3.7 | yes |
 | 11-15 | Sun 3:00 PM | Cleveland State | Alabama A&M | +6.1 | +2.5 | +3.5 | +3.6 | yes |
 | 11-15 | Sun 4:00 PM | Idaho State | Seattle U | +12.1 | +15.5 | +15.5 | -3.4 | yes |
+| 11-16 | Mon 7:00 PM | Eastern Kentucky | Kent State | +7.2 | +10.5 | +11.5 | -3.3 | yes |
 | 11-15 | Sun 2:00 PM | William & Mary | Michigan | +29.8 | +26.5 | +29.5 | +3.3 | yes |
 | 11-15 | Sun 2:00 PM | Princeton | Rhode Island | +10.7 | +7.5 | +9.5 | +3.2 | yes |
-| 11-15 | Sun 1:00 PM | Harvard | American University | +4.5 | +1.5 | +1.5 | +3.0 | yes |
-| 11-15 | Sun 2:30 PM | Missouri | Marquette (N) | +0.3 | -2.5 | +1.5 | +2.8 | yes |
-| 11-15 | Sun 2:00 PM | Cal State Bakersfield | North Dakota State | +6.3 | +3.5 | +3.5 | +2.8 | yes |
-| 11-15 | Sun 3:00 PM | Purdue Fort Wayne | Eastern Illinois | -0.8 | -3.5 | -3.5 | +2.7 | yes |
-| 11-15 | Sun 7:00 PM | Syracuse | St. John's | +9.8 | +12.5 | +12.5 | -2.7 | yes |
+| 11-16 | Mon 8:00 PM | Central Arkansas | Oklahoma State | +18.3 | +21.5 | +21.5 | -3.2 | yes |
 
 ## Top 25 by rating
 
