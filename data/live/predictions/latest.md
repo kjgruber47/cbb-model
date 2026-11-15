@@ -9,20 +9,20 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-15 | Sun 5:00 PM | Pepperdine | Oregon | +21.1 | +13.5 | +16.5 | +7.6 | yes |
+| 11-16 | Mon 6:00 PM | Alcorn State | Maryland | +27.2 | +34.5 | +34.5 | -7.3 | yes |
+| 11-16 | Mon 6:30 PM | Prairie View A&M | Ohio State | +28.3 | +34.5 | +34.5 | -6.2 | yes |
 | 11-15 | Sun 7:00 PM | Arkansas-Pine Bluff | USC | +40.3 | +46.5 | +41.5 | -6.2 | yes |
 | 11-16 | Mon 8:00 PM | Western Illinois | Minnesota | +30.8 | +36.5 | +36.5 | -5.7 | yes |
-| 11-16 | Mon 7:30 PM | Tarleton State | Drake | +6.1 | +11.5 | +10.5 | -5.4 | yes |
 | 11-15 | Sun 4:30 PM | New Haven | Penn State | +18.1 | +23.5 | +25.5 | -5.4 | yes |
 | 11-16 | Mon 10:00 PM | Long Beach State | UCLA | +29.4 | +34.5 | +33.5 | -5.1 | yes |
 | 11-15 | Sun 3:00 PM | High Point | Saint Louis | +12.5 | +7.5 | +5.5 | +5.0 | yes |
+| 11-16 | Mon 7:00 PM | Grambling | Kentucky | +25.7 | +30.5 | +30.5 | -4.8 | yes |
 | 11-15 | Sun 2:00 PM | UAlbany | Holy Cross | +2.2 | -2.5 | -3.5 | +4.7 | yes |
+| 11-16 | Mon 7:30 PM | Tarleton State | Drake | +6.1 | +10.5 | +10.5 | -4.4 | yes |
 | 11-15 | Sun 4:00 PM | Chicago State | Loyola Marymount | +13.1 | +17.5 | +16.5 | -4.4 | yes |
 | 11-16 | Mon 7:00 PM | The Citadel | Clemson | +20.8 | +24.5 | +24.5 | -3.7 | yes |
 | 11-15 | Sun 3:00 PM | Cleveland State | Alabama A&M | +6.1 | +2.5 | +3.5 | +3.6 | yes |
-| 11-15 | Sun 4:00 PM | Idaho State | Seattle U | +12.1 | +15.5 | +15.5 | -3.4 | yes |
-| 11-16 | Mon 7:00 PM | Eastern Kentucky | Kent State | +7.2 | +10.5 | +11.5 | -3.3 | yes |
-| 11-15 | Sun 2:00 PM | William & Mary | Michigan | +29.8 | +26.5 | +29.5 | +3.3 | yes |
-| 11-15 | Sun 2:00 PM | Princeton | Rhode Island | +10.7 | +7.5 | +9.5 | +3.2 | yes |
+| 11-16 | Mon 8:30 PM | SE Louisiana | Texas A&M | +30.0 | +33.5 | +33.5 | -3.5 | yes |
 
 ## Top 25 by rating
 
