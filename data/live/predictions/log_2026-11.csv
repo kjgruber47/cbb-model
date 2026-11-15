@@ -6635,3 +6635,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-15T07:17:53Z,401928789,2026-11-15,New Mexico State,San Diego State,True,11.29,150.38,12.50,143.50,11.50,143.50,DraftKings,2026-11-15T07:17:09Z
 2026-11-15T07:17:53Z,401917175,2026-11-15,New Haven,Penn State,False,18.15,141.49,24.50,142.50,25.50,142.50,DraftKings,2026-11-15T07:17:09Z
 2026-11-15T07:17:53Z,401920896,2026-11-15,Coastal Carolina,Wisconsin,False,26.27,143.86,28.50,147.50,29.50,147.50,DraftKings,2026-11-15T07:17:09Z
+2026-11-15T07:47:55Z,401917531,2026-11-15,Chicago State,Loyola Marymount,False,13.09,146.10,17.50,141.50,16.50,141.50,DraftKings,2026-11-15T07:47:10Z
