@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-14 | Sat 2:00 PM | Northern Illinois | Bellarmine | +2.6 | -1.5 | +1.5 | +4.1 | yes |
 | 11-14 | Sat 4:00 PM | UNC Asheville | Georgia Tech | +13.6 | +17.5 | +16.5 | -3.9 | yes |
 | 11-14 | Sat 4:00 PM | Hampton | Navy | +2.0 | -1.5 | +1.5 | +3.5 | yes |
-| 11-14 | Sat 8:00 PM | Louisiana Tech | Nicholls | +2.0 | -1.5 | +2.5 | +3.5 | yes |
 | 11-14 | Sat 6:00 PM | Colorado | Providence | +8.4 | +11.5 | +9.5 | -3.1 | yes |
+| 11-14 | Sat 4:00 PM | Toledo | Detroit Mercy | -7.4 | -10.5 | -9.5 | +3.1 | yes |
 
 ## Top 25 by rating
 
