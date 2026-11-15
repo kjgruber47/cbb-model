@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-14 | Sat 7:30 PM | Cincinnati | Dayton | -16.2 | -6.5 | -6.5 | -9.7 | yes |
+| 11-14 | Sat 7:30 PM | Cincinnati | Dayton | -16.2 | -5.5 | -6.5 | -10.7 | yes |
 | 11-14 | Sat 5:00 PM | Northern Iowa | Oakland | -6.4 | +1.5 | +1.5 | -7.9 | yes |
 | 11-15 | Sun 3:00 PM | High Point | Saint Louis | +12.3 | +5.5 | +5.5 | +6.8 | yes |
 | 11-14 | Sat 3:30 PM | LSU | Gonzaga | +11.4 | +5.5 | +6.5 | +5.9 | yes |
