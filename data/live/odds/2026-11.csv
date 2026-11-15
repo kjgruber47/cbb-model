@@ -30717,3 +30717,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-15T23:51:17Z,401917532,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,2608,Saint Mary's Gaels,2502,Portland State Vikings,0,0,scoreboard,100,DraftKings,current,-18.5,150.5,,,,,,,SMC -18.5
 2026-11-15T23:51:17Z,401917532,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,2608,Saint Mary's Gaels,2502,Portland State Vikings,0,0,scoreboard,100,DraftKings,close,-18.5,150.5,-2400.0,1200.0,-102.0,-118.0,-110.0,-110.0,SMC -18.5
 2026-11-15T23:51:17Z,401917532,2026-11-16,2026-11-17T03:00Z,STATUS_SCHEDULED,False,2608,Saint Mary's Gaels,2502,Portland State Vikings,0,0,core,100,DraftKings,current,-18.5,150.5,-2400,1200,-102.0,-118.0,-110.0,-110.0,SMC -18.5
+2026-11-15T23:52:49Z,401918075,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,228,Clemson Tigers,2643,The Citadel Bulldogs,0,0,scoreboard,100,DraftKings,current,-23.5,144.5,,,,,,,CLEM -23.5
+2026-11-15T23:52:49Z,401918075,2026-11-16,2026-11-17T00:00Z,STATUS_SCHEDULED,False,228,Clemson Tigers,2643,The Citadel Bulldogs,0,0,scoreboard,100,DraftKings,close,-23.5,144.5,-9000.0,2500.0,-112.0,-108.0,-115.0,-105.0,CLEM -23.5
