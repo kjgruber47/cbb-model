@@ -10,8 +10,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-14 | Sat 7:30 PM | Cincinnati | Dayton | -16.2 | -5.5 | -6.5 | -10.7 | yes |
 | 11-14 | Sat 5:00 PM | Northern Iowa | Oakland | -6.4 | +1.5 | +1.5 | -7.9 | yes |
+| 11-15 | Sun 4:30 PM | New Haven | Penn State | +18.2 | +25.5 | +25.5 | -7.3 | yes |
 | 11-15 | Sun 3:00 PM | High Point | Saint Louis | +12.3 | +5.5 | +5.5 | +6.8 | yes |
 | 11-14 | Sat 3:30 PM | LSU | Gonzaga | +11.4 | +5.5 | +6.5 | +5.9 | yes |
+| 11-15 | Sun 5:00 PM | Pepperdine | Oregon | +21.1 | +15.5 | +16.5 | +5.6 | yes |
 | 11-14 | Sat 8:00 PM | Northwestern State | Little Rock | +4.3 | +9.5 | +9.5 | -5.2 | yes |
 | 11-14 | Sat 7:00 PM | Washington | Utah | -1.1 | +3.5 | +2.5 | -4.6 | yes |
 | 11-14 | Sat 1:30 PM | Loyola Chicago | Colorado State | +12.0 | +7.5 | +8.5 | +4.5 | yes |
@@ -21,8 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-14 | Sat 2:00 PM | Northern Illinois | Bellarmine | +2.6 | -1.5 | +1.5 | +4.1 | yes |
 | 11-14 | Sat 4:00 PM | UNC Asheville | Georgia Tech | +13.6 | +17.5 | +16.5 | -3.9 | yes |
 | 11-14 | Sat 4:00 PM | Hampton | Navy | +2.0 | -1.5 | +1.5 | +3.5 | yes |
-| 11-14 | Sat 6:00 PM | Colorado | Providence | +8.4 | +11.5 | +9.5 | -3.1 | yes |
-| 11-14 | Sat 4:00 PM | Toledo | Detroit Mercy | -7.4 | -10.5 | -9.5 | +3.1 | yes |
 
 ## Top 25 by rating
 
