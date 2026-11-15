@@ -15,8 +15,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-15 | Sun 4:00 PM | Mercyhurst | James Madison | +10.3 | +15.5 | +15.5 | -5.2 | yes |
 | 11-15 | Sun 7:00 PM | Arkansas-Pine Bluff | USC | +40.3 | +45.5 | +41.5 | -5.2 | yes |
 | 11-15 | Sun 2:00 PM | UAlbany | Holy Cross | +2.2 | -2.5 | -3.5 | +4.7 | yes |
-| 11-15 | Sun 4:00 PM | Idaho State | Seattle U | +12.1 | +16.5 | +15.5 | -4.4 | yes |
 | 11-15 | Sun 3:00 PM | Cleveland State | Alabama A&M | +6.1 | +2.5 | +3.5 | +3.6 | yes |
+| 11-15 | Sun 4:00 PM | Idaho State | Seattle U | +12.1 | +15.5 | +15.5 | -3.4 | yes |
 | 11-15 | Sun 2:00 PM | Princeton | Rhode Island | +10.7 | +7.5 | +9.5 | +3.2 | yes |
 | 11-15 | Sun 1:00 PM | Harvard | American University | +4.5 | +1.5 | +1.5 | +3.0 | yes |
 | 11-15 | Sun 3:00 PM | Purdue Fort Wayne | Eastern Illinois | -0.8 | -3.5 | -3.5 | +2.7 | yes |
