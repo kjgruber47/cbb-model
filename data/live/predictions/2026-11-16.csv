@@ -1,6 +1,6 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
 2026-11-16,Mon 10:00 PM,Long Beach State,UCLA,False,28.75,34.50,33.50,-5.75,-4.75,144.92,147.50,148.50,-2.58,68.47,1.00,,3,3,True,DraftKings,2026-11-16T11:56:04Z,401924265,26,299
-2026-11-16,Mon 10:00 PM,Texas Southern,UC San Diego,False,18.85,19.50,18.50,-0.65,0.35,155.97,156.50,156.50,-0.53,71.98,0.96,0.93,2,3,True,DraftKings,2026-11-16T09:56:04Z,401920373,28,2640
+2026-11-16,Mon 10:00 PM,Texas Southern,UC San Diego,False,18.85,19.50,18.50,-0.65,0.35,155.97,156.50,156.50,-0.53,71.98,0.96,0.93,2,3,True,DraftKings,2026-11-16T12:26:04Z,401920373,28,2640
 2026-11-16,Mon 10:00 PM,Portland State,Saint Mary's,False,20.49,17.50,17.50,2.99,2.99,149.66,149.50,150.50,0.16,68.40,0.97,0.94,4,3,True,DraftKings,2026-11-16T09:56:04Z,401917532,2608,2502
 2026-11-16,Mon 2:00 PM,Florida A&M,UTEP,False,14.18,19.50,19.50,-5.32,-5.32,143.64,141.50,140.50,2.14,67.61,0.90,0.94,3,3,True,DraftKings,2026-11-16T09:56:04Z,401929419,2638,50
 2026-11-16,Mon 6:00 PM,Iona,UMBC,False,-1.73,-2.50,-2.50,0.77,0.77,141.92,145.50,148.50,-3.58,69.22,0.44,0.42,4,5,True,DraftKings,2026-11-16T10:56:05Z,401921087,2378,314
@@ -20,8 +20,8 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-16,Mon 8:00 PM,Central Arkansas,Oklahoma State,False,18.34,21.50,21.50,-3.16,-3.16,156.92,160.50,160.50,-3.58,72.90,0.95,0.95,3,3,True,Draft Kings,2026-11-16T04:54:28Z,401917917,197,2110
 2026-11-16,Mon 8:00 PM,Western Illinois,Minnesota,False,30.67,35.50,36.50,-4.83,-5.83,135.40,139.50,138.50,-4.10,65.29,1.00,,4,3,True,DraftKings,2026-11-16T09:56:04Z,401916307,135,2710
 2026-11-16,Mon 8:00 PM,Montana,Kansas State,False,14.77,16.50,15.50,-1.73,-0.73,155.54,156.50,155.50,-0.96,73.68,0.91,0.92,3,3,True,DraftKings,2026-11-16T09:56:04Z,401909798,2306,149
-2026-11-16,Mon 8:30 PM,SE Louisiana,Texas A&M,False,30.01,33.50,33.50,-3.49,-3.49,153.44,159.50,158.50,-6.06,72.48,1.00,,4,3,True,DraftKings,2026-11-16T09:56:04Z,401920808,245,2545
-2026-11-16,Mon 9:30 PM,East Texas A&M,Oregon State,False,15.63,17.50,17.50,-1.87,-1.87,147.81,152.50,151.50,-4.69,69.03,0.92,,4,4,True,DraftKings,2026-11-16T09:56:04Z,401929192,204,2837
+2026-11-16,Mon 8:30 PM,SE Louisiana,Texas A&M,False,30.01,33.50,33.50,-3.49,-3.49,153.44,159.50,158.50,-6.06,72.48,1.00,,4,3,True,DraftKings,2026-11-16T12:26:04Z,401920808,245,2545
+2026-11-16,Mon 9:30 PM,East Texas A&M,Oregon State,False,15.63,16.50,17.50,-0.87,-1.87,147.81,152.50,151.50,-4.69,69.03,0.92,,4,4,True,DraftKings,2026-11-16T12:26:04Z,401929192,204,2837
 2026-11-17,Tue 10:00 PM,UC Irvine,Stanford,False,9.34,,,,,145.88,,,,69.68,0.80,,4,1,True,,,401921729,24,300
 2026-11-17,Tue 10:00 PM,Seattle U,California Baptist,False,-3.80,,,,,137.75,,,,66.27,0.37,,4,4,True,,,401917533,2856,2547
 2026-11-17,Tue 11:00 PM,Montana State,Gonzaga,False,19.56,,,,,152.28,,,,68.22,0.96,,3,4,True,,,401925879,2250,147
