@@ -10,10 +10,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-15 | Sun 5:00 PM | Pepperdine | Oregon | +21.1 | +13.5 | +16.5 | +7.6 | yes |
 | 11-16 | Mon 6:00 PM | Alcorn State | Maryland | +27.2 | +34.5 | +34.5 | -7.3 | yes |
-| 11-16 | Mon 6:30 PM | Prairie View A&M | Ohio State | +28.3 | +34.5 | +34.5 | -6.2 | yes |
 | 11-15 | Sun 7:00 PM | Arkansas-Pine Bluff | USC | +40.3 | +46.5 | +41.5 | -6.2 | yes |
 | 11-15 | Sun 4:30 PM | New Haven | Penn State | +18.1 | +23.5 | +25.5 | -5.4 | yes |
 | 11-16 | Mon 2:00 PM | Florida A&M | UTEP | +14.2 | +19.5 | +19.5 | -5.3 | yes |
+| 11-16 | Mon 6:30 PM | Prairie View A&M | Ohio State | +28.3 | +33.5 | +34.5 | -5.2 | yes |
 | 11-16 | Mon 10:00 PM | Long Beach State | UCLA | +29.4 | +34.5 | +33.5 | -5.1 | yes |
 | 11-15 | Sun 3:00 PM | High Point | Saint Louis | +12.5 | +7.5 | +5.5 | +5.0 | yes |
 | 11-16 | Mon 7:00 PM | Grambling | Kentucky | +25.7 | +30.5 | +30.5 | -4.8 | yes |
