@@ -18,9 +18,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-16 | Mon 7:30 PM | Tarleton State | Drake | +6.1 | +9.5 | +10.5 | -3.4 | yes |
 | 11-16 | Mon 7:00 PM | Eastern Kentucky | Kent State | +7.2 | +10.5 | +11.5 | -3.3 | yes |
 | 11-16 | Mon 8:00 PM | Central Arkansas | Oklahoma State | +18.3 | +21.5 | +21.5 | -3.2 | yes |
-| 11-16 | Mon 7:00 PM | Jacksonville | Georgia | +20.3 | +23.5 | +23.5 | -3.2 | yes |
 | 11-16 | Mon 10:00 PM | Portland State | Saint Mary's | +20.5 | +17.5 | +17.5 | +3.0 | yes |
 | 11-16 | Mon 7:00 PM | The Citadel | Clemson | +20.8 | +23.5 | +24.5 | -2.7 | yes |
+| 11-16 | Mon 7:00 PM | Jacksonville | Georgia | +20.3 | +22.5 | +23.5 | -2.2 | yes |
 | 11-16 | Mon 7:00 PM | Richmond | Virginia Tech | +14.6 | +12.5 | +13.5 | +2.1 | yes |
 | 11-16 | Mon 8:00 PM | Montana | Kansas State | +14.7 | +16.5 | +15.5 | -1.8 | yes |
 
