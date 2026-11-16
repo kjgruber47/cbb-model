@@ -1,9 +1,9 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
-2026-11-16,Mon 10:00 PM,Long Beach State,UCLA,False,28.75,30.50,33.50,-1.75,-4.75,144.92,145.50,148.50,-0.58,68.47,1.00,,3,3,True,Draft Kings,2026-11-16T19:57:37Z,401924265,26,299
+2026-11-16,Mon 10:00 PM,Long Beach State,UCLA,False,28.75,29.50,33.50,-0.75,-4.75,144.92,145.50,148.50,-0.58,68.47,1.00,,3,3,True,Draft Kings,2026-11-16T21:59:47Z,401924265,26,299
 2026-11-16,Mon 10:00 PM,Texas Southern,UC San Diego,False,18.85,18.50,18.50,0.35,0.35,155.97,157.50,156.50,-1.53,71.98,0.96,0.94,2,3,True,Draft Kings,2026-11-16T20:29:46Z,401920373,28,2640
 2026-11-16,Mon 10:00 PM,Portland State,Saint Mary's,False,20.49,18.50,17.50,1.99,2.99,149.66,150.50,150.50,-0.84,68.40,0.97,0.94,4,3,True,Draft Kings,2026-11-16T19:57:37Z,401917532,2608,2502
 2026-11-16,Mon 2:00 PM,Florida A&M,UTEP,False,14.18,20.50,19.50,-6.32,-5.32,143.64,142.50,140.50,1.14,67.61,0.90,0.94,3,3,True,Draft Kings,2026-11-16T19:57:37Z,401929419,2638,50
-2026-11-16,Mon 6:00 PM,Iona,UMBC,False,-1.73,-2.50,-2.50,0.77,0.77,141.92,143.50,148.50,-1.58,69.22,0.44,0.44,4,5,True,Draft Kings,2026-11-16T19:57:37Z,401921087,2378,314
+2026-11-16,Mon 6:00 PM,Iona,UMBC,False,-1.73,-2.50,-2.50,0.77,0.77,141.92,144.50,148.50,-2.58,69.22,0.44,0.44,4,5,True,Draft Kings,2026-11-16T21:59:47Z,401921087,2378,314
 2026-11-16,Mon 6:00 PM,Alcorn State,Maryland,False,27.21,34.50,34.50,-7.29,-7.29,153.19,154.50,152.50,-1.31,69.81,0.99,,3,4,True,Draft Kings,2026-11-16T20:29:46Z,401916298,120,2016
 2026-11-16,Mon 6:30 PM,Prairie View A&M,Ohio State,False,28.43,32.50,34.50,-4.07,-6.07,153.21,154.50,153.50,-1.29,70.12,1.00,,4,3,True,Draft Kings,2026-11-16T19:57:37Z,401916317,194,2504
 2026-11-16,Mon 7:00 PM,Grambling,Kentucky,False,25.79,28.50,30.50,-2.71,-4.71,154.30,152.50,158.50,1.80,68.99,0.99,0.98,4,2,True,Draft Kings,2026-11-16T19:57:37Z,401921804,96,2755
@@ -28,7 +28,7 @@ date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_
 2026-11-17,Tue 11:59 PM,West Virginia,Auburn,True,-1.36,1.50,1.50,-2.86,-2.86,140.88,142.50,142.50,-1.62,66.05,0.45,0.52,3,3,True,Draft Kings,2026-11-16T19:57:37Z,401920512,2,277
 2026-11-17,Tue 12:00 PM,Hofstra,Murray State,True,8.57,,,,,148.04,,,,70.22,0.78,,4,3,True,,,401927381,93,2275
 2026-11-17,Tue 2:00 PM,Rutgers,Houston,True,16.08,15.50,15.50,0.58,0.58,145.19,143.50,144.50,1.69,66.79,0.93,0.91,3,3,True,Draft Kings,2026-11-16T19:57:37Z,401920511,248,164
-2026-11-17,Tue 4:30 PM,Notre Dame,Florida,True,14.72,13.50,13.50,1.22,1.22,152.40,151.50,151.50,0.90,69.30,0.91,0.90,4,4,True,Draft Kings,2026-11-16T19:57:37Z,401906773,57,87
+2026-11-17,Tue 4:30 PM,Notre Dame,Florida,True,14.72,14.50,13.50,0.22,1.22,152.40,150.50,151.50,1.90,69.30,0.91,0.91,4,4,True,Draft Kings,2026-11-16T21:59:47Z,401906773,57,87
 2026-11-17,Tue 6:00 PM,Saint Peter's,UMass Lowell,False,6.08,,,,,130.09,,,,66.16,0.71,,3,4,True,,,401923325,2349,2612
 2026-11-17,Tue 6:00 PM,Liberty,Southern Illinois,True,0.89,,,,,146.69,,,,66.81,0.53,,2,2,True,,,401920953,79,2335
 2026-11-17,Tue 6:00 PM,Marist,Army,False,0.31,,,,,136.84,,,,65.56,0.51,,3,4,True,,,401912230,349,2368
