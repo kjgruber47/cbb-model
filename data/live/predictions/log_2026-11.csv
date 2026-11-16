@@ -6931,3 +6931,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-16T00:23:49Z,401926143,2026-11-17,SIU Edwardsville,North Dakota,False,1.89,145.90,,,,,,
 2026-11-16T00:53:50Z,401928841,2026-11-16,Eastern Kentucky,Kent State,False,7.17,158.54,10.50,159.50,11.50,157.50,DraftKings,2026-11-16T00:52:50Z
 2026-11-16T00:53:50Z,401916307,2026-11-16,Western Illinois,Minnesota,False,30.79,135.28,35.50,138.50,36.50,138.50,DraftKings,2026-11-16T00:52:50Z
+2026-11-16T01:23:52Z,401929200,2026-11-15,Texas State,UTSA,False,-5.74,146.85,-3.50,145.50,-4.50,149.50,DraftKings,2026-11-16T01:22:49Z
+2026-11-16T01:23:52Z,401916307,2026-11-16,Western Illinois,Minnesota,False,30.79,135.28,35.50,139.50,36.50,138.50,DraftKings,2026-11-16T01:22:49Z
