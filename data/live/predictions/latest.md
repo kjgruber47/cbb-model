@@ -12,8 +12,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-16 | Mon 2:00 PM | Florida A&M | UTEP | +14.2 | +19.5 | +19.5 | -5.3 | yes |
 | 11-16 | Mon 6:30 PM | Prairie View A&M | Ohio State | +28.3 | +33.5 | +34.5 | -5.2 | yes |
 | 11-16 | Mon 10:00 PM | Long Beach State | UCLA | +29.4 | +34.5 | +33.5 | -5.1 | yes |
-| 11-16 | Mon 7:00 PM | Grambling | Kentucky | +25.7 | +30.5 | +30.5 | -4.8 | yes |
 | 11-16 | Mon 8:00 PM | Western Illinois | Minnesota | +30.8 | +35.5 | +36.5 | -4.7 | yes |
+| 11-16 | Mon 7:00 PM | Grambling | Kentucky | +25.7 | +29.5 | +30.5 | -3.8 | yes |
 | 11-16 | Mon 8:30 PM | SE Louisiana | Texas A&M | +30.0 | +33.5 | +33.5 | -3.5 | yes |
 | 11-16 | Mon 7:30 PM | Tarleton State | Drake | +6.1 | +9.5 | +10.5 | -3.4 | yes |
 | 11-16 | Mon 7:00 PM | Eastern Kentucky | Kent State | +7.2 | +10.5 | +11.5 | -3.3 | yes |
