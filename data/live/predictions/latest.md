@@ -15,14 +15,14 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-16 | Mon 6:30 PM | Prairie View A&M | Ohio State | +28.4 | +32.5 | +34.5 | -4.1 | yes |
 | 11-16 | Mon 7:00 PM | The Citadel | Clemson | +20.8 | +24.5 | +24.5 | -3.7 | yes |
 | 11-16 | Mon 8:30 PM | SE Louisiana | Texas A&M | +30.0 | +33.5 | +33.5 | -3.5 | yes |
-| 11-16 | Mon 7:30 PM | Tarleton State | Drake | +6.1 | +9.5 | +10.5 | -3.4 | yes |
 | 11-17 | Tue 7:00 PM | Villanova | Pittsburgh | -1.6 | +1.5 | +1.5 | -3.1 | yes |
 | 11-17 | Tue 9:00 PM | Michigan State | Tennessee | -0.4 | -3.5 | -3.5 | +3.1 | yes |
 | 11-17 | Tue 11:59 PM | West Virginia | Auburn (N) | -1.4 | +1.5 | +1.5 | -2.9 | yes |
 | 11-16 | Mon 8:00 PM | Western Illinois | Minnesota | +30.7 | +33.5 | +36.5 | -2.8 | yes |
 | 11-16 | Mon 7:00 PM | Grambling | Kentucky | +25.8 | +28.5 | +30.5 | -2.7 | yes |
+| 11-16 | Mon 7:30 PM | Tarleton State | Drake | +6.1 | +8.5 | +10.5 | -2.4 | yes |
 | 11-16 | Mon 7:00 PM | Eastern Kentucky | Kent State | +7.2 | +9.5 | +11.5 | -2.3 | yes |
-| 11-16 | Mon 7:00 PM | Jacksonville | Georgia | +20.3 | +22.5 | +23.5 | -2.2 | yes |
+| 11-16 | Mon 7:00 PM | Western Kentucky | Tulsa | +7.6 | +5.5 | +5.5 | +2.1 | yes |
 
 ## Top 25 by rating
 
