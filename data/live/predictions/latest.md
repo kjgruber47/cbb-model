@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-16 | Mon 7:00 PM | Grambling | Kentucky | +25.7 | +30.5 | +30.5 | -4.8 | yes |
 | 11-16 | Mon 8:00 PM | Western Illinois | Minnesota | +30.8 | +35.5 | +36.5 | -4.7 | yes |
 | 11-15 | Sun 2:00 PM | UAlbany | Holy Cross | +2.2 | -2.5 | -3.5 | +4.7 | yes |
-| 11-16 | Mon 8:30 PM | SE Louisiana | Texas A&M | +30.0 | +34.5 | +33.5 | -4.5 | yes |
 | 11-16 | Mon 7:30 PM | Tarleton State | Drake | +6.1 | +10.5 | +10.5 | -4.4 | yes |
 | 11-15 | Sun 4:00 PM | Chicago State | Loyola Marymount | +13.1 | +17.5 | +16.5 | -4.4 | yes |
 | 11-15 | Sun 3:00 PM | Cleveland State | Alabama A&M | +6.1 | +2.5 | +3.5 | +3.6 | yes |
+| 11-16 | Mon 8:30 PM | SE Louisiana | Texas A&M | +30.0 | +33.5 | +33.5 | -3.5 | yes |
 
 ## Top 25 by rating
 
