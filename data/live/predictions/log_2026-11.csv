@@ -6955,3 +6955,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-16T04:23:51Z,401927364,2026-11-16,Tarleton State,Drake,False,6.09,148.77,9.50,146.50,10.50,145.50,DraftKings,2026-11-16T04:22:50Z
 2026-11-16T04:53:50Z,401917532,2026-11-16,Portland State,Saint Mary's,False,20.52,149.67,17.50,149.50,17.50,150.50,DraftKings,2026-11-16T04:52:50Z
 2026-11-16T04:53:50Z,401917964,2026-11-16,Abilene Christian,Missouri State,False,6.51,145.15,7.50,144.50,7.50,145.50,DraftKings,2026-11-16T04:52:50Z
+2026-11-16T04:55:19Z,401918075,2026-11-16,The Citadel,Clemson,False,20.80,144.01,23.50,144.50,24.50,145.50,Draft Kings,2026-11-16T04:54:28Z
+2026-11-16T04:55:19Z,401917964,2026-11-16,Abilene Christian,Missouri State,False,6.51,145.15,6.50,144.50,7.50,145.50,Draft Kings,2026-11-16T04:54:28Z
