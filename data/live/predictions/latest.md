@@ -9,8 +9,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-16 | Mon 6:00 PM | Alcorn State | Maryland | +27.2 | +36.5 | +34.5 | -9.3 | yes |
-| 11-16 | Mon 2:00 PM | Florida A&M | UTEP | +14.2 | +20.5 | +19.5 | -6.3 | yes |
 | 11-16 | Mon 10:00 PM | Long Beach State | UCLA | +28.7 | +34.5 | +33.5 | -5.8 | yes |
+| 11-16 | Mon 2:00 PM | Florida A&M | UTEP | +14.2 | +19.5 | +19.5 | -5.3 | yes |
 | 11-16 | Mon 6:30 PM | Prairie View A&M | Ohio State | +28.4 | +33.5 | +34.5 | -5.1 | yes |
 | 11-16 | Mon 7:00 PM | Grambling | Kentucky | +25.8 | +30.5 | +30.5 | -4.7 | yes |
 | 11-16 | Mon 8:30 PM | SE Louisiana | Texas A&M | +30.0 | +34.5 | +33.5 | -4.5 | yes |
