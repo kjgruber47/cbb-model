@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-17 | Tue 7:30 PM | Arkansas | Indiana (N) | +5.1 | -2.5 | -2.5 | +7.6 | yes |
 | 11-17 | Tue 8:00 PM | Maryland Eastern Shore | DePaul | +25.8 | +32.5 | +34.5 | -6.7 | yes |
+| 11-17 | Tue 7:30 PM | Arkansas | Indiana (N) | +5.1 | -1.5 | -2.5 | +6.6 | yes |
 | 11-17 | Tue 10:00 PM | Seattle U | California Baptist | -3.7 | -9.5 | -7.5 | +5.8 | yes |
+| 11-17 | Tue 7:00 PM | Green Bay | West Florida | -1.0 | -6.5 | -5.5 | +5.5 | yes |
 | 11-17 | Tue 8:00 PM | Lindenwood | Northern Iowa | +17.4 | +12.5 | +12.5 | +4.9 | yes |
-| 11-17 | Tue 7:00 PM | Green Bay | West Florida | -1.0 | -5.5 | -5.5 | +4.5 | yes |
 | 11-17 | Tue 7:00 PM | Tennessee State | South Florida | +15.6 | +11.5 | +10.5 | +4.1 | yes |
 | 11-17 | Tue 7:00 PM | Illinois | Duke | +3.4 | +7.5 | +5.5 | -4.1 | yes |
+| 11-17 | Tue 6:30 PM | Lipscomb | Purdue | +17.5 | +21.5 | +19.5 | -4.0 | yes |
 | 11-17 | Tue 7:00 PM | Ball State | Florida State | +22.6 | +26.5 | +24.5 | -3.9 | yes |
 | 11-17 | Tue 7:00 PM | Charlotte | Davidson | +7.4 | +3.5 | +3.5 | +3.9 | yes |
 | 11-17 | Tue 11:00 PM | Montana State | Gonzaga | +19.7 | +23.5 | +24.5 | -3.8 | yes |
 | 11-17 | Tue 9:00 PM | Alabama State | UC Davis | +14.3 | +10.5 | +10.5 | +3.8 | yes |
 | 11-17 | Tue 8:00 PM | Eastern Illinois | Vanderbilt | +40.0 | +43.5 | +44.5 | -3.5 | yes |
-| 11-17 | Tue 6:30 PM | Lipscomb | Purdue | +17.5 | +20.5 | +19.5 | -3.0 | yes |
-| 11-17 | Tue 8:00 PM | Oral Roberts | SMU | +23.6 | +26.5 | +26.5 | -2.9 | yes |
-| 11-17 | Tue 11:59 PM | West Virginia | Auburn (N) | -1.4 | +1.5 | +1.5 | -2.9 | yes |
+| 11-17 | Tue 7:00 PM | Central Michigan | Dayton | +9.0 | +12.5 | +9.5 | -3.5 | yes |
+| 11-17 | Tue 7:30 PM | Bryant | Massachusetts | +12.6 | +9.5 | +11.5 | +3.1 | yes |
 
 ## Top 25 by rating
 
