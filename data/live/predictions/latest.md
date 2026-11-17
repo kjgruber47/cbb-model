@@ -8,8 +8,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-17 | Tue 8:00 PM | Maryland Eastern Shore | DePaul | +26.1 | +34.5 | +34.5 | -8.4 | yes |
 | 11-17 | Tue 7:30 PM | Arkansas | Indiana (N) | +5.0 | -2.5 | -2.5 | +7.5 | yes |
+| 11-17 | Tue 8:00 PM | Maryland Eastern Shore | DePaul | +26.1 | +33.5 | +34.5 | -7.4 | yes |
 | 11-16 | Mon 6:00 PM | Alcorn State | Maryland | +27.2 | +34.5 | +34.5 | -7.3 | yes |
 | 11-16 | Mon 2:00 PM | Florida A&M | UTEP | +14.2 | +20.5 | +19.5 | -6.3 | yes |
 | 11-17 | Tue 8:00 PM | Lindenwood | Northern Iowa | +17.4 | +12.5 | +12.5 | +4.9 | yes |
