@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-17 | Tue 7:30 PM | Bryant | Massachusetts | +12.6 | +9.5 | +11.5 | +3.1 | yes |
 | 11-17 | Tue 12:00 PM | Hofstra | Murray State (N) | +8.5 | +11.5 | +10.5 | -3.0 | yes |
 | 11-17 | Tue 11:59 PM | West Virginia | Auburn (N) | -1.4 | +1.5 | +1.5 | -2.9 | yes |
-| 11-17 | Tue 8:00 PM | Lamar | Omaha | +0.4 | -2.5 | -1.5 | +2.9 | yes |
 | 11-17 | Tue 8:30 PM | Eastern Washington | Utah | +10.6 | +13.5 | +12.5 | -2.9 | yes |
+| 11-17 | Tue 11:00 PM | Montana State | Gonzaga | +19.7 | +22.5 | +24.5 | -2.8 | yes |
 
 ## Top 25 by rating
 
