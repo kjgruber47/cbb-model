@@ -10,8 +10,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-17 | Tue 8:00 PM | Maryland Eastern Shore | DePaul | +25.8 | +33.5 | +34.5 | -7.7 | yes |
 | 11-17 | Tue 7:30 PM | Arkansas | Indiana (N) | +5.1 | -2.5 | -2.5 | +7.6 | yes |
-| 11-17 | Tue 10:00 PM | Seattle U | California Baptist | -3.7 | -9.5 | -7.5 | +5.8 | yes |
 | 11-17 | Tue 8:00 PM | Lindenwood | Northern Iowa | +17.4 | +12.5 | +12.5 | +4.9 | yes |
+| 11-17 | Tue 10:00 PM | Seattle U | California Baptist | -3.7 | -8.5 | -7.5 | +4.8 | yes |
 | 11-17 | Tue 7:00 PM | Green Bay | West Florida | -1.0 | -5.5 | -5.5 | +4.5 | yes |
 | 11-17 | Tue 7:00 PM | Tennessee State | South Florida | +15.6 | +11.5 | +10.5 | +4.1 | yes |
 | 11-17 | Tue 7:00 PM | Illinois | Duke | +3.4 | +7.5 | +5.5 | -4.1 | yes |
@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-17 | Tue 9:00 PM | Alabama State | UC Davis | +14.3 | +10.5 | +10.5 | +3.8 | yes |
 | 11-17 | Tue 8:00 PM | Eastern Illinois | Vanderbilt | +40.0 | +43.5 | +44.5 | -3.5 | yes |
 | 11-17 | Tue 6:30 PM | Lipscomb | Purdue | +17.5 | +20.5 | +19.5 | -3.0 | yes |
-| 11-17 | Tue 12:00 PM | Hofstra | Murray State (N) | +8.5 | +11.5 | +10.5 | -3.0 | yes |
 | 11-17 | Tue 8:00 PM | Oral Roberts | SMU | +23.6 | +26.5 | +26.5 | -2.9 | yes |
+| 11-17 | Tue 11:59 PM | West Virginia | Auburn (N) | -1.4 | +1.5 | +1.5 | -2.9 | yes |
 
 ## Top 25 by rating
 
