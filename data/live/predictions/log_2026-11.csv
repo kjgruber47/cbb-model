@@ -7486,3 +7486,6 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-17T05:02:04Z,401928354,2026-11-19,UC Santa Barbara,Pepperdine,False,-8.45,148.28,,,,,,
 2026-11-17T05:02:04Z,401925941,2026-11-19,Utah Tech,Washington,False,18.11,154.06,,,,,,
 2026-11-17T05:02:04Z,401911534,2026-11-19,UTEP,New Mexico State,False,5.56,138.87,,,,,,
+2026-11-17T05:32:04Z,401922251,2026-11-17,Green Bay,West Florida,False,-0.89,143.20,-5.50,146.50,-5.50,146.50,DraftKings,2026-11-17T05:31:09Z
+2026-11-17T05:32:04Z,401920194,2026-11-17,Wagner,Saint Joseph's,False,13.88,137.75,16.50,139.50,16.50,139.50,DraftKings,2026-11-17T05:31:09Z
+2026-11-17T05:32:04Z,401911020,2026-11-17,Bryant,Massachusetts,False,12.57,134.50,11.50,139.50,11.50,137.50,DraftKings,2026-11-17T05:31:09Z

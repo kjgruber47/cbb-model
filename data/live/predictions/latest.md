@@ -12,6 +12,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-17 | Tue 8:00 PM | Maryland Eastern Shore | DePaul | +26.1 | +33.5 | +34.5 | -7.4 | yes |
 | 11-17 | Tue 10:00 PM | Seattle U | California Baptist | -3.8 | -9.5 | -7.5 | +5.7 | yes |
 | 11-17 | Tue 8:00 PM | Lindenwood | Northern Iowa | +17.4 | +12.5 | +12.5 | +4.9 | yes |
+| 11-17 | Tue 7:00 PM | Green Bay | West Florida | -0.9 | -5.5 | -5.5 | +4.6 | yes |
 | 11-17 | Tue 7:00 PM | Tennessee State | South Florida | +15.6 | +11.5 | +10.5 | +4.1 | yes |
 | 11-17 | Tue 7:00 PM | Illinois | Duke | +3.4 | +7.5 | +5.5 | -4.1 | yes |
 | 11-17 | Tue 11:00 PM | Montana State | Gonzaga | +19.6 | +23.5 | +24.5 | -3.9 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-17 | Tue 8:00 PM | Oral Roberts | SMU | +23.3 | +26.5 | +26.5 | -3.2 | yes |
 | 11-17 | Tue 12:00 PM | Hofstra | Murray State (N) | +8.6 | +11.5 | +10.5 | -2.9 | yes |
 | 11-17 | Tue 8:00 PM | UT Arlington | Southern Miss | +0.7 | +3.5 | +3.5 | -2.8 | yes |
-| 11-17 | Tue 7:00 PM | Akron | Bucknell | -16.0 | -13.5 | -14.5 | -2.5 | yes |
 
 ## Top 25 by rating
 
