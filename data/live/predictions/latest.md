@@ -10,8 +10,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-17 | Tue 8:00 PM | Maryland Eastern Shore | DePaul | +25.8 | +33.5 | +34.5 | -7.7 | yes |
 | 11-17 | Tue 7:30 PM | Arkansas | Indiana (N) | +5.1 | -2.5 | -2.5 | +7.6 | yes |
+| 11-17 | Tue 10:00 PM | Seattle U | California Baptist | -3.7 | -9.5 | -7.5 | +5.8 | yes |
 | 11-17 | Tue 8:00 PM | Lindenwood | Northern Iowa | +17.4 | +12.5 | +12.5 | +4.9 | yes |
-| 11-17 | Tue 10:00 PM | Seattle U | California Baptist | -3.7 | -8.5 | -7.5 | +4.8 | yes |
 | 11-17 | Tue 7:00 PM | Green Bay | West Florida | -1.0 | -5.5 | -5.5 | +4.5 | yes |
 | 11-17 | Tue 7:00 PM | Tennessee State | South Florida | +15.6 | +11.5 | +10.5 | +4.1 | yes |
 | 11-17 | Tue 7:00 PM | Illinois | Duke | +3.4 | +7.5 | +5.5 | -4.1 | yes |
