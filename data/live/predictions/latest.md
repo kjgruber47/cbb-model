@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-17 | Tue 7:00 PM | Ball State | Florida State | +22.8 | +26.5 | +24.5 | -3.7 | yes |
 | 11-17 | Tue 8:00 PM | Eastern Illinois | Vanderbilt | +40.0 | +43.5 | +44.5 | -3.5 | yes |
 | 11-17 | Tue 8:00 PM | Oral Roberts | SMU | +23.3 | +26.5 | +26.5 | -3.2 | yes |
+| 11-17 | Tue 6:30 PM | Lipscomb | Purdue | +17.5 | +20.5 | +19.5 | -3.0 | yes |
 | 11-17 | Tue 12:00 PM | Hofstra | Murray State (N) | +8.6 | +11.5 | +10.5 | -2.9 | yes |
-| 11-17 | Tue 8:00 PM | UT Arlington | Southern Miss | +0.7 | +3.5 | +3.5 | -2.8 | yes |
 
 ## Top 25 by rating
 
