@@ -36396,3 +36396,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-18T22:14:32Z,401924721,2026-11-18,2026-11-19T01:00Z,STATUS_SCHEDULED,False,183,Syracuse Orange,172,Cornell Big Red,0,0,core,100,DraftKings,current,-18.5,155.5,-4000,1600,-112.0,-108.0,-115.0,-105.0,SYR -18.5
 2026-11-18T22:14:32Z,401920516,2026-11-18,2026-11-19T03:00Z,STATUS_SCHEDULED,True,2,Auburn Tigers,2439,UNLV Rebels,0,0,scoreboard,100,DraftKings,close,-9.5,157.5,-440.0,340.0,-108.0,-112.0,-110.0,-110.0,AUB -9.5
 2026-11-18T22:14:32Z,401920158,2026-11-18,2026-11-19T03:30Z,STATUS_SCHEDULED,False,26,UCLA Bruins,2239,Cal State Fullerton Titans,0,0,scoreboard,100,DraftKings,close,-31.5,166.5,,,-105.0,-115.0,-110.0,-110.0,UCLA -31.5
+2026-11-18T22:16:06Z,401920694,2026-11-18,2026-11-19T00:00Z,STATUS_SCHEDULED,False,43,Yale Bulldogs,261,Vermont Catamounts,0,0,scoreboard,100,DraftKings,current,-7.5,137.5,,,,,,,YALE -7.5
+2026-11-18T22:16:06Z,401920694,2026-11-18,2026-11-19T00:00Z,STATUS_SCHEDULED,False,43,Yale Bulldogs,261,Vermont Catamounts,0,0,scoreboard,100,DraftKings,close,-7.5,137.5,-355.0,280.0,-110.0,-110.0,-115.0,-105.0,YALE -7.5
