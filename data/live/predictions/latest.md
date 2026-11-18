@@ -10,7 +10,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-18 | Wed 4:30 PM | Houston | TBD (N) | -26.3 | +1.5 | +1.5 | -27.8 | yes |
 | 11-18 | Wed 2:00 PM | Rutgers | TBD (N) | -11.3 | +2.5 | +2.5 | -13.8 | yes |
-| 11-18 | Wed 10:00 PM | TBD | TBD (N) | +0.0 | +8.5 | +8.5 | -8.5 | yes |
+| 11-18 | Wed 10:00 PM | TBD | TBD (N) | +0.0 | +9.5 | +8.5 | -9.5 | yes |
 | 11-18 | Wed 7:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -8.5 | +8.5 | yes |
 | 11-18 | Wed 7:00 PM | Wofford | Charleston Southern | +4.8 | -1.5 | -2.5 | +6.3 | yes |
 | 11-18 | Wed 6:30 PM | Tennessee Tech | UNC Asheville | +2.3 | -3.5 | -2.5 | +5.8 | yes |
