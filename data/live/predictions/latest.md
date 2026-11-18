@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-18 | Wed 4:30 PM | Houston | TBD (N) | -26.7 | +1.5 | +1.5 | -28.2 | yes |
+| 11-18 | Wed 2:00 PM | Rutgers | TBD (N) | -10.6 | +2.5 | +2.5 | -13.1 | yes |
+| 11-18 | Wed 8:00 PM | Campbell | Oklahoma | +18.3 | +24.5 | +24.5 | -6.2 | yes |
 | 11-17 | Tue 7:00 PM | Illinois | Duke | +3.4 | +9.5 | +5.5 | -6.1 | yes |
 | 11-17 | Tue 7:00 PM | Tennessee State | South Florida | +15.6 | +10.5 | +10.5 | +5.1 | yes |
 | 11-17 | Tue 6:30 PM | Lipscomb | Purdue | +17.5 | +22.5 | +19.5 | -5.0 | yes |
 | 11-17 | Tue 10:00 PM | Seattle U | California Baptist | -3.7 | -8.5 | -7.5 | +4.8 | yes |
-| 11-17 | Tue 8:00 PM | Maryland Eastern Shore | DePaul | +25.8 | +30.5 | +34.5 | -4.7 | yes |
+| 11-18 | Wed 8:30 PM | South Dakota | Nebraska | +39.1 | +34.5 | +34.5 | +4.6 | yes |
 | 11-17 | Tue 7:00 PM | Green Bay | West Florida | -1.0 | -5.5 | -5.5 | +4.5 | yes |
+| 11-18 | Wed 6:30 PM | IU Indianapolis | Penn State | +23.0 | +18.5 | +18.5 | +4.5 | yes |
 | 11-17 | Tue 7:00 PM | Central Michigan | Dayton | +9.0 | +13.5 | +9.5 | -4.5 | yes |
+| 11-18 | Wed 8:00 PM | Wichita State | Loyola Chicago | -5.6 | -1.5 | -1.5 | -4.1 | yes |
+| 11-18 | Wed 8:00 PM | UL Monroe | LSU | +32.6 | +36.5 | +36.5 | -3.9 | yes |
 | 11-17 | Tue 7:00 PM | Charlotte | Davidson | +7.4 | +3.5 | +3.5 | +3.9 | yes |
 | 11-17 | Tue 8:00 PM | Lindenwood | Northern Iowa | +17.4 | +13.5 | +12.5 | +3.9 | yes |
-| 11-17 | Tue 7:00 PM | Mississippi State | UCF | -2.2 | +1.5 | +1.5 | -3.7 | yes |
-| 11-17 | Tue 7:30 PM | Arkansas | Indiana (N) | +5.1 | +1.5 | -2.5 | +3.6 | yes |
-| 11-17 | Tue 12:00 PM | Hofstra | Murray State (N) | +8.5 | +11.5 | +10.5 | -3.0 | yes |
-| 11-18 | Wed 9:00 PM | UConn | Arizona | -0.4 | +2.5 | +2.5 | -2.9 | yes |
-| 11-17 | Tue 7:00 PM | Ball State | Florida State | +22.6 | +25.5 | +24.5 | -2.9 | yes |
-| 11-17 | Tue 11:00 PM | Montana State | Gonzaga | +19.7 | +22.5 | +24.5 | -2.8 | yes |
 
 ## Top 25 by rating
 
