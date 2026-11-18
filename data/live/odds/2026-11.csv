@@ -36108,3 +36108,6 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-18T17:13:00Z,401920516,2026-11-18,2026-11-19T03:00Z,STATUS_SCHEDULED,True,2,Auburn Tigers,2439,UNLV Rebels,0,0,scoreboard,100,DraftKings,current,-8.5,159.5,,,,,,,AUB -8.5
 2026-11-18T17:13:00Z,401920516,2026-11-18,2026-11-19T03:00Z,STATUS_SCHEDULED,True,2,Auburn Tigers,2439,UNLV Rebels,0,0,scoreboard,100,DraftKings,close,-8.5,159.5,-395.0,310.0,-105.0,-115.0,-110.0,-110.0,AUB -8.5
 2026-11-18T17:13:00Z,401920516,2026-11-18,2026-11-19T03:00Z,STATUS_SCHEDULED,True,2,Auburn Tigers,2439,UNLV Rebels,0,0,core,100,DraftKings,current,-8.5,159.5,-395,310,-105.0,-115.0,-105.0,-115.0,AUB -8.5
+2026-11-18T17:14:32Z,401909753,2026-11-18,2026-11-18T17:00Z,STATUS_IN_PROGRESS,False,239,Baylor Bears,2296,Jackson State Tigers,16,4,core,100,DraftKings,close,-33.5,156.5,,,-115.0,-105.0,,,BAY -33.5
+2026-11-18T17:14:32Z,401909753,2026-11-18,2026-11-18T17:00Z,STATUS_IN_PROGRESS,False,239,Baylor Bears,2296,Jackson State Tigers,16,4,core,200,DraftKings - Live Odds,current,-42.5,162.5,,,-115.0,-115.0,-120.0,-110.0,BAY -42.5
+2026-11-18T17:14:32Z,401909753,2026-11-18,2026-11-18T17:00Z,STATUS_IN_PROGRESS,False,239,Baylor Bears,2296,Jackson State Tigers,16,4,core,200,DraftKings - Live Odds,open,-33.5,155.5,,,-120.0,-110.0,,,BAY -42.5
