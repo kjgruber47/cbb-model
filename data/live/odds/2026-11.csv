@@ -35369,3 +35369,4 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-18T12:11:21Z,401925949,2026-11-18,2026-11-19T02:00Z,STATUS_SCHEDULED,False,328,Utah State Aggies,2692,Weber State Wildcats,0,0,scoreboard,100,DraftKings,close,-32.5,169.5,,,-105.0,-115.0,-115.0,-105.0,USU -32.5
 2026-11-18T12:11:21Z,401925949,2026-11-18,2026-11-19T02:00Z,STATUS_SCHEDULED,False,328,Utah State Aggies,2692,Weber State Wildcats,0,0,core,100,DraftKings,current,-32.5,169.5,,,-105.0,-115.0,-115.0,-105.0,USU -32.5
 2026-11-18T12:11:21Z,401920158,2026-11-18,2026-11-19T03:30Z,STATUS_SCHEDULED,False,26,UCLA Bruins,2239,Cal State Fullerton Titans,0,0,core,100,DraftKings,current,-34.5,165.5,,,-115.0,-105.0,-115.0,-105.0,UCLA -34.5
+2026-11-18T12:13:00Z,401920947,2026-11-18,2026-11-18T23:30Z,STATUS_SCHEDULED,False,2199,Eastern Michigan Eagles,2174,Detroit Mercy Titans,0,0,core,100,DraftKings,current,-11.5,141.5,-800,550,-118.0,-102.0,-105.0,-115.0,EMU -11.5
