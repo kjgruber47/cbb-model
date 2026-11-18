@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-18 | Wed 8:00 PM | UL Monroe | LSU | +32.7 | +37.5 | +36.5 | -4.8 | yes |
 | 11-18 | Wed 8:00 PM | Wichita State | Loyola Chicago | -5.5 | -1.5 | -1.5 | -4.0 | yes |
 | 11-18 | Wed 9:00 PM | UConn | Arizona | -0.5 | +3.5 | +2.5 | -4.0 | yes |
+| 11-18 | Wed 7:00 PM | Coppin State | La Salle | +11.7 | +15.5 | +14.5 | -3.8 | yes |
 | 11-18 | Wed 8:00 PM | Arkansas-Pine Bluff | Arkansas State | +24.8 | +28.5 | +25.5 | -3.7 | yes |
 | 11-18 | Wed 12:00 PM | Jackson State | Baylor | +29.8 | +33.5 | +34.5 | -3.7 | yes |
-| 11-18 | Wed 8:00 PM | Cornell | Syracuse | +22.1 | +18.5 | +22.5 | +3.6 | yes |
 
 ## Top 25 by rating
 
