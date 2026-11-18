@@ -8,12 +8,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-18 | Wed 4:30 PM | Houston | TBD (N) | -26.7 | +1.5 | +1.5 | -28.2 | yes |
-| 11-18 | Wed 2:00 PM | Rutgers | TBD (N) | -10.6 | +2.5 | +2.5 | -13.1 | yes |
+| 11-18 | Wed 4:30 PM | Houston | TBD (N) | -26.7 | +2.5 | +1.5 | -29.2 | yes |
+| 11-18 | Wed 2:00 PM | Rutgers | TBD (N) | -10.6 | +3.5 | +2.5 | -14.1 | yes |
 | 11-18 | Wed 7:00 PM | Wofford | Charleston Southern | +4.9 | -3.5 | -2.5 | +8.4 | yes |
+| 11-18 | Wed 9:00 PM | Alcorn State | Missouri | +38.5 | +45.5 | +44.5 | -7.0 | yes |
 | 11-18 | Wed 7:00 PM | North Carolina Central | George Mason | +20.1 | +26.5 | +26.5 | -6.4 | yes |
 | 11-17 | Tue 7:00 PM | Illinois | Duke | +3.4 | +9.5 | +5.5 | -6.1 | yes |
-| 11-18 | Wed 9:00 PM | Alcorn State | Missouri | +38.5 | +44.5 | +44.5 | -6.0 | yes |
+| 11-18 | Wed 7:00 PM | Howard | Duquesne (N) | +1.7 | +7.5 | +5.5 | -5.8 | yes |
 | 11-18 | Wed 8:30 PM | South Dakota | Nebraska | +39.1 | +33.5 | +34.5 | +5.6 | yes |
 | 11-18 | Wed 6:30 PM | IU Indianapolis | Penn State | +23.0 | +17.5 | +18.5 | +5.5 | yes |
 | 11-18 | Wed 8:00 PM | Campbell | Oklahoma | +18.3 | +23.5 | +24.5 | -5.2 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-18 | Wed 6:30 PM | Tennessee Tech | UNC Asheville | +2.4 | -2.5 | -2.5 | +4.9 | yes |
 | 11-17 | Tue 10:00 PM | Seattle U | California Baptist | -3.7 | -8.5 | -7.5 | +4.8 | yes |
 | 11-18 | Wed 12:00 PM | Jackson State | Baylor | +29.7 | +34.5 | +34.5 | -4.8 | yes |
-| 11-17 | Tue 7:00 PM | Green Bay | West Florida | -1.0 | -5.5 | -5.5 | +4.5 | yes |
 
 ## Top 25 by rating
 
