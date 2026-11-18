@@ -14,11 +14,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-18 | Wed 7:00 PM | North Carolina Central | George Mason | +20.1 | +26.5 | +26.5 | -6.4 | yes |
 | 11-18 | Wed 9:00 PM | Alcorn State | Missouri | +38.5 | +44.5 | +44.5 | -6.0 | yes |
 | 11-18 | Wed 12:00 PM | Jackson State | Baylor | +29.7 | +35.5 | +34.5 | -5.8 | yes |
+| 11-18 | Wed 7:00 PM | Howard | Duquesne (N) | +1.7 | +7.5 | +5.5 | -5.8 | yes |
 | 11-18 | Wed 8:30 PM | South Dakota | Nebraska | +39.1 | +33.5 | +34.5 | +5.6 | yes |
 | 11-18 | Wed 6:30 PM | IU Indianapolis | Penn State | +23.0 | +17.5 | +18.5 | +5.5 | yes |
 | 11-18 | Wed 8:00 PM | Campbell | Oklahoma | +18.3 | +23.5 | +24.5 | -5.2 | yes |
 | 11-18 | Wed 6:30 PM | Tennessee Tech | UNC Asheville | +2.4 | -2.5 | -2.5 | +4.9 | yes |
-| 11-18 | Wed 7:00 PM | Howard | Duquesne (N) | +1.7 | +6.5 | +5.5 | -4.8 | yes |
 | 11-18 | Wed 10:00 PM | Texas Southern | San Diego State | +23.1 | +27.5 | +26.5 | -4.4 | yes |
 | 11-18 | Wed 8:00 PM | Wichita State | Loyola Chicago | -5.6 | -1.5 | -1.5 | -4.1 | yes |
 | 11-18 | Wed 9:00 PM | UConn | Arizona | -0.4 | +3.5 | +2.5 | -3.9 | yes |
