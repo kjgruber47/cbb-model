@@ -8253,3 +8253,6 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-18T11:42:18Z,401928795,2026-11-20,Sam Houston,Boise State,False,12.59,165.12,,,,,,
 2026-11-18T11:42:18Z,401920137,2026-11-20,Cal State Bakersfield,Idaho,False,6.25,153.21,,,,,,
 2026-11-18T11:42:18Z,401912710,2026-11-20,Marshall,North Carolina,False,18.59,151.67,,,,,,
+2026-11-18T12:12:20Z,401920075,2026-11-18,North Carolina Central,George Mason,False,20.04,133.28,26.50,133.50,26.50,135.50,DraftKings,2026-11-18T12:11:21Z
+2026-11-18T12:12:20Z,401928398,2026-11-18,Arkansas-Pine Bluff,Arkansas State,False,24.83,156.37,25.50,160.50,25.50,159.50,DraftKings,2026-11-18T12:11:21Z
+2026-11-18T12:12:20Z,401929176,2026-11-18,North Dakota State,Colorado State,False,14.31,147.14,13.50,147.50,14.50,147.50,DraftKings,2026-11-18T12:11:21Z
