@@ -16,12 +16,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-18 | Wed 8:30 PM | South Dakota | Nebraska | +39.1 | +32.5 | +34.5 | +6.6 | yes |
 | 11-18 | Wed 6:30 PM | Tennessee Tech | UNC Asheville | +2.3 | -3.5 | -2.5 | +5.8 | yes |
 | 11-18 | Wed 6:30 PM | IU Indianapolis | Penn State | +23.2 | +17.5 | +18.5 | +5.7 | yes |
-| 11-18 | Wed 9:00 PM | Alcorn State | Missouri | +38.7 | +43.5 | +44.5 | -4.8 | yes |
 | 11-18 | Wed 8:00 PM | UL Monroe | LSU | +32.7 | +37.5 | +36.5 | -4.8 | yes |
 | 11-18 | Wed 12:00 PM | Jackson State | Baylor | +29.8 | +34.5 | +34.5 | -4.7 | yes |
 | 11-18 | Wed 8:00 PM | Campbell | Oklahoma | +18.5 | +22.5 | +24.5 | -4.0 | yes |
 | 11-18 | Wed 8:00 PM | Wichita State | Loyola Chicago | -5.5 | -1.5 | -1.5 | -4.0 | yes |
 | 11-18 | Wed 9:00 PM | UConn | Arizona | -0.5 | +3.5 | +2.5 | -4.0 | yes |
+| 11-18 | Wed 9:00 PM | Alcorn State | Missouri | +38.7 | +42.5 | +44.5 | -3.8 | yes |
 | 11-18 | Wed 8:00 PM | Arkansas-Pine Bluff | Arkansas State | +24.8 | +28.5 | +25.5 | -3.7 | yes |
 
 ## Top 25 by rating
