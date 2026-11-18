@@ -11,15 +11,15 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-18 | Wed 4:30 PM | Houston | TBD (N) | -26.3 | +1.5 | +1.5 | -27.8 | yes |
 | 11-18 | Wed 2:00 PM | Rutgers | TBD (N) | -11.3 | +2.5 | +2.5 | -13.8 | yes |
 | 11-18 | Wed 10:00 PM | TBD | TBD (N) | +0.0 | +9.5 | +8.5 | -9.5 | yes |
-| 11-18 | Wed 7:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -8.5 | +8.5 | yes |
+| 11-18 | Wed 7:30 PM | TBD | TBD (N) | +0.0 | -7.5 | -8.5 | +7.5 | yes |
+| 11-18 | Wed 6:30 PM | IU Indianapolis | Penn State | +23.2 | +16.5 | +18.5 | +6.7 | yes |
 | 11-18 | Wed 8:30 PM | South Dakota | Nebraska | +39.1 | +32.5 | +34.5 | +6.6 | yes |
 | 11-18 | Wed 7:00 PM | Wofford | Charleston Southern | +4.8 | -1.5 | -2.5 | +6.3 | yes |
 | 11-18 | Wed 6:30 PM | Tennessee Tech | UNC Asheville | +2.3 | -3.5 | -2.5 | +5.8 | yes |
-| 11-18 | Wed 6:30 PM | IU Indianapolis | Penn State | +23.2 | +17.5 | +18.5 | +5.7 | yes |
+| 11-18 | Wed 9:00 PM | Weber State | Utah State | +33.3 | +28.5 | +32.5 | +4.8 | yes |
 | 11-18 | Wed 8:00 PM | UL Monroe | LSU | +32.7 | +37.5 | +36.5 | -4.8 | yes |
 | 11-18 | Wed 8:00 PM | Wichita State | Loyola Chicago | -5.5 | -1.5 | -1.5 | -4.0 | yes |
 | 11-18 | Wed 9:00 PM | UConn | Arizona | -0.5 | +3.5 | +2.5 | -4.0 | yes |
-| 11-18 | Wed 9:00 PM | Weber State | Utah State | +33.3 | +29.5 | +32.5 | +3.8 | yes |
 | 11-18 | Wed 8:00 PM | Arkansas-Pine Bluff | Arkansas State | +24.8 | +28.5 | +25.5 | -3.7 | yes |
 | 11-18 | Wed 12:00 PM | Jackson State | Baylor | +29.8 | +33.5 | +34.5 | -3.7 | yes |
 | 11-18 | Wed 8:00 PM | Cornell | Syracuse | +22.1 | +18.5 | +22.5 | +3.6 | yes |
