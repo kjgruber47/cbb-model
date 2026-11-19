@@ -37395,3 +37395,9 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-19T11:18:54Z,401920518,2026-11-19,2026-11-20T04:00Z,STATUS_SCHEDULED,True,2305,Kansas Jayhawks,248,Houston Cougars,0,0,scoreboard,100,DraftKings,close,2.5,150.5,110.0,-130.0,-112.0,-108.0,-110.0,-110.0,HOU -2.5
 2026-11-19T11:18:54Z,401920518,2026-11-19,2026-11-20T04:00Z,STATUS_SCHEDULED,True,2305,Kansas Jayhawks,248,Houston Cougars,0,0,core,100,DraftKings,current,2.5,150.5,110,-130,-112.0,-108.0,-110.0,-110.0,HOU -2.5
 2026-11-19T11:18:54Z,401920518,2026-11-19,2026-11-20T04:00Z,STATUS_SCHEDULED,True,2305,Kansas Jayhawks,248,Houston Cougars,0,0,core,100,DraftKings,open,2.5,148.5,110.0,-130.0,-115.0,-105.0,,,HOU -2.5
+2026-11-19T11:48:53Z,401918950,2026-11-19,2026-11-20T01:00Z,STATUS_SCHEDULED,False,97,Louisville Cardinals,56,Stetson Hatters,0,0,scoreboard,100,DraftKings,current,-35.5,154.5,,,,,,,LOU -35.5
+2026-11-19T11:48:53Z,401918950,2026-11-19,2026-11-20T01:00Z,STATUS_SCHEDULED,False,97,Louisville Cardinals,56,Stetson Hatters,0,0,scoreboard,100,DraftKings,close,-35.5,154.5,,,-110.0,-110.0,-105.0,-115.0,LOU -35.5
+2026-11-19T11:48:53Z,401918950,2026-11-19,2026-11-20T01:00Z,STATUS_SCHEDULED,False,97,Louisville Cardinals,56,Stetson Hatters,0,0,core,100,DraftKings,current,-35.5,154.5,,,-110.0,-110.0,-105.0,-115.0,LOU -35.5
+2026-11-19T11:48:53Z,401920518,2026-11-19,2026-11-20T04:00Z,STATUS_SCHEDULED,True,2305,Kansas Jayhawks,248,Houston Cougars,0,0,scoreboard,100,DraftKings,current,1.5,150.5,,,,,,,HOU -1.5
+2026-11-19T11:48:53Z,401920518,2026-11-19,2026-11-20T04:00Z,STATUS_SCHEDULED,True,2305,Kansas Jayhawks,248,Houston Cougars,0,0,scoreboard,100,DraftKings,close,1.5,150.5,105.0,-125.0,-108.0,-112.0,-110.0,-110.0,HOU -1.5
+2026-11-19T11:48:53Z,401920518,2026-11-19,2026-11-20T04:00Z,STATUS_SCHEDULED,True,2305,Kansas Jayhawks,248,Houston Cougars,0,0,core,100,DraftKings,current,1.5,150.5,105,-125,-108.0,-112.0,-110.0,-110.0,HOU -1.5

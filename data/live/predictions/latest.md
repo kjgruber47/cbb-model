@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.4 | +35.5 | +34.5 | -3.1 | yes |
 | 11-19 | Thu 10:00 PM | East Texas A&M | California | +16.3 | +13.5 | +14.5 | +2.8 | yes |
 | 11-19 | Thu 8:30 PM | Seton Hall | Wisconsin (N) | +2.0 | +4.5 | +3.5 | -2.5 | yes |
-| 11-19 | Thu 11:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
+| 11-19 | Thu 9:00 PM | UTEP | New Mexico State | +4.0 | +1.5 | +1.5 | +2.5 | yes |
 
 ## Top 25 by rating
 
