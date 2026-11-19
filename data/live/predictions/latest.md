@@ -17,12 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-20 | Fri 12:00 PM | Green Bay | Florida State | +16.5 | +22.5 | +23.5 | -6.0 | yes |
 | 11-19 | Thu 7:30 PM | Charleston | Drake | -3.1 | +1.5 | -1.5 | -4.6 | yes |
 | 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.5 | +36.5 | +34.5 | -4.0 | yes |
+| 11-20 | Fri 9:00 PM | Eastern Illinois | Illinois | +47.6 | +51.5 | +51.5 | -3.9 | yes |
+| 11-20 | Fri 8:00 PM | Utah Valley | East Carolina (N) | -8.1 | -4.5 | -4.5 | -3.6 | yes |
 | 11-19 | Thu 8:30 PM | Seton Hall | Wisconsin (N) | +1.9 | +5.5 | +3.5 | -3.6 | yes |
 | 11-19 | Thu 11:00 PM | TBD | TBD (N) | +0.0 | -3.5 | -2.5 | +3.5 | yes |
 | 11-19 | Thu 9:00 PM | Oregon State | Oregon (N) | +5.0 | +1.5 | +2.5 | +3.5 | yes |
 | 11-19 | Thu 7:00 PM | Montana State | High Point | +9.5 | +12.5 | +12.5 | -3.0 | yes |
-| 11-19 | Thu 11:00 PM | Tarleton State | USC | +25.5 | +28.5 | +26.5 | -3.0 | yes |
-| 11-19 | Thu 9:00 PM | UTEP | New Mexico State | +4.3 | +1.5 | +1.5 | +2.8 | yes |
 
 ## Top 25 by rating
 
