@@ -1,5 +1,5 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
-2026-11-19,Thu 10:00 PM,Sacramento State,Stanford,False,16.27,17.50,16.50,-1.23,-0.23,148.06,154.50,151.50,-6.44,72.76,0.93,0.91,5,2,True,DraftKings,2026-11-19T15:50:38Z,401920349,24,16
+2026-11-19,Thu 10:00 PM,Sacramento State,Stanford,False,16.27,16.50,16.50,-0.23,-0.23,148.06,154.50,151.50,-6.44,72.76,0.93,0.91,5,2,True,DraftKings,2026-11-19T18:22:14Z,401920349,24,16
 2026-11-19,Thu 10:00 PM,East Texas A&M,California,False,16.19,13.50,14.50,2.69,1.69,146.22,145.50,146.50,0.72,68.43,0.93,0.88,4,5,True,DraftKings,2026-11-19T17:50:37Z,401918056,25,2837
 2026-11-19,Thu 10:30 PM,VCU,Santa Clara,False,0.45,2.50,1.50,-2.05,-1.05,161.54,163.50,164.50,-1.96,72.85,0.52,0.55,5,3,True,DraftKings,2026-11-19T16:50:37Z,401917536,2541,2670
 2026-11-19,Thu 11:00 PM,Tarleton State,USC,False,25.53,27.50,26.50,-1.97,-0.97,160.08,159.50,157.50,0.58,73.89,0.99,0.98,4,3,True,DraftKings,2026-11-19T16:20:37Z,401926773,30,2627
