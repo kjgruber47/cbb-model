@@ -8,7 +8,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-19 | Thu 5:00 PM | Notre Dame | TBD (N) | -13.9 | +3.5 | +3.5 | -17.4 | yes |
 | 11-19 | Thu 2:30 PM | TBD | TBD (N) | +0.0 | -9.5 | -9.5 | +9.5 | yes |
+| 11-19 | Thu 8:30 PM | Rutgers | TBD (N) | -11.3 | -3.5 | -3.5 | -7.8 | yes |
 | 11-19 | Thu 6:00 PM | NC State | Murray State (N) | -10.6 | -4.5 | -4.5 | -6.1 | yes |
 | 11-19 | Thu 9:00 PM | UC Santa Barbara | Pepperdine | -8.3 | -2.5 | -3.5 | -5.8 | yes |
 | 11-19 | Thu 7:00 PM | UMBC | Ohio State | +25.9 | +31.5 | +33.5 | -5.6 | yes |
@@ -17,12 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-19 | Thu 7:00 PM | Montana State | High Point | +9.3 | +13.5 | +12.5 | -4.2 | yes |
 | 11-19 | Thu 9:00 PM | Oregon State | Oregon (N) | +5.0 | +1.5 | +2.5 | +3.5 | yes |
 | 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.4 | +35.5 | +34.5 | -3.1 | yes |
-| 11-19 | Thu 8:00 PM | Texas A&M | TCU | -1.3 | +1.5 | -1.5 | -2.8 | yes |
 | 11-19 | Thu 10:00 PM | East Texas A&M | California | +16.3 | +13.5 | +14.5 | +2.8 | yes |
 | 11-19 | Thu 8:30 PM | Seton Hall | Wisconsin (N) | +2.0 | +4.5 | +3.5 | -2.5 | yes |
 | 11-19 | Thu 11:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
 | 11-19 | Thu 9:00 PM | UTEP | New Mexico State | +4.0 | +1.5 | +1.5 | +2.5 | yes |
-| 11-19 | Thu 7:00 PM | Southern Miss | Grambling | +0.8 | -1.5 | -1.5 | +2.3 | yes |
 
 ## Top 25 by rating
 
