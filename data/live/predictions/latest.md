@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-19 | Thu 9:00 PM | Oregon State | Oregon (N) | +5.0 | +1.5 | +2.5 | +3.5 | yes |
 | 11-19 | Thu 7:00 PM | Montana State | High Point | +9.5 | +12.5 | +12.5 | -3.0 | yes |
 | 11-19 | Thu 11:00 PM | Tarleton State | USC | +25.5 | +28.5 | +26.5 | -3.0 | yes |
-| 11-19 | Thu 8:00 PM | Texas A&M | TCU | -1.3 | +1.5 | -1.5 | -2.8 | yes |
 | 11-19 | Thu 9:00 PM | UTEP | New Mexico State | +4.3 | +1.5 | +1.5 | +2.8 | yes |
 | 11-19 | Thu 7:00 PM | Southern Miss | Grambling | +1.0 | -1.5 | -1.5 | +2.5 | yes |
+| 11-19 | Thu 7:00 PM | UMBC | Ohio State | +26.1 | +28.5 | +33.5 | -2.4 | yes |
 
 ## Top 25 by rating
 
