@@ -37368,3 +37368,4 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-19T07:17:37Z,401917536,2026-11-19,2026-11-20T03:30Z,STATUS_SCHEDULED,False,2541,Santa Clara Broncos,2670,VCU Rams,0,0,scoreboard,100,DraftKings,current,-2.5,164.5,,,,,,,SCU -2.5
 2026-11-19T07:17:37Z,401917536,2026-11-19,2026-11-20T03:30Z,STATUS_SCHEDULED,False,2541,Santa Clara Broncos,2670,VCU Rams,0,0,scoreboard,100,DraftKings,close,-2.5,164.5,-125.0,105.0,-108.0,-112.0,-105.0,-115.0,SCU -2.5
 2026-11-19T07:17:37Z,401917536,2026-11-19,2026-11-20T03:30Z,STATUS_SCHEDULED,False,2541,Santa Clara Broncos,2670,VCU Rams,0,0,core,100,DraftKings,current,-2.5,164.5,-125,105,-108.0,-112.0,-105.0,-115.0,SCU -2.5
+2026-11-19T07:47:37Z,401926814,2026-11-19,2026-11-20T00:30Z,STATUS_SCHEDULED,False,2181,Drake Bulldogs,232,Charleston Cougars,0,0,scoreboard,100,DraftKings,close,-1.5,159.5,-115.0,-105.0,-102.0,-118.0,-115.0,-105.0,DRKE -1.5
