@@ -37482,3 +37482,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-19T13:18:53Z,401917536,2026-11-19,2026-11-20T03:30Z,STATUS_SCHEDULED,False,2541,Santa Clara Broncos,2670,VCU Rams,0,0,scoreboard,100,DraftKings,current,-2.5,163.5,,,,,,,SCU -2.5
 2026-11-19T13:18:53Z,401917536,2026-11-19,2026-11-20T03:30Z,STATUS_SCHEDULED,False,2541,Santa Clara Broncos,2670,VCU Rams,0,0,scoreboard,100,DraftKings,close,-2.5,163.5,-130.0,110.0,-108.0,-112.0,-115.0,-105.0,SCU -2.5
 2026-11-19T13:18:53Z,401917536,2026-11-19,2026-11-20T03:30Z,STATUS_SCHEDULED,False,2541,Santa Clara Broncos,2670,VCU Rams,0,0,core,100,DraftKings,current,-2.5,163.5,-130,110,-108.0,-112.0,-115.0,-105.0,SCU -2.5
+2026-11-19T13:20:38Z,401920517,2026-11-19,2026-11-19T19:30Z,STATUS_SCHEDULED,True,277,West Virginia Mountaineers,57,Florida Gators,0,0,scoreboard,100,DraftKings,current,9.5,150.5,,,,,,,FLA -9.5
+2026-11-19T13:20:38Z,401920517,2026-11-19,2026-11-19T19:30Z,STATUS_SCHEDULED,True,277,West Virginia Mountaineers,57,Florida Gators,0,0,scoreboard,100,DraftKings,close,9.5,150.5,320.0,-410.0,-108.0,-112.0,-108.0,-112.0,FLA -9.5
