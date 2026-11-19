@@ -13,8 +13,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-19 | Thu 2:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -9.5 | +8.5 | yes |
 | 11-19 | Thu 8:30 PM | Rutgers | TBD (N) | -10.8 | -2.5 | -3.5 | -8.3 | yes |
 | 11-19 | Thu 9:00 PM | UC Santa Barbara | Pepperdine | -8.2 | -1.5 | -3.5 | -6.7 | yes |
-| 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.5 | +37.5 | +34.5 | -5.0 | yes |
 | 11-19 | Thu 7:30 PM | Charleston | Drake | -3.1 | +1.5 | -1.5 | -4.6 | yes |
+| 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.5 | +36.5 | +34.5 | -4.0 | yes |
 | 11-19 | Thu 8:30 PM | Seton Hall | Wisconsin (N) | +1.9 | +5.5 | +3.5 | -3.6 | yes |
 | 11-19 | Thu 11:00 PM | TBD | TBD (N) | +0.0 | -3.5 | -2.5 | +3.5 | yes |
 | 11-19 | Thu 9:00 PM | Oregon State | Oregon (N) | +5.0 | +1.5 | +2.5 | +3.5 | yes |
