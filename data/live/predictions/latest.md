@@ -8,11 +8,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-19 | Thu 7:00 PM | UMBC | Ohio State | +25.9 | +33.5 | +33.5 | -7.6 | yes |
+| 11-19 | Thu 6:00 PM | NC State | Murray State (N) | -10.6 | -3.5 | -4.5 | -7.1 | yes |
 | 11-18 | Wed 6:30 PM | IU Indianapolis | Penn State | +23.2 | +16.5 | +18.5 | +6.7 | yes |
 | 11-18 | Wed 8:30 PM | South Dakota | Nebraska | +39.1 | +32.5 | +34.5 | +6.6 | yes |
+| 11-19 | Thu 7:00 PM | UMBC | Ohio State | +25.9 | +32.5 | +33.5 | -6.6 | yes |
 | 11-18 | Wed 7:00 PM | Wofford | Charleston Southern | +4.8 | -1.5 | -2.5 | +6.3 | yes |
-| 11-19 | Thu 6:00 PM | NC State | Murray State (N) | -10.6 | -4.5 | -4.5 | -6.1 | yes |
 | 11-18 | Wed 6:30 PM | Tennessee Tech | UNC Asheville | +2.3 | -3.5 | -2.5 | +5.8 | yes |
 | 11-18 | Wed 9:00 PM | Weber State | Utah State | +33.3 | +28.5 | +32.5 | +4.8 | yes |
 | 11-18 | Wed 8:00 PM | UL Monroe | LSU | +32.7 | +37.5 | +36.5 | -4.8 | yes |
