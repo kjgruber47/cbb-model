@@ -11,7 +11,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-19 | Thu 2:30 PM | TBD | TBD (N) | +0.0 | -9.5 | -9.5 | +9.5 | yes |
 | 11-19 | Thu 7:00 PM | UMBC | Ohio State | +25.9 | +32.5 | +33.5 | -6.6 | yes |
 | 11-19 | Thu 6:00 PM | NC State | Murray State (N) | -10.6 | -4.5 | -4.5 | -6.1 | yes |
-| 11-19 | Thu 9:00 PM | UC Santa Barbara | Pepperdine | -8.3 | -3.5 | -3.5 | -4.8 | yes |
+| 11-19 | Thu 9:00 PM | UC Santa Barbara | Pepperdine | -8.3 | -2.5 | -3.5 | -5.8 | yes |
 | 11-19 | Thu 7:30 PM | Charleston | Drake | -3.2 | +1.5 | -1.5 | -4.7 | yes |
 | 11-19 | Thu 8:00 PM | Southern Utah | Texas | +34.2 | +38.5 | +38.5 | -4.3 | yes |
 | 11-19 | Thu 7:00 PM | Montana State | High Point | +9.3 | +13.5 | +12.5 | -4.2 | yes |
