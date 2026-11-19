@@ -16,13 +16,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-19 | Thu 7:00 PM | UMBC | Ohio State | +26.1 | +31.5 | +33.5 | -5.4 | yes |
 | 11-19 | Thu 7:30 PM | Charleston | Drake | -3.1 | +1.5 | -1.5 | -4.6 | yes |
 | 11-19 | Thu 8:00 PM | Southern Utah | Texas | +34.5 | +38.5 | +38.5 | -4.0 | yes |
-| 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.5 | +36.5 | +34.5 | -4.0 | yes |
 | 11-19 | Thu 9:00 PM | Oregon State | Oregon (N) | +5.0 | +1.5 | +2.5 | +3.5 | yes |
 | 11-19 | Thu 7:00 PM | Montana State | High Point | +9.5 | +12.5 | +12.5 | -3.0 | yes |
+| 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.5 | +35.5 | +34.5 | -3.0 | yes |
+| 11-19 | Thu 8:00 PM | Texas A&M | TCU | -1.3 | +1.5 | -1.5 | -2.8 | yes |
 | 11-19 | Thu 9:00 PM | UTEP | New Mexico State | +4.3 | +1.5 | +1.5 | +2.8 | yes |
 | 11-19 | Thu 10:00 PM | East Texas A&M | California | +16.2 | +13.5 | +14.5 | +2.7 | yes |
-| 11-19 | Thu 11:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
-| 11-19 | Thu 7:00 PM | Southern Miss | Grambling | +1.0 | -1.5 | -1.5 | +2.5 | yes |
+| 11-19 | Thu 8:30 PM | Seton Hall | Wisconsin (N) | +1.9 | +4.5 | +3.5 | -2.6 | yes |
 
 ## Top 25 by rating
 
