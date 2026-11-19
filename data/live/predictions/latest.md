@@ -9,9 +9,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-19 | Thu 5:00 PM | Notre Dame | TBD (N) | -14.4 | +3.5 | +3.5 | -17.9 | yes |
+| 11-19 | Thu 2:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -9.5 | +8.5 | yes |
 | 11-19 | Thu 8:30 PM | Rutgers | TBD (N) | -10.8 | -2.5 | -3.5 | -8.3 | yes |
 | 11-19 | Thu 6:00 PM | NC State | Murray State (N) | -11.0 | -3.5 | -4.5 | -7.5 | yes |
-| 11-19 | Thu 2:30 PM | TBD | TBD (N) | +0.0 | -7.5 | -9.5 | +7.5 | yes |
 | 11-19 | Thu 9:00 PM | UC Santa Barbara | Pepperdine | -8.2 | -1.5 | -3.5 | -6.7 | yes |
 | 11-19 | Thu 7:30 PM | Charleston | Drake | -3.1 | +1.5 | -1.5 | -4.6 | yes |
 | 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.5 | +36.5 | +34.5 | -4.0 | yes |
