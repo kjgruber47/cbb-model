@@ -37381,3 +37381,6 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-19T10:18:54Z,401930884,2026-11-19,2026-11-20T02:00Z,STATUS_SCHEDULED,True,2483,Oregon Ducks,204,Oregon State Beavers,0,0,scoreboard,100,DraftKings,current,-1.5,160.5,,,,,,,ORE -1.5
 2026-11-19T10:18:54Z,401930884,2026-11-19,2026-11-20T02:00Z,STATUS_SCHEDULED,True,2483,Oregon Ducks,204,Oregon State Beavers,0,0,scoreboard,100,DraftKings,close,-1.5,160.5,-130.0,110.0,-112.0,-108.0,-115.0,-105.0,ORE -1.5
 2026-11-19T10:18:54Z,401930884,2026-11-19,2026-11-20T02:00Z,STATUS_SCHEDULED,True,2483,Oregon Ducks,204,Oregon State Beavers,0,0,core,100,DraftKings,current,-1.5,160.5,-130,110,-112.0,-108.0,-115.0,-105.0,ORE -1.5
+2026-11-19T10:48:54Z,401920878,2026-11-19,2026-11-20T00:00Z,STATUS_SCHEDULED,False,294,Jacksonville Dolphins,2031,Little Rock Trojans,0,0,scoreboard,100,DraftKings,current,-1.5,144.5,,,,,,,JAX -1.5
+2026-11-19T10:48:54Z,401920878,2026-11-19,2026-11-20T00:00Z,STATUS_SCHEDULED,False,294,Jacksonville Dolphins,2031,Little Rock Trojans,0,0,scoreboard,100,DraftKings,close,-1.5,144.5,-142.0,120.0,-120.0,100.0,-108.0,-112.0,JAX -1.5
+2026-11-19T10:48:54Z,401920878,2026-11-19,2026-11-20T00:00Z,STATUS_SCHEDULED,False,294,Jacksonville Dolphins,2031,Little Rock Trojans,0,0,core,100,DraftKings,current,-1.5,144.5,-142,120,-120.0,100.0,-108.0,-112.0,JAX -1.5
