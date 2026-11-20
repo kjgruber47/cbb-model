@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-20 | Fri 9:00 PM | Eastern Illinois | Illinois | +47.6 | +51.5 | +51.5 | -3.9 | yes |
 | 11-20 | Fri 8:00 PM | Utah Valley | East Carolina (N) | -8.1 | -4.5 | -4.5 | -3.6 | yes |
 | 11-19 | Thu 8:30 PM | Seton Hall | Wisconsin (N) | +1.9 | +5.5 | +3.5 | -3.6 | yes |
+| 11-20 | Fri 3:00 PM | Western Illinois | UAlbany (N) | +4.0 | +7.5 | +5.5 | -3.5 | yes |
 | 11-20 | Fri 7:30 PM | Iowa | Xavier | -0.0 | +3.5 | +3.5 | -3.5 | yes |
 | 11-19 | Thu 9:00 PM | Oregon State | Oregon (N) | +5.0 | +1.5 | +2.5 | +3.5 | yes |
 | 11-20 | Fri 2:00 PM | UAB | George Washington (N) | +13.9 | +10.5 | +10.5 | +3.4 | yes |
-| 11-20 | Fri 8:00 PM | Campbell | Kansas State | +18.7 | +15.5 | +15.5 | +3.2 | yes |
 
 ## Top 25 by rating
 
