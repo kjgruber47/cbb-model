@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-20 | Fri 4:30 PM | Rhode Island | Liberty (N) | -5.4 | -1.5 | -2.5 | -3.9 | yes |
 | 11-20 | Fri 7:30 PM | Iowa | Xavier | -0.0 | +3.5 | +3.5 | -3.5 | yes |
 | 11-20 | Fri 2:00 PM | UAB | George Washington (N) | +13.9 | +10.5 | +10.5 | +3.4 | yes |
-| 11-20 | Fri 8:00 PM | Campbell | Kansas State | +18.7 | +15.5 | +15.5 | +3.2 | yes |
 | 11-20 | Fri 7:00 PM | Harvard | Holy Cross | -9.3 | -12.5 | -12.5 | +3.2 | yes |
 | 11-20 | Fri 7:00 PM | South Carolina State | The Citadel | +5.6 | +2.5 | +2.5 | +3.1 | yes |
 | 11-20 | Fri 8:00 PM | UCF | Vanderbilt | +21.5 | +18.5 | +17.5 | +3.0 | yes |
+| 11-20 | Fri 9:00 PM | Eastern Illinois | Illinois | +47.6 | +50.5 | +51.5 | -2.9 | yes |
 
 ## Top 25 by rating
 
