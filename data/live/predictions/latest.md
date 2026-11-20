@@ -10,7 +10,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-20 | Fri 7:00 PM | Wagner | Maryland | +25.7 | +34.5 | +33.5 | -8.8 | yes |
 | 11-20 | Fri 8:00 PM | Mississippi Valley State | Arkansas | +29.8 | +38.5 | +43.5 | -8.7 | yes |
-| 11-20 | Fri 12:00 PM | Green Bay | Florida State | +16.4 | +23.5 | +23.5 | -7.1 | yes |
+| 11-20 | Fri 12:00 PM | Green Bay | Florida State | +16.4 | +21.5 | +23.5 | -5.1 | yes |
 | 11-20 | Fri 8:00 PM | UCF | Vanderbilt | +21.4 | +16.5 | +17.5 | +4.9 | yes |
 | 11-20 | Fri 8:00 PM | Utah Valley | East Carolina (N) | -8.1 | -3.5 | -4.5 | -4.6 | yes |
 | 11-20 | Fri 12:30 PM | Oklahoma State | Minnesota (N) | -3.1 | +1.5 | -1.5 | -4.6 | yes |
