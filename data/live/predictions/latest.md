@@ -9,7 +9,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-20 | Fri 8:00 PM | Mississippi Valley State | Arkansas | +29.7 | +43.5 | +43.5 | -13.8 | yes |
-| 11-20 | Fri 7:00 PM | Wagner | Maryland | +25.7 | +33.5 | +33.5 | -7.8 | yes |
+| 11-20 | Fri 7:00 PM | Wagner | Maryland | +25.7 | +35.5 | +33.5 | -9.8 | yes |
 | 11-19 | Thu 6:00 PM | Murray State | NC State (N) | +11.0 | +3.5 | +4.5 | +7.5 | yes |
 | 11-19 | Thu 9:00 PM | UC Santa Barbara | Pepperdine | -8.2 | -1.5 | -3.5 | -6.7 | yes |
 | 11-20 | Fri 7:00 PM | Loyola Maryland | Virginia | +37.0 | +43.5 | +43.5 | -6.5 | yes |
