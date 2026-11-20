@@ -10,18 +10,18 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-20 | Fri 8:00 PM | Mississippi Valley State | Arkansas | +29.7 | +40.5 | +43.5 | -10.8 | yes |
 | 11-20 | Fri 7:00 PM | Wagner | Maryland | +25.7 | +35.5 | +33.5 | -9.8 | yes |
+| 11-20 | Fri 3:00 PM | Western Illinois | UAlbany (N) | +4.0 | +10.5 | +5.5 | -6.5 | yes |
 | 11-20 | Fri 12:00 PM | Green Bay | Florida State | +16.5 | +22.5 | +23.5 | -6.0 | yes |
-| 11-20 | Fri 3:00 PM | Western Illinois | UAlbany (N) | +4.0 | +9.5 | +5.5 | -5.5 | yes |
 | 11-20 | Fri 7:00 PM | Loyola Maryland | Virginia | +37.0 | +42.5 | +43.5 | -5.5 | yes |
 | 11-20 | Fri 12:30 PM | Oklahoma State | Minnesota (N) | -3.2 | +1.5 | -1.5 | -4.7 | yes |
 | 11-20 | Fri 8:00 PM | Utah Valley | East Carolina (N) | -8.1 | -3.5 | -4.5 | -4.6 | yes |
 | 11-20 | Fri 9:00 PM | Cal State Bakersfield | Idaho | +6.0 | +1.5 | -1.5 | +4.5 | yes |
+| 11-20 | Fri 7:00 PM | Harvard | Holy Cross | -9.3 | -13.5 | -12.5 | +4.2 | yes |
+| 11-20 | Fri 8:00 PM | UCF | Vanderbilt | +21.5 | +17.5 | +17.5 | +4.0 | yes |
 | 11-20 | Fri 4:30 PM | Rhode Island | Liberty (N) | -5.4 | -1.5 | -2.5 | -3.9 | yes |
 | 11-20 | Fri 7:30 PM | Iowa | Xavier | -0.0 | +3.5 | +3.5 | -3.5 | yes |
 | 11-20 | Fri 2:00 PM | UAB | George Washington (N) | +13.9 | +10.5 | +10.5 | +3.4 | yes |
-| 11-20 | Fri 7:00 PM | Harvard | Holy Cross | -9.3 | -12.5 | -12.5 | +3.2 | yes |
 | 11-20 | Fri 7:00 PM | South Carolina State | The Citadel | +5.6 | +2.5 | +2.5 | +3.1 | yes |
-| 11-20 | Fri 8:00 PM | UCF | Vanderbilt | +21.5 | +18.5 | +17.5 | +3.0 | yes |
 | 11-20 | Fri 9:00 PM | Eastern Illinois | Illinois | +47.6 | +50.5 | +51.5 | -2.9 | yes |
 
 ## Top 25 by rating
