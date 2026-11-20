@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-20 | Fri 7:00 PM | TBD | TBD (N) | +0.0 | -3.5 | -5.5 | +3.5 | yes |
 | 11-20 | Fri 9:30 PM | TBD | TBD (N) | +0.0 | +3.5 | +2.5 | -3.5 | yes |
 | 11-20 | Fri 7:30 PM | Iowa | Xavier | +0.0 | +3.5 | +3.5 | -3.5 | yes |
-| 11-20 | Fri 7:00 PM | Western Michigan | Mount St. Mary's | -10.7 | -7.5 | -7.5 | -3.2 | yes |
+| 11-20 | Fri 8:00 PM | Georgia | Georgia Tech | -10.9 | -7.5 | -9.5 | -3.4 | yes |
 
 ## Top 25 by rating
 
