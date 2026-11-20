@@ -9,8 +9,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-20 | Fri 3:00 PM | Western Illinois | UAlbany (N) | +4.1 | -6.5 | +5.5 | +10.6 | yes |
-| 11-20 | Fri 8:00 PM | Mississippi Valley State | Arkansas | +29.8 | +38.5 | +43.5 | -8.7 | yes |
 | 11-20 | Fri 7:00 PM | Wagner | Maryland | +25.7 | +33.5 | +33.5 | -7.8 | yes |
+| 11-20 | Fri 8:00 PM | Mississippi Valley State | Arkansas | +29.8 | +37.5 | +43.5 | -7.7 | yes |
 | 11-20 | Fri 12:00 PM | Green Bay | Florida State | +16.4 | +22.5 | +23.5 | -6.1 | yes |
 | 11-20 | Fri 8:00 PM | UCF | Vanderbilt | +21.4 | +16.5 | +17.5 | +4.9 | yes |
 | 11-20 | Fri 8:00 PM | Utah Valley | East Carolina (N) | -8.1 | -3.5 | -4.5 | -4.6 | yes |
@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-20 | Fri 4:30 PM | Rhode Island | Liberty (N) | -5.5 | -1.5 | -2.5 | -4.0 | yes |
 | 11-20 | Fri 4:00 PM | South Dakota State | Idaho State | -9.2 | -5.5 | -6.5 | -3.7 | yes |
 | 11-20 | Fri 7:00 PM | Coastal Carolina | Tennessee | +30.1 | +26.5 | +29.5 | +3.6 | yes |
-| 11-20 | Fri 7:00 PM | TBD | TBD (N) | +0.0 | -3.5 | -5.5 | +3.5 | yes |
 | 11-20 | Fri 9:30 PM | TBD | TBD (N) | +0.0 | +3.5 | +2.5 | -3.5 | yes |
+| 11-20 | Fri 7:00 PM | TBD | TBD (N) | +0.0 | -3.5 | -5.5 | +3.5 | yes |
 
 ## Top 25 by rating
 
