@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-20 | Fri 2:00 PM | George Washington | UAB (N) | -13.9 | +10.5 | +10.5 | -24.4 | yes |
-| 11-19 | Thu 5:00 PM | Notre Dame | TBD (N) | -14.4 | +3.5 | +3.5 | -17.9 | yes |
-| 11-19 | Thu 6:00 PM | NC State | Murray State (N) | -11.0 | +3.5 | +4.5 | -14.5 | yes |
-| 11-19 | Thu 2:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -9.5 | +8.5 | yes |
-| 11-19 | Thu 8:30 PM | Rutgers | TBD (N) | -10.8 | -2.5 | -3.5 | -8.3 | yes |
+| 11-19 | Thu 6:00 PM | Murray State | NC State (N) | +11.0 | +3.5 | +4.5 | +7.5 | yes |
+| 11-20 | Fri 9:00 PM | Cal State Bakersfield | Idaho | +6.0 | -1.5 | -1.5 | +7.5 | yes |
 | 11-19 | Thu 9:00 PM | UC Santa Barbara | Pepperdine | -8.2 | -1.5 | -3.5 | -6.7 | yes |
 | 11-20 | Fri 12:00 PM | Green Bay | Florida State | +16.5 | +22.5 | +23.5 | -6.0 | yes |
+| 11-20 | Fri 7:00 PM | Oakland | Purdue | +20.5 | +25.5 | +25.5 | -5.0 | yes |
 | 11-19 | Thu 7:30 PM | Charleston | Drake | -3.1 | +1.5 | -1.5 | -4.6 | yes |
+| 11-20 | Fri 8:00 PM | UCF | Vanderbilt | +21.5 | +17.5 | +17.5 | +4.0 | yes |
 | 11-19 | Thu 8:00 PM | Stetson | Louisville | +32.5 | +36.5 | +34.5 | -4.0 | yes |
 | 11-20 | Fri 9:00 PM | Eastern Illinois | Illinois | +47.6 | +51.5 | +51.5 | -3.9 | yes |
 | 11-20 | Fri 8:00 PM | Utah Valley | East Carolina (N) | -8.1 | -4.5 | -4.5 | -3.6 | yes |
 | 11-19 | Thu 8:30 PM | Seton Hall | Wisconsin (N) | +1.9 | +5.5 | +3.5 | -3.6 | yes |
-| 11-19 | Thu 11:00 PM | TBD | TBD (N) | +0.0 | -3.5 | -2.5 | +3.5 | yes |
+| 11-20 | Fri 7:30 PM | Iowa | Xavier | -0.0 | +3.5 | +3.5 | -3.5 | yes |
 | 11-19 | Thu 9:00 PM | Oregon State | Oregon (N) | +5.0 | +1.5 | +2.5 | +3.5 | yes |
-| 11-19 | Thu 7:00 PM | Montana State | High Point | +9.5 | +12.5 | +12.5 | -3.0 | yes |
+| 11-20 | Fri 2:00 PM | UAB | George Washington (N) | +13.9 | +10.5 | +10.5 | +3.4 | yes |
+| 11-20 | Fri 8:00 PM | Campbell | Kansas State | +18.7 | +15.5 | +15.5 | +3.2 | yes |
 
 ## Top 25 by rating
 
