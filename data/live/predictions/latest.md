@@ -8,8 +8,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-21 | Sat 6:00 PM | Coppin State | Georgetown | +27.1 | +32.5 | +32.5 | -5.4 | yes |
 | 11-21 | Sat 1:00 PM | Queens University | LSU | +21.9 | +26.5 | +27.5 | -4.6 | yes |
+| 11-21 | Sat 6:00 PM | Coppin State | Georgetown | +27.1 | +31.5 | +32.5 | -4.4 | yes |
 | 11-21 | Sat 4:00 PM | South Florida | George Mason | -0.7 | +3.5 | +2.5 | -4.2 | yes |
 | 11-21 | Sat 1:00 PM | Kent State | Cleveland State | -0.3 | -4.5 | +4.5 | +4.2 | yes |
 | 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.6 | +6.5 | +6.5 | +4.1 | yes |
