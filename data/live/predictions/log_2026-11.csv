@@ -9710,3 +9710,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-21T07:34:15Z,401923312,2026-11-21,New Hampshire,New Haven,False,0.40,126.16,-2.50,128.50,-1.50,127.50,Draft Kings,2026-11-21T07:33:25Z
 2026-11-21T07:34:15Z,401921222,2026-11-21,Navy,Rider,False,-5.43,135.51,-5.50,135.50,-5.50,139.50,Draft Kings,2026-11-21T07:33:25Z
 2026-11-21T07:34:15Z,401925897,2026-11-21,UNC Wilmington,Norfolk State,False,-13.17,153.45,-13.50,152.50,-14.50,150.50,Draft Kings,2026-11-21T07:33:25Z
+2026-11-21T08:04:14Z,401919828,2026-11-21,Western Illinois,Mercyhurst,True,7.04,138.94,6.50,130.50,6.50,134.50,Draft Kings,2026-11-21T08:03:25Z
+2026-11-21T08:04:14Z,401911378,2026-11-21,Charleston Southern,Mercer,False,8.49,161.32,8.50,161.50,9.50,158.50,Draft Kings,2026-11-21T08:03:25Z
