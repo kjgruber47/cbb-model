@@ -20,8 +20,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 4:00 PM | Pennsylvania | La Salle | -0.7 | +2.5 | +1.5 | -3.2 | yes |
 | 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.5 | +13.5 | +13.5 | -3.0 | yes |
 | 11-21 | Sat 1:00 PM | New Hampshire | New Haven | +0.4 | -2.5 | -1.5 | +2.9 | yes |
+| 11-21 | Sat 4:00 PM | Central Arkansas | Jacksonville | -5.3 | -2.5 | -2.5 | -2.8 | yes |
 | 11-21 | Sat 7:00 PM | Gardner-Webb | VMI | +5.7 | +8.5 | +8.5 | -2.8 | yes |
-| 11-21 | Sat 7:00 PM | Michigan | Villanova | -6.0 | -3.5 | -3.5 | -2.5 | yes |
 | 11-21 | Sat 3:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
 
 ## Top 25 by rating
