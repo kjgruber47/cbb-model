@@ -41956,3 +41956,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-21T09:03:25Z,401909719,2026-11-21,2026-11-21T19:00Z,STATUS_SCHEDULED,False,183,Syracuse Orange,322,Lafayette Leopards,0,0,core,100,Draft Kings,current,-25.5,143.5,-50000,4000,-110.0,-110.0,-110.0,-110.0,SYR -25.5
 2026-11-21T09:03:25Z,401911023,2026-11-21,2026-11-21T23:00Z,STATUS_SCHEDULED,False,113,Massachusetts Minutemen,311,Maine Black Bears,0,0,scoreboard,100,Draft Kings,close,-12.5,137.5,,,-108.0,-112.0,-110.0,-110.0,MASS -12.5
 2026-11-21T09:03:25Z,401911023,2026-11-21,2026-11-21T23:00Z,STATUS_SCHEDULED,False,113,Massachusetts Minutemen,311,Maine Black Bears,0,0,core,100,Draft Kings,current,-12.5,137.5,,,-108.0,-112.0,-110.0,-110.0,MASS -12.5
+2026-11-21T09:33:25Z,401921776,2026-11-21,2026-11-22T00:00Z,STATUS_SCHEDULED,False,222,Villanova Wildcats,130,Michigan Wolverines,0,0,scoreboard,100,Draft Kings,current,4.5,160.5,,,,,,,MICH -4.5
+2026-11-21T09:33:25Z,401921776,2026-11-21,2026-11-22T00:00Z,STATUS_SCHEDULED,False,222,Villanova Wildcats,130,Michigan Wolverines,0,0,scoreboard,100,Draft Kings,close,4.5,160.5,164.0,-198.0,-118.0,-102.0,-108.0,-112.0,MICH -4.5
