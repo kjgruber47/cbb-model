@@ -15,7 +15,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 4:00 PM | South Florida | George Mason | -0.6 | +3.5 | +2.5 | -4.1 | yes |
 | 11-21 | Sat 1:00 PM | Kent State | Cleveland State | -0.2 | -3.5 | +4.5 | +3.3 | yes |
 | 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.3 | +13.5 | +13.5 | -3.2 | yes |
-| 11-21 | Sat 4:00 PM | Pennsylvania | La Salle | -0.7 | +2.5 | +1.5 | -3.2 | yes |
 | 11-21 | Sat 3:00 PM | Drake | Missouri State | -0.3 | -3.5 | -3.5 | +3.2 | yes |
 | 11-21 | Sat 7:30 PM | Presbyterian | Tennessee Tech | +5.3 | +8.5 | +5.5 | -3.2 | yes |
 | 11-21 | Sat 7:00 PM | Brown | Vermont | +6.6 | +3.5 | +4.5 | +3.1 | yes |
@@ -23,6 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 4:00 PM | Central Arkansas | Jacksonville | -5.3 | -2.5 | -2.5 | -2.8 | yes |
 | 11-21 | Sat 3:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
 | 11-21 | Sat 7:00 PM | Gardner-Webb | VMI | +6.0 | +8.5 | +8.5 | -2.5 | yes |
+| 11-21 | Sat 7:00 PM | Northern Arizona | Cal Poly | +10.0 | +7.5 | +6.5 | +2.5 | yes |
 
 ## Top 25 by rating
 
