@@ -1,4 +1,4 @@
-# Predictions for Friday, November 20, 2026
+# Predictions for Saturday, November 21, 2026
 
 Ratings fit on 812 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-20 | Fri 8:00 PM | Utah Valley | East Carolina (N) | -8.1 | +3.5 | -4.5 | -11.6 | yes |
-| 11-20 | Fri 7:00 PM | Wagner | Maryland | +25.7 | +33.5 | +33.5 | -7.8 | yes |
-| 11-20 | Fri 12:00 PM | Green Bay | Florida State | +16.4 | +22.5 | +23.5 | -6.1 | yes |
-| 11-20 | Fri 8:00 PM | Mississippi Valley State | Arkansas | +29.8 | +35.5 | +43.5 | -5.7 | yes |
-| 11-21 | Sat 1:00 PM | Queens University | LSU | +21.9 | +27.5 | +27.5 | -5.6 | yes |
 | 11-21 | Sat 6:00 PM | Coppin State | Georgetown | +27.1 | +32.5 | +32.5 | -5.4 | yes |
-| 11-20 | Fri 7:00 PM | Loyola Maryland | Virginia | +37.1 | +42.5 | +43.5 | -5.4 | yes |
-| 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.6 | +5.5 | +6.5 | +5.1 | yes |
-| 11-20 | Fri 8:00 PM | UCF | Vanderbilt | +21.4 | +16.5 | +17.5 | +4.9 | yes |
-| 11-20 | Fri 7:00 PM | Coastal Carolina | Tennessee | +30.1 | +25.5 | +29.5 | +4.6 | yes |
-| 11-20 | Fri 2:00 PM | UAB | George Washington (N) | +13.9 | +9.5 | +10.5 | +4.4 | yes |
+| 11-21 | Sat 1:00 PM | Queens University | LSU | +21.9 | +26.5 | +27.5 | -4.6 | yes |
 | 11-21 | Sat 4:00 PM | South Florida | George Mason | -0.7 | +3.5 | +2.5 | -4.2 | yes |
-| 11-20 | Fri 4:30 PM | Rhode Island | Liberty (N) | -5.5 | -1.5 | -2.5 | -4.0 | yes |
+| 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.6 | +6.5 | +6.5 | +4.1 | yes |
 | 11-21 | Sat 2:00 PM | Little Rock | North Florida | -0.6 | -4.5 | -4.5 | +3.9 | yes |
-| 11-20 | Fri 4:00 PM | South Dakota State | Idaho State | -9.2 | -5.5 | -6.5 | -3.7 | yes |
+| 11-21 | Sat 7:30 PM | Presbyterian | Tennessee Tech | +4.9 | +8.5 | +5.5 | -3.6 | yes |
+| 11-21 | Sat 3:00 PM | Drake | Missouri State | -0.3 | -3.5 | -3.5 | +3.2 | yes |
+| 11-21 | Sat 1:00 PM | Kent State | Cleveland State | -0.3 | -3.5 | +4.5 | +3.2 | yes |
+| 11-21 | Sat 7:00 PM | Brown | Vermont | +6.7 | +3.5 | +4.5 | +3.2 | yes |
+| 11-21 | Sat 4:00 PM | Pennsylvania | La Salle | -0.7 | +2.5 | +1.5 | -3.2 | yes |
+| 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.5 | +13.5 | +13.5 | -3.0 | yes |
+| 11-21 | Sat 1:00 PM | New Hampshire | New Haven | +0.4 | -2.5 | -1.5 | +2.9 | yes |
+| 11-21 | Sat 7:00 PM | Gardner-Webb | VMI | +5.7 | +8.5 | +8.5 | -2.8 | yes |
+| 11-21 | Sat 7:00 PM | Michigan | Villanova | -6.0 | -3.5 | -3.5 | -2.5 | yes |
+| 11-21 | Sat 3:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
 
 ## Top 25 by rating
 
