@@ -9,9 +9,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.8 | +4.5 | +6.5 | +6.3 | yes |
+| 11-21 | Sat 6:00 PM | Coppin State | Georgetown | +26.9 | +31.5 | +32.5 | -4.6 | yes |
 | 11-21 | Sat 2:00 PM | Little Rock | North Florida | -0.2 | -4.5 | -4.5 | +4.3 | yes |
 | 11-21 | Sat 4:00 PM | South Florida | George Mason | -0.6 | +3.5 | +2.5 | -4.1 | yes |
-| 11-21 | Sat 6:00 PM | Coppin State | Georgetown | +26.9 | +30.5 | +32.5 | -3.6 | yes |
 | 11-21 | Sat 1:00 PM | Queens University | LSU | +22.1 | +25.5 | +27.5 | -3.4 | yes |
 | 11-21 | Sat 1:00 PM | Kent State | Cleveland State | -0.2 | -3.5 | +4.5 | +3.3 | yes |
 | 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.3 | +13.5 | +13.5 | -3.2 | yes |
@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 8:00 PM | Texas A&M-Corpus Christi | Oral Roberts | +0.5 | +3.5 | +3.5 | -3.0 | yes |
 | 11-21 | Sat 5:00 PM | Winthrop | Wofford | +3.8 | +6.5 | +4.5 | -2.7 | yes |
 | 11-21 | Sat 4:00 PM | UAlbany | Canisius | +0.2 | -2.5 | -1.5 | +2.7 | yes |
+| 11-21 | Sat 3:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
 | 11-21 | Sat 7:00 PM | Northern Arizona | Cal Poly | +10.0 | +7.5 | +6.5 | +2.5 | yes |
-| 11-21 | Sat 6:00 PM | Maine | Massachusetts | +10.0 | +12.5 | +12.5 | -2.5 | yes |
 
 ## Top 25 by rating
 
