@@ -9690,3 +9690,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-21T05:02:42Z,401909536,2026-11-23,VCU,Providence,True,-0.97,151.35,,,,,,
 2026-11-21T05:02:42Z,401926183,2026-11-23,UNC Greensboro,Pepperdine,False,8.00,155.11,,,,,,
 2026-11-21T05:02:42Z,401921663,2026-11-23,TBD,TBD,True,0.00,145.25,,,,,,
+2026-11-21T05:32:42Z,401921169,2026-11-21,Kent State,Cleveland State,False,-0.31,155.05,-3.50,147.50,4.50,149.50,Draft Kings,2026-11-21T05:31:38Z
+2026-11-21T05:32:42Z,401911199,2026-11-21,Fordham,Portland,True,-5.39,147.30,-5.50,148.50,-6.50,151.50,Draft Kings,2026-11-21T05:31:38Z
