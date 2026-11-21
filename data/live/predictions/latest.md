@@ -18,11 +18,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 4:00 PM | Pennsylvania | La Salle | -0.7 | +2.5 | +1.5 | -3.2 | yes |
 | 11-21 | Sat 3:00 PM | Drake | Missouri State | -0.3 | -3.5 | -3.5 | +3.2 | yes |
 | 11-21 | Sat 7:30 PM | Presbyterian | Tennessee Tech | +5.3 | +8.5 | +5.5 | -3.2 | yes |
+| 11-21 | Sat 2:00 PM | Cornell | Morgan State | -8.5 | -5.5 | -6.5 | -3.0 | yes |
 | 11-21 | Sat 8:00 PM | Texas A&M-Corpus Christi | Oral Roberts | +0.5 | +3.5 | +3.5 | -3.0 | yes |
 | 11-21 | Sat 1:00 PM | New Hampshire | New Haven | +0.4 | -2.5 | -1.5 | +2.9 | yes |
 | 11-21 | Sat 5:00 PM | Winthrop | Wofford | +3.8 | +6.5 | +4.5 | -2.7 | yes |
 | 11-21 | Sat 3:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
-| 11-21 | Sat 7:00 PM | Gardner-Webb | VMI | +6.0 | +8.5 | +8.5 | -2.5 | yes |
 
 ## Top 25 by rating
 
