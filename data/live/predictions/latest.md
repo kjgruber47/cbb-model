@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.3 | +13.5 | +13.5 | -3.2 | yes |
 | 11-21 | Sat 4:00 PM | Pennsylvania | La Salle | -0.7 | +2.5 | +1.5 | -3.2 | yes |
 | 11-21 | Sat 3:00 PM | Drake | Missouri State | -0.3 | -3.5 | -3.5 | +3.2 | yes |
-| 11-21 | Sat 7:30 PM | Presbyterian | Tennessee Tech | +5.3 | +8.5 | +5.5 | -3.2 | yes |
 | 11-21 | Sat 2:00 PM | Cornell | Morgan State | -8.5 | -5.5 | -6.5 | -3.0 | yes |
 | 11-21 | Sat 8:00 PM | Texas A&M-Corpus Christi | Oral Roberts | +0.5 | +3.5 | +3.5 | -3.0 | yes |
+| 11-21 | Sat 5:00 PM | Southern Miss | Nicholls (N) | -1.4 | +1.5 | -4.5 | -2.9 | yes |
 
 ## Top 25 by rating
 
