@@ -8,8 +8,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-21 | Sat 1:00 PM | Queens University | LSU | +22.1 | +27.5 | +27.5 | -5.4 | yes |
 | 11-21 | Sat 6:00 PM | Coppin State | Georgetown | +26.9 | +31.5 | +32.5 | -4.6 | yes |
-| 11-21 | Sat 1:00 PM | Queens University | LSU | +22.1 | +26.5 | +27.5 | -4.4 | yes |
 | 11-21 | Sat 2:00 PM | Little Rock | North Florida | -0.2 | -4.5 | -4.5 | +4.3 | yes |
 | 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.8 | +6.5 | +6.5 | +4.3 | yes |
 | 11-21 | Sat 4:00 PM | South Florida | George Mason | -0.6 | +3.5 | +2.5 | -4.1 | yes |
@@ -19,7 +19,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 7:30 PM | Presbyterian | Tennessee Tech | +5.3 | +8.5 | +5.5 | -3.2 | yes |
 | 11-21 | Sat 7:00 PM | Brown | Vermont | +6.6 | +3.5 | +4.5 | +3.1 | yes |
 | 11-21 | Sat 1:00 PM | New Hampshire | New Haven | +0.4 | -2.5 | -1.5 | +2.9 | yes |
-| 11-21 | Sat 4:00 PM | Central Arkansas | Jacksonville | -5.3 | -2.5 | -2.5 | -2.8 | yes |
+| 11-21 | Sat 5:00 PM | Winthrop | Wofford | +3.8 | +6.5 | +4.5 | -2.7 | yes |
 | 11-21 | Sat 3:00 PM | TBD | TBD (N) | +0.0 | -2.5 | -2.5 | +2.5 | yes |
 | 11-21 | Sat 7:00 PM | Gardner-Webb | VMI | +6.0 | +8.5 | +8.5 | -2.5 | yes |
 | 11-21 | Sat 7:00 PM | Northern Arizona | Cal Poly | +10.0 | +7.5 | +6.5 | +2.5 | yes |
