@@ -11,11 +11,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 1:00 PM | Queens University | LSU | +21.9 | +26.5 | +27.5 | -4.6 | yes |
 | 11-21 | Sat 6:00 PM | Coppin State | Georgetown | +27.1 | +31.5 | +32.5 | -4.4 | yes |
 | 11-21 | Sat 4:00 PM | South Florida | George Mason | -0.7 | +3.5 | +2.5 | -4.2 | yes |
-| 11-21 | Sat 1:00 PM | Kent State | Cleveland State | -0.3 | -4.5 | +4.5 | +4.2 | yes |
 | 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.6 | +6.5 | +6.5 | +4.1 | yes |
 | 11-21 | Sat 2:00 PM | Little Rock | North Florida | -0.6 | -4.5 | -4.5 | +3.9 | yes |
 | 11-21 | Sat 7:30 PM | Presbyterian | Tennessee Tech | +4.9 | +8.5 | +5.5 | -3.6 | yes |
 | 11-21 | Sat 3:00 PM | Drake | Missouri State | -0.3 | -3.5 | -3.5 | +3.2 | yes |
+| 11-21 | Sat 1:00 PM | Kent State | Cleveland State | -0.3 | -3.5 | +4.5 | +3.2 | yes |
 | 11-21 | Sat 7:00 PM | Brown | Vermont | +6.7 | +3.5 | +4.5 | +3.2 | yes |
 | 11-21 | Sat 4:00 PM | Pennsylvania | La Salle | -0.7 | +2.5 | +1.5 | -3.2 | yes |
 | 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.5 | +13.5 | +13.5 | -3.0 | yes |
