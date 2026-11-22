@@ -8,6 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.3 | -13.5 | -13.5 | +23.8 | yes |
 | 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.7 | +40.5 | +39.5 | -5.8 | yes |
 | 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.8 | +5.5 | +6.5 | +5.3 | yes |
 | 11-22 | Sun 4:30 PM | Richmond | Liberty (N) | -3.5 | +1.5 | +1.5 | -5.0 | yes |
@@ -20,7 +21,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-21 | Sat 1:00 PM | Queens University | LSU | +22.1 | +25.5 | +27.5 | -3.4 | yes |
 | 11-21 | Sat 1:00 PM | Kent State | Cleveland State | -0.2 | -3.5 | +4.5 | +3.3 | yes |
 | 11-22 | Sun 1:00 PM | Dayton | Northwestern (N) | -0.2 | -3.5 | -3.5 | +3.3 | yes |
-| 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.3 | +13.5 | +13.5 | -3.2 | yes |
 | 11-21 | Sat 4:00 PM | Pennsylvania | La Salle | -0.7 | +2.5 | +1.5 | -3.2 | yes |
 | 11-21 | Sat 3:00 PM | Drake | Missouri State | -0.3 | -3.5 | -3.5 | +3.2 | yes |
 
