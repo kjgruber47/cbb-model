@@ -9,20 +9,20 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.3 | -13.5 | -13.5 | +23.8 | yes |
-| 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.7 | +40.5 | +39.5 | -5.8 | yes |
+| 11-21 | Sat 8:00 PM | Troy | Valparaiso (N) | +4.7 | -4.5 | -4.5 | +9.2 | yes |
+| 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.9 | -1.5 | -1.5 | +7.4 | yes |
+| 11-22 | Sun 4:30 PM | IU Indianapolis | Maryland Eastern Shore (N) | -4.5 | -10.5 | -10.5 | +6.0 | yes |
 | 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.8 | +5.5 | +6.5 | +5.3 | yes |
 | 11-22 | Sun 4:30 PM | Richmond | Liberty (N) | -3.5 | +1.5 | +1.5 | -5.0 | yes |
 | 11-22 | Sun 12:00 PM | Nebraska | Butler (N) | -16.4 | -11.5 | -11.5 | -4.9 | yes |
+| 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.7 | +39.5 | +39.5 | -4.8 | yes |
 | 11-21 | Sat 6:00 PM | Coppin State | Georgetown | +26.9 | +31.5 | +32.5 | -4.6 | yes |
-| 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.9 | +1.5 | -1.5 | +4.4 | yes |
 | 11-21 | Sat 2:00 PM | Little Rock | North Florida | -0.2 | -4.5 | -4.5 | +4.3 | yes |
 | 11-21 | Sat 4:00 PM | South Florida | George Mason | -0.6 | +3.5 | +2.5 | -4.1 | yes |
+| 11-22 | Sun 3:30 PM | Mercyhurst | UAlbany (N) | -2.1 | +1.5 | +1.5 | -3.6 | yes |
 | 11-22 | Sun 2:00 PM | William & Mary | Youngstown State | +1.0 | -2.5 | -2.5 | +3.5 | yes |
 | 11-21 | Sat 1:00 PM | Queens University | LSU | +22.1 | +25.5 | +27.5 | -3.4 | yes |
 | 11-21 | Sat 1:00 PM | Kent State | Cleveland State | -0.2 | -3.5 | +4.5 | +3.3 | yes |
-| 11-22 | Sun 1:00 PM | Dayton | Northwestern (N) | -0.2 | -3.5 | -3.5 | +3.3 | yes |
-| 11-21 | Sat 4:00 PM | Pennsylvania | La Salle | -0.7 | +2.5 | +1.5 | -3.2 | yes |
-| 11-21 | Sat 3:00 PM | Drake | Missouri State | -0.3 | -3.5 | -3.5 | +3.2 | yes |
 
 ## Top 25 by rating
 
