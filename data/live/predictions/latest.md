@@ -14,7 +14,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +5.5 | +7.5 | -5.7 | yes |
 | 11-22 | Sun 4:30 PM | Richmond | Liberty (N) | -3.6 | +1.5 | +1.5 | -5.1 | yes |
 | 11-22 | Sun 12:00 PM | Nebraska | Butler (N) | -16.4 | -11.5 | -11.5 | -4.9 | yes |
-| 11-22 | Sun 1:00 PM | Towson | American University | +3.2 | -1.5 | +1.5 | +4.7 | yes |
 | 11-22 | Sun 2:00 PM | William & Mary | Youngstown State | +1.3 | -2.5 | -2.5 | +3.8 | yes |
 | 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.8 | +38.5 | +39.5 | -3.7 | yes |
 | 11-22 | Sun 5:00 PM | UNC Asheville | Samford | +6.8 | +10.5 | +9.5 | -3.7 | yes |
@@ -23,6 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-22 | Sun 2:00 PM | Wyoming | Duquesne (N) | -6.5 | -3.5 | -4.5 | -3.0 | yes |
 | 11-22 | Sun 6:00 PM | Utah | Minnesota (N) | +11.5 | +8.5 | +10.5 | +3.0 | yes |
 | 11-22 | Sun 5:30 PM | Temple | Stephen F. Austin (N) | +0.3 | -2.5 | -1.5 | +2.8 | yes |
+| 11-22 | Sun 9:30 PM | Seattle U | UC San Diego (N) | +1.1 | -1.5 | +1.5 | +2.6 | yes |
 
 ## Top 25 by rating
 
