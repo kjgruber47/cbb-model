@@ -19,8 +19,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-22 | Sun 2:00 PM | William & Mary | Youngstown State | +1.0 | -2.5 | -2.5 | +3.5 | yes |
 | 11-22 | Sun 2:00 PM | Wyoming | Duquesne (N) | -6.9 | -3.5 | -4.5 | -3.4 | yes |
 | 11-22 | Sun 1:00 PM | Dayton | Northwestern (N) | -0.2 | -3.5 | -3.5 | +3.3 | yes |
-| 11-22 | Sun 1:00 PM | Fairfield | Long Island University | +5.8 | +2.5 | +2.5 | +3.3 | yes |
 | 11-22 | Sun 5:00 PM | UNC Asheville | Samford | +7.0 | +9.5 | +9.5 | -2.5 | yes |
+| 11-22 | Sun 1:00 PM | Fairfield | Long Island University | +5.8 | +3.5 | +2.5 | +2.3 | yes |
 | 11-22 | Sun 1:00 PM | Chicago State | Marquette | +32.4 | +34.5 | +33.5 | -2.1 | yes |
 | 11-22 | Sun 12:00 PM | Miami (OH) | UIC (N) | +0.6 | -1.5 | +1.5 | +2.1 | yes |
 
