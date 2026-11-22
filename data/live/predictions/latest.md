@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | -1.5 | -1.5 | +7.2 | yes |
 | 11-22 | Sun 4:30 PM | IU Indianapolis | Maryland Eastern Shore (N) | -4.3 | -10.5 | -10.5 | +6.2 | yes |
-| 11-22 | Sun 2:00 PM | UMass Lowell | Cincinnati | +34.5 | +28.5 | +31.5 | +6.0 | yes |
+| 11-22 | Sun 2:00 PM | San Diego | Fordham (N) | +4.4 | -1.5 | -2.5 | +5.9 | yes |
 | 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +5.5 | +7.5 | -5.7 | yes |
-| 11-22 | Sun 4:30 PM | Richmond | Liberty (N) | -3.6 | +1.5 | +1.5 | -5.1 | yes |
+| 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | +1.5 | -1.5 | +4.2 | yes |
+| 11-22 | Sun 2:00 PM | UMass Lowell | Cincinnati | +34.5 | +30.5 | +31.5 | +4.0 | yes |
 | 11-22 | Sun 12:00 PM | Nebraska | Butler (N) | -16.4 | -12.5 | -11.5 | -3.9 | yes |
 | 11-22 | Sun 2:00 PM | William & Mary | Youngstown State | +1.3 | -2.5 | -2.5 | +3.8 | yes |
 | 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.8 | +38.5 | +39.5 | -3.7 | yes |
 | 11-22 | Sun 5:00 PM | UNC Asheville | Samford | +6.8 | +10.5 | +9.5 | -3.7 | yes |
 | 11-22 | Sun 1:00 PM | Dayton | Northwestern (N) | -0.1 | -3.5 | -3.5 | +3.4 | yes |
+| 11-22 | Sun 1:00 PM | Fairfield | Long Island University | +5.9 | +2.5 | +2.5 | +3.4 | yes |
 | 11-22 | Sun 5:00 PM | NJIT | Boston College | +26.6 | +23.5 | +24.5 | +3.1 | yes |
-| 11-22 | Sun 6:00 PM | Utah | Minnesota (N) | +11.5 | +8.5 | +10.5 | +3.0 | yes |
 | 11-22 | Sun 1:00 PM | Chicago State | Marquette | +32.6 | +35.5 | +33.5 | -2.9 | yes |
 | 11-22 | Sun 5:30 PM | Temple | Stephen F. Austin (N) | +0.3 | -2.5 | -1.5 | +2.8 | yes |
-| 11-22 | Sun 9:30 PM | Seattle U | UC San Diego (N) | +1.1 | -1.5 | +1.5 | +2.6 | yes |
+| 11-22 | Sun 2:00 PM | Evansville | Memphis | +21.8 | +19.5 | +21.5 | +2.3 | yes |
 
 ## Top 25 by rating
 
