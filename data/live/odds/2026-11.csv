@@ -44254,3 +44254,6 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-22T09:12:00Z,401925013,2026-11-22,2026-11-22T22:00Z,STATUS_SCHEDULED,True,2320,Lamar Cardinals,242,Rice Owls,0,0,scoreboard,100,DraftKings,close,-2.5,167.5,-130.0,110.0,-112.0,,-115.0,-105.0,LAM -2.5
 2026-11-22T09:12:00Z,401925013,2026-11-22,2026-11-22T22:00Z,STATUS_SCHEDULED,True,2320,Lamar Cardinals,242,Rice Owls,0,0,core,100,DraftKings,current,-2.5,167.5,-130,110,-112.0,,-115.0,-105.0,LAM -2.5
 2026-11-22T09:12:00Z,401922293,2026-11-22,2026-11-22T22:00Z,STATUS_SCHEDULED,False,2535,Samford Bulldogs,2427,UNC Asheville Bulldogs,0,0,core,100,DraftKings,current,-9.5,155.5,-410,320,-110.0,-110.0,-112.0,-108.0,SAM -9.5
+2026-11-22T09:42:00Z,401912212,2026-11-22,2026-11-22T18:00Z,STATUS_SCHEDULED,False,44,American University Eagles,119,Towson Tigers,0,0,core,100,DraftKings,current,1.5,129.5,-108,-112,-125.0,105.0,-110.0,-110.0,TOW -1.5
+2026-11-22T09:42:00Z,401922293,2026-11-22,2026-11-22T22:00Z,STATUS_SCHEDULED,False,2535,Samford Bulldogs,2427,UNC Asheville Bulldogs,0,0,scoreboard,100,DraftKings,current,-9.5,155.5,,,,,,,SAM -9.5
+2026-11-22T09:42:00Z,401922293,2026-11-22,2026-11-22T22:00Z,STATUS_SCHEDULED,False,2535,Samford Bulldogs,2427,UNC Asheville Bulldogs,0,0,scoreboard,100,DraftKings,close,-9.5,155.5,-410.0,320.0,-110.0,-110.0,-112.0,-108.0,SAM -9.5
