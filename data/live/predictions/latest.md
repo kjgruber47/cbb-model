@@ -9,8 +9,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-22 | Sun 4:30 PM | IU Indianapolis | Maryland Eastern Shore (N) | -4.3 | -10.5 | -10.5 | +6.2 | yes |
+| 11-23 | Mon 8:00 PM | Denver | Kansas | +31.5 | +37.5 | +37.5 | -6.0 | yes |
 | 11-22 | Sun 2:00 PM | San Diego | Fordham (N) | +4.4 | -1.5 | -2.5 | +5.9 | yes |
 | 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +5.5 | +7.5 | -5.7 | yes |
+| 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.2 | +11.5 | +11.5 | -4.3 | yes |
+| 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.3 | +7.5 | +6.5 | -4.2 | yes |
 | 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | +1.5 | -1.5 | +4.2 | yes |
 | 11-22 | Sun 5:00 PM | NJIT | Boston College | +26.6 | +22.5 | +24.5 | +4.1 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +8.5 | +4.5 | +4.5 | +4.0 | yes |
@@ -19,10 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-22 | Sun 2:00 PM | William & Mary | Youngstown State | +1.3 | -2.5 | -2.5 | +3.8 | yes |
 | 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.8 | +38.5 | +39.5 | -3.7 | yes |
 | 11-22 | Sun 5:00 PM | UNC Asheville | Samford | +6.8 | +10.5 | +9.5 | -3.7 | yes |
-| 11-22 | Sun 1:00 PM | Dayton | Northwestern (N) | -0.1 | -3.5 | -3.5 | +3.4 | yes |
-| 11-22 | Sun 1:00 PM | Fairfield | Long Island University | +5.9 | +2.5 | +2.5 | +3.4 | yes |
-| 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.3 | +6.5 | +6.5 | -3.2 | yes |
-| 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -5.5 | -5.5 | -3.0 | yes |
+| 11-23 | Mon 1:30 PM | Akron | Wright State (N) | +5.1 | +1.5 | +1.5 | +3.6 | yes |
 
 ## Top 25 by rating
 
