@@ -8,12 +8,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | -1.5 | -1.5 | +7.2 | yes |
 | 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +6.5 | +7.5 | -6.7 | yes |
 | 11-22 | Sun 4:30 PM | IU Indianapolis | Maryland Eastern Shore (N) | -4.3 | -10.5 | -10.5 | +6.2 | yes |
 | 11-22 | Sun 4:30 PM | Richmond | Liberty (N) | -3.6 | +1.5 | +1.5 | -5.1 | yes |
 | 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.8 | +39.5 | +39.5 | -4.7 | yes |
 | 11-22 | Sun 3:30 PM | Mercyhurst | UAlbany (N) | -2.9 | +1.5 | +1.5 | -4.4 | yes |
-| 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | +1.5 | -1.5 | +4.2 | yes |
 | 11-22 | Sun 2:00 PM | UMass Lowell | Cincinnati | +34.5 | +30.5 | +31.5 | +4.0 | yes |
 | 11-22 | Sun 12:00 PM | Nebraska | Butler (N) | -16.4 | -12.5 | -11.5 | -3.9 | yes |
 | 11-22 | Sun 2:00 PM | William & Mary | Youngstown State | +1.3 | -2.5 | -2.5 | +3.8 | yes |
