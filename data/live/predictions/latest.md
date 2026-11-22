@@ -12,7 +12,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 8:00 PM | Denver | Kansas | +31.5 | +37.5 | +37.5 | -6.0 | yes |
 | 11-22 | Sun 2:00 PM | San Diego | Fordham (N) | +4.4 | -1.5 | -2.5 | +5.9 | yes |
 | 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +5.5 | +7.5 | -5.7 | yes |
-| 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.2 | +11.5 | +11.5 | -4.3 | yes |
+| 11-23 | Mon 4:30 PM | Nevada | San Francisco (N) | -10.8 | -6.5 | -7.5 | -4.3 | yes |
 | 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.3 | +7.5 | +6.5 | -4.2 | yes |
 | 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | +1.5 | -1.5 | +4.2 | yes |
 | 11-22 | Sun 5:00 PM | NJIT | Boston College | +26.6 | +22.5 | +24.5 | +4.1 | yes |
