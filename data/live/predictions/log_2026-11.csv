@@ -10238,3 +10238,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-22T05:11:18Z,401921817,2026-11-24,Evansville,Missouri,False,28.59,147.60,,,,,,
 2026-11-22T05:11:18Z,401909699,2026-11-24,UNC Asheville,Florida State,False,24.36,156.93,,,,,,
 2026-11-22T05:11:18Z,401911253,2026-11-24,Grand Canyon,Saint Louis,True,-1.06,164.57,,,,,,
+2026-11-22T05:41:16Z,401920381,2026-11-22,Virginia Tech,Oklahoma State,True,-1.37,164.12,-1.50,159.50,1.50,158.50,Draft Kings,2026-11-22T05:40:01Z
+2026-11-22T05:41:16Z,401928999,2026-11-22,Southern Miss,Valparaiso,True,9.34,145.57,7.50,144.50,8.50,144.50,Draft Kings,2026-11-22T05:40:01Z
