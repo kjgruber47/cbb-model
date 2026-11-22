@@ -10258,3 +10258,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-22T08:12:51Z,401919809,2026-11-22,Fairfield,Long Island University,False,5.82,141.72,3.50,145.50,2.50,143.50,DraftKings,2026-11-22T08:11:59Z
 2026-11-22T08:12:51Z,401912212,2026-11-22,Towson,American University,False,3.42,131.21,1.50,132.50,1.50,132.50,DraftKings,2026-11-22T08:11:59Z
 2026-11-22T08:12:51Z,401929202,2026-11-22,McNeese,Texas State,False,2.10,145.44,2.50,142.50,2.50,142.50,DraftKings,2026-11-22T08:11:59Z
+2026-11-22T08:42:52Z,401912212,2026-11-22,Towson,American University,False,3.42,131.21,-1.50,129.50,1.50,132.50,DraftKings,2026-11-22T08:41:59Z
