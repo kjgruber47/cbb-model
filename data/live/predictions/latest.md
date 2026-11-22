@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-22 | Sun 5:00 PM | NJIT | Boston College | +26.6 | +23.5 | +24.5 | +3.1 | yes |
 | 11-22 | Sun 1:00 PM | Chicago State | Marquette | +32.6 | +35.5 | +33.5 | -2.9 | yes |
 | 11-22 | Sun 5:30 PM | Temple | Stephen F. Austin (N) | +0.3 | -2.5 | -1.5 | +2.8 | yes |
-| 11-22 | Sun 2:00 PM | Evansville | Memphis | +21.8 | +19.5 | +21.5 | +2.3 | yes |
+| 11-22 | Sun 4:30 PM | UC Irvine | Loyola Marymount (N) | -1.2 | +1.5 | +2.5 | -2.7 | yes |
 
 ## Top 25 by rating
 
