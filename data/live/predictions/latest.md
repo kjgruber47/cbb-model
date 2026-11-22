@@ -12,7 +12,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-22 | Sun 4:30 PM | IU Indianapolis | Maryland Eastern Shore (N) | -4.3 | -10.5 | -10.5 | +6.2 | yes |
 | 11-22 | Sun 4:30 PM | Richmond | Liberty (N) | -3.6 | +1.5 | +1.5 | -5.1 | yes |
 | 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.8 | +39.5 | +39.5 | -4.7 | yes |
-| 11-22 | Sun 1:00 PM | Towson | American University | +3.2 | -1.5 | +1.5 | +4.7 | yes |
 | 11-22 | Sun 3:30 PM | Mercyhurst | UAlbany (N) | -2.9 | +1.5 | +1.5 | -4.4 | yes |
 | 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | +1.5 | -1.5 | +4.2 | yes |
 | 11-22 | Sun 2:00 PM | UMass Lowell | Cincinnati | +34.5 | +30.5 | +31.5 | +4.0 | yes |
@@ -23,6 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-22 | Sun 7:00 PM | California Baptist | Portland (N) | +6.4 | +9.5 | +10.5 | -3.1 | yes |
 | 11-22 | Sun 2:00 PM | Wyoming | Duquesne (N) | -6.5 | -3.5 | -4.5 | -3.0 | yes |
 | 11-22 | Sun 5:00 PM | UNC Asheville | Samford | +6.8 | +9.5 | +9.5 | -2.7 | yes |
+| 11-22 | Sun 4:30 PM | UC Irvine | Loyola Marymount (N) | -1.2 | -3.5 | -2.5 | +2.3 | yes |
 
 ## Top 25 by rating
 
