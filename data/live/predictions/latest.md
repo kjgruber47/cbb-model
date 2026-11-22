@@ -10,7 +10,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-21 | Sat 7:00 PM | California Baptist | Loyola Marymount (N) | +10.3 | -13.5 | -13.5 | +23.8 | yes |
 | 11-21 | Sat 8:00 PM | Troy | Valparaiso (N) | +4.7 | -4.5 | -4.5 | +9.2 | yes |
-| 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +7.5 | +7.5 | -7.7 | yes |
+| 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +6.5 | +7.5 | -6.7 | yes |
 | 11-22 | Sun 4:30 PM | IU Indianapolis | Maryland Eastern Shore (N) | -4.5 | -10.5 | -10.5 | +6.0 | yes |
 | 11-21 | Sat 4:00 PM | Longwood | East Tennessee State | +10.8 | +5.5 | +6.5 | +5.3 | yes |
 | 11-22 | Sun 4:30 PM | Richmond | Liberty (N) | -3.5 | +1.5 | +1.5 | -5.0 | yes |
