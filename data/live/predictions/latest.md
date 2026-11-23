@@ -1,4 +1,4 @@
-# Predictions for Sunday, November 22, 2026
+# Predictions for Monday, November 23, 2026
 
 Ratings fit on 915 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-22 | Sun 4:30 PM | IU Indianapolis | Maryland Eastern Shore (N) | -4.3 | -10.5 | -10.5 | +6.2 | yes |
-| 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +5.5 | +7.5 | -5.7 | yes |
-| 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.2 | +11.5 | +11.5 | -4.3 | yes |
-| 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | +1.5 | -1.5 | +4.2 | yes |
-| 11-22 | Sun 5:00 PM | NJIT | Boston College | +26.6 | +22.5 | +24.5 | +4.1 | yes |
+| 11-23 | Mon 4:30 PM | Nevada | San Francisco (N) | -10.8 | -6.5 | -7.5 | -4.3 | yes |
 | 11-23 | Mon 8:00 PM | Denver | Kansas | +31.5 | +35.5 | +37.5 | -4.0 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +8.5 | +4.5 | +4.5 | +4.0 | yes |
-| 11-22 | Sun 2:00 PM | UMass Lowell | Cincinnati | +34.5 | +30.5 | +31.5 | +4.0 | yes |
-| 11-22 | Sun 12:00 PM | Nebraska | Butler (N) | -16.4 | -12.5 | -11.5 | -3.9 | yes |
-| 11-22 | Sun 2:00 PM | William & Mary | Youngstown State | +1.3 | -2.5 | -2.5 | +3.8 | yes |
-| 11-22 | Sun 3:00 PM | Southern Indiana | Texas | +34.8 | +38.5 | +39.5 | -3.7 | yes |
-| 11-22 | Sun 5:00 PM | UNC Asheville | Samford | +6.8 | +10.5 | +9.5 | -3.7 | yes |
 | 11-23 | Mon 1:30 PM | Akron | Wright State (N) | +5.1 | +1.5 | +1.5 | +3.6 | yes |
-| 11-22 | Sun 1:00 PM | Dayton | Northwestern (N) | -0.1 | -3.5 | -3.5 | +3.4 | yes |
-| 11-22 | Sun 1:00 PM | Fairfield | Long Island University | +5.9 | +2.5 | +2.5 | +3.4 | yes |
+| 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.2 | +10.5 | +11.5 | -3.3 | yes |
+| 11-23 | Mon 3:30 PM | William & Mary | IU Indianapolis (N) | -7.8 | -4.5 | -4.5 | -3.3 | yes |
+| 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.3 | +6.5 | +6.5 | -3.2 | yes |
+| 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -5.5 | -5.5 | -3.0 | yes |
+| 11-23 | Mon 7:00 PM | Illinois State | Santa Clara (N) | +2.6 | +5.5 | +5.5 | -2.9 | yes |
+| 11-23 | Mon 1:00 PM | Long Beach State | Florida International | +6.6 | +9.5 | +9.5 | -2.9 | yes |
+| 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -5.5 | -5.5 | -2.7 | yes |
+| 11-23 | Mon 7:30 PM | Texas A&M-Corpus Christi | Wichita State | +18.9 | +21.5 | +21.5 | -2.6 | yes |
+| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +10.0 | +7.5 | +7.5 | +2.5 | yes |
+| 11-23 | Mon 5:00 PM | Washington | BYU (N) | +10.0 | +12.5 | +10.5 | -2.5 | yes |
+| 11-23 | Mon 6:30 PM | Maryland Eastern Shore | Youngstown State | +12.0 | +14.5 | +13.5 | -2.5 | yes |
 
 ## Top 25 by rating
 
