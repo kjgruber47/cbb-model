@@ -1,7 +1,7 @@
 date,start_et,away,home,neutral,pred_margin,market_margin,open_margin,edge,edge_vs_open,pred_total,market_total,open_total,total_edge,pred_poss,model_home_prob,market_home_prob,home_games,away_games,early_season,provider,odds_as_of,game_id,home_id,away_id
 2026-11-23,Mon 10:00 PM,Eastern Washington,UNLV,False,8.30,7.50,7.50,0.80,0.80,161.75,160.50,161.50,1.25,72.40,0.77,0.75,6,4,True,DraftKings,2026-11-23T04:28:05Z,401920721,2439,331
 2026-11-23,Mon 10:00 PM,Alabama State,California,False,20.78,19.50,19.50,1.28,1.28,147.54,144.50,148.50,3.04,69.26,0.97,0.95,5,4,True,DraftKings,2026-11-23T07:30:03Z,401918057,25,2011
-2026-11-23,Mon 11:00 AM,St. Bonaventure,App State,True,-3.20,-5.50,-5.50,2.30,2.30,135.94,133.50,133.50,2.44,63.76,0.39,0.34,4,5,True,DraftKings,2026-11-23T02:28:05Z,401927397,2026,179
+2026-11-23,Mon 11:00 AM,St. Bonaventure,App State,True,-3.20,-4.50,-5.50,1.30,2.30,135.94,134.50,133.50,1.44,63.76,0.39,0.34,4,5,True,DraftKings,2026-11-23T10:30:03Z,401927397,2026,179
 2026-11-23,Mon 11:00 AM,Northern Iowa,Davidson,True,3.20,5.50,5.50,-2.30,-2.30,140.85,141.50,142.50,-0.65,64.76,0.61,0.66,5,5,True,DraftKings,2026-11-23T07:00:03Z,401921700,2166,2460
 2026-11-23,Mon 11:30 PM,Colorado State,Arizona,True,15.86,16.50,17.50,-0.64,-1.64,152.12,159.50,158.50,-7.38,70.05,0.93,0.93,5,5,True,DraftKings,2026-11-23T08:00:03Z,401909743,12,36
 2026-11-23,Mon 11:59 PM,TBD,TBD,True,0.00,,,,,145.42,,,,69.02,0.50,,0,0,True,,,401921664,-1,-2
