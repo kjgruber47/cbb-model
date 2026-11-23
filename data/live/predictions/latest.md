@@ -8,11 +8,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-23 | Mon 4:30 PM | Nevada | San Francisco (N) | -10.8 | -6.5 | -7.5 | -4.3 | yes |
+| 11-23 | Mon 5:30 PM | TBD | TBD (N) | +0.0 | -4.5 | -4.5 | +4.5 | yes |
 | 11-23 | Mon 8:00 PM | Denver | Kansas | +31.5 | +35.5 | +37.5 | -4.0 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +8.5 | +4.5 | +4.5 | +4.0 | yes |
 | 11-23 | Mon 1:30 PM | Akron | Wright State (N) | +5.1 | +1.5 | +1.5 | +3.6 | yes |
+| 11-23 | Mon 8:00 PM | TBD | TBD (N) | +0.0 | +3.5 | +3.5 | -3.5 | yes |
 | 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.2 | +10.5 | +11.5 | -3.3 | yes |
+| 11-23 | Mon 4:30 PM | Nevada | San Francisco (N) | -10.8 | -7.5 | -7.5 | -3.3 | yes |
 | 11-23 | Mon 3:30 PM | William & Mary | IU Indianapolis (N) | -7.8 | -4.5 | -4.5 | -3.3 | yes |
 | 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.3 | +6.5 | +6.5 | -3.2 | yes |
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -5.5 | -5.5 | -3.0 | yes |
@@ -21,8 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -5.5 | -5.5 | -2.7 | yes |
 | 11-23 | Mon 7:30 PM | Texas A&M-Corpus Christi | Wichita State | +18.9 | +21.5 | +21.5 | -2.6 | yes |
 | 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +10.0 | +7.5 | +7.5 | +2.5 | yes |
-| 11-23 | Mon 5:00 PM | Washington | BYU (N) | +10.0 | +12.5 | +10.5 | -2.5 | yes |
-| 11-23 | Mon 6:30 PM | Maryland Eastern Shore | Youngstown State | +12.0 | +14.5 | +13.5 | -2.5 | yes |
 
 ## Top 25 by rating
 
