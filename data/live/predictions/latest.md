@@ -1,6 +1,6 @@
 # Predictions for Monday, November 23, 2026
 
-Ratings fit on 953 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
+Ratings fit on 802 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
 Early-season numbers (either team under 8 games) lean on the preseason ratings (last season's, adjusted for roster changes). Treat them with caution.
 
@@ -8,48 +8,48 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +8.8 | +4.5 | +4.5 | +4.3 | yes |
+| 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +10.4 | +4.5 | +4.5 | +5.9 | yes |
+| 11-23 | Mon 11:00 AM | St. Bonaventure | App State (N) | +0.7 | -4.5 | -5.5 | +5.2 | yes |
+| 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +1.1 | +5.5 | +6.5 | -4.4 | yes |
+| 11-23 | Mon 3:00 PM | Middle Tennessee | Southern Illinois (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
+| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +11.8 | +7.5 | +7.5 | +4.3 | yes |
+| 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -9.3 | -5.5 | -5.5 | -3.8 | yes |
+| 11-23 | Mon 11:00 AM | Northern Iowa | Davidson (N) | +2.7 | +6.5 | +5.5 | -3.8 | yes |
+| 11-23 | Mon 8:00 PM | Winthrop | Illinois | +46.3 | +42.5 | +45.5 | +3.8 | yes |
 | 11-23 | Mon 8:00 PM | TBD | TBD (N) | +0.0 | +3.5 | +3.5 | -3.5 | yes |
-| 11-23 | Mon 1:30 PM | Akron | Wright State (N) | +5.0 | +1.5 | +1.5 | +3.5 | yes |
-| 11-23 | Mon 4:30 PM | Nevada | San Francisco (N) | -10.9 | -7.5 | -7.5 | -3.4 | yes |
-| 11-23 | Mon 11:00 AM | Northern Iowa | Davidson (N) | +3.2 | +6.5 | +5.5 | -3.3 | yes |
-| 11-23 | Mon 3:00 PM | Middle Tennessee | Southern Illinois (N) | +1.3 | +4.5 | +1.5 | -3.2 | yes |
-| 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.3 | +10.5 | +11.5 | -3.2 | yes |
-| 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -5.5 | -5.5 | -3.0 | yes |
-| 11-23 | Mon 8:00 PM | Winthrop | Illinois | +45.3 | +42.5 | +45.5 | +2.8 | yes |
-| 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -5.5 | -5.5 | -2.7 | yes |
-| 11-23 | Mon 9:00 PM | VCU | Providence (N) | -1.0 | +1.5 | +1.5 | -2.5 | yes |
-| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +10.0 | +7.5 | +7.5 | +2.5 | yes |
-| 11-23 | Mon 5:30 PM | TBD | TBD (N) | +0.0 | -2.5 | -4.5 | +2.5 | yes |
-| 11-23 | Mon 4:00 PM | Tulane | Georgia State (N) | -0.8 | +1.5 | +1.5 | -2.3 | yes |
-| 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.2 | +5.5 | +6.5 | -2.3 | yes |
+| 11-23 | Mon 1:30 PM | Akron | Wright State (N) | +4.9 | +1.5 | +1.5 | +3.4 | yes |
+| 11-23 | Mon 7:00 PM | Fairleigh Dickinson | Iona | +12.6 | +9.5 | +8.5 | +3.1 | yes |
+| 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.6 | +10.5 | +11.5 | -2.9 | yes |
+| 11-23 | Mon 10:00 PM | Alabama State | California | +21.4 | +18.5 | +19.5 | +2.9 | yes |
+| 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.3 | -5.5 | -5.5 | -2.8 | yes |
+| 11-23 | Mon 9:00 PM | VCU | Providence (N) | -1.3 | +1.5 | +1.5 | -2.8 | yes |
 
 ## Top 25 by rating
 
 | Rank | Team | Net | Off | Def | Tempo | Games |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Illinois | +37.7 | +24.4 | +13.2 | 70.9 | 6 |
+| 1 | Illinois | +38.9 | +23.8 | +15.2 | 70.7 | 5 |
 | 2 | Houston | +33.3 | +19.5 | +13.8 | 66.8 | 6 |
-| 3 | Florida | +31.4 | +20.6 | +10.7 | 68.0 | 7 |
-| 4 | Texas Tech | +31.1 | +12.3 | +18.8 | 67.2 | 5 |
-| 5 | UConn | +28.6 | +15.3 | +13.4 | 66.1 | 5 |
-| 6 | Vanderbilt | +27.1 | +15.5 | +11.6 | 68.5 | 6 |
-| 7 | Duke | +26.8 | +12.1 | +14.7 | 70.0 | 6 |
-| 8 | Kansas | +26.7 | +14.5 | +12.2 | 70.9 | 6 |
-| 9 | Miami | +25.8 | +11.1 | +14.7 | 70.3 | 6 |
-| 10 | UCLA | +25.5 | +14.4 | +11.1 | 67.6 | 6 |
-| 11 | Michigan | +25.5 | +13.6 | +11.8 | 72.5 | 5 |
-| 12 | Iowa State | +25.2 | +9.6 | +15.6 | 67.6 | 4 |
-| 13 | Gonzaga | +24.9 | +16.4 | +8.5 | 68.5 | 4 |
-| 14 | St. John's | +24.9 | +12.7 | +12.1 | 71.1 | 5 |
-| 15 | Nebraska | +24.7 | +12.7 | +12.0 | 67.5 | 6 |
-| 16 | Arizona | +24.4 | +15.3 | +9.1 | 70.2 | 5 |
-| 17 | Cincinnati | +24.3 | +12.0 | +12.3 | 68.1 | 6 |
-| 18 | Tennessee | +23.7 | +7.9 | +15.8 | 67.0 | 5 |
-| 19 | Virginia | +23.2 | +16.9 | +6.3 | 68.0 | 7 |
-| 20 | Michigan State | +22.9 | +13.2 | +9.8 | 67.6 | 6 |
-| 21 | Texas | +22.5 | +15.4 | +7.1 | 68.4 | 6 |
-| 22 | BYU | +22.1 | +15.8 | +6.3 | 70.4 | 5 |
-| 23 | Missouri | +22.0 | +13.5 | +8.5 | 67.7 | 6 |
-| 24 | Utah State | +21.5 | +17.0 | +4.5 | 70.2 | 5 |
-| 25 | Iowa | +21.2 | +14.1 | +7.1 | 63.0 | 5 |
+| 3 | Florida | +31.7 | +21.6 | +10.1 | 68.1 | 6 |
+| 4 | Texas Tech | +31.4 | +12.6 | +18.8 | 67.3 | 5 |
+| 5 | UConn | +28.6 | +13.9 | +14.7 | 66.0 | 3 |
+| 6 | Vanderbilt | +27.7 | +15.3 | +12.5 | 68.0 | 4 |
+| 7 | Iowa State | +27.7 | +12.6 | +15.0 | 68.0 | 3 |
+| 8 | Michigan | +27.0 | +14.0 | +12.9 | 72.4 | 4 |
+| 9 | Kansas | +26.7 | +13.4 | +13.4 | 70.8 | 5 |
+| 10 | Duke | +26.7 | +12.3 | +14.4 | 70.0 | 6 |
+| 11 | Miami | +26.1 | +11.2 | +14.9 | 70.3 | 6 |
+| 12 | Cincinnati | +25.4 | +13.6 | +11.8 | 68.4 | 5 |
+| 13 | Gonzaga | +24.8 | +16.2 | +8.6 | 68.5 | 4 |
+| 14 | Tennessee | +24.7 | +10.3 | +14.5 | 66.8 | 4 |
+| 15 | St. John's | +24.7 | +12.7 | +12.0 | 71.0 | 5 |
+| 16 | Nebraska | +24.5 | +12.6 | +12.0 | 67.6 | 6 |
+| 17 | UCLA | +24.3 | +12.8 | +11.6 | 67.2 | 5 |
+| 18 | Arizona | +23.5 | +14.0 | +9.5 | 70.2 | 4 |
+| 19 | Michigan State | +23.2 | +13.2 | +9.9 | 67.6 | 6 |
+| 20 | Texas | +22.5 | +15.4 | +7.1 | 68.3 | 6 |
+| 21 | Virginia | +22.0 | +14.9 | +7.1 | 68.8 | 5 |
+| 22 | Marquette | +21.5 | +10.2 | +11.3 | 67.8 | 5 |
+| 23 | Utah State | +21.3 | +15.2 | +6.1 | 69.4 | 4 |
+| 24 | Ole Miss | +21.3 | +8.8 | +12.4 | 68.2 | 4 |
+| 25 | USC | +21.1 | +12.2 | +8.8 | 70.7 | 6 |
