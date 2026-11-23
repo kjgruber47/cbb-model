@@ -1,1 +1,1 @@
-2026-11-16T21:39:52Z: 365 of 366 teams, 5578 players; missing: 2382 empty
+2026-11-23T23:24:31Z: 364 of 366 teams, 5563 players; missing: 309 empty, 2382 empty
