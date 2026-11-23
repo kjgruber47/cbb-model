@@ -17,12 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.2 | +6.5 | +6.5 | -3.3 | yes |
 | 11-23 | Mon 1:00 PM | Long Beach State | Florida International | +6.2 | +9.5 | +9.5 | -3.3 | yes |
 | 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.3 | +10.5 | +11.5 | -3.2 | yes |
-| 11-23 | Mon 7:00 PM | Illinois State | Santa Clara (N) | +2.5 | +5.5 | +5.5 | -3.0 | yes |
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -5.5 | -5.5 | -3.0 | yes |
 | 11-23 | Mon 7:30 PM | Texas A&M-Corpus Christi | Wichita State | +18.5 | +21.5 | +21.5 | -3.0 | yes |
 | 11-23 | Mon 3:30 PM | William & Mary | IU Indianapolis (N) | -7.3 | -4.5 | -4.5 | -2.8 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -5.5 | -5.5 | -2.7 | yes |
 | 11-23 | Mon 6:30 PM | Maryland Eastern Shore | Youngstown State | +11.9 | +14.5 | +13.5 | -2.6 | yes |
+| 11-23 | Mon 9:00 PM | VCU | Providence (N) | -1.0 | +1.5 | +1.5 | -2.5 | yes |
 
 ## Top 25 by rating
 
