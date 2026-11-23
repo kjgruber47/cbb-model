@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 8:00 PM | Denver | Kansas | +31.1 | +33.5 | +37.5 | -2.4 | yes |
 | 11-23 | Mon 4:00 PM | Tulane | Georgia State (N) | -0.8 | +1.5 | +1.5 | -2.3 | yes |
 | 11-23 | Mon 11:00 AM | Northern Iowa | Davidson (N) | +3.2 | +5.5 | +5.5 | -2.3 | yes |
+| 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.2 | +5.5 | +6.5 | -2.3 | yes |
 | 11-23 | Mon 10:00 PM | Alabama State | California | +20.7 | +18.5 | +19.5 | +2.2 | yes |
-| 11-23 | Mon 3:00 PM | Middle Tennessee | Southern Illinois (N) | +1.3 | +3.5 | +1.5 | -2.2 | yes |
 
 ## Top 25 by rating
 
