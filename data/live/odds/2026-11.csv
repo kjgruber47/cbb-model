@@ -45735,3 +45735,5 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-23T09:30:04Z,401929286,2026-11-23,2026-11-23T21:00Z,STATUS_SCHEDULED,True,2057,Belmont Bruins,43,Yale Bulldogs,0,0,scoreboard,100,DraftKings,current,-2.5,143.5,,,,,,,BEL -2.5
 2026-11-23T09:30:04Z,401929286,2026-11-23,2026-11-23T21:00Z,STATUS_SCHEDULED,True,2057,Belmont Bruins,43,Yale Bulldogs,0,0,scoreboard,100,DraftKings,close,-2.5,143.5,-155.0,130.0,-118.0,-102.0,-108.0,-112.0,BEL -2.5
 2026-11-23T09:30:04Z,401929286,2026-11-23,2026-11-23T21:00Z,STATUS_SCHEDULED,True,2057,Belmont Bruins,43,Yale Bulldogs,0,0,core,100,DraftKings,current,-2.5,143.5,-155,130,-118.0,-102.0,-108.0,-112.0,BEL -2.5
+2026-11-23T10:00:04Z,401909800,2026-11-25,2026-11-25T05:30Z,STATUS_SCHEDULED,True,2306,Kansas State Wildcats,2250,Gonzaga Bulldogs,0,0,scoreboard,100,DraftKings,close,13.5,158.5,,,-110.0,-110.0,-105.0,-115.0,GONZ -13.5
+2026-11-23T10:00:04Z,401909800,2026-11-25,2026-11-25T05:30Z,STATUS_SCHEDULED,True,2306,Kansas State Wildcats,2250,Gonzaga Bulldogs,0,0,core,100,DraftKings,current,13.5,158.5,,,-110.0,-110.0,-105.0,-115.0,GONZ -13.5
