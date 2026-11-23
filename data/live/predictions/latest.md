@@ -8,7 +8,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-23 | Mon 5:30 PM | TBD | TBD (N) | +0.0 | -4.5 | -4.5 | +4.5 | yes |
 | 11-23 | Mon 8:00 PM | Denver | Kansas | +31.1 | +35.5 | +37.5 | -4.4 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +8.8 | +4.5 | +4.5 | +4.3 | yes |
 | 11-23 | Mon 8:00 PM | TBD | TBD (N) | +0.0 | +3.5 | +3.5 | -3.5 | yes |
@@ -23,6 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -5.5 | -5.5 | -2.7 | yes |
 | 11-23 | Mon 6:30 PM | Maryland Eastern Shore | Youngstown State | +11.9 | +14.5 | +13.5 | -2.6 | yes |
 | 11-23 | Mon 9:00 PM | VCU | Providence (N) | -1.0 | +1.5 | +1.5 | -2.5 | yes |
+| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +10.0 | +7.5 | +7.5 | +2.5 | yes |
 
 ## Top 25 by rating
 
