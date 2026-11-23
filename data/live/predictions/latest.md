@@ -10,10 +10,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-22 | Sun 4:30 PM | IU Indianapolis | Maryland Eastern Shore (N) | -4.3 | -10.5 | -10.5 | +6.2 | yes |
 | 11-22 | Sun 3:00 PM | West Florida | South Alabama | -0.2 | +5.5 | +7.5 | -5.7 | yes |
-| 11-23 | Mon 8:00 PM | Denver | Kansas | +31.5 | +36.5 | +37.5 | -5.0 | yes |
 | 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.2 | +11.5 | +11.5 | -4.3 | yes |
 | 11-22 | Sun 2:00 PM | South Dakota | Utah Tech (N) | +5.7 | +1.5 | -1.5 | +4.2 | yes |
 | 11-22 | Sun 5:00 PM | NJIT | Boston College | +26.6 | +22.5 | +24.5 | +4.1 | yes |
+| 11-23 | Mon 8:00 PM | Denver | Kansas | +31.5 | +35.5 | +37.5 | -4.0 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +8.5 | +4.5 | +4.5 | +4.0 | yes |
 | 11-22 | Sun 2:00 PM | UMass Lowell | Cincinnati | +34.5 | +30.5 | +31.5 | +4.0 | yes |
 | 11-22 | Sun 12:00 PM | Nebraska | Butler (N) | -16.4 | -12.5 | -11.5 | -3.9 | yes |
