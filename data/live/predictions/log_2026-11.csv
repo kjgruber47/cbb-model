@@ -10954,3 +10954,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-23T12:03:06Z,401924897,2026-11-25,Mississippi Valley State,New Mexico,False,31.82,150.61,,,,,,
 2026-11-23T12:03:06Z,401917545,2026-11-25,Eastern Washington,Loyola Marymount,False,4.72,152.60,,,,,,
 2026-11-23T12:03:06Z,401921671,2026-11-25,TBD,TBD,True,0.00,145.54,,,,,,
+2026-11-23T12:33:07Z,401921700,2026-11-23,Northern Iowa,Davidson,True,3.20,140.88,5.50,142.50,5.50,142.50,Draft Kings,2026-11-23T12:31:41Z
+2026-11-23T12:33:07Z,401909788,2026-11-23,Denver,Kansas,False,31.14,153.08,35.50,158.50,37.50,156.50,Draft Kings,2026-11-23T12:31:41Z
