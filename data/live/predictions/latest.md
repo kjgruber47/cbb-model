@@ -8,6 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-23 | Mon 4:30 PM | Nevada | San Francisco (N) | -8.7 | +7.5 | +7.5 | -16.2 | yes |
 | 11-23 | Mon 3:30 PM | Arkansas State | Southern Utah (N) | -5.3 | +6.5 | -6.5 | -11.8 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +10.4 | +4.5 | +4.5 | +5.9 | yes |
 | 11-23 | Mon 11:00 AM | St. Bonaventure | App State (N) | +0.7 | -4.5 | -5.5 | +5.2 | yes |
@@ -16,13 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 3:00 PM | Middle Tennessee | Southern Illinois (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
 | 11-23 | Mon 11:00 AM | Northern Iowa | Davidson (N) | +2.7 | +6.5 | +5.5 | -3.8 | yes |
 | 11-23 | Mon 8:00 PM | Winthrop | Illinois | +46.3 | +42.5 | +45.5 | +3.8 | yes |
+| 11-24 | Tue 7:00 PM | Vanderbilt | Ohio State | -5.2 | -1.5 | -1.5 | -3.7 | yes |
 | 11-24 | Tue 3:00 PM | Miami | TCU (N) | -10.1 | -6.5 | -7.5 | -3.6 | yes |
+| 11-24 | Tue 6:00 PM | DePaul | Purdue (N) | +0.9 | +4.5 | +4.5 | -3.6 | yes |
 | 11-23 | Mon 8:00 PM | TBD | TBD (N) | +0.0 | +3.5 | +3.5 | -3.5 | yes |
 | 11-23 | Mon 4:00 PM | Tulane | Georgia State (N) | -1.0 | +2.5 | +1.5 | -3.5 | yes |
 | 11-23 | Mon 1:30 PM | Akron | Wright State (N) | +4.9 | +1.5 | +1.5 | +3.4 | yes |
-| 11-23 | Mon 7:00 PM | Fairleigh Dickinson | Iona | +12.6 | +9.5 | +8.5 | +3.1 | yes |
-| 11-24 | Tue 10:00 PM | Baylor | Alabama (N) | -0.6 | +2.5 | +1.5 | -3.1 | yes |
-| 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.6 | +10.5 | +11.5 | -2.9 | yes |
 
 ## Top 25 by rating
 
