@@ -45947,3 +45947,6 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-23T11:01:41Z,401909800,2026-11-25,2026-11-25T05:30Z,STATUS_SCHEDULED,True,2306,Kansas State Wildcats,2250,Gonzaga Bulldogs,0,0,scoreboard,100,Draft Kings,close,13.5,158.5,,,-110.0,-110.0,-105.0,-115.0,GONZ -13.5
 2026-11-23T11:01:41Z,401909800,2026-11-25,2026-11-25T05:30Z,STATUS_SCHEDULED,True,2306,Kansas State Wildcats,2250,Gonzaga Bulldogs,0,0,core,100,Draft Kings,current,13.5,158.5,,,-110.0,-110.0,-105.0,-115.0,GONZ -13.5
 2026-11-23T11:01:41Z,401909800,2026-11-25,2026-11-25T05:30Z,STATUS_SCHEDULED,True,2306,Kansas State Wildcats,2250,Gonzaga Bulldogs,0,0,core,100,Draft Kings,open,12.5,160.5,,,-102.0,-118.0,,,GONZ -13.5
+2026-11-23T11:31:40Z,401911457,2026-11-23,2026-11-23T21:30Z,STATUS_SCHEDULED,True,2539,San Francisco Dons,2440,Nevada Wolf Pack,0,0,scoreboard,100,Draft Kings,current,7.5,140.5,,,,,,,NEV -7.5
+2026-11-23T11:31:40Z,401911457,2026-11-23,2026-11-23T21:30Z,STATUS_SCHEDULED,True,2539,San Francisco Dons,2440,Nevada Wolf Pack,0,0,scoreboard,100,Draft Kings,close,7.5,140.5,250.0,-310.0,-115.0,-105.0,-112.0,-108.0,NEV -7.5
+2026-11-23T11:31:40Z,401911457,2026-11-23,2026-11-23T21:30Z,STATUS_SCHEDULED,True,2539,San Francisco Dons,2440,Nevada Wolf Pack,0,0,core,100,Draft Kings,current,7.5,140.5,250,-310,-115.0,-105.0,-112.0,-108.0,NEV -7.5
