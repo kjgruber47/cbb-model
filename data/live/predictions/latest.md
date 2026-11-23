@@ -8,11 +8,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-23 | Mon 8:00 PM | Denver | Kansas | +31.1 | +35.5 | +37.5 | -4.4 | yes |
+| 11-23 | Mon 8:00 PM | TBD | TBD (N) | +0.0 | +4.5 | +3.5 | -4.5 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +8.8 | +4.5 | +4.5 | +4.3 | yes |
-| 11-23 | Mon 8:00 PM | TBD | TBD (N) | +0.0 | +3.5 | +3.5 | -3.5 | yes |
 | 11-23 | Mon 1:30 PM | Akron | Wright State (N) | +5.0 | +1.5 | +1.5 | +3.5 | yes |
 | 11-23 | Mon 4:30 PM | Nevada | San Francisco (N) | -10.9 | -7.5 | -7.5 | -3.4 | yes |
+| 11-23 | Mon 8:00 PM | Denver | Kansas | +31.1 | +34.5 | +37.5 | -3.4 | yes |
 | 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +3.2 | +6.5 | +6.5 | -3.3 | yes |
 | 11-23 | Mon 1:00 PM | Long Beach State | Florida International | +6.2 | +9.5 | +9.5 | -3.3 | yes |
 | 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.3 | +10.5 | +11.5 | -3.2 | yes |
