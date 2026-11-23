@@ -12,7 +12,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 11:00 AM | St. Bonaventure | App State (N) | +0.7 | -4.5 | -5.5 | +5.2 | yes |
 | 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +1.1 | +5.5 | +6.5 | -4.4 | yes |
 | 11-23 | Mon 3:00 PM | Middle Tennessee | Southern Illinois (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
-| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +11.8 | +7.5 | +7.5 | +4.3 | yes |
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -9.3 | -5.5 | -5.5 | -3.8 | yes |
 | 11-23 | Mon 11:00 AM | Northern Iowa | Davidson (N) | +2.7 | +6.5 | +5.5 | -3.8 | yes |
 | 11-23 | Mon 8:00 PM | Winthrop | Illinois | +46.3 | +42.5 | +45.5 | +3.8 | yes |
@@ -20,9 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 1:30 PM | Akron | Wright State (N) | +4.9 | +1.5 | +1.5 | +3.4 | yes |
 | 11-23 | Mon 7:00 PM | Fairleigh Dickinson | Iona | +12.6 | +9.5 | +8.5 | +3.1 | yes |
 | 11-23 | Mon 9:30 PM | UNC Greensboro | Pepperdine | +7.6 | +10.5 | +11.5 | -2.9 | yes |
-| 11-23 | Mon 10:00 PM | Alabama State | California | +21.4 | +18.5 | +19.5 | +2.9 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.3 | -5.5 | -5.5 | -2.8 | yes |
 | 11-23 | Mon 9:00 PM | VCU | Providence (N) | -1.3 | +1.5 | +1.5 | -2.8 | yes |
+| 11-23 | Mon 5:00 PM | Washington | BYU (N) | +8.8 | +11.5 | +10.5 | -2.7 | yes |
+| 11-24 | Tue 3:00 PM | Miami | TCU (N) | -10.1 | -7.5 | -7.5 | -2.6 | yes |
 
 ## Top 25 by rating
 
