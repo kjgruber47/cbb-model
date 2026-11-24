@@ -13,6 +13,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 7:30 PM | West Georgia | Tennessee Tech | +9.8 | +16.5 | +17.5 | -6.7 | yes |
 | 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | -9.5 | -8.5 | -6.4 | yes |
 | 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +21.4 | +27.5 | +25.5 | -6.1 | yes |
+| 11-24 | Tue 8:00 PM | Florida A&M | South Alabama | +13.1 | +18.5 | +16.5 | -5.4 | yes |
 | 11-23 | Mon 11:00 AM | St. Bonaventure | App State (N) | +0.7 | -4.5 | -5.5 | +5.2 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +10.4 | +5.5 | +4.5 | +4.9 | yes |
 | 11-24 | Tue 6:00 PM | Eastern Michigan | Kennesaw State (N) | -0.4 | +4.5 | +4.5 | -4.9 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 3:20 PM | Middle Tennessee | Southern Illinois (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
 | 11-24 | Tue 6:00 PM | Southern Indiana | VMI | +1.2 | +5.5 | +5.5 | -4.3 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +0.2 | +4.5 | +4.5 | -4.3 | yes |
-| 11-24 | Tue 2:00 PM | Oregon State | San Francisco (N) | -6.2 | -10.5 | -10.5 | +4.3 | yes |
 
 ## Top 25 by rating
 
