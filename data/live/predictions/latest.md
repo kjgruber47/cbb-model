@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 3:00 PM | Miami | TCU (N) | -9.6 | -4.5 | -7.5 | -5.1 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +1.0 | +5.5 | +4.5 | -4.5 | yes |
 | 11-24 | Tue 7:00 PM | Bryant | Marist | +7.0 | +2.5 | +4.5 | +4.5 | yes |
-| 11-24 | Tue 6:00 PM | Southern Indiana | VMI | +1.7 | +5.5 | +5.5 | -3.8 | yes |
+| 11-24 | Tue 7:00 PM | Bellarmine | Georgia Southern (N) | +1.5 | -2.5 | -2.5 | +4.0 | yes |
 
 ## Top 25 by rating
 
