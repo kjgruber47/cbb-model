@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-23 | Mon 4:30 PM | Nevada | San Francisco (N) | -8.7 | +7.5 | +7.5 | -16.2 | yes |
-| 11-23 | Mon 3:30 PM | Arkansas State | Southern Utah (N) | -5.3 | +6.5 | -6.5 | -11.8 | yes |
-| 11-24 | Tue 7:30 PM | West Georgia | Tennessee Tech | +9.8 | +17.5 | +17.5 | -7.7 | yes |
-| 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | -8.5 | -8.5 | -7.4 | yes |
 | 11-24 | Tue 10:00 AM | Wright State | St. Bonaventure (N) | -8.8 | -1.5 | -1.5 | -7.3 | yes |
+| 11-24 | Tue 7:30 PM | West Georgia | Tennessee Tech | +9.8 | +16.5 | +17.5 | -6.7 | yes |
+| 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | -9.5 | -8.5 | -6.4 | yes |
 | 11-23 | Mon 11:00 AM | St. Bonaventure | App State (N) | +0.7 | -4.5 | -5.5 | +5.2 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +10.4 | +5.5 | +4.5 | +4.9 | yes |
 | 11-24 | Tue 6:00 PM | Eastern Michigan | Kennesaw State (N) | -0.4 | +4.5 | +4.5 | -4.9 | yes |
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -9.3 | -4.5 | -5.5 | -4.8 | yes |
 | 11-24 | Tue 9:00 PM | Evansville | Missouri | +26.7 | +31.5 | +31.5 | -4.8 | yes |
-| 11-23 | Mon 8:00 PM | TBD | TBD (N) | +0.0 | +4.5 | +3.5 | -4.5 | yes |
 | 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +1.1 | +5.5 | +6.5 | -4.4 | yes |
-| 11-23 | Mon 3:00 PM | Middle Tennessee | Southern Illinois (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
+| 11-23 | Mon 3:20 PM | Middle Tennessee | Southern Illinois (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
 | 11-24 | Tue 6:00 PM | Southern Indiana | VMI | +1.2 | +5.5 | +5.5 | -4.3 | yes |
+| 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +0.2 | +4.5 | +4.5 | -4.3 | yes |
 | 11-24 | Tue 7:00 PM | Campbell | Coastal Carolina | -1.8 | +2.5 | +1.5 | -4.3 | yes |
+| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +11.8 | +7.5 | +7.5 | +4.3 | yes |
+| 11-24 | Tue 12:30 PM | Belmont | Akron (N) | -0.3 | +3.5 | +2.5 | -3.8 | yes |
 
 ## Top 25 by rating
 
