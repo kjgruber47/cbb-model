@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -4.5 | -5.5 | -4.0 | yes |
 | 11-24 | Tue 11:59 PM | Stanford | Colorado (N) | -0.5 | -4.5 | -2.5 | +4.0 | yes |
 | 11-24 | Tue 8:00 PM | Lipscomb | Auburn | +21.6 | +25.5 | +20.5 | -3.9 | yes |
-| 11-24 | Tue 6:00 PM | Southern Indiana | VMI | +1.7 | +5.5 | +5.5 | -3.8 | yes |
 | 11-24 | Tue 8:00 PM | Green Bay | Kansas City | -2.1 | +1.5 | -1.5 | -3.6 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +1.0 | +4.5 | +4.5 | -3.5 | yes |
-| 11-24 | Tue 7:00 PM | Bryant | Marist | +7.0 | +3.5 | +4.5 | +3.5 | yes |
+| 11-24 | Tue 12:30 PM | Belmont | Akron (N) | -0.8 | +2.5 | +2.5 | -3.3 | yes |
+| 11-24 | Tue 9:00 PM | Evansville | Missouri | +28.2 | +31.5 | +31.5 | -3.3 | yes |
 
 ## Top 25 by rating
 
