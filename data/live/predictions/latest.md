@@ -10,7 +10,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-24 | Tue 2:30 PM | Ole Miss | TBD (N) | -20.2 | +1.5 | +1.5 | -21.7 | yes |
 | 11-24 | Tue 10:00 AM | Wright State | St. Bonaventure (N) | -8.8 | +1.5 | -1.5 | -10.3 | yes |
-| 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +21.4 | +28.5 | +25.5 | -7.1 | yes |
+| 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +21.4 | +29.5 | +25.5 | -8.1 | yes |
 | 11-24 | Tue 7:30 PM | West Georgia | Tennessee Tech | +9.8 | +16.5 | +17.5 | -6.7 | yes |
 | 11-24 | Tue 8:00 PM | Green Bay | Kansas City | -5.0 | +1.5 | -1.5 | -6.5 | yes |
 | 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | -9.5 | -8.5 | -6.4 | yes |
@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 11:00 AM | St. Bonaventure | App State (N) | +0.7 | -4.5 | -5.5 | +5.2 | yes |
 | 11-24 | Tue 7:00 PM | Mount St. Mary's | Morgan State | -3.6 | +1.5 | +1.5 | -5.1 | yes |
 | 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +10.4 | +5.5 | +4.5 | +4.9 | yes |
-| 11-24 | Tue 6:00 PM | Eastern Michigan | Kennesaw State (N) | -0.4 | +4.5 | +4.5 | -4.9 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.3 | -3.5 | -5.5 | -4.8 | yes |
 | 11-24 | Tue 9:00 PM | Evansville | Missouri | +26.7 | +31.5 | +31.5 | -4.8 | yes |
 | 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +1.1 | +5.5 | +6.5 | -4.4 | yes |
+| 11-24 | Tue 3:30 PM | Long Beach State | Arkansas State (N) | +1.2 | +5.5 | +3.5 | -4.3 | yes |
 
 ## Top 25 by rating
 
