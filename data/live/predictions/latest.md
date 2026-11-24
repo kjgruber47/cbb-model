@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 6:00 PM | Eastern Michigan | Kennesaw State (N) | -0.4 | +4.5 | +4.5 | -4.9 | yes |
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -9.3 | -4.5 | -5.5 | -4.8 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.3 | -3.5 | -5.5 | -4.8 | yes |
-| 11-24 | Tue 6:00 PM | Southern Indiana | VMI | +1.2 | +5.5 | +5.5 | -4.3 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +0.2 | +4.5 | +4.5 | -4.3 | yes |
+| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +11.8 | +7.5 | +7.5 | +4.3 | yes |
 
 ## Top 25 by rating
 
