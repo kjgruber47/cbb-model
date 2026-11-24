@@ -11397,3 +11397,4 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-24T02:06:28Z,401911026,2026-11-24,Central Michigan,Notre Dame,False,23.22,160.40,20.50,152.50,20.50,151.50,DraftKings,2026-11-24T02:05:29Z
 2026-11-24T02:06:28Z,401928796,2026-11-24,Sam Houston,Washington State,False,0.19,155.50,4.50,155.50,4.50,153.50,DraftKings,2026-11-24T02:05:29Z
 2026-11-24T02:06:28Z,401922023,2026-11-24,Idaho State,Boise State,False,17.08,155.29,19.50,164.50,19.50,163.50,DraftKings,2026-11-24T02:05:29Z
+2026-11-24T02:08:06Z,401920949,2026-11-24,Eastern Michigan,Kennesaw State,True,-0.40,151.42,3.50,146.50,4.50,145.50,DraftKings,2026-11-24T02:07:09Z
