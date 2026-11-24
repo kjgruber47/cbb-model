@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +23.8 | +29.5 | +25.5 | -5.7 | yes |
 | 11-24 | Tue 10:30 PM | TBD | TBD (N) | +0.0 | -5.5 | -5.5 | +5.5 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +1.0 | +5.5 | +4.5 | -4.5 | yes |
+| 11-24 | Tue 7:00 PM | Bryant | Marist | +7.0 | +2.5 | +4.5 | +4.5 | yes |
 | 11-24 | Tue 3:00 PM | Miami | TCU (N) | -9.6 | -5.5 | -7.5 | -4.1 | yes |
 | 11-24 | Tue 7:00 PM | Bellarmine | Georgia Southern (N) | +1.5 | -2.5 | +2.5 | +4.0 | yes |
-| 11-24 | Tue 11:59 PM | Stanford | Colorado (N) | -0.5 | -4.5 | -2.5 | +4.0 | yes |
 
 ## Top 25 by rating
 
