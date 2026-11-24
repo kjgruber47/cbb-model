@@ -9,6 +9,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-24 | Tue 2:30 PM | Ole Miss | TBD (N) | -21.3 | -1.5 | +1.5 | -19.8 | yes |
+| 11-24 | Tue 1:30 PM | Rice | UIC (N) | +7.3 | -7.5 | -7.5 | +14.8 | yes |
 | 11-24 | Tue 8:00 PM | Clemson | TBD (N) | -12.0 | -1.5 | -1.5 | -10.5 | yes |
 | 11-24 | Tue 5:00 PM | TBD | TBD (N) | +0.0 | +7.5 | +7.5 | -7.5 | yes |
 | 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | -8.5 | -8.5 | -7.4 | yes |
@@ -16,12 +17,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -2.5 | -5.5 | -5.7 | yes |
 | 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +23.8 | +29.5 | +25.5 | -5.7 | yes |
 | 11-24 | Tue 10:30 PM | TBD | TBD (N) | +0.0 | -5.5 | -5.5 | +5.5 | yes |
+| 11-24 | Tue 3:00 PM | Miami | TCU (N) | -9.6 | -4.5 | -7.5 | -5.1 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +1.0 | +5.5 | +4.5 | -4.5 | yes |
 | 11-24 | Tue 7:00 PM | Bryant | Marist | +7.0 | +2.5 | +4.5 | +4.5 | yes |
-| 11-24 | Tue 3:00 PM | Miami | TCU (N) | -9.6 | -5.5 | -7.5 | -4.1 | yes |
 | 11-24 | Tue 11:59 PM | Stanford | Colorado (N) | -0.5 | -4.5 | -2.5 | +4.0 | yes |
 | 11-24 | Tue 3:30 PM | Long Beach State | Arkansas State (N) | +1.5 | +5.5 | +3.5 | -4.0 | yes |
-| 11-24 | Tue 8:00 PM | Lipscomb | Auburn | +21.6 | +25.5 | +20.5 | -3.9 | yes |
 | 11-24 | Tue 6:00 PM | Southern Indiana | VMI | +1.7 | +5.5 | +5.5 | -3.8 | yes |
 
 ## Top 25 by rating
