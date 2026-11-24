@@ -9,7 +9,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-24 | Tue 2:30 PM | Ole Miss | TBD (N) | -21.3 | -1.5 | +1.5 | -19.8 | yes |
-| 11-24 | Tue 2:00 PM | Oregon State | San Francisco (N) | -10.5 | +8.5 | +10.5 | -19.0 | yes |
+| 11-24 | Tue 2:00 PM | Oregon State | San Francisco (N) | -10.5 | +7.5 | -10.5 | -18.0 | yes |
 | 11-24 | Tue 1:30 PM | Rice | UIC (N) | +7.3 | -7.5 | -7.5 | +14.8 | yes |
 | 11-24 | Tue 8:00 PM | Clemson | TBD (N) | -12.0 | -1.5 | -1.5 | -10.5 | yes |
 | 11-24 | Tue 5:00 PM | TBD | TBD (N) | +0.0 | +7.5 | +7.5 | -7.5 | yes |
