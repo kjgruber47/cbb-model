@@ -1,4 +1,4 @@
-# Predictions for Monday, November 23, 2026
+# Predictions for Tuesday, November 24, 2026
 
 Ratings fit on 802 D-I games played this season before today. Margins are from the home team's view. Edge = model minus market.
 
@@ -12,17 +12,17 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-24 | Tue 8:00 PM | Clemson | TBD (N) | -15.0 | -1.5 | -1.5 | -13.5 | yes |
 | 11-24 | Tue 10:00 AM | Wright State | St. Bonaventure (N) | -8.8 | +1.5 | -1.5 | -10.3 | yes |
 | 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +21.4 | +29.5 | +25.5 | -8.1 | yes |
-| 11-24 | Tue 7:30 PM | West Georgia | Tennessee Tech | +9.8 | +16.5 | +17.5 | -6.7 | yes |
+| 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | -8.5 | -8.5 | -7.4 | yes |
 | 11-24 | Tue 8:00 PM | Green Bay | Kansas City | -5.0 | +1.5 | -1.5 | -6.5 | yes |
-| 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | -9.5 | -8.5 | -6.4 | yes |
-| 11-24 | Tue 5:30 PM | Creighton | Michigan (N) | +10.4 | +4.5 | +4.5 | +5.9 | yes |
-| 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -9.3 | -3.5 | -5.5 | -5.8 | yes |
 | 11-24 | Tue 9:00 PM | Evansville | Missouri | +26.7 | +32.5 | +31.5 | -5.8 | yes |
+| 11-24 | Tue 7:30 PM | West Georgia | Tennessee Tech | +9.8 | +15.5 | +17.5 | -5.7 | yes |
 | 11-24 | Tue 8:00 PM | Florida A&M | South Alabama | +13.1 | +18.5 | +16.5 | -5.4 | yes |
-| 11-23 | Mon 11:00 AM | St. Bonaventure | App State (N) | +0.7 | -4.5 | -5.5 | +5.2 | yes |
 | 11-24 | Tue 7:00 PM | Mount St. Mary's | Morgan State | -3.6 | +1.5 | +1.5 | -5.1 | yes |
+| 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -9.3 | -4.5 | -5.5 | -4.8 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.3 | -3.5 | -5.5 | -4.8 | yes |
-| 11-23 | Mon 2:00 PM | Tulsa | Oregon State (N) | +1.1 | +5.5 | +6.5 | -4.4 | yes |
+| 11-24 | Tue 6:00 PM | Southern Indiana | VMI | +1.2 | +5.5 | +5.5 | -4.3 | yes |
+| 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +0.2 | +4.5 | +4.5 | -4.3 | yes |
+| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +11.8 | +7.5 | +7.5 | +4.3 | yes |
 
 ## Top 25 by rating
 
