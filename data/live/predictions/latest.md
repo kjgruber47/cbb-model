@@ -8,6 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-24 | Tue 2:30 PM | Ole Miss | TBD (N) | -20.2 | +1.5 | +1.5 | -21.7 | yes |
 | 11-24 | Tue 10:00 AM | Wright State | St. Bonaventure (N) | -8.8 | -1.5 | -1.5 | -7.3 | yes |
 | 11-24 | Tue 7:30 PM | West Georgia | Tennessee Tech | +9.8 | +16.5 | +17.5 | -6.7 | yes |
 | 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | -9.5 | -8.5 | -6.4 | yes |
@@ -20,9 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-23 | Mon 3:20 PM | Middle Tennessee | Southern Illinois (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
 | 11-24 | Tue 6:00 PM | Southern Indiana | VMI | +1.2 | +5.5 | +5.5 | -4.3 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +0.2 | +4.5 | +4.5 | -4.3 | yes |
+| 11-24 | Tue 2:00 PM | Oregon State | San Francisco (N) | -6.2 | -10.5 | -10.5 | +4.3 | yes |
 | 11-24 | Tue 7:00 PM | Campbell | Coastal Carolina | -1.8 | +2.5 | +1.5 | -4.3 | yes |
-| 11-24 | Tue 5:30 PM | San Diego State | Iowa State (N) | +11.8 | +7.5 | +7.5 | +4.3 | yes |
-| 11-24 | Tue 12:30 PM | Belmont | Akron (N) | -0.3 | +3.5 | +2.5 | -3.8 | yes |
 
 ## Top 25 by rating
 
