@@ -10,6 +10,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-25 | Wed 2:30 PM | Ole Miss | TBD (N) | -21.3 | +5.5 | +5.5 | -26.8 | yes |
 | 11-25 | Wed 5:30 PM | BYU | TBD (N) | -21.1 | -3.5 | -4.5 | -17.6 | yes |
+| 11-26 | Thu 9:00 PM | TBD | TBD (N) | +0.0 | +13.5 | +12.5 | -13.5 | yes |
 | 11-25 | Wed 12:30 PM | Northern Colorado | TBD (N) | +5.6 | -5.5 | -6.5 | +11.1 | yes |
 | 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +9.1 | -1.5 | -1.5 | +10.6 | yes |
 | 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -8.5 | +8.5 | yes |
@@ -18,11 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +1.9 | +6.5 | +6.5 | -4.6 | yes |
 | 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +8.0 | +3.5 | +4.5 | +4.5 | yes |
 | 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +12.0 | +7.5 | +7.5 | +4.5 | yes |
+| 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -4.5 | -4.5 | +4.5 | yes |
 | 11-26 | Thu 9:00 PM | TBD | TBD (N) | +0.0 | -4.5 | -4.5 | +4.5 | yes |
 | 11-25 | Wed 7:00 PM | St. Thomas | UNC Wilmington | +2.0 | +6.5 | +6.5 | -4.5 | yes |
 | 11-25 | Wed 10:00 AM | St. Bonaventure | Belmont (N) | +0.9 | -3.5 | -3.5 | +4.4 | yes |
-| 11-25 | Wed 2:00 PM | Arkansas-Pine Bluff | South Dakota | +17.9 | +21.5 | +19.5 | -3.6 | yes |
-| 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +7.5 | +7.5 | -3.6 | yes |
 
 ## Top 25 by rating
 
