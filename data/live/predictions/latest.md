@@ -12,8 +12,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 5:30 PM | BYU | TBD (N) | -20.3 | -1.5 | -4.5 | -18.8 | yes |
 | 11-26 | Thu 9:00 PM | TBD | TBD (N) | +0.0 | -14.5 | +12.5 | +14.5 | yes |
 | 11-25 | Wed 12:30 PM | Northern Colorado | TBD (N) | +7.0 | -5.5 | -6.5 | +12.5 | yes |
-| 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -9.5 | -8.5 | +9.5 | yes |
 | 11-25 | Wed 9:30 PM | TBD | TBD (N) | +0.0 | -9.5 | -9.5 | +9.5 | yes |
+| 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -9.5 | -8.5 | +9.5 | yes |
 | 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +7.9 | -1.5 | -1.5 | +9.4 | yes |
 | 11-25 | Wed 2:00 PM | Arizona State | LSU (N) | +4.1 | -3.5 | +4.5 | +7.6 | yes |
 | 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.7 | +27.5 | +27.5 | +7.2 | yes |
