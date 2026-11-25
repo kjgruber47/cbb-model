@@ -9,6 +9,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-25 | Wed 2:30 PM | Ole Miss | TBD (N) | -21.3 | +5.5 | +5.5 | -26.8 | yes |
+| 11-25 | Wed 5:30 PM | BYU | TBD (N) | -21.1 | -4.5 | -4.5 | -16.6 | yes |
 | 11-25 | Wed 12:30 PM | Northern Colorado | TBD (N) | +5.6 | -5.5 | -6.5 | +11.1 | yes |
 | 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +9.1 | -1.5 | -1.5 | +10.6 | yes |
 | 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +23.8 | +30.5 | +25.5 | -6.7 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +8.0 | +3.5 | +4.5 | +4.5 | yes |
 | 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +12.0 | +7.5 | +7.5 | +4.5 | yes |
 | 11-24 | Tue 7:00 PM | Bryant | Marist | +7.0 | +2.5 | +4.5 | +4.5 | yes |
-| 11-25 | Wed 7:00 PM | St. Thomas | UNC Wilmington | +2.0 | +6.5 | +6.5 | -4.5 | yes |
 
 ## Top 25 by rating
 
