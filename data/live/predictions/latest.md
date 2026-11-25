@@ -15,7 +15,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.5 | +28.5 | +27.5 | +6.0 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -2.5 | -5.5 | -5.7 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +1.0 | +6.5 | +4.5 | -5.5 | yes |
-| 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.8 | +36.5 | +35.5 | -4.7 | yes |
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +1.9 | +6.5 | +6.5 | -4.6 | yes |
 | 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +8.0 | +3.5 | +4.5 | +4.5 | yes |
 | 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +12.0 | +7.5 | +7.5 | +4.5 | yes |
@@ -23,6 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 7:00 PM | St. Thomas | UNC Wilmington | +2.0 | +6.5 | +6.5 | -4.5 | yes |
 | 11-25 | Wed 10:00 AM | St. Bonaventure | Belmont (N) | +0.9 | -3.5 | -3.5 | +4.4 | yes |
 | 11-24 | Tue 3:00 PM | Miami | TCU (N) | -9.6 | -5.5 | -7.5 | -4.1 | yes |
+| 11-24 | Tue 11:59 PM | Colorado | Stanford (N) | +0.5 | +4.5 | -2.5 | -4.0 | yes |
 
 ## Top 25 by rating
 
