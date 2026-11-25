@@ -9,7 +9,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-25 | Wed 2:30 PM | Ole Miss | TBD (N) | -21.3 | +5.5 | +5.5 | -26.8 | yes |
-| 11-25 | Wed 5:30 PM | BYU | TBD (N) | -21.1 | -4.5 | -4.5 | -16.6 | yes |
+| 11-25 | Wed 5:30 PM | BYU | TBD (N) | -21.1 | -3.5 | -4.5 | -17.6 | yes |
 | 11-25 | Wed 12:30 PM | Northern Colorado | TBD (N) | +5.6 | -5.5 | -6.5 | +11.1 | yes |
 | 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +9.1 | -1.5 | -1.5 | +10.6 | yes |
 | 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.5 | +28.5 | +27.5 | +6.0 | yes |
