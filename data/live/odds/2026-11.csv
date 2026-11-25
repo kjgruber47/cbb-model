@@ -52598,3 +52598,7 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-25T10:48:27Z,401919007,2026-11-25,2026-11-25T18:30Z,STATUS_SCHEDULED,True,2166,Davidson Wildcats,2655,Tulane Green Wave,0,0,core,100,Draft Kings,current,-8.5,137.5,-345,275,-112.0,-108.0,-105.0,-115.0,DAV -8.5
 2026-11-25T10:48:27Z,401921714,2026-11-26,2026-11-26T05:30Z,STATUS_SCHEDULED,True,36,Colorado State Rams,228,Clemson Tigers,0,0,scoreboard,100,Draft Kings,close,3.5,153.5,140.0,-166.0,-115.0,-105.0,-110.0,-110.0,CLEM -3.5
 2026-11-25T10:48:27Z,401921714,2026-11-26,2026-11-26T05:30Z,STATUS_SCHEDULED,True,36,Colorado State Rams,228,Clemson Tigers,0,0,core,100,Draft Kings,current,3.5,153.5,140,-166,-115.0,-105.0,-105.0,-115.0,CLEM -3.5
+2026-11-25T11:18:27Z,401921713,2026-11-25,2026-11-26T03:00Z,STATUS_SCHEDULED,True,2670,VCU Rams,264,Washington Huskies,0,0,core,100,Draft Kings,current,-3.5,147.5,-175,145,-110.0,-110.0,-110.0,-110.0,VCU -3.5
+2026-11-25T11:18:27Z,401921714,2026-11-26,2026-11-26T05:30Z,STATUS_SCHEDULED,True,36,Colorado State Rams,228,Clemson Tigers,0,0,scoreboard,100,Draft Kings,current,2.5,153.5,,,,,,,CLEM -2.5
+2026-11-25T11:18:27Z,401921714,2026-11-26,2026-11-26T05:30Z,STATUS_SCHEDULED,True,36,Colorado State Rams,228,Clemson Tigers,0,0,scoreboard,100,Draft Kings,close,2.5,153.5,140.0,-166.0,-105.0,-115.0,-105.0,-115.0,CLEM -2.5
+2026-11-25T11:18:27Z,401921714,2026-11-26,2026-11-26T05:30Z,STATUS_SCHEDULED,True,36,Colorado State Rams,228,Clemson Tigers,0,0,core,100,Draft Kings,current,2.5,153.5,140,-166,-105.0,-115.0,-105.0,-115.0,CLEM -2.5
