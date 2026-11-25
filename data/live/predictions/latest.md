@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-24 | Tue 5:30 PM | Wyoming | Kent State (N) | -15.9 | +9.5 | +8.5 | -25.4 | yes |
-| 11-24 | Tue 7:30 PM | High Point | Duquesne (N) | -12.5 | +10.5 | +9.5 | -23.0 | yes |
-| 11-24 | Tue 2:30 PM | Ole Miss | TBD (N) | -21.3 | -2.5 | +1.5 | -18.8 | yes |
-| 11-24 | Tue 2:00 PM | Oregon State | San Francisco (N) | -10.5 | +7.5 | -10.5 | -18.0 | yes |
-| 11-24 | Tue 1:30 PM | Rice | UIC (N) | +7.3 | -7.5 | -7.5 | +14.8 | yes |
-| 11-24 | Tue 8:00 PM | Clemson | TBD (N) | -12.0 | -1.5 | -1.5 | -10.5 | yes |
-| 11-24 | Tue 5:00 PM | TBD | TBD (N) | +0.0 | +7.5 | +7.5 | -7.5 | yes |
-| 11-24 | Tue 3:30 PM | Long Beach State | Arkansas State (N) | +1.5 | -5.5 | +3.5 | +7.0 | yes |
+| 11-24 | Tue 5:30 PM | Kent State | Wyoming (N) | +15.9 | +9.5 | +8.5 | +6.4 | yes |
+| 11-25 | Wed 3:30 PM | Arkansas State | Florida International | +4.5 | -1.5 | -1.5 | +6.0 | yes |
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -2.5 | -5.5 | -6.0 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -2.5 | -5.5 | -5.7 | yes |
 | 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +23.8 | +29.5 | +25.5 | -5.7 | yes |
-| 11-24 | Tue 10:30 PM | TBD | TBD (N) | +0.0 | -5.5 | -5.5 | +5.5 | yes |
-| 11-24 | Tue 8:30 PM | Charleston | UTEP (N) | -3.6 | +1.5 | +1.5 | -5.1 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +1.0 | +5.5 | +4.5 | -4.5 | yes |
+| 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +12.0 | +7.5 | +7.5 | +4.5 | yes |
 | 11-24 | Tue 7:00 PM | Bryant | Marist | +7.0 | +2.5 | +4.5 | +4.5 | yes |
+| 11-25 | Wed 10:00 AM | St. Bonaventure | Belmont (N) | +0.9 | -3.5 | -3.5 | +4.4 | yes |
+| 11-24 | Tue 3:00 PM | Miami | TCU (N) | -9.6 | -5.5 | -7.5 | -4.1 | yes |
+| 11-24 | Tue 3:45 PM | Arkansas State | Long Beach State (N) | -1.5 | -5.5 | +3.5 | +4.0 | yes |
+| 11-24 | Tue 8:00 PM | Lipscomb | Auburn | +21.6 | +25.5 | +20.5 | -3.9 | yes |
+| 11-24 | Tue 8:00 PM | Green Bay | Kansas City | -2.1 | +1.5 | -1.5 | -3.6 | yes |
+| 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +7.5 | +7.5 | -3.6 | yes |
+| 11-24 | Tue 7:00 PM | Delaware State | Chattanooga | +13.9 | +17.5 | +15.5 | -3.6 | yes |
 
 ## Top 25 by rating
 
