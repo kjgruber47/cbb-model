@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 10:00 AM | St. Bonaventure | Belmont (N) | +0.9 | -3.5 | -3.5 | +4.4 | yes |
 | 11-24 | Tue 3:00 PM | Miami | TCU (N) | -9.6 | -5.5 | -7.5 | -4.1 | yes |
 | 11-24 | Tue 3:45 PM | Arkansas State | Long Beach State (N) | -1.5 | -5.5 | +3.5 | +4.0 | yes |
-| 11-24 | Tue 8:00 PM | Lipscomb | Auburn | +21.6 | +25.5 | +20.5 | -3.9 | yes |
 | 11-24 | Tue 8:00 PM | Green Bay | Kansas City | -2.1 | +1.5 | -1.5 | -3.6 | yes |
 | 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +7.5 | +7.5 | -3.6 | yes |
 | 11-24 | Tue 7:00 PM | Delaware State | Chattanooga | +13.9 | +17.5 | +15.5 | -3.6 | yes |
+| 11-24 | Tue 6:00 PM | Eastern Michigan | Kennesaw State (N) | +2.0 | +5.5 | +4.5 | -3.5 | yes |
 
 ## Top 25 by rating
 
