@@ -9,20 +9,20 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-25 | Wed 2:30 PM | Ole Miss | TBD (N) | -21.3 | +5.5 | +5.5 | -26.8 | yes |
-| 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.5 | +27.5 | +27.5 | +7.0 | yes |
 | 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +23.8 | +30.5 | +25.5 | -6.7 | yes |
 | 11-24 | Tue 5:30 PM | Kent State | Wyoming (N) | +15.9 | +9.5 | +8.5 | +6.4 | yes |
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -2.5 | -5.5 | -6.0 | yes |
+| 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.5 | +28.5 | +27.5 | +6.0 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -2.5 | -5.5 | -5.7 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +1.0 | +6.5 | +4.5 | -5.5 | yes |
-| 11-25 | Wed 7:00 PM | St. Thomas | UNC Wilmington | +2.0 | +7.5 | +6.5 | -5.5 | yes |
+| 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.8 | +36.5 | +35.5 | -4.7 | yes |
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +1.9 | +6.5 | +6.5 | -4.6 | yes |
+| 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +8.0 | +3.5 | +4.5 | +4.5 | yes |
 | 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +12.0 | +7.5 | +7.5 | +4.5 | yes |
 | 11-24 | Tue 7:00 PM | Bryant | Marist | +7.0 | +2.5 | +4.5 | +4.5 | yes |
+| 11-25 | Wed 7:00 PM | St. Thomas | UNC Wilmington | +2.0 | +6.5 | +6.5 | -4.5 | yes |
 | 11-25 | Wed 10:00 AM | St. Bonaventure | Belmont (N) | +0.9 | -3.5 | -3.5 | +4.4 | yes |
 | 11-24 | Tue 3:00 PM | Miami | TCU (N) | -9.6 | -5.5 | -7.5 | -4.1 | yes |
-| 11-24 | Tue 3:45 PM | Arkansas State | Long Beach State (N) | -1.5 | -5.5 | +3.5 | +4.0 | yes |
-| 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.8 | +35.5 | +35.5 | -3.7 | yes |
 
 ## Top 25 by rating
 
