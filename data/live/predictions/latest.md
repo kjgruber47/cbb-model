@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 10:00 AM | St. Bonaventure | Belmont (N) | +0.9 | -3.5 | -3.5 | +4.4 | yes |
 | 11-25 | Wed 2:00 PM | Arkansas-Pine Bluff | South Dakota | +17.9 | +21.5 | +19.5 | -3.6 | yes |
 | 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +7.5 | +7.5 | -3.6 | yes |
+| 11-25 | Wed 10:00 PM | TBD | TBD (N) | +0.0 | +3.5 | +3.5 | -3.5 | yes |
 | 11-25 | Wed 12:00 PM | Virginia | Marquette (N) | -2.2 | -5.5 | -4.5 | +3.3 | yes |
-| 11-25 | Wed 3:30 PM | Arkansas State | Florida International | +4.5 | +1.5 | -1.5 | +3.0 | yes |
 
 ## Top 25 by rating
 
