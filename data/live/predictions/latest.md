@@ -16,13 +16,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +7.9 | -1.5 | -1.5 | +9.4 | yes |
 | 11-25 | Wed 2:00 PM | Arizona State | LSU (N) | +4.1 | -4.5 | -4.5 | +8.6 | yes |
 | 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -8.5 | +8.5 | yes |
+| 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.7 | +27.5 | +27.5 | +7.2 | yes |
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +0.6 | +7.5 | +6.5 | -6.9 | yes |
-| 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.7 | +28.5 | +27.5 | +6.2 | yes |
-| 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +11.7 | +6.5 | +7.5 | +5.2 | yes |
 | 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.7 | +36.5 | +35.5 | -4.8 | yes |
 | 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +8.5 | +7.5 | -4.6 | yes |
 | 11-26 | Thu 9:00 PM | TBD | TBD (N) | +0.0 | +4.5 | +4.5 | -4.5 | yes |
 | 11-25 | Wed 10:00 PM | TBD | TBD (N) | +0.0 | +4.5 | +3.5 | -4.5 | yes |
+| 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +7.9 | +3.5 | +4.5 | +4.4 | yes |
 
 ## Top 25 by rating
 
