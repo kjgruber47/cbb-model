@@ -20,9 +20,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +0.6 | +7.5 | +6.5 | -6.9 | yes |
 | 11-25 | Wed 2:00 PM | Saint Peter's | Columbia | +17.2 | +12.5 | +15.5 | +4.7 | yes |
 | 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +8.5 | +7.5 | -4.6 | yes |
-| 11-25 | Wed 11:59 PM | TBD | TBD (N) | +0.0 | +4.5 | +4.5 | -4.5 | yes |
 | 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | +4.5 | -4.5 | -4.5 | yes |
 | 11-26 | Thu 1:00 PM | TBD | TBD (N) | +0.0 | +4.5 | +1.5 | -4.5 | yes |
+| 11-25 | Wed 11:59 PM | TBD | TBD (N) | +0.0 | +4.5 | +4.5 | -4.5 | yes |
 
 ## Top 25 by rating
 
