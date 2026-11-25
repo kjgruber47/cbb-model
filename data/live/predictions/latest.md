@@ -15,6 +15,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +9.1 | -1.5 | -1.5 | +10.6 | yes |
 | 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -8.5 | +8.5 | yes |
 | 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.5 | +28.5 | +27.5 | +6.0 | yes |
+| 11-25 | Wed 10:00 AM | St. Bonaventure | Belmont (N) | +0.9 | -4.5 | -3.5 | +5.4 | yes |
 | 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.8 | +36.5 | +35.5 | -4.7 | yes |
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +1.9 | +6.5 | +6.5 | -4.6 | yes |
 | 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +8.0 | +3.5 | +4.5 | +4.5 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -4.5 | -4.5 | +4.5 | yes |
 | 11-26 | Thu 9:00 PM | TBD | TBD (N) | +0.0 | -4.5 | -4.5 | +4.5 | yes |
 | 11-25 | Wed 7:00 PM | St. Thomas | UNC Wilmington | +2.0 | +6.5 | +6.5 | -4.5 | yes |
-| 11-25 | Wed 10:00 AM | St. Bonaventure | Belmont (N) | +0.9 | -3.5 | -3.5 | +4.4 | yes |
 
 ## Top 25 by rating
 
