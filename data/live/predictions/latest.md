@@ -9,13 +9,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-25 | Wed 2:30 PM | Ole Miss | TBD (N) | -21.9 | +5.5 | +5.5 | -27.4 | yes |
-| 11-25 | Wed 5:30 PM | BYU | TBD (N) | -20.3 | -3.5 | -4.5 | -16.8 | yes |
+| 11-25 | Wed 5:30 PM | BYU | TBD (N) | -20.3 | -2.5 | -4.5 | -17.8 | yes |
+| 11-25 | Wed 12:30 PM | Northern Colorado | TBD (N) | +7.0 | -6.5 | -6.5 | +13.5 | yes |
 | 11-26 | Thu 9:00 PM | TBD | TBD (N) | +0.0 | +13.5 | +12.5 | -13.5 | yes |
-| 11-25 | Wed 12:30 PM | Northern Colorado | TBD (N) | +7.0 | -5.5 | -6.5 | +12.5 | yes |
 | 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +7.9 | -1.5 | -1.5 | +9.4 | yes |
 | 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -8.5 | -8.5 | +8.5 | yes |
-| 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +0.6 | +7.5 | +6.5 | -6.9 | yes |
 | 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.7 | +28.5 | +27.5 | +6.2 | yes |
+| 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +0.6 | +6.5 | +6.5 | -5.9 | yes |
 | 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.7 | +36.5 | +35.5 | -4.8 | yes |
 | 11-26 | Thu 9:00 PM | TBD | TBD (N) | +0.0 | -4.5 | -4.5 | +4.5 | yes |
 | 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -4.5 | -4.5 | +4.5 | yes |
