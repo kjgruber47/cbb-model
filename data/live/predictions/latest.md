@@ -9,10 +9,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-24 | Tue 5:30 PM | Kent State | Wyoming (N) | +15.9 | +9.5 | +8.5 | +6.4 | yes |
-| 11-25 | Wed 3:30 PM | Arkansas State | Florida International | +4.5 | -1.5 | -1.5 | +6.0 | yes |
 | 11-24 | Tue 3:00 PM | Tennessee | Maryland (N) | -8.5 | -2.5 | -5.5 | -6.0 | yes |
 | 11-24 | Tue 8:00 PM | Texas Tech | Louisville (N) | -8.2 | -2.5 | -5.5 | -5.7 | yes |
 | 11-24 | Tue 9:00 PM | UNC Asheville | Florida State | +23.8 | +29.5 | +25.5 | -5.7 | yes |
+| 11-25 | Wed 7:00 PM | St. Thomas | UNC Wilmington | +2.0 | +7.5 | +6.5 | -5.5 | yes |
 | 11-24 | Tue 9:00 PM | Sam Houston | Washington State | +1.0 | +5.5 | +4.5 | -4.5 | yes |
 | 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +12.0 | +7.5 | +7.5 | +4.5 | yes |
 | 11-24 | Tue 7:00 PM | Bryant | Marist | +7.0 | +2.5 | +4.5 | +4.5 | yes |
