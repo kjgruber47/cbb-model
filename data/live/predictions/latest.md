@@ -17,12 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +7.9 | -1.5 | -1.5 | +9.4 | yes |
 | 11-25 | Wed 2:00 PM | Arizona State | LSU (N) | +4.1 | -3.5 | +4.5 | +7.6 | yes |
 | 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.7 | +28.5 | +27.5 | +6.2 | yes |
+| 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.5 | +1.5 | +1.5 | +6.0 | yes |
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +0.6 | +6.5 | +6.5 | -5.9 | yes |
 | 11-25 | Wed 2:00 PM | Saint Peter's | Columbia | +17.2 | +12.5 | +15.5 | +4.7 | yes |
 | 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +8.5 | +7.5 | -4.6 | yes |
-| 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | +4.5 | -4.5 | -4.5 | yes |
-| 11-26 | Thu 1:00 PM | TBD | TBD (N) | +0.0 | +4.5 | +1.5 | -4.5 | yes |
 | 11-25 | Wed 11:59 PM | TBD | TBD (N) | +0.0 | +4.5 | +4.5 | -4.5 | yes |
+| 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | +4.5 | -4.5 | -4.5 | yes |
 
 ## Top 25 by rating
 
