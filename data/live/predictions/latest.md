@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-25 | Wed 2:30 PM | Ole Miss | TBD (N) | -21.9 | +5.5 | +5.5 | -27.4 | yes |
-| 11-25 | Wed 5:30 PM | BYU | TBD (N) | -20.3 | -2.5 | -4.5 | -17.8 | yes |
-| 11-26 | Thu 9:00 PM | TBD | TBD (N) | +0.0 | -14.5 | +12.5 | +14.5 | yes |
-| 11-25 | Wed 12:30 PM | Northern Colorado | TBD (N) | +7.0 | -5.5 | -6.5 | +12.5 | yes |
-| 11-26 | Thu 11:30 PM | TBD | TBD (N) | +0.0 | -9.5 | -8.5 | +9.5 | yes |
-| 11-25 | Wed 9:30 PM | TBD | TBD (N) | +0.0 | -9.5 | -9.5 | +9.5 | yes |
-| 11-25 | Wed 3:00 PM | SE Louisiana | TBD (N) | +7.9 | -1.5 | -1.5 | +9.4 | yes |
-| 11-25 | Wed 2:00 PM | Arizona State | LSU (N) | +4.1 | -3.5 | +4.5 | +7.6 | yes |
-| 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.7 | +27.5 | +27.5 | +7.2 | yes |
+| 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.7 | +28.5 | +27.5 | +6.2 | yes |
 | 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.5 | +1.5 | +1.5 | +6.0 | yes |
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +0.6 | +6.5 | +6.5 | -5.9 | yes |
+| 11-25 | Wed 11:59 PM | Stanford | Saint Louis (N) | +9.2 | +3.5 | +4.5 | +5.7 | yes |
+| 11-26 | Thu 9:00 PM | Alabama | Kansas State (N) | -9.7 | -14.5 | +12.5 | +4.8 | yes |
 | 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.7 | +36.5 | +35.5 | -4.8 | yes |
 | 11-25 | Wed 2:00 PM | Saint Peter's | Columbia | +17.2 | +12.5 | +15.5 | +4.7 | yes |
 | 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +8.5 | +7.5 | -4.6 | yes |
-| 11-25 | Wed 11:59 PM | TBD | TBD (N) | +0.0 | +4.5 | +4.5 | -4.5 | yes |
+| 11-25 | Wed 2:30 PM | Ole Miss | Arizona (N) | +1.1 | +5.5 | +5.5 | -4.4 | yes |
+| 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +7.9 | +3.5 | +4.5 | +4.4 | yes |
+| 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +11.7 | +7.5 | +7.5 | +4.2 | yes |
+| 11-25 | Wed 5:30 PM | BYU | Providence (N) | -6.5 | -2.5 | -4.5 | -4.0 | yes |
+| 11-25 | Wed 1:00 AM | Colorado | Stanford (N) | +0.7 | +4.5 | -2.5 | -3.8 | yes |
+| 11-25 | Wed 7:30 PM | SMU | Utah State (N) | +7.2 | +3.5 | +4.5 | +3.7 | yes |
+| 11-26 | Thu 4:30 PM | Utah State | USC (N) | -0.1 | +3.5 | +3.5 | -3.6 | yes |
 
 ## Top 25 by rating
 
