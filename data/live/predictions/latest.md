@@ -9,9 +9,9 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-25 | Wed 7:00 PM | Norfolk State | NC State | +34.7 | +28.5 | +27.5 | +6.2 | yes |
-| 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.5 | +1.5 | +1.5 | +6.0 | yes |
 | 11-25 | Wed 7:00 PM | Bellarmine | Northern Kentucky | +0.6 | +6.5 | +6.5 | -5.9 | yes |
 | 11-25 | Wed 11:59 PM | Stanford | Saint Louis (N) | +9.2 | +3.5 | +4.5 | +5.7 | yes |
+| 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.5 | +2.5 | +1.5 | +5.0 | yes |
 | 11-26 | Thu 9:00 PM | Alabama | Kansas State (N) | -9.7 | -14.5 | +12.5 | +4.8 | yes |
 | 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.7 | +36.5 | +35.5 | -4.8 | yes |
 | 11-25 | Wed 2:00 PM | Saint Peter's | Columbia | +17.2 | +12.5 | +15.5 | +4.7 | yes |
