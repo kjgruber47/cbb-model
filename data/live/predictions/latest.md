@@ -8,6 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-26 | Thu 5:00 PM | Saint Mary's | UCLA (N) | +6.2 | -7.5 | -7.5 | +13.7 | yes |
 | 11-26 | Thu 2:00 PM | South Carolina | Arizona State (N) | +3.3 | -5.5 | +3.5 | +8.8 | yes |
 | 11-27 | Fri 7:30 PM | TBD | TBD (N) | +0.0 | +6.5 | +6.5 | -6.5 | yes |
 | 11-26 | Thu 1:08 AM | Stanford | Saint Louis (N) | +9.3 | +3.5 | +4.5 | +5.8 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +3.5 | -4.5 | +2.6 | yes |
 | 11-27 | Fri 1:30 PM | TBD | TBD (N) | +0.0 | +2.5 | +2.5 | -2.5 | yes |
 | 11-26 | Thu 7:00 PM | SMU | LSU (N) | +5.3 | +7.5 | +7.5 | -2.2 | yes |
-| 11-26 | Thu 4:30 PM | Arkansas | Michigan State (N) | +7.7 | +5.5 | +5.5 | +2.2 | yes |
 
 ## Top 25 by rating
 
