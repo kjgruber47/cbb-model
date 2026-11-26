@@ -12,8 +12,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 4:30 PM | Utah State | USC (N) | -3.2 | +2.5 | +3.5 | -5.7 | yes |
 | 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.4 | +2.5 | +1.5 | +4.9 | yes |
 | 11-26 | Thu 1:00 PM | San Diego State | Maryland (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
-| 11-26 | Thu 7:00 PM | DePaul | Pittsburgh (N) | -2.0 | +1.5 | +1.5 | -3.5 | yes |
-| 11-26 | Thu 6:00 PM | TCU | Creighton (N) | +1.9 | -1.5 | -1.5 | +3.4 | yes |
+| 11-26 | Thu 8:00 PM | Jacksonville State | UC Davis (N) | +0.1 | -3.5 | -1.5 | +3.6 | yes |
 | 11-26 | Thu 9:00 PM | Alabama | Kansas State (N) | -11.7 | -14.5 | +12.5 | +2.8 | yes |
 | 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +3.5 | -4.5 | +2.6 | yes |
 | 11-26 | Thu 11:30 PM | Texas Tech | Oregon (N) | -12.1 | -9.5 | -8.5 | -2.6 | yes |
@@ -23,6 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 12:00 PM | Army | UTSA | +10.6 | +12.5 | +14.5 | -1.9 | yes |
 | 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -10.2 | -8.5 | -8.5 | -1.7 | yes |
 | 11-26 | Thu 2:30 PM | Georgetown | Texas (N) | +10.2 | +8.5 | +8.5 | +1.7 | yes |
+| 11-26 | Thu 5:00 PM | Saint Mary's | UCLA (N) | +6.2 | +7.5 | +7.5 | -1.3 | yes |
 
 ## Top 25 by rating
 
