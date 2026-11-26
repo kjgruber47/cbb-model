@@ -9,20 +9,20 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-26 | Thu 2:00 PM | South Carolina | Arizona State (N) | +3.3 | -5.5 | +3.5 | +8.8 | yes |
+| 11-27 | Fri 7:30 PM | TBD | TBD (N) | +0.0 | +6.5 | +6.5 | -6.5 | yes |
 | 11-26 | Thu 1:08 AM | Stanford | Saint Louis (N) | +9.3 | +3.5 | +4.5 | +5.8 | yes |
 | 11-26 | Thu 1:00 PM | San Diego State | Maryland (N) | +0.2 | -5.5 | +1.5 | +5.7 | yes |
 | 11-26 | Thu 3:30 PM | Tennessee | Iowa State (N) | +1.4 | +5.5 | -1.5 | -4.1 | yes |
+| 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.6 | -1.5 | +1.5 | +4.1 | yes |
 | 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.4 | +3.5 | +1.5 | +3.9 | yes |
 | 11-26 | Thu 8:00 PM | Jacksonville State | UC Davis (N) | +0.1 | -3.5 | -1.5 | +3.6 | yes |
 | 11-26 | Thu 7:00 PM | DePaul | Pittsburgh (N) | -2.0 | +1.5 | +1.5 | -3.5 | yes |
+| 11-27 | Fri 5:00 PM | Marquette | Texas A&M (N) | -0.4 | +2.5 | +2.5 | -2.9 | yes |
 | 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -10.2 | -7.5 | -8.5 | -2.7 | yes |
 | 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +3.5 | -4.5 | +2.6 | yes |
 | 11-27 | Fri 1:30 PM | TBD | TBD (N) | +0.0 | +2.5 | +2.5 | -2.5 | yes |
 | 11-26 | Thu 7:00 PM | SMU | LSU (N) | +5.3 | +7.5 | +7.5 | -2.2 | yes |
 | 11-26 | Thu 4:30 PM | Arkansas | Michigan State (N) | +7.7 | +5.5 | +5.5 | +2.2 | yes |
-| 11-26 | Thu 1:30 PM | Boston College | UCF (N) | -0.4 | +1.5 | +2.5 | -1.9 | yes |
-| 11-26 | Thu 9:00 PM | Alabama | Kansas State (N) | -11.7 | -13.5 | +12.5 | +1.8 | yes |
-| 11-26 | Thu 2:30 PM | Georgetown | Texas (N) | +10.2 | +8.5 | +8.5 | +1.7 | yes |
 
 ## Top 25 by rating
 
