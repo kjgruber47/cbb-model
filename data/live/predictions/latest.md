@@ -16,13 +16,13 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 9:00 PM | Mississippi Valley State | New Mexico | +31.7 | +36.5 | +35.5 | -4.8 | yes |
 | 11-25 | Wed 2:00 PM | Saint Peter's | Columbia | +17.2 | +12.5 | +15.5 | +4.7 | yes |
 | 11-25 | Wed 11:00 AM | Northern Iowa | Charlotte (N) | +3.9 | +8.5 | +7.5 | -4.6 | yes |
+| 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -12.1 | -7.5 | -8.5 | -4.6 | yes |
 | 11-25 | Wed 2:30 PM | Ole Miss | Arizona (N) | +1.1 | +5.5 | +5.5 | -4.4 | yes |
 | 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +7.9 | +3.5 | +4.5 | +4.4 | yes |
 | 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +11.7 | +7.5 | +7.5 | +4.2 | yes |
 | 11-26 | Thu 1:00 PM | San Diego State | Maryland (N) | +0.3 | +4.5 | +1.5 | -4.2 | yes |
 | 11-25 | Wed 8:00 PM | Omaha | UC Davis (N) | +7.5 | +3.5 | +7.5 | +4.0 | yes |
 | 11-25 | Wed 5:30 PM | BYU | Providence (N) | -6.5 | -2.5 | -4.5 | -4.0 | yes |
-| 11-25 | Wed 1:00 AM | Colorado | Stanford (N) | +0.7 | +4.5 | -2.5 | -3.8 | yes |
 
 ## Top 25 by rating
 
