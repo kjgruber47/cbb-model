@@ -21,8 +21,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -10.2 | -7.5 | -8.5 | -2.7 | yes |
 | 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +3.5 | -4.5 | +2.6 | yes |
 | 11-26 | Thu 8:00 PM | Jacksonville State | UC Davis (N) | +0.1 | -2.5 | -1.5 | +2.6 | yes |
+| 11-27 | Fri 3:00 PM | Princeton | UNC Wilmington | +6.0 | +8.5 | +8.5 | -2.5 | yes |
 | 11-27 | Fri 1:30 PM | TBD | TBD (N) | +0.0 | +2.5 | +2.5 | -2.5 | yes |
-| 11-26 | Thu 7:00 PM | SMU | LSU (N) | +5.3 | +7.5 | +7.5 | -2.2 | yes |
 
 ## Top 25 by rating
 
