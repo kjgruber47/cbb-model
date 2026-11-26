@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-25 | Wed 2:30 PM | Ole Miss | Arizona (N) | +1.1 | +5.5 | +5.5 | -4.4 | yes |
 | 11-25 | Wed 7:00 PM | South Carolina Upstate | The Citadel | +7.9 | +3.5 | +4.5 | +4.4 | yes |
 | 11-25 | Wed 2:00 PM | Abilene Christian | South Dakota State | +11.7 | +7.5 | +7.5 | +4.2 | yes |
+| 11-25 | Wed 8:00 PM | Omaha | UC Davis (N) | +7.5 | +3.5 | +7.5 | +4.0 | yes |
 | 11-25 | Wed 5:30 PM | BYU | Providence (N) | -6.5 | -2.5 | -4.5 | -4.0 | yes |
 | 11-25 | Wed 1:00 AM | Colorado | Stanford (N) | +0.7 | +4.5 | -2.5 | -3.8 | yes |
 | 11-25 | Wed 7:30 PM | SMU | Utah State (N) | +7.2 | +3.5 | +4.5 | +3.7 | yes |
-| 11-26 | Thu 4:30 PM | Utah State | USC (N) | -0.1 | +3.5 | +3.5 | -3.6 | yes |
 
 ## Top 25 by rating
 
