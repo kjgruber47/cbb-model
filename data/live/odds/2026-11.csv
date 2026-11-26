@@ -55097,3 +55097,8 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-26T09:25:59Z,401920540,2026-11-26,2026-11-27T04:30Z,STATUS_SCHEDULED,True,2250,Gonzaga Bulldogs,239,Baylor Bears,0,0,scoreboard,100,DraftKings,current,-3.5,155.5,,,,,,,GONZ -3.5
 2026-11-26T09:25:59Z,401920540,2026-11-26,2026-11-27T04:30Z,STATUS_SCHEDULED,True,2250,Gonzaga Bulldogs,239,Baylor Bears,0,0,scoreboard,100,DraftKings,close,-3.5,155.5,-175.0,145.0,-112.0,-108.0,-112.0,-108.0,GONZ -3.5
 2026-11-26T09:25:59Z,401920540,2026-11-26,2026-11-27T04:30Z,STATUS_SCHEDULED,True,2250,Gonzaga Bulldogs,239,Baylor Bears,0,0,core,100,DraftKings,current,-3.5,155.5,-175,145,-112.0,-108.0,-112.0,-108.0,GONZ -3.5
+2026-11-26T09:56:00Z,401929281,2026-11-26,2026-11-26T16:00Z,STATUS_SCHEDULED,True,2132,Cincinnati Bearcats,61,Georgia Bulldogs,0,0,scoreboard,100,DraftKings,current,-2.5,154.5,,,,,,,CIN -2.5
+2026-11-26T09:56:00Z,401929281,2026-11-26,2026-11-26T16:00Z,STATUS_SCHEDULED,True,2132,Cincinnati Bearcats,61,Georgia Bulldogs,0,0,scoreboard,100,DraftKings,close,-2.5,154.5,-130.0,110.0,-108.0,-112.0,-112.0,-108.0,CIN -2.5
+2026-11-26T09:56:00Z,401920529,2026-11-26,2026-11-26T20:30Z,STATUS_SCHEDULED,True,66,Iowa State Cyclones,2633,Tennessee Volunteers,0,0,scoreboard,100,DraftKings,current,-3.5,139.5,,,,,,,ISU -3.5
+2026-11-26T09:56:00Z,401920529,2026-11-26,2026-11-26T20:30Z,STATUS_SCHEDULED,True,66,Iowa State Cyclones,2633,Tennessee Volunteers,0,0,scoreboard,100,DraftKings,close,-3.5,139.5,-148.0,124.0,-105.0,-115.0,-110.0,-110.0,ISU -3.5
+2026-11-26T09:56:00Z,401920529,2026-11-26,2026-11-26T20:30Z,STATUS_SCHEDULED,True,66,Iowa State Cyclones,2633,Tennessee Volunteers,0,0,core,100,DraftKings,current,-3.5,139.5,-148,124,-105.0,-115.0,-110.0,-110.0,ISU -3.5

@@ -18,11 +18,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 12:00 PM | Army | UTSA | +10.7 | +13.5 | +14.5 | -2.8 | yes |
 | 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +3.5 | -4.5 | +2.6 | yes |
 | 11-26 | Thu 11:30 PM | Texas Tech | Oregon (N) | -12.1 | -9.5 | -8.5 | -2.6 | yes |
+| 11-26 | Thu 3:30 PM | Tennessee | Iowa State (N) | +1.3 | +3.5 | -1.5 | -2.2 | yes |
 | 11-26 | Thu 4:30 PM | Arkansas | Michigan State (N) | +7.6 | +5.5 | +5.5 | +2.1 | yes |
 | 11-26 | Thu 1:30 PM | Boston College | UCF (N) | -0.6 | +1.5 | +2.5 | -2.1 | yes |
 | 11-26 | Thu 7:00 PM | SMU | LSU (N) | +3.7 | +5.5 | +7.5 | -1.8 | yes |
 | 11-26 | Thu 2:30 PM | Georgetown | Texas (N) | +10.2 | +8.5 | +8.5 | +1.7 | yes |
-| 11-26 | Thu 5:00 PM | Saint Mary's | UCLA (N) | +6.3 | +7.5 | +7.5 | -1.2 | yes |
 
 ## Top 25 by rating
 
