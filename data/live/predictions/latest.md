@@ -16,11 +16,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 3:30 PM | Tennessee | Iowa State (N) | +1.4 | +5.5 | -1.5 | -4.1 | yes |
 | 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.6 | -1.5 | +1.5 | +4.1 | yes |
 | 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.4 | +3.5 | +1.5 | +3.9 | yes |
-| 11-26 | Thu 8:00 PM | Jacksonville State | UC Davis (N) | +0.1 | -3.5 | -1.5 | +3.6 | yes |
-| 11-26 | Thu 7:00 PM | DePaul | Pittsburgh (N) | -2.0 | +1.5 | +1.5 | -3.5 | yes |
+| 11-27 | Fri 5:30 PM | Drake | Boise State (N) | +8.6 | +5.5 | +6.5 | +3.1 | yes |
 | 11-27 | Fri 5:00 PM | Marquette | Texas A&M (N) | -0.4 | +2.5 | +2.5 | -2.9 | yes |
 | 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -10.2 | -7.5 | -8.5 | -2.7 | yes |
 | 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +3.5 | -4.5 | +2.6 | yes |
+| 11-26 | Thu 8:00 PM | Jacksonville State | UC Davis (N) | +0.1 | -2.5 | -1.5 | +2.6 | yes |
 | 11-27 | Fri 1:30 PM | TBD | TBD (N) | +0.0 | +2.5 | +2.5 | -2.5 | yes |
 | 11-26 | Thu 7:00 PM | SMU | LSU (N) | +5.3 | +7.5 | +7.5 | -2.2 | yes |
 
