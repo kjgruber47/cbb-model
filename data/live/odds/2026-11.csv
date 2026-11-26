@@ -55242,3 +55242,4 @@ snapshot_utc,game_id,game_date,start_utc,status,neutral_site,home_id,home,away_i
 2026-11-26T14:25:59Z,401920539,2026-11-26,2026-11-27T02:00Z,STATUS_SCHEDULED,True,2306,Kansas State Wildcats,333,Alabama Crimson Tide,0,0,core,100,DraftKings,current,14.5,169.5,750,-1200,-105.0,-115.0,-115.0,-105.0,ALA -14.5
 2026-11-26T14:25:59Z,401920531,2026-11-26,2026-11-27T04:30Z,STATUS_SCHEDULED,True,2483,Oregon Ducks,2641,Texas Tech Red Raiders,0,0,scoreboard,100,DraftKings,close,9.5,148.5,390.0,-520.0,-108.0,-112.0,-108.0,-112.0,TTU -9.5
 2026-11-26T14:25:59Z,401920531,2026-11-26,2026-11-27T04:30Z,STATUS_SCHEDULED,True,2483,Oregon Ducks,2641,Texas Tech Red Raiders,0,0,core,100,DraftKings,current,9.5,148.5,390,-520,-108.0,-112.0,-108.0,-112.0,TTU -9.5
+2026-11-26T14:27:34Z,401920539,2026-11-26,2026-11-27T02:00Z,STATUS_SCHEDULED,True,2306,Kansas State Wildcats,333,Alabama Crimson Tide,0,0,core,100,DraftKings,current,14.5,170.5,700,-1100,-118.0,-102.0,-105.0,-115.0,ALA -14.5
