@@ -12,8 +12,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 4:30 PM | Utah State | USC (N) | -3.2 | +2.5 | +3.5 | -5.7 | yes |
 | 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.4 | +2.5 | +1.5 | +4.9 | yes |
 | 11-26 | Thu 1:00 PM | San Diego State | Maryland (N) | +0.2 | +4.5 | +1.5 | -4.3 | yes |
-| 11-26 | Thu 9:00 PM | Alabama | Kansas State (N) | -11.7 | -15.5 | +12.5 | +3.8 | yes |
 | 11-26 | Thu 7:00 PM | DePaul | Pittsburgh (N) | -2.0 | +1.5 | +1.5 | -3.5 | yes |
+| 11-26 | Thu 9:00 PM | Alabama | Kansas State (N) | -11.7 | -14.5 | +12.5 | +2.8 | yes |
 | 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +3.5 | -4.5 | +2.6 | yes |
 | 11-26 | Thu 11:30 PM | Texas Tech | Oregon (N) | -12.1 | -9.5 | -8.5 | -2.6 | yes |
 | 11-26 | Thu 4:30 PM | Arkansas | Michigan State (N) | +7.7 | +5.5 | +5.5 | +2.2 | yes |
