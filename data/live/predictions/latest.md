@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-26 | Thu 5:00 PM | Saint Mary's | UCLA (N) | +6.2 | -7.5 | -7.5 | +13.7 | yes |
-| 11-26 | Thu 2:00 PM | South Carolina | Arizona State (N) | +3.3 | -5.5 | +3.5 | +8.8 | yes |
-| 11-27 | Fri 7:30 PM | TBD | TBD (N) | +0.0 | +6.5 | +6.5 | -6.5 | yes |
 | 11-26 | Thu 1:08 AM | Stanford | Saint Louis (N) | +9.3 | +3.5 | +4.5 | +5.8 | yes |
-| 11-26 | Thu 1:00 PM | San Diego State | Maryland (N) | +0.2 | -5.5 | +1.5 | +5.7 | yes |
+| 11-26 | Thu 1:00 PM | Maryland | San Diego State (N) | -0.2 | -5.5 | +1.5 | +5.3 | yes |
+| 11-26 | Thu 4:30 PM | USC | Utah State (N) | +3.2 | -1.5 | +3.5 | +4.7 | yes |
 | 11-26 | Thu 3:30 PM | Tennessee | Iowa State (N) | +1.4 | +5.5 | -1.5 | -4.1 | yes |
 | 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.6 | -1.5 | +1.5 | +4.1 | yes |
+| 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.5 | -8.5 | -8.5 | -4.0 | yes |
 | 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.4 | +3.5 | +1.5 | +3.9 | yes |
+| 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +2.5 | -4.5 | +3.6 | yes |
+| 11-26 | Thu 8:00 PM | UC Davis | Jacksonville State (N) | -0.1 | +3.5 | -1.5 | -3.6 | yes |
+| 11-27 | Fri 3:00 PM | Princeton | UNC Wilmington | +6.0 | +9.5 | +8.5 | -3.5 | yes |
 | 11-27 | Fri 5:30 PM | Drake | Boise State (N) | +8.6 | +5.5 | +6.5 | +3.1 | yes |
 | 11-27 | Fri 5:00 PM | Marquette | Texas A&M (N) | -0.4 | +2.5 | +2.5 | -2.9 | yes |
 | 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -10.2 | -7.5 | -8.5 | -2.7 | yes |
-| 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +3.5 | -4.5 | +2.6 | yes |
-| 11-26 | Thu 8:00 PM | Jacksonville State | UC Davis (N) | +0.1 | -2.5 | -1.5 | +2.6 | yes |
-| 11-27 | Fri 3:00 PM | Princeton | UNC Wilmington | +6.0 | +8.5 | +8.5 | -2.5 | yes |
-| 11-27 | Fri 1:30 PM | TBD | TBD (N) | +0.0 | +2.5 | +2.5 | -2.5 | yes |
+| 11-27 | Fri 8:00 PM | Northeastern | Northwestern | +15.1 | +12.5 | +12.5 | +2.6 | yes |
+| 11-27 | Fri 6:00 PM | Western Kentucky | Illinois | +30.0 | +27.5 | +27.5 | +2.5 | yes |
 
 ## Top 25 by rating
 
