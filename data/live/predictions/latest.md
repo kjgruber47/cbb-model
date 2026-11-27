@@ -10,6 +10,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-27 | Fri 5:30 PM | TBD | TBD (N) | +0.0 | -7.5 | -7.5 | +7.5 | yes |
 | 11-27 | Fri 3:00 PM | Bellarmine | Butler | +15.4 | +19.5 | +19.5 | -4.1 | yes |
+| 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.6 | -1.5 | +1.5 | +4.1 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.5 | -8.5 | -8.5 | -4.0 | yes |
 | 11-27 | Fri 2:30 PM | Georgetown | UCLA (N) | +12.0 | +8.5 | +9.5 | +3.5 | yes |
 | 11-27 | Fri 1:00 PM | TBD | TBD (N) | +0.0 | -3.5 | -2.5 | +3.5 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-27 | Fri 4:00 PM | Arkansas-Pine Bluff | Missouri | +46.7 | +49.5 | +49.5 | -2.8 | yes |
 | 11-27 | Fri 8:00 PM | Northeastern | Northwestern | +15.1 | +12.5 | +12.5 | +2.6 | yes |
 | 11-27 | Fri 3:00 PM | Princeton | UNC Wilmington | +6.0 | +8.5 | +8.5 | -2.5 | yes |
-| 11-27 | Fri 6:00 PM | Western Kentucky | Illinois | +30.0 | +27.5 | +27.5 | +2.5 | yes |
 
 ## Top 25 by rating
 
