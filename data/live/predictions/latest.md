@@ -22,7 +22,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-27 | Fri 8:00 PM | Northeastern | Northwestern | +15.1 | +12.5 | +12.5 | +2.6 | yes |
 | 11-27 | Fri 8:00 PM | Missouri State | Oral Roberts | +2.2 | +4.5 | +2.5 | -2.3 | yes |
 | 11-27 | Fri 2:00 PM | Southern | Vanderbilt | +38.7 | +36.5 | +36.5 | +2.2 | yes |
-| 11-27 | Fri 2:00 PM | Navy | Fairfield | +3.5 | +5.5 | +4.5 | -2.0 | yes |
+| 11-27 | Fri 4:00 PM | UMBC | George Washington | +23.5 | +21.5 | +22.5 | +2.0 | yes |
 
 ## Top 25 by rating
 
