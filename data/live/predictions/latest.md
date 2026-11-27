@@ -11,18 +11,18 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-27 | Fri 5:00 PM | Texas | Saint Mary's (N) | -2.7 | -7.5 | -5.5 | +4.8 | yes |
 | 11-27 | Fri 3:30 PM | Colgate | Hofstra | +5.8 | +1.5 | +5.5 | +4.3 | yes |
 | 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.7 | -1.5 | +1.5 | +4.2 | yes |
+| 11-27 | Fri 3:00 PM | Texas State | Louisiana Tech | -7.6 | -3.5 | -7.5 | -4.1 | yes |
 | 11-27 | Fri 1:00 PM | Vermont | Merrimack (N) | -2.4 | +1.5 | -3.5 | -3.9 | yes |
-| 11-27 | Fri 2:00 PM | South Alabama | Fresno State (N) | +2.0 | -1.5 | -1.5 | +3.5 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.0 | -8.5 | -8.5 | -3.5 | yes |
-| 11-27 | Fri 6:00 PM | Western Kentucky | Illinois | +30.0 | +26.5 | +27.5 | +3.5 | yes |
 | 11-27 | Fri 3:00 PM | Bellarmine | Butler | +15.4 | +18.5 | +19.5 | -3.1 | yes |
-| 11-27 | Fri 3:00 PM | Texas State | Louisiana Tech | -7.6 | -4.5 | -7.5 | -3.1 | yes |
 | 11-27 | Fri 2:30 PM | Georgetown | UCLA (N) | +10.4 | +7.5 | +9.5 | +2.9 | yes |
 | 11-27 | Fri 6:00 PM | Towson | Pennsylvania | +6.4 | +3.5 | +5.5 | +2.9 | yes |
 | 11-27 | Fri 1:00 PM | Hampton | UMass Lowell (N) | +1.3 | -1.5 | +2.5 | +2.8 | yes |
 | 11-27 | Fri 8:00 PM | Pacific | UC Davis (N) | -3.8 | -6.5 | -4.5 | +2.7 | yes |
 | 11-27 | Fri 8:00 PM | Northeastern | Northwestern | +15.1 | +12.5 | +12.5 | +2.6 | yes |
+| 11-27 | Fri 6:00 PM | Western Kentucky | Illinois | +30.0 | +27.5 | +27.5 | +2.5 | yes |
 | 11-27 | Fri 8:00 PM | Missouri State | Oral Roberts | +2.2 | +4.5 | +2.5 | -2.3 | yes |
+| 11-27 | Fri 5:30 PM | Drake | Boise State (N) | +8.6 | +6.5 | +6.5 | +2.1 | yes |
 
 ## Top 25 by rating
 
