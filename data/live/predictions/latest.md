@@ -19,10 +19,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-28 | Sat 2:00 PM | Marist | George Mason | +15.9 | +19.5 | +19.5 | -3.6 | yes |
 | 11-28 | Sat 12:00 PM | Siena | Seton Hall | +21.0 | +17.5 | +17.5 | +3.5 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.0 | -8.5 | -8.5 | -3.5 | yes |
+| 11-28 | Sat 4:00 PM | San José State | Utah Valley | +8.6 | +5.5 | +7.5 | +3.1 | yes |
+| 11-28 | Sat 6:00 PM | Drake | North Dakota State (N) | -3.5 | -6.5 | -5.5 | +3.0 | yes |
 | 11-28 | Sat 7:00 PM | Utah Tech | Santa Clara | +16.6 | +19.5 | +19.5 | -2.9 | yes |
 | 11-27 | Fri 2:30 PM | Georgetown | UCLA (N) | +10.4 | +7.5 | +9.5 | +2.9 | yes |
-| 11-28 | Sat 7:00 PM | Portland State | Southern Illinois | +4.6 | +7.5 | +7.5 | -2.9 | yes |
-| 11-27 | Fri 6:00 PM | Towson | Pennsylvania | +6.4 | +3.5 | +5.5 | +2.9 | yes |
 
 ## Top 25 by rating
 
