@@ -10,7 +10,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-27 | Fri 5:00 PM | Texas | Saint Mary's (N) | -2.7 | -7.5 | -5.5 | +4.8 | yes |
 | 11-27 | Fri 2:00 PM | South Alabama | Fresno State (N) | +2.0 | -2.5 | -1.5 | +4.5 | yes |
-| 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.7 | -1.5 | -1.5 | +4.2 | yes |
+| 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.7 | -1.5 | +1.5 | +4.2 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.0 | -8.5 | -8.5 | -3.5 | yes |
 | 11-27 | Fri 6:00 PM | Western Kentucky | Illinois | +30.0 | +26.5 | +27.5 | +3.5 | yes |
 | 11-27 | Fri 3:30 PM | Colgate | Hofstra | +5.8 | +2.5 | +5.5 | +3.3 | yes |
