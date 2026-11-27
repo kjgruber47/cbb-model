@@ -11,18 +11,18 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-26 | Thu 1:08 AM | Stanford | Saint Louis (N) | +9.3 | +3.5 | +4.5 | +5.8 | yes |
 | 11-26 | Thu 1:00 PM | Maryland | San Diego State (N) | -0.2 | -5.5 | +1.5 | +5.3 | yes |
 | 11-26 | Thu 4:30 PM | USC | Utah State (N) | +3.2 | -1.5 | +3.5 | +4.7 | yes |
+| 11-27 | Fri 3:00 PM | Bellarmine | Butler | +15.4 | +19.5 | +19.5 | -4.1 | yes |
 | 11-26 | Thu 3:30 PM | Tennessee | Iowa State (N) | +1.4 | +5.5 | -1.5 | -4.1 | yes |
 | 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.6 | -1.5 | +1.5 | +4.1 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.5 | -8.5 | -8.5 | -4.0 | yes |
 | 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.4 | +3.5 | +1.5 | +3.9 | yes |
-| 11-26 | Thu 11:30 PM | Baylor | Gonzaga (N) | +6.1 | +2.5 | -4.5 | +3.6 | yes |
+| 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -10.2 | -6.5 | -8.5 | -3.7 | yes |
 | 11-26 | Thu 8:00 PM | UC Davis | Jacksonville State (N) | -0.1 | +3.5 | -1.5 | -3.6 | yes |
-| 11-27 | Fri 3:00 PM | Princeton | UNC Wilmington | +6.0 | +9.5 | +8.5 | -3.5 | yes |
-| 11-27 | Fri 5:30 PM | Drake | Boise State (N) | +8.6 | +5.5 | +6.5 | +3.1 | yes |
+| 11-27 | Fri 2:00 PM | South Alabama | Fresno State (N) | +2.0 | -1.5 | -1.5 | +3.5 | yes |
 | 11-27 | Fri 5:00 PM | Marquette | Texas A&M (N) | -0.4 | +2.5 | +2.5 | -2.9 | yes |
-| 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -10.2 | -7.5 | -8.5 | -2.7 | yes |
+| 11-27 | Fri 2:00 PM | Maine | Le Moyne (N) | +1.4 | -1.5 | -1.5 | +2.9 | yes |
+| 11-27 | Fri 4:00 PM | Arkansas-Pine Bluff | Missouri | +46.7 | +49.5 | +49.5 | -2.8 | yes |
 | 11-27 | Fri 8:00 PM | Northeastern | Northwestern | +15.1 | +12.5 | +12.5 | +2.6 | yes |
-| 11-27 | Fri 6:00 PM | Western Kentucky | Illinois | +30.0 | +27.5 | +27.5 | +2.5 | yes |
 
 ## Top 25 by rating
 
