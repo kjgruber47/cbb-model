@@ -9,20 +9,20 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 11-27 | Fri 5:30 PM | TBD | TBD (N) | +0.0 | -7.5 | -7.5 | +7.5 | yes |
-| 11-27 | Fri 3:00 PM | Bellarmine | Butler | +15.4 | +19.5 | +19.5 | -4.1 | yes |
+| 11-27 | Fri 11:00 PM | TBD | TBD (N) | +0.0 | +5.5 | +5.5 | -5.5 | yes |
+| 11-27 | Fri 3:00 PM | TBD | TBD (N) | +0.0 | +4.5 | +4.5 | -4.5 | yes |
 | 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.6 | -1.5 | +1.5 | +4.1 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.5 | -8.5 | -8.5 | -4.0 | yes |
 | 11-27 | Fri 2:30 PM | Georgetown | UCLA (N) | +12.0 | +8.5 | +9.5 | +3.5 | yes |
 | 11-27 | Fri 1:00 PM | TBD | TBD (N) | +0.0 | -3.5 | -2.5 | +3.5 | yes |
 | 11-27 | Fri 2:00 PM | South Alabama | Fresno State (N) | +2.0 | -1.5 | -1.5 | +3.5 | yes |
 | 11-27 | Fri 3:00 PM | Texas State | Louisiana Tech | -7.7 | -4.5 | -7.5 | -3.2 | yes |
+| 11-27 | Fri 3:00 PM | Bellarmine | Butler | +15.4 | +18.5 | +19.5 | -3.1 | yes |
 | 11-27 | Fri 5:00 PM | Texas | Saint Mary's (N) | -4.4 | -7.5 | -5.5 | +3.1 | yes |
 | 11-27 | Fri 5:30 PM | Drake | Boise State (N) | +8.6 | +5.5 | +6.5 | +3.1 | yes |
-| 11-27 | Fri 5:00 PM | Marquette | Texas A&M (N) | -0.4 | +2.5 | +2.5 | -2.9 | yes |
 | 11-27 | Fri 2:00 PM | Maine | Le Moyne (N) | +1.4 | -1.5 | -1.5 | +2.9 | yes |
 | 11-27 | Fri 4:00 PM | Arkansas-Pine Bluff | Missouri | +46.7 | +49.5 | +49.5 | -2.8 | yes |
 | 11-27 | Fri 8:00 PM | Northeastern | Northwestern | +15.1 | +12.5 | +12.5 | +2.6 | yes |
-| 11-27 | Fri 3:00 PM | Princeton | UNC Wilmington | +6.0 | +8.5 | +8.5 | -2.5 | yes |
 
 ## Top 25 by rating
 
