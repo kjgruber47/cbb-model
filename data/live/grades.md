@@ -2,32 +2,32 @@
 
 Model number = last logged before tip-off (opener test: first logged). Before Nov 5, 2026 the live ratings ignored this season's games (bug), so Nov 1-5 games were priced on preseason ratings alone. Break-even at -110 is 52.4%.
 
-Games graded: 1114 (2026-11-01 to 2026-11-26)
+Games graded: 1135 (2026-11-01 to 2026-11-26)
 
 ## Spreads
 
-Mean absolute error, 1114 games: model 10.18, DraftKings close 9.51, open 9.78
-Model minus close, average: -0.27
+Mean absolute error, 1135 games: model 10.14, DraftKings close 9.50, open 9.76
+Model minus close, average: -0.23
 
 | Disagreement | vs close | vs open | Line moved toward model |
 | --- | --- | --- | --- |
-| 0-2 pts | 289-245 (54.1%) | 282-264 (51.6%) | 209 of 400 that moved |
-| 2-4 pts | 174-177 (49.6%) | 179-163 (52.3%) | 144 of 256 that moved |
-| 4-6 pts | 56-81 (40.9%) | 70-73 (49.0%) | 70 of 105 that moved |
-| 6+ pts | 42-48 (46.7%) | 36-46 (43.9%) | 48 of 69 that moved |
-| 2+ pts | 272-306 (47.1%) | 285-282 (50.3%) | 262 of 430 that moved |
-| 4+ pts | 98-129 (43.2%) | 106-119 (47.1%) | 118 of 174 that moved |
+| 0-2 pts | 295-250 (54.1%) | 285-269 (51.4%) | 215 of 407 that moved |
+| 2-4 pts | 177-179 (49.7%) | 180-167 (51.9%) | 148 of 260 that moved |
+| 4-6 pts | 58-81 (41.7%) | 75-73 (50.7%) | 74 of 110 that moved |
+| 6+ pts | 44-49 (47.3%) | 39-46 (45.9%) | 50 of 72 that moved |
+| 2+ pts | 279-309 (47.4%) | 294-286 (50.7%) | 272 of 442 that moved |
+| 4+ pts | 102-130 (44.0%) | 114-119 (48.9%) | 124 of 182 that moved |
 
 ## Totals
 
-Mean absolute error, 1114 games: model 13.59, DraftKings close 13.12, open 13.32
-Model minus close, average: -1.20
+Mean absolute error, 1135 games: model 13.57, DraftKings close 13.10, open 13.31
+Model minus close, average: -1.16
 
 | Disagreement | vs close | vs open | Line moved toward model |
 | --- | --- | --- | --- |
-| 0-2 pts | 191-199 (49.0%) | 201-209 (49.0%) | 165 of 347 that moved |
-| 2-4 pts | 169-139 (54.9%) | 152-172 (46.9%) | 142 of 284 that moved |
-| 4-6 pts | 111-98 (53.1%) | 101-87 (53.7%) | 89 of 161 that moved |
-| 6+ pts | 109-96 (53.2%) | 95-95 (50.0%) | 75 of 156 that moved |
-| 2+ pts | 389-333 (53.9%) | 348-354 (49.6%) | 306 of 601 that moved |
-| 4+ pts | 220-194 (53.1%) | 196-182 (51.9%) | 164 of 317 that moved |
+| 0-2 pts | 195-203 (49.0%) | 201-212 (48.7%) | 167 of 350 that moved |
+| 2-4 pts | 173-142 (54.9%) | 154-176 (46.7%) | 143 of 289 that moved |
+| 4-6 pts | 113-99 (53.3%) | 104-88 (54.2%) | 91 of 164 that moved |
+| 6+ pts | 109-99 (52.4%) | 98-100 (49.5%) | 80 of 163 that moved |
+| 2+ pts | 395-340 (53.7%) | 356-364 (49.4%) | 314 of 616 that moved |
+| 4+ pts | 222-198 (52.9%) | 202-188 (51.8%) | 171 of 327 that moved |
