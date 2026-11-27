@@ -8,7 +8,7 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-27 | Fri 5:00 PM | Texas | Saint Mary's (N) | -2.7 | -8.5 | -5.5 | +5.8 | yes |
+| 11-27 | Fri 5:00 PM | Texas | Saint Mary's (N) | -2.7 | -7.5 | -5.5 | +4.8 | yes |
 | 11-27 | Fri 2:00 PM | South Alabama | Fresno State (N) | +2.0 | -2.5 | -1.5 | +4.5 | yes |
 | 11-27 | Fri 8:00 PM | Pacific | UC Davis (N) | -3.8 | -7.5 | -4.5 | +3.7 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.0 | -8.5 | -8.5 | -3.5 | yes |
