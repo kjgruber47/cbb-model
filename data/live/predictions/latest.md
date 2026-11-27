@@ -15,11 +15,11 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-27 | Fri 3:00 PM | Texas State | Louisiana Tech | -7.6 | -3.5 | -7.5 | -4.1 | yes |
 | 11-27 | Fri 1:00 PM | Vermont | Merrimack (N) | -2.4 | +1.5 | -3.5 | -3.9 | yes |
 | 11-28 | Sat 6:00 PM | VMI | Richmond | +20.3 | +16.5 | +16.5 | +3.8 | yes |
+| 11-28 | Sat 3:30 PM | Merrimack | Hofstra | +7.2 | +3.5 | +5.5 | +3.7 | yes |
 | 11-28 | Sat 8:00 PM | California | Minnesota (N) | +5.9 | +9.5 | +9.5 | -3.6 | yes |
 | 11-28 | Sat 2:00 PM | Marist | George Mason | +15.9 | +19.5 | +19.5 | -3.6 | yes |
 | 11-28 | Sat 12:00 PM | Siena | Seton Hall | +21.0 | +17.5 | +17.5 | +3.5 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.0 | -8.5 | -8.5 | -3.5 | yes |
-| 11-27 | Fri 6:00 PM | Western Kentucky | Illinois | +30.0 | +26.5 | +27.5 | +3.5 | yes |
 | 11-28 | Sat 4:00 PM | San José State | Utah Valley | +8.6 | +5.5 | +7.5 | +3.1 | yes |
 | 11-28 | Sat 6:00 PM | Drake | North Dakota State (N) | -3.5 | -6.5 | -5.5 | +3.0 | yes |
 | 11-28 | Sat 7:00 PM | Utah Tech | Santa Clara | +16.6 | +19.5 | +19.5 | -2.9 | yes |
