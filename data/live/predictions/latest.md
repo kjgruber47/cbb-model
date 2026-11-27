@@ -16,10 +16,10 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-27 | Fri 12:00 PM | Liberty | St. Thomas (N) | +2.6 | -1.5 | +1.5 | +4.1 | yes |
 | 11-27 | Fri 4:30 PM | Cincinnati | Boston College (N) | -12.5 | -8.5 | -8.5 | -4.0 | yes |
 | 11-26 | Thu 11:00 AM | Georgia | Cincinnati (N) | +7.4 | +3.5 | +1.5 | +3.9 | yes |
-| 11-26 | Thu 10:30 PM | Pacific | Omaha (N) | -10.2 | -6.5 | -8.5 | -3.7 | yes |
 | 11-26 | Thu 8:00 PM | UC Davis | Jacksonville State (N) | -0.1 | +3.5 | -1.5 | -3.6 | yes |
 | 11-27 | Fri 2:30 PM | Georgetown | UCLA (N) | +12.0 | +8.5 | +9.5 | +3.5 | yes |
 | 11-27 | Fri 2:00 PM | South Alabama | Fresno State (N) | +2.0 | -1.5 | -1.5 | +3.5 | yes |
+| 11-27 | Fri 3:00 PM | Texas State | Louisiana Tech | -7.7 | -4.5 | -7.5 | -3.2 | yes |
 | 11-27 | Fri 5:00 PM | Texas | Saint Mary's (N) | -4.3 | -7.5 | -5.5 | +3.2 | yes |
 | 11-27 | Fri 5:00 PM | Marquette | Texas A&M (N) | -0.4 | +2.5 | +2.5 | -2.9 | yes |
 | 11-27 | Fri 2:00 PM | Maine | Le Moyne (N) | +1.4 | -1.5 | -1.5 | +2.9 | yes |
