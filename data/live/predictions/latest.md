@@ -8,8 +8,8 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-27 | Fri 9:00 PM | Tennessee | Louisville (N) | -2.2 | +4.5 | -1.5 | -6.7 | yes |
 | 11-28 | Sat 1:30 PM | Lehigh | Pepperdine (N) | +3.2 | +9.5 | +9.5 | -6.3 | yes |
+| 11-27 | Fri 9:00 PM | Tennessee | Louisville (N) | -2.2 | +3.5 | -1.5 | -5.7 | yes |
 | 11-27 | Fri 5:00 PM | Texas | Saint Mary's (N) | -2.7 | -7.5 | -5.5 | +4.8 | yes |
 | 11-28 | Sat 6:00 PM | VMI | Richmond | +20.3 | +15.5 | +16.5 | +4.8 | yes |
 | 11-28 | Sat 3:30 PM | Merrimack | Hofstra | +7.2 | +2.5 | +5.5 | +4.7 | yes |
