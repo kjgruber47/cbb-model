@@ -17,12 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-28 | Sat 6:00 PM | Drake | North Dakota State (N) | -2.4 | -5.5 | -5.5 | +3.1 | yes |
 | 11-28 | Sat 6:00 PM | South Alabama | South Dakota State (N) | +4.5 | +1.5 | +1.5 | +3.0 | yes |
 | 11-28 | Sat 2:00 PM | The Citadel | High Point | +23.6 | +26.5 | +29.5 | -2.9 | yes |
+| 11-28 | Sat 4:00 PM | San José State | Utah Valley | +8.4 | +5.5 | +7.5 | +2.9 | yes |
 | 11-28 | Sat 2:00 PM | Georgia Southern | UNC Asheville | +1.4 | -1.5 | +1.5 | +2.9 | yes |
 | 11-28 | Sat 7:00 PM | Portland State | Southern Illinois | +4.6 | +7.5 | +7.5 | -2.9 | yes |
 | 11-28 | Sat 1:00 PM | Hampton | Radford (N) | +4.3 | +1.5 | +1.5 | +2.8 | yes |
 | 11-28 | Sat 1:00 PM | Alcorn State | Georgia Tech | +24.7 | +27.5 | +25.5 | -2.8 | yes |
 | 11-28 | Sat 2:00 PM | Central Connecticut | Navy (N) | +1.3 | -1.5 | +1.5 | +2.8 | yes |
-| 11-28 | Sat 2:00 PM | North Florida | Columbia | +17.2 | +14.5 | +16.5 | +2.7 | yes |
 
 ## Top 25 by rating
 
