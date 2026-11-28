@@ -8,11 +8,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 11-27 | Fri 10:30 PM | Jacksonville State | Omaha (N) | -5.3 | +4.5 | +7.5 | -9.8 | yes |
 | 11-28 | Sat 1:30 PM | Lehigh | Pepperdine (N) | +3.2 | +9.5 | +9.5 | -6.3 | yes |
-| 11-28 | Sat 3:30 PM | Merrimack | Hofstra | +7.2 | +1.5 | +5.5 | +5.7 | yes |
 | 11-27 | Fri 9:00 PM | Tennessee | Louisville (N) | -2.2 | +3.5 | -1.5 | -5.7 | yes |
 | 11-27 | Fri 5:00 PM | Texas | Saint Mary's (N) | -2.7 | -7.5 | -5.5 | +4.8 | yes |
 | 11-28 | Sat 6:00 PM | VMI | Richmond | +20.3 | +15.5 | +16.5 | +4.8 | yes |
+| 11-28 | Sat 3:30 PM | Merrimack | Hofstra | +7.2 | +2.5 | +5.5 | +4.7 | yes |
 | 11-27 | Fri 1:30 PM | Memphis | Wake Forest (N) | -3.2 | +1.5 | +2.5 | -4.7 | yes |
 | 11-28 | Sat 7:00 PM | Bethune-Cookman | San Francisco | +4.9 | +9.5 | +9.5 | -4.6 | yes |
 | 11-27 | Fri 3:30 PM | Maryland | Oregon (N) | +1.0 | -3.5 | +2.5 | +4.5 | yes |
@@ -22,7 +23,6 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-27 | Fri 3:00 PM | Bellarmine | Butler | +15.4 | +19.5 | +19.5 | -4.1 | yes |
 | 11-27 | Fri 3:00 PM | Texas State | Louisiana Tech | -7.6 | -3.5 | -7.5 | -4.1 | yes |
 | 11-28 | Sat 2:00 PM | Central Connecticut | Navy (N) | +2.4 | -1.5 | +1.5 | +3.9 | yes |
-| 11-28 | Sat 2:00 PM | Marist | George Mason | +15.9 | +19.5 | +19.5 | -3.6 | yes |
 
 ## Top 25 by rating
 
