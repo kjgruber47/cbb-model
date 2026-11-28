@@ -14106,3 +14106,5 @@ run_utc,game_id,date,away,home,neutral,pred_margin,pred_total,market_margin,mark
 2026-11-28T07:34:23Z,401911202,2026-11-28,Fordham,Harvard,False,-1.80,136.79,-2.50,140.50,-2.50,141.50,DraftKings,2026-11-28T07:33:41Z
 2026-11-28T07:34:23Z,401920917,2026-11-28,Northern Illinois,Eastern Illinois,False,-8.62,145.77,-10.50,139.50,-10.50,143.50,DraftKings,2026-11-28T07:33:41Z
 2026-11-28T07:34:23Z,401912214,2026-11-28,UMass Lowell,American University,False,9.23,144.70,6.50,140.50,9.50,141.50,DraftKings,2026-11-28T07:33:41Z
+2026-11-28T08:04:23Z,401920849,2026-11-28,Princeton,St. Thomas,True,2.99,144.34,2.50,143.50,2.50,145.50,DraftKings,2026-11-28T08:03:41Z
+2026-11-28T08:04:23Z,401920436,2026-11-28,San José State,Utah Valley,False,8.56,159.52,6.50,154.50,7.50,155.50,DraftKings,2026-11-28T08:03:41Z
