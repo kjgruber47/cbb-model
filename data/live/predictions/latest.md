@@ -8,21 +8,21 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 
 | Date | Time (ET) | Away | Home | Model | Market | Open | Edge | Early |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 11-28 | Sat 1:30 PM | Lehigh | Pepperdine (N) | +3.2 | +9.5 | +9.5 | -6.3 | yes |
-| 11-28 | Sat 3:30 PM | Merrimack | Hofstra | +7.2 | +1.5 | +5.5 | +5.7 | yes |
+| 11-28 | Sat 1:30 PM | Lehigh | Pepperdine (N) | +3.2 | +10.5 | +9.5 | -7.3 | yes |
 | 11-28 | Sat 6:00 PM | VMI | Richmond | +20.3 | +15.5 | +16.5 | +4.8 | yes |
+| 11-28 | Sat 3:30 PM | Merrimack | Hofstra | +7.2 | +2.5 | +5.5 | +4.7 | yes |
 | 11-28 | Sat 2:00 PM | Marist | George Mason | +15.9 | +20.5 | +19.5 | -4.6 | yes |
 | 11-28 | Sat 7:00 PM | Bethune-Cookman | San Francisco | +4.9 | +9.5 | +9.5 | -4.6 | yes |
 | 11-28 | Sat 2:00 PM | Central Connecticut | Navy (N) | +2.4 | -1.5 | +1.5 | +3.9 | yes |
 | 11-28 | Sat 6:00 PM | Bucknell | Pennsylvania | +19.0 | +15.5 | +16.5 | +3.5 | yes |
 | 11-28 | Sat 12:00 PM | Siena | Seton Hall | +21.0 | +17.5 | +17.5 | +3.5 | yes |
 | 11-28 | Sat 1:00 PM | Vermont | Colgate (N) | -0.6 | +2.5 | +1.5 | -3.1 | yes |
+| 11-28 | Sat 4:00 PM | San José State | Utah Valley | +8.6 | +5.5 | +7.5 | +3.1 | yes |
 | 11-28 | Sat 2:00 PM | The Citadel | High Point | +23.5 | +26.5 | +29.5 | -3.0 | yes |
 | 11-28 | Sat 7:00 PM | Portland State | Southern Illinois | +4.6 | +7.5 | +7.5 | -2.9 | yes |
 | 11-28 | Sat 2:00 PM | Georgia Southern | UNC Asheville | +1.4 | -1.5 | +1.5 | +2.9 | yes |
 | 11-28 | Sat 4:00 PM | UMass Lowell | American University | +9.2 | +6.5 | +9.5 | +2.7 | yes |
 | 11-28 | Sat 1:00 PM | Alcorn State | Georgia Tech | +24.8 | +27.5 | +25.5 | -2.7 | yes |
-| 11-28 | Sat 2:00 PM | North Florida | Columbia | +17.2 | +14.5 | +16.5 | +2.7 | yes |
 
 ## Top 25 by rating
 
