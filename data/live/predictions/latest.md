@@ -17,12 +17,12 @@ Early-season numbers (either team under 8 games) lean on the preseason ratings (
 | 11-28 | Sat 7:00 PM | Bethune-Cookman | San Francisco | +4.9 | +9.5 | +9.5 | -4.6 | yes |
 | 11-27 | Fri 3:30 PM | Maryland | Oregon (N) | +1.0 | -3.5 | +2.5 | +4.5 | yes |
 | 11-27 | Fri 3:30 PM | Colgate | Hofstra | +5.8 | +1.5 | +5.5 | +4.3 | yes |
-| 11-27 | Fri 8:30 PM | Miami | Alabama (N) | -5.7 | -1.5 | -1.5 | -4.2 | yes |
 | 11-27 | Fri 3:00 PM | Bellarmine | Butler | +15.4 | +19.5 | +19.5 | -4.1 | yes |
 | 11-27 | Fri 3:00 PM | Texas State | Louisiana Tech | -7.6 | -3.5 | -7.5 | -4.1 | yes |
 | 11-28 | Sat 6:00 PM | VMI | Richmond | +20.3 | +16.5 | +16.5 | +3.8 | yes |
 | 11-28 | Sat 8:00 PM | California | Minnesota (N) | +5.9 | +9.5 | +9.5 | -3.6 | yes |
 | 11-28 | Sat 2:00 PM | Marist | George Mason | +15.9 | +19.5 | +19.5 | -3.6 | yes |
+| 11-27 | Fri 2:00 PM | Fresno State | South Alabama (N) | -2.0 | +1.5 | +1.5 | -3.5 | yes |
 
 ## Top 25 by rating
 
